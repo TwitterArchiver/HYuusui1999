@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1985296179358314999",
+    "created_at": "2025-11-03T10:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T11:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985296179358314999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1667865236559519745",
+          "start": 0,
+          "username": "Chenuden"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985296179358314999",
+    "in_reply_to_user_id": "1667865236559519745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Chenuden 账号已停用"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [Chenuden].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Chenuden",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Chenuden"
+    },
+    {
+      "detail": "Could not find user with in_reply_to_user_id: [1667865236559519745].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "1667865236559519745",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1667865236559519745"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1985296179358314999",
+        "created_at": "2025-11-03T10:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T11:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985296179358314999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1667865236559519745",
+              "start": 0,
+              "username": "Chenuden"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985296179358314999",
+        "in_reply_to_user_id": "1667865236559519745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Chenuden 账号已停用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。暂时退网（不定期） 偶尔看消息",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 2291,
+          "like_count": 38003,
+          "listed_count": 6,
+          "media_count": 292,
+          "tweet_count": 9208
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

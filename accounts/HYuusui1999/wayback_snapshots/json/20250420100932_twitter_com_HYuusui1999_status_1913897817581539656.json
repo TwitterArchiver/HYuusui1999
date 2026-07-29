@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1913837167706591505",
+    "created_at": "2025-04-20T10:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T11:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913897817581539656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1667381583165415425",
+          "start": 0,
+          "username": "Winter_whaet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913897817581539656",
+    "in_reply_to_user_id": "1667381583165415425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913897610361925926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Winter_whaet 建议衔着一个角就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1913837167706591505",
+        "created_at": "2025-04-20T10:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T11:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913897817581539656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1667381583165415425",
+              "start": 0,
+              "username": "Winter_whaet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913897817581539656",
+        "in_reply_to_user_id": "1667381583165415425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913897610361925926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Winter_whaet 建议衔着一个角就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667381583165415425",
+        "conversation_id": "1913837167706591505",
+        "created_at": "2025-04-20T10:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T11:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913897610361925926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913897610361925926",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913891276539175314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 确实是这样所以说这张拍的很烂。."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1912415808413647168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 753,
+          "like_count": 16182,
+          "listed_count": 5,
+          "media_count": 146,
+          "tweet_count": 3214
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T04:02:10.000Z",
+        "description": "NSFW注意⚠️！ 清水日常：@winter_yoki\n文案均属原创 漫画/表情包图片均属引用或转载！ 偶尔发擦边的照片？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "winter_yoki"
+              }
+            ]
+          }
+        },
+        "id": "1667381583165415425",
+        "name": "动脉boki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906281995258232832/DQLMazXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4675,
+          "following_count": 302,
+          "like_count": 247,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 177
+        },
+        "username": "Winter_whaet",
+        "verified": false
+      }
+    ]
+  }
+}

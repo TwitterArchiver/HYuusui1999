@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1880256178170785865",
+    "created_at": "2025-01-19T16:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T17:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881021226912776652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1272429014863343617",
+          "start": 0,
+          "username": "wulierrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881021226912776652",
+    "in_reply_to_user_id": "1272429014863343617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880256178170785865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wulierrr 劲啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1880256178170785865",
+        "created_at": "2025-01-19T16:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T17:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881021226912776652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1272429014863343617",
+              "start": 0,
+              "username": "wulierrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881021226912776652",
+        "in_reply_to_user_id": "1272429014863343617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880256178170785865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wulierrr 劲啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880256170520375299",
+            "3_1880256170520354816"
+          ]
+        },
+        "author_id": "1272429014863343617",
+        "conversation_id": "1880256178170785865",
+        "created_at": "2025-01-17T14:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T15:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880256178170785865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YpahDZMfw6",
+              "end": 26,
+              "expanded_url": "https://x.com/wulierrr/status/1880256178170785865/photo/1",
+              "media_key": "3_1880256170520375299",
+              "start": 3,
+              "url": "https://t.co/YpahDZMfw6"
+            },
+            {
+              "display_url": "pic.x.com/YpahDZMfw6",
+              "end": 26,
+              "expanded_url": "https://x.com/wulierrr/status/1880256178170785865/photo/1",
+              "media_key": "3_1880256170520354816",
+              "start": 3,
+              "url": "https://t.co/YpahDZMfw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880256178170785865",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5334,
+          "impression_count": 1396967,
+          "like_count": 68097,
+          "quote_count": 194,
+          "reply_count": 19,
+          "retweet_count": 7080
+        },
+        "reply_settings": "everyone",
+        "text": "⛸️ https://t.co/YpahDZMfw6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 174,
+          "like_count": 1327,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 191
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T07:21:51.000Z",
+        "description": "中国人🇨🇳，ENG/日本語勉強中，主Pokémon/oc/鬼滅，無断転载禁止。付费委托：https://t.co/ejXCq5ApAz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mihuashi.com/profiles/17779…",
+                "end": 67,
+                "expanded_url": "https://www.mihuashi.com/profiles/177793?role=painter&utm_source=direct&utm_campaign=userpage&utm_medium=share",
+                "start": 44,
+                "url": "https://t.co/ejXCq5ApAz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/58921171",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/58921171",
+                "start": 0,
+                "url": "https://t.co/WuQ68lDmM1"
+              }
+            ]
+          }
+        },
+        "id": "1272429014863343617",
+        "name": "Wulierrr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797284770294165505/EyLyfSfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83788,
+          "following_count": 391,
+          "like_count": 8142,
+          "listed_count": 597,
+          "media_count": 933,
+          "tweet_count": 2386
+        },
+        "url": "https://t.co/WuQ68lDmM1",
+        "username": "wulierrr",
+        "verified": false
+      }
+    ]
+  }
+}

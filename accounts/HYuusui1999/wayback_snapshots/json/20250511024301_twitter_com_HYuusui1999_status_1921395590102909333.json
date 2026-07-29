@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1921395590102909333",
+    "created_at": "2025-05-11T02:43:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T03:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921395590102909333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ryq59/status/1…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/ryq59/status/1921367902248181837",
+          "start": 22,
+          "url": "https://t.co/gUBfZ2ez6h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921395590102909333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921367902248181837",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个人永远幸福的话，全人类都能永远幸福了吧 https://t.co/gUBfZ2ez6h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_1921367892995575809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqoR6zjXkAETz0P.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1921395590102909333",
+        "created_at": "2025-05-11T02:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T03:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921395590102909333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ryq59/status/1…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/ryq59/status/1921367902248181837",
+              "start": 22,
+              "url": "https://t.co/gUBfZ2ez6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921395590102909333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921367902248181837",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个人永远幸福的话，全人类都能永远幸福了吧 https://t.co/gUBfZ2ez6h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921367892995575809"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "conversation_id": "1921367902248181837",
+        "created_at": "2025-05-11T00:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T01:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921367902248181837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GfTKD7Lgxp",
+              "end": 23,
+              "expanded_url": "https://x.com/ryq59/status/1921367902248181837/photo/1",
+              "media_key": "3_1921367892995575809",
+              "start": 0,
+              "url": "https://t.co/GfTKD7Lgxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921367902248181837",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 630,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GfTKD7Lgxp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921190347822006519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 901,
+          "like_count": 18052,
+          "listed_count": 6,
+          "media_count": 172,
+          "tweet_count": 3925
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "MTX 🏳️‍⚧️ / Honor of King tutor / former pubgm tutor / 由 @aoi_mti 管理",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 57,
+                "username": "aoi_mti"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "Tianjin, Hangzhou, Hong Kong ",
+        "name": "你是想气死铨酱么🍥（生命倒计时ing）",
+        "pinned_tweet_id": "1765934211918397447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920674697257381889/7MXMdhXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17392,
+          "following_count": 4947,
+          "like_count": 181095,
+          "listed_count": 70,
+          "media_count": 5286,
+          "tweet_count": 23340
+        },
+        "username": "ryq59",
+        "verified": true
+      }
+    ]
+  }
+}

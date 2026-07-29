@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2038174728960213150",
+    "created_at": "2026-03-29T08:41:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T09:41:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038174728960213150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1763577841588056064",
+          "start": 3,
+          "username": "yxrchina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038174728960213150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037759420311220471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yxrchina: 她要是知道她死后还被misgendering会怎么想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2038174728960213150",
+        "created_at": "2026-03-29T08:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038174728960213150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1763577841588056064",
+              "start": 3,
+              "username": "yxrchina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038174728960213150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037759420311220471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yxrchina: 她要是知道她死后还被misgendering会怎么想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763577841588056064",
+        "conversation_id": "2037759420311220471",
+        "created_at": "2026-03-28T05:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T06:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037759420311220471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2037749018647036199",
+              "start": 27,
+              "url": "https://t.co/IKWcPb99Tx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037759420311220471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037749018647036199",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她要是知道她死后还被misgendering会怎么想 https://t.co/IKWcPb99Tx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 3167,
+          "like_count": 44746,
+          "listed_count": 6,
+          "media_count": 368,
+          "tweet_count": 11462
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T14:52:04.000Z",
+        "description": "🏳️‍⚧️「重构时间线，再次重逢」\n| INFP / INFJ | MtF | oler转oder | 🎂08.15 | Vite | Cpp | HRT 25.08.11~25.11.30 | 已扭转 25.11.30~26.03.04 | 已炸柜 | 已断糖 | #keep4o |",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 141,
+                "start": 134,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "404yann.com",
+                "end": 23,
+                "expanded_url": "http://404yann.com",
+                "start": 0,
+                "url": "https://t.co/tx6gNy4Q6Z"
+              }
+            ]
+          }
+        },
+        "id": "1763577841588056064",
+        "location": "Hefei Anhui",
+        "name": "𝚂𝚢 𝚈𝚊𝚗𝚗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986480358486122496/VZfOMdaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 2407,
+          "like_count": 23413,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 6690
+        },
+        "url": "https://t.co/tx6gNy4Q6Z",
+        "username": "yxrchina",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1986763337687023717",
+    "created_at": "2025-11-07T11:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T12:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986764101964407233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1480902300432420865",
+          "start": 0,
+          "username": "Notyet_cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986764101964407233",
+    "in_reply_to_user_id": "1480902300432420865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986763337687023717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Notyet_cat 不是死掉就好\n能放一边的姑且放一边先吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1986763337687023717",
+        "created_at": "2025-11-07T11:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T12:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986764101964407233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1480902300432420865",
+              "start": 0,
+              "username": "Notyet_cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986764101964407233",
+        "in_reply_to_user_id": "1480902300432420865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986763337687023717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Notyet_cat 不是死掉就好\n能放一边的姑且放一边先吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1480902300432420865",
+        "conversation_id": "1986763337687023717",
+        "created_at": "2025-11-07T11:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T12:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986763337687023717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986763337687023717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近……太累了，不知道做错了什么，不知道，什么都不知道，我到底怎么了，我疯了，我不知道哪里错了，工作一团糟社交也是一团糟，已经感受不到世界上还有什么能让我感受到美好的事情了。真的像别人说的那样死掉就好了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。理想乡：@t_subas_a 暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 2360,
+          "like_count": 39142,
+          "listed_count": 6,
+          "media_count": 296,
+          "tweet_count": 9379
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-11T14:00:13.000Z",
+        "description": "mtf/无证含糖/双相情感障碍/生日1月30号/情绪相对稳定/求关注www\n可以叫我竹猫或者小依哦",
+        "id": "1480902300432420865",
+        "name": "梦韵竹猫🍥&竹猫小依🍥",
+        "pinned_tweet_id": "1985869250662449564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986010815921799169/RjANWW4b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 253,
+          "like_count": 2376,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 1673
+        },
+        "username": "Notyet_cat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1974104193805004831",
+    "created_at": "2025-10-03T13:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T14:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974104193805004831"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 17,
+          "tag": "请重点关注"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878681729407356928",
+          "start": 3,
+          "username": "HYuusui1999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974104193805004831",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974104084908290498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HYuusui1999: #请重点关注 芒果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1974104193805004831",
+        "created_at": "2025-10-03T13:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T14:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974104193805004831"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "请重点关注"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1878681729407356928",
+              "start": 3,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974104193805004831",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974104084908290498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HYuusui1999: #请重点关注 芒果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1974104084908290498",
+        "created_at": "2025-10-03T13:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T14:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974104084908290498"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "请重点关注"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HYuusui1999/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/HYuusui1999/status/1974103784881336508",
+              "start": 10,
+              "url": "https://t.co/ELJerwyfdM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974104084908290498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974103784881336508",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#请重点关注 芒果 https://t.co/ELJerwyfdM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 1997,
+          "like_count": 34258,
+          "listed_count": 6,
+          "media_count": 278,
+          "tweet_count": 8614
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

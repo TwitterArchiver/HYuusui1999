@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2026940302087356541",
+    "created_at": "2026-02-26T08:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T09:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026940302087356541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1321036918021189632",
+          "start": 3,
+          "username": "boomingrove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026940302087356541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026910280362688881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boomingrove: 被公司做局了，望周知，引以为戒。\n我2月1日提离职说要买票回家，2月4日再提离职并引用2月1日离职通知说明2月9日买了回家的票，4.5.6日三天按要求进行交接但没给我交接证明，2月8日请9～14日的假，2月9日请假被驳回，2月11日公司以我9、…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 962,
+        "media_key": "3_2026910273077211136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEIJ4JbcAA91TT.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2026910273475674112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEIJ5obgAAw00k.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2026940302087356541",
+        "created_at": "2026-02-26T08:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026940302087356541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1321036918021189632",
+              "start": 3,
+              "username": "boomingrove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026940302087356541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026910280362688881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boomingrove: 被公司做局了，望周知，引以为戒。\n我2月1日提离职说要买票回家，2月4日再提离职并引用2月1日离职通知说明2月9日买了回家的票，4.5.6日三天按要求进行交接但没给我交接证明，2月8日请9～14日的假，2月9日请假被驳回，2月11日公司以我9、…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026910273077211136",
+            "3_2026910273475674112"
+          ]
+        },
+        "author_id": "1321036918021189632",
+        "conversation_id": "2026910280362688881",
+        "created_at": "2026-02-26T06:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T07:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026910280362688881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9iHSm7MMME",
+              "end": 165,
+              "expanded_url": "https://x.com/boomingrove/status/2026910280362688881/photo/1",
+              "media_key": "3_2026910273077211136",
+              "start": 142,
+              "url": "https://t.co/9iHSm7MMME"
+            },
+            {
+              "display_url": "pic.x.com/9iHSm7MMME",
+              "end": 165,
+              "expanded_url": "https://x.com/boomingrove/status/2026910280362688881/photo/1",
+              "media_key": "3_2026910273475674112",
+              "start": 142,
+              "url": "https://t.co/9iHSm7MMME"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026910280362688881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "被公司做局了，望周知，引以为戒。\n我2月1日提离职说要买票回家，2月4日再提离职并引用2月1日离职通知说明2月9日买了回家的票，4.5.6日三天按要求进行交接但没给我交接证明，2月8日请9～14日的假，2月9日请假被驳回，2月11日公司以我9、10、11日旷工未到岗为由给我开辞退。 https://t.co/9iHSm7MMME"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 3126,
+          "like_count": 44612,
+          "listed_count": 6,
+          "media_count": 364,
+          "tweet_count": 11206
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-27T10:32:12.000Z",
+        "description": "上海老龄🏳️‍⚧️infj/p，喜欢一切温柔可爱，希望让每个人都开心（中度躁狂.重度抑郁.极度经济外貌身材焦虑♨神经性贪食☯吟游诗人:皎月遥知参宿四，嘤嘤咽咽念飞升",
+        "id": "1321036918021189632",
+        "location": "参宿四",
+        "name": "Boomingrove🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778714887524696064/6Ewdr1nR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 228,
+          "like_count": 1679,
+          "listed_count": 3,
+          "media_count": 205,
+          "tweet_count": 1068
+        },
+        "username": "boomingrove",
+        "verified": false
+      }
+    ]
+  }
+}

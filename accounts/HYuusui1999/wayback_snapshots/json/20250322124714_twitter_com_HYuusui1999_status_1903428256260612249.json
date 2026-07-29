@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1903428242863968256"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1903428256260612249",
+    "created_at": "2025-03-22T12:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T13:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903428256260612249"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ns14Vn9U2W",
+          "end": 38,
+          "expanded_url": "https://x.com/HYuusui1999/status/1903428256260612249/photo/1",
+          "media_key": "3_1903428242863968256",
+          "start": 15,
+          "url": "https://t.co/ns14Vn9U2W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903428256260612249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做了色色的事之后就结局了…… https://t.co/ns14Vn9U2W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1903428242863968256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmpV5u9aUAAnfMj.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903428242863968256"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1903428256260612249",
+        "created_at": "2025-03-22T12:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T13:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903428256260612249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ns14Vn9U2W",
+              "end": 38,
+              "expanded_url": "https://x.com/HYuusui1999/status/1903428256260612249/photo/1",
+              "media_key": "3_1903428242863968256",
+              "start": 15,
+              "url": "https://t.co/ns14Vn9U2W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903428256260612249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做了色色的事之后就结局了…… https://t.co/ns14Vn9U2W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1903418336572305499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 516,
+          "like_count": 11608,
+          "listed_count": 6,
+          "media_count": 101,
+          "tweet_count": 1709
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

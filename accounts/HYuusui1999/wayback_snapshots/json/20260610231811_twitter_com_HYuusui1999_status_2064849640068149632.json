@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2064338574385074192",
+    "created_at": "2026-06-10T23:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T00:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064849640068149632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1894622523033358336",
+          "start": 0,
+          "username": "QXY_WARD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064849640068149632",
+    "in_reply_to_user_id": "1894622523033358336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064338574385074192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QXY_WARD 您校徽露出来了，要不把视频删一下吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 132168,
+        "height": 1280,
+        "media_key": "7_2064338485977464834",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2064338485977464834/pu/img/h0uC-ybQIUMh6ryx.jpg",
+        "public_metrics": {
+          "view_count": 37710
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064338485977464834/pu/vid/avc1/320x568/ONvPWR9Oy4sZDkEH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064338485977464834/pu/vid/avc1/480x852/H-dajCjXIyPUvxis.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2064338485977464834/pu/vid/avc1/720x1280/Iz83zpyaaiFk4cPf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2064338485977464834/pu/pl/UWBOPYHNdGdP1T4R.m3u8?tag=12&v=f9a"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2064338574385074192",
+        "created_at": "2026-06-10T23:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T00:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064849640068149632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894622523033358336",
+              "start": 0,
+              "username": "QXY_WARD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064849640068149632",
+        "in_reply_to_user_id": "1894622523033358336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064338574385074192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QXY_WARD 您校徽露出来了，要不把视频删一下吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2064338485977464834"
+          ]
+        },
+        "author_id": "1894622523033358336",
+        "conversation_id": "2064338574385074192",
+        "created_at": "2026-06-09T13:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064338574385074192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yOAOhcuhp7",
+              "end": 143,
+              "expanded_url": "https://x.com/QXY_WARD/status/2064338574385074192/video/1",
+              "media_key": "7_2064338485977464834",
+              "start": 120,
+              "url": "https://t.co/yOAOhcuhp7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064338574385074192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 106923,
+          "like_count": 355,
+          "quote_count": 2,
+          "reply_count": 62,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "这是一期退网视频\n我决定不在这个平台了 因为跨性别的相关舆论让我难以接受 压力很大\n其次是顺男一见到我就把我拉黑 总是把我误拉黑\n还有也没有人赞我 我的时间线推流差劲 一会又是顺男又是跨性别赞\n所以我决定退网\n再见了大家 谢谢你们的支持🥺 https://t.co/yOAOhcuhp7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 3,
+          "like_count": 17,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 11878
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T05:36:40.000Z",
+        "description": "退网了 谢谢大家的支持翻车顺男 2025.8-2025.12(含糖but cease HRT)/友跨🏳️‍⚧️/femboy/翻唱歌手/喜欢的歌手是G.E.M.邓紫棋/WARD UNLIMITED 已退网 联系请移步快手 快手号：QXY_WARD",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.kuaishou.com/2wC1DAB",
+                "end": 23,
+                "expanded_url": "https://v.kuaishou.com/2wC1DAB",
+                "start": 0,
+                "url": "https://t.co/JUQFpsYUQr"
+              }
+            ]
+          }
+        },
+        "id": "1894622523033358336",
+        "location": "Hong Kong",
+        "name": "是小怡呀",
+        "pinned_tweet_id": "2064338574385074192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031964019851231233/c9QZySdD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 1710,
+          "like_count": 5207,
+          "listed_count": 3,
+          "media_count": 473,
+          "tweet_count": 2043
+        },
+        "url": "https://t.co/JUQFpsYUQr",
+        "username": "QXY_WARD",
+        "verified": false
+      }
+    ]
+  }
+}

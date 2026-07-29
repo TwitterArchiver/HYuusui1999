@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984299494578798592"
+      ],
+      "media_source_tweet_id": [
+        "1984299509556658658"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1984617628082618525",
+    "created_at": "2025-11-01T13:44:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T14:44:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984617628082618525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1766452473840173056",
+          "start": 3,
+          "username": "mikotossd0106"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cZ29sp22JO",
+          "end": 56,
+          "expanded_url": "https://x.com/mikotossd0106/status/1984299509556658658/photo/1",
+          "media_key": "3_1984299494578798592",
+          "start": 33,
+          "url": "https://t.co/cZ29sp22JO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984617628082618525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984299509556658658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikotossd0106: 「再见了，所有的福音战士」 https://t.co/cZ29sp22JO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_1984299494578798592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ml4IZbQAAKAAZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984299494578798592"
+          ],
+          "media_source_tweet_id": [
+            "1984299509556658658"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984617628082618525",
+        "created_at": "2025-11-01T13:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T14:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984617628082618525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1766452473840173056",
+              "start": 3,
+              "username": "mikotossd0106"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cZ29sp22JO",
+              "end": 56,
+              "expanded_url": "https://x.com/mikotossd0106/status/1984299509556658658/photo/1",
+              "media_key": "3_1984299494578798592",
+              "start": 33,
+              "url": "https://t.co/cZ29sp22JO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984617628082618525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984299509556658658",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikotossd0106: 「再见了，所有的福音战士」 https://t.co/cZ29sp22JO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984299494578798592"
+          ]
+        },
+        "author_id": "1766452473840173056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1984299509556658658",
+        "created_at": "2025-10-31T16:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984299509556658658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cZ29sp22JO",
+              "end": 37,
+              "expanded_url": "https://x.com/mikotossd0106/status/1984299509556658658/photo/1",
+              "media_key": "3_1984299494578798592",
+              "start": 14,
+              "url": "https://t.co/cZ29sp22JO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984299509556658658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 126,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "「再见了，所有的福音战士」 https://t.co/cZ29sp22JO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n\n暂时退网（不定期）\n偶尔看消息",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 2253,
+          "like_count": 36918,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 9080
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T13:14:37.000Z",
+        "description": "B-503 雪风",
+        "id": "1766452473840173056",
+        "location": "成都",
+        "name": "YuKikAzE",
+        "pinned_tweet_id": "1950593800772182240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949508283506786304/ipIcd8Jv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 1357,
+          "like_count": 67787,
+          "listed_count": 6,
+          "media_count": 724,
+          "tweet_count": 3507
+        },
+        "username": "mikotossd0106",
+        "verified": false
+      }
+    ]
+  }
+}

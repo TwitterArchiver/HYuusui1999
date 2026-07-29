@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1950225685865529415",
+    "created_at": "2025-07-30T04:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T05:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950414945809485920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1767872704621772800",
+          "start": 0,
+          "username": "QiuDAOyu0730"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950414945809485920",
+    "in_reply_to_user_id": "1767872704621772800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950225685865529415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuDAOyu0730 恭喜——"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1230,
+        "media_key": "3_1950225671277731840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxCX6lBbYAAXr_A.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1950225685865529415",
+        "created_at": "2025-07-30T04:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T05:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950414945809485920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767872704621772800",
+              "start": 0,
+              "username": "QiuDAOyu0730"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950414945809485920",
+        "in_reply_to_user_id": "1767872704621772800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950225685865529415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuDAOyu0730 恭喜——"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950225671277731840"
+          ]
+        },
+        "author_id": "1767872704621772800",
+        "conversation_id": "1950225685865529415",
+        "created_at": "2025-07-29T16:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T17:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950225685865529415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jm09tCWFUb",
+              "end": 34,
+              "expanded_url": "https://x.com/QiuDAOyu0730/status/1950225685865529415/photo/1",
+              "media_key": "3_1950225671277731840",
+              "start": 11,
+              "url": "https://t.co/Jm09tCWFUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950225685865529415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15207,
+          "like_count": 272,
+          "quote_count": 0,
+          "reply_count": 127,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱你 亲爱的我自己🎂 https://t.co/Jm09tCWFUb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 1415,
+          "like_count": 26393,
+          "listed_count": 5,
+          "media_count": 233,
+          "tweet_count": 6591
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T11:18:02.000Z",
+        "description": "另一个我@Qzero0730",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "Qzero0730"
+              }
+            ]
+          }
+        },
+        "id": "1767872704621772800",
+        "name": "魚",
+        "pinned_tweet_id": "1950225685865529415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948515103701434368/IdSVK4hx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 194,
+          "like_count": 10830,
+          "listed_count": 5,
+          "media_count": 7,
+          "tweet_count": 4864
+        },
+        "username": "QiuDAOyu0730",
+        "verified": false
+      }
+    ]
+  }
+}

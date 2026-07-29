@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1939040568950301039",
+    "created_at": "2025-06-28T19:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T20:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939040568950301039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1744316513291747328",
+          "start": 3,
+          "username": "shuifenziya"
+        },
+        {
+          "end": 28,
+          "id": "4766798780",
+          "start": 17,
+          "username": "sorashi_90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939040568950301039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939031448029405285",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuifenziya: @sorashi_90 不知道，但会有我🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1939040568950301039",
+        "created_at": "2025-06-28T19:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T20:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939040568950301039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1744316513291747328",
+              "start": 3,
+              "username": "shuifenziya"
+            },
+            {
+              "end": 28,
+              "id": "4766798780",
+              "start": 17,
+              "username": "sorashi_90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939040568950301039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939031448029405285",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuifenziya: @sorashi_90 不知道，但会有我🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744316513291747328",
+        "conversation_id": "1938954819995345306",
+        "created_at": "2025-06-28T18:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T19:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939031448029405285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4766798780",
+              "start": 0,
+              "username": "sorashi_90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939031448029405285",
+        "in_reply_to_user_id": "4766798780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938954819995345306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sorashi_90 不知道，但会有我🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yvjue0189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yvjue0189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 1231,
+          "like_count": 23128,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 5534
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:14:12.000Z",
+        "description": "我...我....是水分子呀/08年17岁/休学中ing.../无证🍥hrt6个月/💥已炸柜/167cm53kg/坐标广东清远/负能/🚪35/不接线下/是条杂鱼🐟~~/SAD/互fo/喜欢六花和六花/不鉴证/小鸟游六花单推/",
+        "id": "1744316513291747328",
+        "location": "我在二次元",
+        "name": "水分子🍥（饿死版）",
+        "pinned_tweet_id": "1931598977729786328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934294610022678528/3f0NJBAR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 697,
+          "like_count": 20943,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 1439
+        },
+        "username": "shuifenziya",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-16T05:38:19.000Z",
+        "description": "无证🏳️‍⚧️🇭🇰  |  HRT 2024.08.02  |（1989.12）||  \n25年以前的转推不用看，那是过去自己 奇怪的口味，正在删除中。。。",
+        "id": "4766798780",
+        "location": "不在地球🌏",
+        "name": "汐凜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919619241713795072/uIxTHlp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 1144,
+          "like_count": 2518,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 698
+        },
+        "username": "sorashi_90",
+        "verified": false
+      }
+    ]
+  }
+}

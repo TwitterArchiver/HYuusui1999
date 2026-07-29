@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1880295062699143519",
+    "created_at": "2025-01-23T03:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T04:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882273769877856356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "55492844",
+          "start": 0,
+          "username": "YSD0118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882273769877856356",
+    "in_reply_to_user_id": "55492844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880295062699143519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YSD0118 这条百科完全避开了重点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1880295062699143519",
+        "created_at": "2025-01-23T03:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T04:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882273769877856356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "55492844",
+              "start": 0,
+              "username": "YSD0118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882273769877856356",
+        "in_reply_to_user_id": "55492844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880295062699143519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YSD0118 这条百科完全避开了重点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880295008739434497"
+          ]
+        },
+        "author_id": "55492844",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1880295062699143519",
+        "created_at": "2025-01-17T16:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T17:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880295062699143519"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "百度百科",
+              "probability": 0.6036,
+              "start": 3,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "baike.baidu.com/item/1989%E5%B…",
+              "end": 54,
+              "expanded_url": "https://baike.baidu.com/item/1989%E5%B9%B4%E6%98%A5%E5%A4%8F%E4%B9%8B%E4%BA%A4%E7%9A%84%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%B3%A2%EF%BC%881989%E5%B9%B44%E6%9C%88%E2%80%946%E6%9C%88%EF%BC%89/56667564",
+              "start": 31,
+              "unwound_url": "https://baike.baidu.com/error.html?status=404&uri=/item/1989%E5%B9%B4%E6%98%A5%E5%A4%8F%E4%B9%8B%E4%BA%A4%E7%9A%84%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%B3%A2%EF%BC%881989%E5%B9%B44%E6%9C%88%E2%80%946%E6%9C%88%EF%BC%89/56667564",
+              "url": "https://t.co/DUM5YlMuac"
+            },
+            {
+              "display_url": "pic.x.com/x6z4dVHAny",
+              "end": 78,
+              "expanded_url": "https://x.com/YSD0118/status/1880295062699143519/photo/1",
+              "media_key": "3_1880295008739434497",
+              "start": 55,
+              "url": "https://t.co/x6z4dVHAny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880295062699143519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5911,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "実は『百度百科』にも六四天安門事件についての項目が存在する\n\nhttps://t.co/DUM5YlMuac https://t.co/x6z4dVHAny"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 213,
+          "like_count": 2274,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 289
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-10T06:40:29.000Z",
+        "description": "紀実作家。立命館大学人文科学研究所客員協力研究員。朝日新聞論壇委員（23'~24'）『八九六四 「天安門事件」は再び起きるか』が第5回城山賞・第50回大宅賞。ほか『現代中国の秘密結社』『「低度」外国人材』『中国ぎらいのための中国史』など著書多数 近著2/7刊『民族がわかれば中国がわかる』 別垢 @YSD0118max",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 148,
+                "username": "YSD0118max"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ysd0118",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ysd0118",
+                "start": 0,
+                "url": "https://t.co/E8t6bqtVTV"
+              }
+            ]
+          }
+        },
+        "id": "55492844",
+        "location": "日本 東京",
+        "name": "安田峰俊 2/7刊『民族がわかれば中国がわかる』中公ラクレ",
+        "pinned_tweet_id": "1882210056827195844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1574255822070157312/Sv8BHHqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46068,
+          "following_count": 1127,
+          "like_count": 29493,
+          "listed_count": 1339,
+          "media_count": 6810,
+          "tweet_count": 75932
+        },
+        "url": "https://t.co/E8t6bqtVTV",
+        "username": "YSD0118",
+        "verified": true
+      }
+    ]
+  }
+}

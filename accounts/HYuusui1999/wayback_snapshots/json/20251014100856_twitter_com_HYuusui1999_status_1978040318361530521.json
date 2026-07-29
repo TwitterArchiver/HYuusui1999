@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "1978040318361530521",
+    "created_at": "2025-10-14T10:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T11:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978040318361530521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1617523246144053251",
+          "start": 3,
+          "username": "s1nyvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978040318361530521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977713214944063907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @s1nyvu: 孩子小时候拼死拼命弄了一堆奖状，家长还美其名曰好好谦虚不要炫耀，从来不贴出去也从来不晒朋友圈，逢人问到自己孩子成绩就只说一般凑合。非跟我说要考上大学了再一次性炫耀个够，现在好了啥也不用炫耀了，过去17年的都是虚无，一堆曾经有价值的废纸现在变成了招笑的回忆…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1978040318361530521",
+        "created_at": "2025-10-14T10:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T11:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978040318361530521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1617523246144053251",
+              "start": 3,
+              "username": "s1nyvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978040318361530521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977713214944063907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @s1nyvu: 孩子小时候拼死拼命弄了一堆奖状，家长还美其名曰好好谦虚不要炫耀，从来不贴出去也从来不晒朋友圈，逢人问到自己孩子成绩就只说一般凑合。非跟我说要考上大学了再一次性炫耀个够，现在好了啥也不用炫耀了，过去17年的都是虚无，一堆曾经有价值的废纸现在变成了招笑的回忆…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617523246144053251",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1977713214944063907",
+        "created_at": "2025-10-13T12:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T13:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977713214944063907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hhjnjkoguyunmo…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/hhjnjkoguyunmo/status/1977707254229897247",
+              "start": 137,
+              "url": "https://t.co/k0TFrF4dmT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977713214944063907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 409,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977707254229897247",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子小时候拼死拼命弄了一堆奖状，家长还美其名曰好好谦虚不要炫耀，从来不贴出去也从来不晒朋友圈，逢人问到自己孩子成绩就只说一般凑合。非跟我说要考上大学了再一次性炫耀个够，现在好了啥也不用炫耀了，过去17年的都是虚无，一堆曾经有价值的废纸现在变成了招笑的回忆录，又有谁会知晓？ https://t.co/k0TFrF4dmT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 2095,
+          "like_count": 35503,
+          "listed_count": 6,
+          "media_count": 284,
+          "tweet_count": 8775
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T14:02:59.000Z",
+        "description": "跨➗一枚|07|自高三辍学离家出走无业穷困一年余|enfj|文艺氰年，除了写文写歌词啥也不会|饥寒交迫求投喂喵|khn健全b乐子人勿扰",
+        "id": "1617523246144053251",
+        "location": "去时花满枝垂地，归来雨满襟",
+        "name": "❄️雪梦歆屿",
+        "pinned_tweet_id": "1960624262114660464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975919625616678912/JQfFoYMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 52,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 1470
+        },
+        "username": "s1nyvu",
+        "verified": false
+      }
+    ]
+  }
+}

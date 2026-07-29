@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004539008328642561"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2004539057234157825",
+    "created_at": "2025-12-26T13:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T14:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004539057234157825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912003169842040832",
+          "start": 0,
+          "username": "maika111nobu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p7GW6sDcvv",
+          "end": 54,
+          "expanded_url": "https://x.com/HYuusui1999/status/2004539057234157825/photo/1",
+          "media_key": "3_2004539008328642561",
+          "start": 31,
+          "url": "https://t.co/p7GW6sDcvv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004539057234157825",
+    "in_reply_to_user_id": "1912003169842040832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@maika111nobu 脳電波 NodenPa帳號已停用 https://t.co/p7GW6sDcvv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004539057234157825].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004539057234157825",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004539057234157825"
+    },
+    {
+      "detail": "Could not find user with entities.mentions.username: [maika111nobu].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "maika111nobu",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "maika111nobu"
+    },
+    {
+      "detail": "Could not find user with in_reply_to_user_id: [1912003169842040832].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "1912003169842040832",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1912003169842040832"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1122,
+        "media_key": "3_2004539008328642561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9GNm4nXsAEEAzz.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 2850,
+          "like_count": 43717,
+          "listed_count": 6,
+          "media_count": 327,
+          "tweet_count": 10678
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

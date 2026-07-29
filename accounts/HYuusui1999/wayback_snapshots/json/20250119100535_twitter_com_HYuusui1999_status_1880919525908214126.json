@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1880918494189150250",
+    "created_at": "2025-01-19T10:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T11:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880919525908214126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1867596733884379136",
+          "start": 0,
+          "username": "VmikufansV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880919525908214126",
+    "in_reply_to_user_id": "1867596733884379136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880918494189150250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VmikufansV 理你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1880918494189150250",
+        "created_at": "2025-01-19T10:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T11:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880919525908214126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1867596733884379136",
+              "start": 0,
+              "username": "VmikufansV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880919525908214126",
+        "in_reply_to_user_id": "1867596733884379136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880918494189150250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VmikufansV 理你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867596733884379136",
+        "conversation_id": "1880918494189150250",
+        "created_at": "2025-01-19T10:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T11:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880918494189150250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880918494189150250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "碎碎念：我自己分析一下…知道你学习很好但没想到这么好，觉得配不上你；第二点因为你没回答说爱我……这是什么理由？就因为这些事你就开始焦虑吗？共价键你想干什么啊没人理你就开始内耗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 151,
+          "like_count": 1221,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 175
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T15:46:06.000Z",
+        "description": "100‰互fo/死亡倒计時/永遠18岁/妳我她/\n赛博转生@gngjijin592881/危机干预计划請联系/精神科合理用藥 請珍爱生命\n🍥09/02/2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "gngjijin592881"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "touhou.cc",
+                "end": 23,
+                "expanded_url": "https://touhou.cc/",
+                "start": 0,
+                "url": "https://t.co/lklaoaJVPy"
+              }
+            ]
+          }
+        },
+        "id": "1867596733884379136",
+        "location": "若叶2丁目2-12",
+        "name": "共价键（互",
+        "pinned_tweet_id": "1867600061368254576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867597015129178112/AjHYA7j9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 157,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 757
+        },
+        "url": "https://t.co/lklaoaJVPy",
+        "username": "VmikufansV",
+        "verified": false
+      }
+    ]
+  }
+}

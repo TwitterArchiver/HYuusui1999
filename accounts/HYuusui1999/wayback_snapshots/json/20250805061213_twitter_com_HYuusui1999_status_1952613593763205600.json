@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1952612568323027106",
+    "created_at": "2025-08-05T06:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T07:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952613593763205600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1532663208393117696",
+          "start": 0,
+          "username": "Ziverk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952613593763205600",
+    "in_reply_to_user_id": "1532663208393117696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952613164287463573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ziverk2 辛苦啦，谢谢您（拍拍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1952612568323027106",
+        "created_at": "2025-08-05T06:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T07:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952613593763205600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1532663208393117696",
+              "start": 0,
+              "username": "Ziverk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952613593763205600",
+        "in_reply_to_user_id": "1532663208393117696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952613164287463573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ziverk2 辛苦啦，谢谢您（拍拍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532663208393117696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "1952612568323027106",
+        "created_at": "2025-08-05T06:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T07:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952613164287463573"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952613164287463573",
+        "in_reply_to_user_id": "1532663208393117696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952612568323027106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没怎么做性能优化，图片什么的资源过后再做加载处理喵～live2d一旦遇到些旧点的版本就可能卡加载ww；\n使用的Oh-My-Live2D似乎并不支持移动端的模型加载，桌面端显示正常；不过自定义tips似乎并没起效果可能是兼容和版本问题，这个Eina没办法修(ᐡっ ̫ •̥⸝⸝ᐡ)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 1513,
+          "like_count": 28160,
+          "listed_count": 5,
+          "media_count": 240,
+          "tweet_count": 7013
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T09:59:29.000Z",
+        "description": "一只没有成年的成年猫猫w\n|2008-2025（即将）\n|像MTF的MTX🏳️‍⚧️🍥 SINCE 2024.11\n| 极度社恐\n| 偶尔血图\n|小群 1020709329\n| Office @mtitstudio\n| 锁推负面⚠ @TakeNitrite\n| ♥️ @lm9325435076267",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "mtitstudio"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "TakeNitrite"
+              },
+              {
+                "end": 150,
+                "start": 134,
+                "username": "lm9325435076267"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eina-2nd.github.io",
+                "end": 23,
+                "expanded_url": "https://eina-2nd.github.io/",
+                "start": 0,
+                "url": "https://t.co/CY9WeMigBd"
+              }
+            ]
+          }
+        },
+        "id": "1532663208393117696",
+        "name": "Einaちゃん🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1938949826747736408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909919331443695616/ZASQNok0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2655,
+          "following_count": 5170,
+          "like_count": 153155,
+          "listed_count": 11,
+          "media_count": 153,
+          "tweet_count": 12924
+        },
+        "url": "https://t.co/CY9WeMigBd",
+        "username": "Ziverk2",
+        "verified": false
+      }
+    ]
+  }
+}

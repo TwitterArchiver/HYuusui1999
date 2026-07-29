@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1907958073488191799",
+    "created_at": "2025-04-04T01:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T02:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907966389748642026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1830761760334454787",
+          "start": 0,
+          "username": "ci2008_tyxjzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907966389748642026",
+    "in_reply_to_user_id": "1830761760334454787",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907958073488191799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ci2008_tyxjzl 并非"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1907958073488191799",
+        "created_at": "2025-04-04T01:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T02:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907966389748642026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1830761760334454787",
+              "start": 0,
+              "username": "ci2008_tyxjzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907966389748642026",
+        "in_reply_to_user_id": "1830761760334454787",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907958073488191799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ci2008_tyxjzl 并非"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830761760334454787",
+        "conversation_id": "1907958073488191799",
+        "created_at": "2025-04-04T00:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T01:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907958073488191799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907958073488191799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是傻逼我是死郭楠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1905989245266972950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 631,
+          "like_count": 13603,
+          "listed_count": 6,
+          "media_count": 119,
+          "tweet_count": 2243
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T00:16:43.000Z",
+        "description": "我叫了你的名字，你却问我那是谁 | ISFJ | 双相的憋屈高一生😵/物化政 | hrt 24.07.20 | 场上司职右后卫RB | 蹭小香风的骑手 | 乐手 | 我一定要上华东师大！！！！| 阿森纳有哈弗茨我折寿200年",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/TCqLxW3",
+                "end": 23,
+                "expanded_url": "https://b23.tv/TCqLxW3",
+                "start": 0,
+                "url": "https://t.co/gSBTk1pqA1"
+              }
+            ]
+          }
+        },
+        "id": "1830761760334454787",
+        "location": "成都市",
+        "name": "阿瓷ci🍥🇺🇦（ver.开学）",
+        "pinned_tweet_id": "1842015187672654138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884825735418019840/s_CAtvGF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 99,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 280
+        },
+        "url": "https://t.co/gSBTk1pqA1",
+        "username": "ci2008_tyxjzl",
+        "verified": false
+      }
+    ]
+  }
+}

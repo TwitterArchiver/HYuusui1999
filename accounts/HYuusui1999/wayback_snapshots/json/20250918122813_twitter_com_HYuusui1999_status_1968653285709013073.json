@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1945416937082696121",
+    "created_at": "2025-09-18T12:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T13:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968653285709013073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753348784573001728",
+          "start": 0,
+          "username": "Cheshire_kwine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/HYuusui1999/st…",
+          "end": 39,
+          "expanded_url": "https://x.com/HYuusui1999/status/1968652382943768969",
+          "start": 16,
+          "url": "https://t.co/t6CftLpjVG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968653285709013073",
+    "in_reply_to_user_id": "1753348784573001728",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968652382943768969",
+        "type": "quoted"
+      },
+      {
+        "id": "1945416937082696121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheshire_kwine https://t.co/t6CftLpjVG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 790,
+        "media_key": "3_1968652279050809345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1IO0UMWMAEbA3a.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1441,
+        "media_key": "3_1945416934276685824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv-CZPuXYAApBnA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1945416937082696121",
+        "created_at": "2025-09-18T12:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T13:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968653285709013073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753348784573001728",
+              "start": 0,
+              "username": "Cheshire_kwine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HYuusui1999/st…",
+              "end": 39,
+              "expanded_url": "https://x.com/HYuusui1999/status/1968652382943768969",
+              "start": 16,
+              "url": "https://t.co/t6CftLpjVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968653285709013073",
+        "in_reply_to_user_id": "1753348784573001728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968652382943768969",
+            "type": "quoted"
+          },
+          {
+            "id": "1945416937082696121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheshire_kwine https://t.co/t6CftLpjVG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968652279050809345"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1968652382943768969",
+        "created_at": "2025-09-18T12:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T13:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968652382943768969"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "请重点关注"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1585145286598483968",
+              "start": 20,
+              "username": "lianyiganyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSBCcugBqg",
+              "end": 56,
+              "expanded_url": "https://x.com/HYuusui1999/status/1968652382943768969/photo/1",
+              "media_key": "3_1968652279050809345",
+              "start": 33,
+              "url": "https://t.co/pSBCcugBqg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968652382943768969",
+        "lang": "ht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#请重点关注 hajimi198964 @lianyiganyu https://t.co/pSBCcugBqg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945416934276685824"
+          ]
+        },
+        "author_id": "1753348784573001728",
+        "conversation_id": "1945416937082696121",
+        "created_at": "2025-07-16T09:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T10:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945416937082696121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MfJd4uCN72",
+              "end": 67,
+              "expanded_url": "https://x.com/Cheshire_kwine/status/1945416937082696121/photo/1",
+              "media_key": "3_1945416934276685824",
+              "start": 44,
+              "url": "https://t.co/MfJd4uCN72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945416937082696121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5167,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你愿意关注我吗？我将动用一切的人脉和资源让你喝最香的胡辣汤，偷最贵的井盖🀄🕳️🀄🕳️🀄 https://t.co/MfJd4uCN72"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 1658,
+          "like_count": 30374,
+          "listed_count": 6,
+          "media_count": 262,
+          "tweet_count": 7839
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:25:33.000Z",
+        "description": "随机掉落抽象系列；接占卜接算命，代接心理疏导/咨询，有意者私🙇🏻‍♂️🙇🏻‍♀️",
+        "id": "1753348784573001728",
+        "name": "大猫猫归来，看便利店魔爪土崩瓦解，冰峰时代已然到来，陕西视觉系崛起",
+        "pinned_tweet_id": "1945416937082696121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932085518961176577/thMyIA3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3560,
+          "following_count": 1248,
+          "like_count": 77258,
+          "listed_count": 11,
+          "media_count": 2180,
+          "tweet_count": 14176
+        },
+        "username": "Cheshire_kwine",
+        "verified": false
+      }
+    ]
+  }
+}

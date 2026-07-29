@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1988095207469183281",
+    "created_at": "2025-11-11T04:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T05:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988096452745461949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746050438666002432",
+          "start": 0,
+          "username": "mitsuki072527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988096452745461949",
+    "in_reply_to_user_id": "1746050438666002432",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988095207469183281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mitsuki072527 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1988095207469183281",
+        "created_at": "2025-11-11T04:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T05:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988096452745461949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746050438666002432",
+              "start": 0,
+              "username": "mitsuki072527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988096452745461949",
+        "in_reply_to_user_id": "1746050438666002432",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988095207469183281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mitsuki072527 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746050438666002432",
+        "conversation_id": "1988095207469183281",
+        "created_at": "2025-11-11T04:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T05:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988095207469183281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988095207469183281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还是觉得自杀舒服点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 2369,
+          "like_count": 39280,
+          "listed_count": 6,
+          "media_count": 296,
+          "tweet_count": 9445
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T06:04:14.000Z",
+        "description": "病み垢 shtwt｜第二人格@ritsu1128227 ｜https://t.co/y1n2cS5Voz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "ritsu1128227"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tsumugi0227",
+                "end": 52,
+                "expanded_url": "https://ngl.link/tsumugi0227",
+                "start": 29,
+                "url": "https://t.co/y1n2cS5Voz"
+              }
+            ]
+          }
+        },
+        "id": "1746050438666002432",
+        "location": "天国",
+        "name": "死ぬまで",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986461530007986176/Sk9MATgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 122,
+          "like_count": 2296,
+          "listed_count": 2,
+          "media_count": 359,
+          "tweet_count": 4208
+        },
+        "username": "mitsuki072527",
+        "verified": false
+      }
+    ]
+  }
+}

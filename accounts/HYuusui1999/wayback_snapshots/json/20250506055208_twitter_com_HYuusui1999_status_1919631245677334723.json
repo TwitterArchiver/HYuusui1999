@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1919000476537803078",
+    "created_at": "2025-05-06T05:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T06:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919631245677334723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1836420929611796486",
+          "start": 0,
+          "username": "lingyuanyousa00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919631245677334723",
+    "in_reply_to_user_id": "1836420929611796486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919000476537803078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingyuanyousa00 板子有点大的说"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1919000458862956608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqGowAJWkEAVB8R.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1919000476537803078",
+        "created_at": "2025-05-06T05:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T06:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919631245677334723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1836420929611796486",
+              "start": 0,
+              "username": "lingyuanyousa00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919631245677334723",
+        "in_reply_to_user_id": "1836420929611796486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919000476537803078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingyuanyousa00 板子有点大的说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919000458862956608"
+          ]
+        },
+        "author_id": "1836420929611796486",
+        "conversation_id": "1919000476537803078",
+        "created_at": "2025-05-04T12:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T13:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919000476537803078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxTUREF3hf",
+              "end": 32,
+              "expanded_url": "https://x.com/lingyuanyousa00/status/1919000476537803078/photo/1",
+              "media_key": "3_1919000458862956608",
+              "start": 9,
+              "url": "https://t.co/cxTUREF3hf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919000476537803078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1242,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家觉得咋样😔😔 https://t.co/cxTUREF3hf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1917405127981371473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 801,
+          "like_count": 17288,
+          "listed_count": 6,
+          "media_count": 166,
+          "tweet_count": 3634
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T15:04:34.000Z",
+        "description": "",
+        "id": "1836420929611796486",
+        "name": "喜欢超压的KANO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917092032973312000/kvDO-uR6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 1721,
+          "like_count": 40938,
+          "listed_count": 4,
+          "media_count": 1238,
+          "tweet_count": 17082
+        },
+        "username": "lingyuanyousa00",
+        "verified": false
+      }
+    ]
+  }
+}

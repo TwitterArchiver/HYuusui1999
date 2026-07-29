@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1911715339055800387",
+    "created_at": "2025-04-14T09:37:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T10:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911715339055800387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1773877435748270080",
+          "start": 3,
+          "username": "manakaao68"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911715339055800387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911713930789208197",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @manakaao68: 我以後都不會回來了\n有事請聯繫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1911715339055800387",
+        "created_at": "2025-04-14T09:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T10:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911715339055800387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1773877435748270080",
+              "start": 3,
+              "username": "manakaao68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911715339055800387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911713930789208197",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @manakaao68: 我以後都不會回來了\n有事請聯繫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773877435748270080",
+        "conversation_id": "1911713930789208197",
+        "created_at": "2025-04-14T09:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T10:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911713930789208197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911713930789208197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我以後都不會回來了\n有事請聯繫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1910694220186476904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 723,
+          "like_count": 15280,
+          "listed_count": 6,
+          "media_count": 133,
+          "tweet_count": 2942
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T00:59:05.000Z",
+        "description": "本私的名：真中あお 杭州公交集團唯一中之人 互fo請在評論區裏評論\n @heiwawomamore  \n里 @ND5_0179",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "heiwawomamore"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "ND5_0179"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hzbus.com.cn",
+                "end": 23,
+                "expanded_url": "https://www.hzbus.com.cn/",
+                "start": 0,
+                "url": "https://t.co/7jmAtjtaxp"
+              }
+            ]
+          }
+        },
+        "id": "1773877435748270080",
+        "location": "杭州公交集團株式會社",
+        "name": "小小の真中あお^_^🐳⭐️🎄🍥🍧🍟🍕🌮🍩🍡🍨",
+        "pinned_tweet_id": "1908683978288312719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908306914179768324/fjN1gKeL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2462,
+          "following_count": 4353,
+          "like_count": 26192,
+          "listed_count": 11,
+          "media_count": 1640,
+          "tweet_count": 29929
+        },
+        "url": "https://t.co/7jmAtjtaxp",
+        "username": "manakaao68",
+        "verified": false
+      }
+    ]
+  }
+}

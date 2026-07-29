@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2062540530597408841",
+    "created_at": "2026-06-04T19:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T20:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062616058297717022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1561262672888434688",
+          "start": 0,
+          "username": "cai436"
+        },
+        {
+          "end": 18,
+          "id": "1661148065749942272",
+          "start": 8,
+          "username": "MeiyiSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062616058297717022",
+    "in_reply_to_user_id": "1561262672888434688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062593328768757915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cai436 @MeiyiSama 友好一直是需要的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2062540530597408841",
+        "created_at": "2026-06-04T19:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T20:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062616058297717022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1561262672888434688",
+              "start": 0,
+              "username": "cai436"
+            },
+            {
+              "end": 18,
+              "id": "1661148065749942272",
+              "start": 8,
+              "username": "MeiyiSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062616058297717022",
+        "in_reply_to_user_id": "1561262672888434688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062593328768757915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cai436 @MeiyiSama 友好一直是需要的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561262672888434688",
+        "conversation_id": "2062540530597408841",
+        "created_at": "2026-06-04T17:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062593328768757915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1661148065749942272",
+              "start": 0,
+              "username": "MeiyiSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062593328768757915",
+        "in_reply_to_user_id": "1661148065749942272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062540530597408841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeiyiSama 至少现在不是，也不需要。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 3378,
+          "like_count": 45312,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 11792
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-21T08:04:19.000Z",
+        "description": "这个人很懒，什么都没有写。",
+        "id": "1561262672888434688",
+        "location": "广东省茂名市",
+        "name": "蔡清晏",
+        "pinned_tweet_id": "2044830395179667923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046910166008999937/JMrFE9pB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 1120,
+          "like_count": 20706,
+          "listed_count": 5,
+          "media_count": 74,
+          "tweet_count": 4051
+        },
+        "username": "cai436",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-23T23:12:24.000Z",
+        "description": "1935出生于吉林长春，1950参加中国人民解放军并参加抗美援朝。1951加入中国共产党。复员后到上海入第十七棉纺织厂当工人。后于保卫科任干事。1966响应伟大领袖毛主席号召推翻上海市委反动统治打响夺权第一枪，并在党十大上成功当选副主席。 1976粉碎走资派妄图复辟资本主义的阴谋诡计，在党十一大当选中华人民共和国主席。",
+        "id": "1661148065749942272",
+        "location": "中华人民共和国北京市西城区中南海怀仁堂",
+        "name": "王洪文",
+        "pinned_tweet_id": "1849506577570726220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800529443313848321/pBGkVoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1264,
+          "following_count": 54,
+          "like_count": 658,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 2248
+        },
+        "username": "MeiyiSama",
+        "verified": false
+      }
+    ]
+  }
+}

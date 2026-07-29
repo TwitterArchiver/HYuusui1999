@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1901143102683050074",
+    "created_at": "2025-03-16T05:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T06:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901145887730266428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1850772146177576960",
+          "start": 0,
+          "username": "Chunier520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/solipsism8964/…",
+          "end": 35,
+          "expanded_url": "https://x.com/solipsism8964/status/1887701923807277058?s=46",
+          "start": 12,
+          "url": "https://t.co/Bua43Et44T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901145887730266428",
+    "in_reply_to_user_id": "1850772146177576960",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887701923807277058",
+        "type": "quoted"
+      },
+      {
+        "id": "1901143102683050074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chunier520 https://t.co/Bua43Et44T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1901143102683050074",
+        "created_at": "2025-03-16T05:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T06:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901145887730266428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850772146177576960",
+              "start": 0,
+              "username": "Chunier520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/solipsism8964/…",
+              "end": 35,
+              "expanded_url": "https://x.com/solipsism8964/status/1887701923807277058?s=46",
+              "start": 12,
+              "url": "https://t.co/Bua43Et44T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901145887730266428",
+        "in_reply_to_user_id": "1850772146177576960",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887701923807277058",
+            "type": "quoted"
+          },
+          {
+            "id": "1901143102683050074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chunier520 https://t.co/Bua43Et44T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "1886611092643963143",
+        "created_at": "2025-02-07T03:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T04:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887701923807277058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239915471945838593",
+              "start": 0,
+              "username": "wtxycCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887701923807277058",
+        "in_reply_to_user_id": "1239915471945838593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886611092643963143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtxycCO 这是重大吧？大学城？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850772146177576960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1901143102683050074",
+        "created_at": "2025-03-16T05:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T06:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901143102683050074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wtxycCO/status…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/wtxycCO/status/1886611092643963143",
+              "start": 12,
+              "url": "https://t.co/MVWSsAuy3F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901143102683050074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886611092643963143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人能从此图定位位置吗 https://t.co/MVWSsAuy3F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 458,
+          "like_count": 10329,
+          "listed_count": 4,
+          "media_count": 87,
+          "tweet_count": 1384
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T05:30:47.000Z",
+        "description": "我们呼吁大家 #关注救助者健康 ，呼吁大家 #关注家暴受害者\n旨在帮助没有流量的跨女获得流量\n爱党爱国，坚决拥护中国共产党领导。请不要把账号内容用于政治目的。\n接约文。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 7,
+                "tag": "关注救助者健康"
+              },
+              {
+                "end": 30,
+                "start": 22,
+                "tag": "关注家暴受害者"
+              }
+            ]
+          }
+        },
+        "id": "1850772146177576960",
+        "name": "MtF转发bot（TG那个是冒充的）",
+        "pinned_tweet_id": "1900947842891739501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850906274109743104/vOmjtfaP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 319,
+          "like_count": 1664,
+          "listed_count": 4,
+          "media_count": 20,
+          "tweet_count": 2708
+        },
+        "username": "Chunier520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "“𝑺𝒕𝒓𝒂𝒊𝒈𝒉𝒕 𝒊𝒏𝒕𝒐 𝒕𝒉𝒆 𝒍𝒊𝒈𝒉𝒕𝒔 ”一般路过音游痴💀Arcaea&maimai//👩‍💻A-level//持“證”ADHD&ASD✋😩//178cm55kg//前https://t.co/UmzmLuA9oi编辑💊促智/美白/减肥/HRT药物找@Minokakay♿️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "Minokakay"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 113,
+                "expanded_url": "http://overspeed.wiki",
+                "start": 90,
+                "url": "https://t.co/UmzmLuA9oi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "提问箱➡️ngl.link/thesolipsism ",
+        "name": "翎城.𝑺𝒊𝒓𝒊",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900936210782224384/8TrbAA92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783,
+          "following_count": 577,
+          "like_count": 12682,
+          "listed_count": 3,
+          "media_count": 493,
+          "tweet_count": 3733
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "Solipsism8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1986393485809967111",
+    "created_at": "2025-11-07T03:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T04:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986633347062276351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1011298125225422848",
+          "start": 0,
+          "username": "Tang_Shuoyang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986633347062276351",
+    "in_reply_to_user_id": "1011298125225422848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986393485809967111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tang_Shuoyang 还有白身鱼（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986393471276752898",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5EWVnebIAIAZA6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1986393485809967111",
+        "created_at": "2025-11-07T03:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T04:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986633347062276351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1011298125225422848",
+              "start": 0,
+              "username": "Tang_Shuoyang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986633347062276351",
+        "in_reply_to_user_id": "1011298125225422848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986393485809967111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tang_Shuoyang 还有白身鱼（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986393471276752898"
+          ]
+        },
+        "author_id": "1011298125225422848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1986393485809967111",
+        "created_at": "2025-11-06T11:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T12:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986393485809967111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cDD79cKYTl",
+              "end": 33,
+              "expanded_url": "https://x.com/Tang_Shuoyang/status/1986393485809967111/photo/1",
+              "media_key": "3_1986393471276752898",
+              "start": 10,
+              "url": "https://t.co/cDD79cKYTl"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "fb9b1514741550ec"
+        },
+        "id": "1986393485809967111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥们又来横扫半额了 https://t.co/cDD79cKYTl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。理想乡：@t_subas_a 暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 2356,
+          "like_count": 39087,
+          "listed_count": 6,
+          "media_count": 296,
+          "tweet_count": 9368
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-25T17:20:36.000Z",
+        "description": "吉林大学→BOCHK→名古屋大学(M2)/Political Phenomenology、政治過程論、西マ。\n絶対王政/神道文献訓詁（君主主義者役）左翼研究(本人) \n【不要以为到资本主义日本就没有儒了！😤👎】\n#ブルアカ #艦これ  (退役) #pjsk (通販)随缘フォロバ\n要回关请✉️🥺🌹",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 106,
+                "tag": "ブルアカ"
+              },
+              {
+                "end": 116,
+                "start": 112,
+                "tag": "艦これ"
+              },
+              {
+                "end": 128,
+                "start": 123,
+                "tag": "pjsk"
+              }
+            ]
+          }
+        },
+        "id": "1011298125225422848",
+        "location": "豊葦原中国",
+        "name": "Nicholas Don",
+        "pinned_tweet_id": "1648348923785003008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929953311429668867/2eZF6dcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 202,
+          "like_count": 32588,
+          "listed_count": 10,
+          "media_count": 965,
+          "tweet_count": 4108
+        },
+        "username": "Tang_Shuoyang",
+        "verified": false
+      }
+    ]
+  }
+}

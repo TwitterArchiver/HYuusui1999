@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1864147652436509087",
+    "created_at": "2025-09-18T12:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T13:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968653133606691025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1812966325377200128",
+          "start": 0,
+          "username": "04177_truth"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/HYuusui1999/st…",
+          "end": 36,
+          "expanded_url": "https://x.com/HYuusui1999/status/1968652382943768969",
+          "start": 13,
+          "url": "https://t.co/t6CftLpjVG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968653133606691025",
+    "in_reply_to_user_id": "1812966325377200128",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968652382943768969",
+        "type": "quoted"
+      },
+      {
+        "id": "1864147652436509087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04177_truth https://t.co/t6CftLpjVG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 790,
+        "media_key": "3_1968652279050809345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1IO0UMWMAEbA3a.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1463,
+        "media_key": "3_1864147640755343361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd7IZxAa0AEMQE8.jpg",
+        "width": 1114
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1864147652436509087",
+        "created_at": "2025-09-18T12:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T13:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968653133606691025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1812966325377200128",
+              "start": 0,
+              "username": "04177_truth"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HYuusui1999/st…",
+              "end": 36,
+              "expanded_url": "https://x.com/HYuusui1999/status/1968652382943768969",
+              "start": 13,
+              "url": "https://t.co/t6CftLpjVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968653133606691025",
+        "in_reply_to_user_id": "1812966325377200128",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968652382943768969",
+            "type": "quoted"
+          },
+          {
+            "id": "1864147652436509087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04177_truth https://t.co/t6CftLpjVG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968652279050809345"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1968652382943768969",
+        "created_at": "2025-09-18T12:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T13:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968652382943768969"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "请重点关注"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1585145286598483968",
+              "start": 20,
+              "username": "lianyiganyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSBCcugBqg",
+              "end": 56,
+              "expanded_url": "https://x.com/HYuusui1999/status/1968652382943768969/photo/1",
+              "media_key": "3_1968652279050809345",
+              "start": 33,
+              "url": "https://t.co/pSBCcugBqg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968652382943768969",
+        "lang": "ht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#请重点关注 hajimi198964 @lianyiganyu https://t.co/pSBCcugBqg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864147640755343361"
+          ]
+        },
+        "author_id": "1812966325377200128",
+        "conversation_id": "1864147652436509087",
+        "created_at": "2024-12-04T03:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T04:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864147652436509087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tLSYk3cB9N",
+              "end": 23,
+              "expanded_url": "https://x.com/04177_truth/status/1864147652436509087/photo/1",
+              "media_key": "3_1864147640755343361",
+              "start": 0,
+              "url": "https://t.co/tLSYk3cB9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864147652436509087",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9470,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tLSYk3cB9N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 1658,
+          "like_count": 30374,
+          "listed_count": 6,
+          "media_count": 262,
+          "tweet_count": 7837
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T21:44:06.000Z",
+        "description": "互fo/这里能看到最真挚热烈的真名的日常生活，新奇想法和一些梗图/工作号：@04177_realname/🦋：@04177realname.bsky.social/提问箱：https://t.co/bJ4FH9IZlD（爱我的人恭喜你卡到了bug，在这里提问是免费的，我都会好好回答）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "04177_realname"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "04177realname"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/04177_realname",
+                "end": 109,
+                "expanded_url": "https://ngl.link/04177_realname",
+                "start": 86,
+                "url": "https://t.co/bJ4FH9IZlD"
+              }
+            ]
+          }
+        },
+        "id": "1812966325377200128",
+        "name": "神里真名",
+        "pinned_tweet_id": "1864147652436509087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188623089434624/FZD1bUcu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 736,
+          "like_count": 944,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 324
+        },
+        "username": "04177_truth",
+        "verified": false
+      }
+    ]
+  }
+}

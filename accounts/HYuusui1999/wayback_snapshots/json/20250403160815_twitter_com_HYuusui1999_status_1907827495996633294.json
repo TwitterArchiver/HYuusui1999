@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1907820735915241922",
+    "created_at": "2025-04-03T16:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T17:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907827495996633294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1316103441182158849",
+          "start": 0,
+          "username": "xsf727"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907827495996633294",
+    "in_reply_to_user_id": "1316103441182158849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907820735915241922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsf727 这样，那祝你好运"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1907820735915241922",
+        "created_at": "2025-04-03T16:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T17:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907827495996633294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1316103441182158849",
+              "start": 0,
+              "username": "xsf727"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907827495996633294",
+        "in_reply_to_user_id": "1316103441182158849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907820735915241922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsf727 这样，那祝你好运"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1316103441182158849",
+        "conversation_id": "1907820735915241922",
+        "created_at": "2025-04-03T15:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T16:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907820735915241922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907820735915241922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以后不会上推了，我要离开这个令我恶心的世界"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1905989245266972950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 622,
+          "like_count": 13537,
+          "listed_count": 6,
+          "media_count": 119,
+          "tweet_count": 2214
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-13T19:48:17.000Z",
+        "description": "INFP 纯死宅，二次元，厌世b，重度玉玉，双相，宝宝们来互fo，脾气一般情况下很好，话很多，喜欢断风的可以给断风打赏一点，帮助断风更好的生活和看病，真的非常感谢🙏🏻（1000fo抽奖）    🚪30（陪聊天，陪打游戏，要加vx或者q的记得发码）。清水推，分享日常生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/bYErNdA",
+                "end": 23,
+                "expanded_url": "https://b23.tv/bYErNdA",
+                "start": 0,
+                "url": "https://t.co/6a2LJ5Ai8g"
+              }
+            ]
+          }
+        },
+        "id": "1316103441182158849",
+        "location": "地球",
+        "name": "断风",
+        "pinned_tweet_id": "1902686433632268298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869954669482782723/lJ9jfA6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 340,
+          "like_count": 1035,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 3631
+        },
+        "url": "https://t.co/6a2LJ5Ai8g",
+        "username": "xsf727",
+        "verified": false
+      }
+    ]
+  }
+}

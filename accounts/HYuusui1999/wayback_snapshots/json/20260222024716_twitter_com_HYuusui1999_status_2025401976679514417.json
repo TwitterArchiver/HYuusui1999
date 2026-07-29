@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2025353069886837174",
+    "created_at": "2026-02-22T02:47:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T03:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025401976679514417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1901471587477442560",
+          "start": 0,
+          "username": "Another_and_Me"
+        },
+        {
+          "end": 23,
+          "id": "1672461374180450305",
+          "start": 16,
+          "username": "6mhzph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025401976679514417",
+    "in_reply_to_user_id": "1901471587477442560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025401760526024953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Another_and_Me @6mhzph 噢對不起\n反正祝好運吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2025353069886837174",
+        "created_at": "2026-02-22T02:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T03:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025401976679514417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1901471587477442560",
+              "start": 0,
+              "username": "Another_and_Me"
+            },
+            {
+              "end": 23,
+              "id": "1672461374180450305",
+              "start": 16,
+              "username": "6mhzph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025401976679514417",
+        "in_reply_to_user_id": "1901471587477442560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025401760526024953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Another_and_Me @6mhzph 噢對不起\n反正祝好運吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901471587477442560",
+        "conversation_id": "2025353069886837174",
+        "created_at": "2026-02-22T02:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T03:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025401760526024953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            },
+            {
+              "end": 20,
+              "id": "1672461374180450305",
+              "start": 13,
+              "username": "6mhzph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025401760526024953",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025378442221682946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 @6mhzph 那他妈是死掉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 3006,
+          "like_count": 43791,
+          "listed_count": 6,
+          "media_count": 364,
+          "tweet_count": 10968
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T03:12:24.000Z",
+        "description": "我爱这世间，如同我恨它一般。",
+        "id": "1901471587477442560",
+        "location": "坠落中的半空",
+        "name": "迷",
+        "pinned_tweet_id": "2018507944284078222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919218508115951616/uKmDCsFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 112,
+          "like_count": 1992,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 1132
+        },
+        "username": "Another_and_Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-24T04:27:28.000Z",
+        "description": "想成为大家的情绪垃圾桶🗑️                                                           07小孩 / 🇮 🇳 🇫 🇵 / 互fo / #树洞 / 精神病人 / 心理敏感 / 大一休学 / 永远的艾拉厨/最爱的@siuuuuneo｜下面有好玩的喵↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 95,
+                "tag": "树洞"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 142,
+                "start": 132,
+                "username": "siuuuuneo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aidn.jp/mikutap/",
+                "end": 23,
+                "expanded_url": "https://aidn.jp/mikutap/",
+                "start": 0,
+                "url": "https://t.co/U7b6ZO9vMm"
+              }
+            ]
+          }
+        },
+        "id": "1672461374180450305",
+        "location": "距离520km",
+        "name": "inia🌠",
+        "pinned_tweet_id": "1998113705805193226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005808317197922304/KkK6l6bM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 201,
+          "like_count": 1354,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 991
+        },
+        "url": "https://t.co/U7b6ZO9vMm",
+        "username": "6mhzph",
+        "verified": true
+      }
+    ]
+  }
+}

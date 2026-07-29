@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1941110328097722621",
+    "created_at": "2025-07-04T12:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T13:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941115970027978996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1705975905167020032",
+          "start": 0,
+          "username": "EmoooNET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941115970027978996",
+    "in_reply_to_user_id": "1705975905167020032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941110328097722621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmoooNET 之后会怎么样(´･ω･`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1941110328097722621",
+        "created_at": "2025-07-04T12:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T13:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941115970027978996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1705975905167020032",
+              "start": 0,
+              "username": "EmoooNET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941115970027978996",
+        "in_reply_to_user_id": "1705975905167020032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941110328097722621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmoooNET 之后会怎么样(´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705975905167020032",
+        "conversation_id": "1941110328097722621",
+        "created_at": "2025-07-04T12:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T13:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941110328097722621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EmoooNET/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/EmoooNET/status/1941019298174283790",
+              "start": 14,
+              "url": "https://t.co/15Lc4e2iwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941110328097722621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941019298174283790",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大概是在八月前和我妈搬出去 https://t.co/15Lc4e2iwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 1336,
+          "like_count": 24363,
+          "listed_count": 5,
+          "media_count": 216,
+          "tweet_count": 5927
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T16:02:16.000Z",
+        "description": "年份: 2007 / 身高: 166cm / 体重: 55kg（减肥 ing...，目标体重 50kg） / 有对象了 私信已关 请勿打扰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "emooo.net",
+                "end": 23,
+                "expanded_url": "https://emooo.net",
+                "start": 0,
+                "url": "https://t.co/yqcZ9ZzC1i"
+              }
+            ]
+          }
+        },
+        "id": "1705975905167020032",
+        "name": "云星汐璇",
+        "pinned_tweet_id": "1891639129462517910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899247971017125888/KYSy9Nvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2652,
+          "following_count": 2069,
+          "like_count": 1004,
+          "listed_count": 5,
+          "media_count": 66,
+          "tweet_count": 1175
+        },
+        "url": "https://t.co/yqcZ9ZzC1i",
+        "username": "EmoooNET",
+        "verified": false
+      }
+    ]
+  }
+}

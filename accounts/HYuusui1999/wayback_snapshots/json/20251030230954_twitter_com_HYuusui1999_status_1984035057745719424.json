@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1983895314789757050",
+    "created_at": "2025-10-30T23:09:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T00:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984035057745719424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1906878978667040768",
+          "start": 0,
+          "username": "oldxiezai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984035057745719424",
+    "in_reply_to_user_id": "1906878978667040768",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983895314789757050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oldxiezai 🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1983895314789757050].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1983895314789757050",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1983895314789757050"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1983895314789757050",
+        "created_at": "2025-10-30T23:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T00:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984035057745719424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1906878978667040768",
+              "start": 0,
+              "username": "oldxiezai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984035057745719424",
+        "in_reply_to_user_id": "1906878978667040768",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983895314789757050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oldxiezai 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n\n暂时退网（不定期）\n偶尔看消息",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 2241,
+          "like_count": 36384,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 9020
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T01:19:20.000Z",
+        "description": "這裡沒有甚麼..",
+        "id": "1906878978667040768",
+        "location": "Taiwan",
+        "name": "不是那個謝....",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929185315643916288/LYNYTMrd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 114,
+          "like_count": 12076,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 352
+        },
+        "username": "oldxiezai",
+        "verified": false
+      }
+    ]
+  }
+}

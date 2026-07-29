@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1942309411914998228",
+    "created_at": "2025-07-07T19:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T20:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942309411914998228"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "请重点关注"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/xxxx123yyy545/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/xxxx123yyy545/status/1942253030747123874",
+          "start": 7,
+          "url": "https://t.co/IEKifPN06C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942309411914998228",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942253030747123874",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#请重点关注 https://t.co/IEKifPN06C"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1942309411914998228",
+        "created_at": "2025-07-07T19:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T20:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942309411914998228"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "请重点关注"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xxxx123yyy545/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/xxxx123yyy545/status/1942253030747123874",
+              "start": 7,
+              "url": "https://t.co/IEKifPN06C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942309411914998228",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942253030747123874",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#请重点关注 https://t.co/IEKifPN06C"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843518394056015872",
+        "conversation_id": "1942253030747123874",
+        "created_at": "2025-07-07T16:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T17:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942253030747123874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942253030747123874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁有盐寄给我点吧，私信地址"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 1351,
+          "like_count": 24680,
+          "listed_count": 5,
+          "media_count": 216,
+          "tweet_count": 6069
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T05:06:59.000Z",
+        "description": "在下纪伊🍥！\n北三持证含糖小药娘/HRT2024/11/RLE/\n985本/高考政治100喵~/\n猎奇向地雷妹/INFP/热衷血图重口gal/南北组miku万岁！mai红系96/偶尔见证。\n双相严重失眠烟酒o割，日常推，喜欢被调教，好看同类都会互fo（同类无🚪\n爱人&小狗 @l93374231 \n前往约定之星ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "l93374231"
+              }
+            ]
+          }
+        },
+        "id": "1843518394056015872",
+        "location": "后海边地道老北京人",
+        "name": "纪~伊~六级裸考过",
+        "pinned_tweet_id": "1941613413584769442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843519143460646915/nykInaID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 1043,
+          "like_count": 4886,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 1736
+        },
+        "username": "xxxx123yyy545",
+        "verified": false
+      }
+    ]
+  }
+}

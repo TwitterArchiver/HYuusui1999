@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1851038768293183600",
+    "created_at": "2025-02-15T07:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T08:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890670009434706168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1657058069178880002",
+          "start": 0,
+          "username": "stxjk126047"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890670009434706168",
+    "in_reply_to_user_id": "1657058069178880002",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851038768293183600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stxjk126047 好好生活吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1851038768293183600",
+        "created_at": "2025-02-15T07:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T08:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890670009434706168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1657058069178880002",
+              "start": 0,
+              "username": "stxjk126047"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890670009434706168",
+        "in_reply_to_user_id": "1657058069178880002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851038768293183600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stxjk126047 好好生活吧。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851038478441619458"
+          ]
+        },
+        "author_id": "1657058069178880002",
+        "conversation_id": "1851038768293183600",
+        "created_at": "2024-10-28T23:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T00:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851038768293183600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P5Kcvk2dwv",
+              "end": 59,
+              "expanded_url": "https://x.com/stxjk126047/status/1851038768293183600/photo/1",
+              "media_key": "3_1851038478441619458",
+              "start": 36,
+              "url": "https://t.co/P5Kcvk2dwv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851038768293183600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说不定。。。咱身材其实不差？以后也不会嫁不出去？最后也不会孤独地自杀？ https://t.co/P5Kcvk2dwv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1885940576446808416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 346,
+          "like_count": 6835,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 833
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:20:23.000Z",
+        "description": "重庆男娘  不含糖  江北  欢迎QQ私聊\n想找对象",
+        "id": "1657058069178880002",
+        "location": "Chongqing China",
+        "name": "上条 四水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827922682718883840/1-6J1k9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 39,
+          "like_count": 715,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 27
+        },
+        "username": "stxjk126047",
+        "verified": false
+      }
+    ]
+  }
+}

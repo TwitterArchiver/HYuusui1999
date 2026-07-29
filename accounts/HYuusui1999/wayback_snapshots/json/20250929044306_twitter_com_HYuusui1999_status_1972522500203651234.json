@@ -1,0 +1,589 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972507330001637376",
+        "3_1972507329993363456",
+        "3_1972507329993244672",
+        "3_1972507329993310208"
+      ],
+      "media_source_tweet_id": [
+        "1972507340260913267",
+        "1972507340260913267",
+        "1972507340260913267",
+        "1972507340260913267"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1403098474850050049",
+          "name": "Metal Slug"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403098474850050049",
+          "name": "Metal Slug"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "1972522500203651234",
+    "created_at": "2025-09-29T04:43:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T05:43:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972522500203651234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1675934247000104960",
+          "start": 3,
+          "username": "hyakuzoku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/72DoFYssA9",
+          "end": 110,
+          "expanded_url": "https://x.com/hyakuzoku/status/1972507340260913267/photo/1",
+          "media_key": "3_1972507330001637376",
+          "start": 87,
+          "url": "https://t.co/72DoFYssA9"
+        },
+        {
+          "display_url": "pic.x.com/72DoFYssA9",
+          "end": 110,
+          "expanded_url": "https://x.com/hyakuzoku/status/1972507340260913267/photo/1",
+          "media_key": "3_1972507329993363456",
+          "start": 87,
+          "url": "https://t.co/72DoFYssA9"
+        },
+        {
+          "display_url": "pic.x.com/72DoFYssA9",
+          "end": 110,
+          "expanded_url": "https://x.com/hyakuzoku/status/1972507340260913267/photo/1",
+          "media_key": "3_1972507329993244672",
+          "start": 87,
+          "url": "https://t.co/72DoFYssA9"
+        },
+        {
+          "display_url": "pic.x.com/72DoFYssA9",
+          "end": 110,
+          "expanded_url": "https://x.com/hyakuzoku/status/1972507340260913267/photo/1",
+          "media_key": "3_1972507329993310208",
+          "start": 87,
+          "url": "https://t.co/72DoFYssA9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972522500203651234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972507340260913267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hyakuzoku: 原本是想組一台metal slug那種會站起來的坦克，然後後面有空間又做了兩臺支援機塞進去，一台是飛機和人形兩變，一台是裝甲車，坦克，飛機三變 https://t.co/72DoFYssA9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972507330001637376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1_A90GaEAAD_r-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972507329993363456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1_A90Eb0AA8Gml.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972507329993244672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1_A90EaAAAUBEr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972507329993310208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1_A90EbAAAi8Gc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972507330001637376",
+            "3_1972507329993363456",
+            "3_1972507329993244672",
+            "3_1972507329993310208"
+          ],
+          "media_source_tweet_id": [
+            "1972507340260913267",
+            "1972507340260913267",
+            "1972507340260913267",
+            "1972507340260913267"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1403098474850050049",
+              "name": "Metal Slug"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403098474850050049",
+              "name": "Metal Slug"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1972522500203651234",
+        "created_at": "2025-09-29T04:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T05:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972522500203651234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1675934247000104960",
+              "start": 3,
+              "username": "hyakuzoku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/72DoFYssA9",
+              "end": 110,
+              "expanded_url": "https://x.com/hyakuzoku/status/1972507340260913267/photo/1",
+              "media_key": "3_1972507330001637376",
+              "start": 87,
+              "url": "https://t.co/72DoFYssA9"
+            },
+            {
+              "display_url": "pic.x.com/72DoFYssA9",
+              "end": 110,
+              "expanded_url": "https://x.com/hyakuzoku/status/1972507340260913267/photo/1",
+              "media_key": "3_1972507329993363456",
+              "start": 87,
+              "url": "https://t.co/72DoFYssA9"
+            },
+            {
+              "display_url": "pic.x.com/72DoFYssA9",
+              "end": 110,
+              "expanded_url": "https://x.com/hyakuzoku/status/1972507340260913267/photo/1",
+              "media_key": "3_1972507329993244672",
+              "start": 87,
+              "url": "https://t.co/72DoFYssA9"
+            },
+            {
+              "display_url": "pic.x.com/72DoFYssA9",
+              "end": 110,
+              "expanded_url": "https://x.com/hyakuzoku/status/1972507340260913267/photo/1",
+              "media_key": "3_1972507329993310208",
+              "start": 87,
+              "url": "https://t.co/72DoFYssA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972522500203651234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972507340260913267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hyakuzoku: 原本是想組一台metal slug那種會站起來的坦克，然後後面有空間又做了兩臺支援機塞進去，一台是飛機和人形兩變，一台是裝甲車，坦克，飛機三變 https://t.co/72DoFYssA9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972507330001637376",
+            "3_1972507329993363456",
+            "3_1972507329993244672",
+            "3_1972507329993310208"
+          ]
+        },
+        "author_id": "1675934247000104960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1403098474850050049",
+              "name": "Metal Slug"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403098474850050049",
+              "name": "Metal Slug"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1972507340260913267",
+        "created_at": "2025-09-29T03:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T04:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972507340260913267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/72DoFYssA9",
+              "end": 95,
+              "expanded_url": "https://x.com/hyakuzoku/status/1972507340260913267/photo/1",
+              "media_key": "3_1972507330001637376",
+              "start": 72,
+              "url": "https://t.co/72DoFYssA9"
+            },
+            {
+              "display_url": "pic.x.com/72DoFYssA9",
+              "end": 95,
+              "expanded_url": "https://x.com/hyakuzoku/status/1972507340260913267/photo/1",
+              "media_key": "3_1972507329993363456",
+              "start": 72,
+              "url": "https://t.co/72DoFYssA9"
+            },
+            {
+              "display_url": "pic.x.com/72DoFYssA9",
+              "end": 95,
+              "expanded_url": "https://x.com/hyakuzoku/status/1972507340260913267/photo/1",
+              "media_key": "3_1972507329993244672",
+              "start": 72,
+              "url": "https://t.co/72DoFYssA9"
+            },
+            {
+              "display_url": "pic.x.com/72DoFYssA9",
+              "end": 95,
+              "expanded_url": "https://x.com/hyakuzoku/status/1972507340260913267/photo/1",
+              "media_key": "3_1972507329993310208",
+              "start": 72,
+              "url": "https://t.co/72DoFYssA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972507340260913267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "原本是想組一台metal slug那種會站起來的坦克，然後後面有空間又做了兩臺支援機塞進去，一台是飛機和人形兩變，一台是裝甲車，坦克，飛機三變 https://t.co/72DoFYssA9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 1953,
+          "like_count": 33455,
+          "listed_count": 6,
+          "media_count": 271,
+          "tweet_count": 8340
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T18:27:41.000Z",
+        "description": "一個喜歡各種次文化的一般人，喜歡製作和輕改模型。",
+        "id": "1675934247000104960",
+        "location": "Hong Kong",
+        "name": "太郎 田中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858729933436334080/x2Me247Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 1053,
+          "like_count": 3902,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 890
+        },
+        "username": "hyakuzoku",
+        "verified": false
+      }
+    ]
+  }
+}

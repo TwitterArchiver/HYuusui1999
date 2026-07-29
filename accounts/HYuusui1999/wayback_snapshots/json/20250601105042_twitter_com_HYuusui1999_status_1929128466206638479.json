@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929128457755303937"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1929128466206638479",
+    "created_at": "2025-06-01T10:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T11:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929128466206638479"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mQXyaPs49c",
+          "end": 26,
+          "expanded_url": "https://x.com/HYuusui1999/status/1929128466206638479/photo/1",
+          "media_key": "3_1929128457755303937",
+          "start": 3,
+          "url": "https://t.co/mQXyaPs49c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929128466206638479",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唔？ https://t.co/mQXyaPs49c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929128457755303937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsWkHIKaIAElcdD.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929128457755303937"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1929128466206638479",
+        "created_at": "2025-06-01T10:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T11:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929128466206638479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mQXyaPs49c",
+              "end": 26,
+              "expanded_url": "https://x.com/HYuusui1999/status/1929128466206638479/photo/1",
+              "media_key": "3_1929128457755303937",
+              "start": 3,
+              "url": "https://t.co/mQXyaPs49c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929128466206638479",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唔？ https://t.co/mQXyaPs49c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。    ～公告栏～ @jvhao0721好久前开始从b站盗句号视频， 视频创作者是@juhao0721，请注意 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "jvhao0721"
+              },
+              {
+                "end": 98,
+                "start": 88,
+                "username": "juhao0721"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 1073,
+          "like_count": 20767,
+          "listed_count": 6,
+          "media_count": 197,
+          "tweet_count": 4680
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

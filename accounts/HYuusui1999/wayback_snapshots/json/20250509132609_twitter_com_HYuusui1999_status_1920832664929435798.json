@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1920817464050364552",
+    "created_at": "2025-05-09T13:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T14:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920832664929435798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1491429513779359745",
+          "start": 0,
+          "username": "mizuchanqwq"
+        },
+        {
+          "end": 27,
+          "id": "1688385343580680192",
+          "start": 13,
+          "username": "heiwawomamore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920832664929435798",
+    "in_reply_to_user_id": "1491429513779359745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920828109319737714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuchanqwq @heiwawomamore 思考\n然后下一步的事"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1920828109319737714].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1920828109319737714",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1920828109319737714"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1920817464050364552",
+        "created_at": "2025-05-09T13:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T14:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920832664929435798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1491429513779359745",
+              "start": 0,
+              "username": "mizuchanqwq"
+            },
+            {
+              "end": 27,
+              "id": "1688385343580680192",
+              "start": 13,
+              "username": "heiwawomamore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920832664929435798",
+        "in_reply_to_user_id": "1491429513779359745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920828109319737714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuchanqwq @heiwawomamore 思考\n然后下一步的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1920000163336028430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 864,
+          "like_count": 17832,
+          "listed_count": 6,
+          "media_count": 168,
+          "tweet_count": 3819
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T15:11:30.000Z",
+        "description": "貓貓",
+        "id": "1491429513779359745",
+        "location": "Void",
+        "name": "若水貓",
+        "pinned_tweet_id": "1919471639470997776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919667771228712960/Mt_C2sIh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2345,
+          "following_count": 2231,
+          "like_count": 85134,
+          "listed_count": 9,
+          "media_count": 1819,
+          "tweet_count": 9638
+        },
+        "username": "mizuchanqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:03:51.000Z",
+        "description": "ima ingenting more alles\n\n願你們平安順遂幸福快樂\n\nŋosikimilenakodemonayima",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/heiwawomamore",
+                "end": 23,
+                "expanded_url": "https://ngl.link/heiwawomamore",
+                "start": 0,
+                "url": "https://t.co/NkYsnsHUO7"
+              }
+            ]
+          }
+        },
+        "id": "1688385343580680192",
+        "location": "Singin' In The Rain",
+        "name": "末裏せい/まつり清(前 平和を守れ)",
+        "pinned_tweet_id": "1920424237430444332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917086565467381761/C3Ud0dvT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 2133,
+          "like_count": 110595,
+          "listed_count": 12,
+          "media_count": 1310,
+          "tweet_count": 58027
+        },
+        "url": "https://t.co/NkYsnsHUO7",
+        "username": "heiwawomamore",
+        "verified": false
+      }
+    ]
+  }
+}

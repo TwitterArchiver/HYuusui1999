@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1993085147852517458",
+    "created_at": "2025-11-24T23:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T00:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993093824932200848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1491080744508489731",
+          "start": 0,
+          "username": "0308_Sodashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993093824932200848",
+    "in_reply_to_user_id": "1491080744508489731",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993085147852517458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0308_Sodashi pat pat"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1993085147852517458",
+        "created_at": "2025-11-24T23:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T00:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993093824932200848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491080744508489731",
+              "start": 0,
+              "username": "0308_Sodashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993093824932200848",
+        "in_reply_to_user_id": "1491080744508489731",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993085147852517458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0308_Sodashi pat pat"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491080744508489731",
+        "conversation_id": "1993085147852517458",
+        "created_at": "2025-11-24T22:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T23:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993085147852517458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993085147852517458",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心累哎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 2448,
+          "like_count": 40329,
+          "listed_count": 5,
+          "media_count": 302,
+          "tweet_count": 9792
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T16:05:39.000Z",
+        "description": "｜上海在住｜鉄道・帝国海軍・競馬が好き｜艦これ 柱島泊地｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whofuckingcares.com",
+                "end": 23,
+                "expanded_url": "http://whofuckingcares.com",
+                "start": 0,
+                "url": "https://t.co/bup4Aua3Sh"
+              }
+            ]
+          }
+        },
+        "id": "1491080744508489731",
+        "location": "Osaka-shi Tennoji-ku, Osaka",
+        "name": "葉",
+        "pinned_tweet_id": "1981364622427844924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989124028951588867/I8K4S1vY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3402,
+          "following_count": 3253,
+          "like_count": 115051,
+          "listed_count": 13,
+          "media_count": 4823,
+          "tweet_count": 32002
+        },
+        "url": "https://t.co/bup4Aua3Sh",
+        "username": "0308_Sodashi",
+        "verified": false
+      }
+    ]
+  }
+}

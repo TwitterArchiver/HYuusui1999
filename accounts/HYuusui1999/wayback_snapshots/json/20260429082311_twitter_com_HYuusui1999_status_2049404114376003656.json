@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2049404114376003656",
+    "created_at": "2026-04-29T08:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049404114376003656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1803314964284985344",
+          "start": 3,
+          "username": "jinluomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049404114376003656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049399511630663836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jinluomiao: 我妈说，她去找那个扭转中心了。。。他们说记录消不了。。。然后。。我妈带我买了新平安锁。。。还好。。。我父母目前不想把我送进去。。。还有就是。。。其实都还好。。。不用担心了。。。那个扭转中心的负责人。。。已经被拘留了。。。所以目前安全"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2049404114376003656",
+        "created_at": "2026-04-29T08:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049404114376003656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1803314964284985344",
+              "start": 3,
+              "username": "jinluomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049404114376003656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049399511630663836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jinluomiao: 我妈说，她去找那个扭转中心了。。。他们说记录消不了。。。然后。。我妈带我买了新平安锁。。。还好。。。我父母目前不想把我送进去。。。还有就是。。。其实都还好。。。不用担心了。。。那个扭转中心的负责人。。。已经被拘留了。。。所以目前安全"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803314964284985344",
+        "conversation_id": "2049399511630663836",
+        "created_at": "2026-04-29T08:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049399511630663836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049399511630663836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我妈说，她去找那个扭转中心了。。。他们说记录消不了。。。然后。。我妈带我买了新平安锁。。。还好。。。我父母目前不想把我送进去。。。还有就是。。。其实都还好。。。不用担心了。。。那个扭转中心的负责人。。。已经被拘留了。。。所以目前安全"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 3227,
+          "like_count": 45005,
+          "listed_count": 5,
+          "media_count": 369,
+          "tweet_count": 11637
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T06:32:58.000Z",
+        "description": "阿瑾。。。笨蛋阿瑾\n05年-05日-05月\nINFP\n有主人啦。\n休学中\n情绪状况良好\n调养身体中\n170cm-72kg\n互fo请私信我哦\n幻想友一：大洛洛\n幻想友二：小渺渺\n小号：@jinluomiao5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "jinluomiao5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jinluomiao2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jinluomiao2",
+                "start": 0,
+                "url": "https://t.co/k5FIDi3qlJ"
+              }
+            ]
+          }
+        },
+        "id": "1803314964284985344",
+        "location": "主人需要阿瑾的每一个地方",
+        "name": "小阿瑾",
+        "pinned_tweet_id": "2032833985257287964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038122196045045760/v8L3Bn_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3836,
+          "following_count": 830,
+          "like_count": 23343,
+          "listed_count": 6,
+          "media_count": 311,
+          "tweet_count": 5193
+        },
+        "url": "https://t.co/k5FIDi3qlJ",
+        "username": "jinluomiao",
+        "verified": false
+      }
+    ]
+  }
+}

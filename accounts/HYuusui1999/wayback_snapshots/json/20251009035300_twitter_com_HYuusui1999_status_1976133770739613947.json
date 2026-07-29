@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975809438893395968"
+      ],
+      "media_source_tweet_id": [
+        "1975809441472913574"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1976133770739613947",
+    "created_at": "2025-10-09T03:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T04:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976133770739613947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1903701047589343232",
+          "start": 3,
+          "username": "ceobrus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bi7vEtKaNB",
+          "end": 78,
+          "expanded_url": "https://x.com/ceobrus/status/1975809441472913574/photo/1",
+          "media_key": "3_1975809438893395968",
+          "start": 55,
+          "url": "https://t.co/Bi7vEtKaNB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976133770739613947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975809441472913574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ceobrus: 不知道为什么有那么多出药的。我已经收过三个同类的药了。为什么有人会后悔吃糖呢。。。 https://t.co/Bi7vEtKaNB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 468,
+        "media_key": "3_1975809438893395968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2t8N2Ua0AAICEP.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975809438893395968"
+          ],
+          "media_source_tweet_id": [
+            "1975809441472913574"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1976133770739613947",
+        "created_at": "2025-10-09T03:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T04:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976133770739613947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1903701047589343232",
+              "start": 3,
+              "username": "ceobrus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bi7vEtKaNB",
+              "end": 78,
+              "expanded_url": "https://x.com/ceobrus/status/1975809441472913574/photo/1",
+              "media_key": "3_1975809438893395968",
+              "start": 55,
+              "url": "https://t.co/Bi7vEtKaNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976133770739613947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975809441472913574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ceobrus: 不知道为什么有那么多出药的。我已经收过三个同类的药了。为什么有人会后悔吃糖呢。。。 https://t.co/Bi7vEtKaNB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975809438893395968"
+          ]
+        },
+        "author_id": "1903701047589343232",
+        "conversation_id": "1975809441472913574",
+        "created_at": "2025-10-08T06:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T07:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975809441472913574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bi7vEtKaNB",
+              "end": 65,
+              "expanded_url": "https://x.com/ceobrus/status/1975809441472913574/photo/1",
+              "media_key": "3_1975809438893395968",
+              "start": 42,
+              "url": "https://t.co/Bi7vEtKaNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975809441472913574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12922,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不知道为什么有那么多出药的。我已经收过三个同类的药了。为什么有人会后悔吃糖呢。。。 https://t.co/Bi7vEtKaNB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 2053,
+          "like_count": 34894,
+          "listed_count": 6,
+          "media_count": 280,
+          "tweet_count": 8716
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "femboy丨it、they丨无证含糖丨点赞代表喜欢丨可以互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ceobrus",
+                "end": 23,
+                "expanded_url": "https://t.me/ceobrus",
+                "start": 0,
+                "url": "https://t.co/jjy2nziSM9"
+              }
+            ]
+          }
+        },
+        "id": "1903701047589343232",
+        "name": "小方二号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970098823126192129/wLmmXOnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3534,
+          "following_count": 1660,
+          "like_count": 8108,
+          "listed_count": 5,
+          "media_count": 103,
+          "tweet_count": 1810
+        },
+        "url": "https://t.co/jjy2nziSM9",
+        "username": "ceobrus",
+        "verified": false
+      }
+    ]
+  }
+}

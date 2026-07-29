@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996173412251963392",
+        "3_1996173452999622657",
+        "3_1996173460952039424"
+      ],
+      "media_source_tweet_id": [
+        "1996173508511232116",
+        "1996173508511232116",
+        "1996173508511232116"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1996176014788149417",
+    "created_at": "2025-12-03T11:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T12:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996176014788149417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1596473224711151618",
+          "start": 3,
+          "username": "a823149315"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HDUKdNRGuZ",
+          "end": 62,
+          "expanded_url": "https://x.com/a823149315/status/1996173508511232116/photo/1",
+          "media_key": "3_1996173412251963392",
+          "start": 39,
+          "url": "https://t.co/HDUKdNRGuZ"
+        },
+        {
+          "display_url": "pic.x.com/HDUKdNRGuZ",
+          "end": 62,
+          "expanded_url": "https://x.com/a823149315/status/1996173508511232116/photo/1",
+          "media_key": "3_1996173452999622657",
+          "start": 39,
+          "url": "https://t.co/HDUKdNRGuZ"
+        },
+        {
+          "display_url": "pic.x.com/HDUKdNRGuZ",
+          "end": 62,
+          "expanded_url": "https://x.com/a823149315/status/1996173508511232116/photo/1",
+          "media_key": "3_1996173460952039424",
+          "start": 39,
+          "url": "https://t.co/HDUKdNRGuZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996176014788149417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996173508511232116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @a823149315: 淄博烧烤名不虚传，想出大饼卷葱卷肉的人是天才 https://t.co/HDUKdNRGuZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1996173412251963392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7PVJGtbkAAwLy6.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1996173452999622657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7PVLegbgAEFrCv.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1996173460952039424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7PVL8IbwAAGBQS.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996173412251963392",
+            "3_1996173452999622657",
+            "3_1996173460952039424"
+          ],
+          "media_source_tweet_id": [
+            "1996173508511232116",
+            "1996173508511232116",
+            "1996173508511232116"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1996176014788149417",
+        "created_at": "2025-12-03T11:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T12:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996176014788149417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1596473224711151618",
+              "start": 3,
+              "username": "a823149315"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HDUKdNRGuZ",
+              "end": 62,
+              "expanded_url": "https://x.com/a823149315/status/1996173508511232116/photo/1",
+              "media_key": "3_1996173412251963392",
+              "start": 39,
+              "url": "https://t.co/HDUKdNRGuZ"
+            },
+            {
+              "display_url": "pic.x.com/HDUKdNRGuZ",
+              "end": 62,
+              "expanded_url": "https://x.com/a823149315/status/1996173508511232116/photo/1",
+              "media_key": "3_1996173452999622657",
+              "start": 39,
+              "url": "https://t.co/HDUKdNRGuZ"
+            },
+            {
+              "display_url": "pic.x.com/HDUKdNRGuZ",
+              "end": 62,
+              "expanded_url": "https://x.com/a823149315/status/1996173508511232116/photo/1",
+              "media_key": "3_1996173460952039424",
+              "start": 39,
+              "url": "https://t.co/HDUKdNRGuZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996176014788149417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996173508511232116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @a823149315: 淄博烧烤名不虚传，想出大饼卷葱卷肉的人是天才 https://t.co/HDUKdNRGuZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996173412251963392",
+            "3_1996173452999622657",
+            "3_1996173460952039424"
+          ]
+        },
+        "author_id": "1596473224711151618",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1996173508511232116",
+        "created_at": "2025-12-03T11:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T12:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996173508511232116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HDUKdNRGuZ",
+              "end": 46,
+              "expanded_url": "https://x.com/a823149315/status/1996173508511232116/photo/1",
+              "media_key": "3_1996173412251963392",
+              "start": 23,
+              "url": "https://t.co/HDUKdNRGuZ"
+            },
+            {
+              "display_url": "pic.x.com/HDUKdNRGuZ",
+              "end": 46,
+              "expanded_url": "https://x.com/a823149315/status/1996173508511232116/photo/1",
+              "media_key": "3_1996173452999622657",
+              "start": 23,
+              "url": "https://t.co/HDUKdNRGuZ"
+            },
+            {
+              "display_url": "pic.x.com/HDUKdNRGuZ",
+              "end": 46,
+              "expanded_url": "https://x.com/a823149315/status/1996173508511232116/photo/1",
+              "media_key": "3_1996173460952039424",
+              "start": 23,
+              "url": "https://t.co/HDUKdNRGuZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996173508511232116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "淄博烧烤名不虚传，想出大饼卷葱卷肉的人是天才 https://t.co/HDUKdNRGuZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 2493,
+          "like_count": 40842,
+          "listed_count": 6,
+          "media_count": 303,
+          "tweet_count": 9961
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T11:57:39.000Z",
+        "description": "曾用笔名苦樱/术后三度返厂mtf/13年经验的百合推理作者/小说置顶可看/持证助理社工师/社工本科毕业/4年机构社工经验/前机构司法社工项目主管",
+        "id": "1596473224711151618",
+        "name": "王安黛（校园悬疑推理小说《西土城中学疑案》完本欢迎点击置顶阅读）",
+        "pinned_tweet_id": "1984077641243357597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980539194884726784/DIGhbGXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35159,
+          "following_count": 164,
+          "like_count": 2498,
+          "listed_count": 94,
+          "media_count": 2040,
+          "tweet_count": 10778
+        },
+        "username": "a823149315",
+        "verified": false
+      }
+    ]
+  }
+}

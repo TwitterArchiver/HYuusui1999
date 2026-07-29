@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1996480586794565953",
+    "created_at": "2025-12-04T07:23:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T08:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996480586794565953"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MichaeLeoaun/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/MichaeLeoaun/status/1996473183587934665",
+          "start": 4,
+          "url": "https://t.co/wujCV6ZmYv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996480586794565953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996473183587934665",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啥意思 https://t.co/wujCV6ZmYv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1996480586794565953",
+        "created_at": "2025-12-04T07:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T08:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996480586794565953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MichaeLeoaun/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/MichaeLeoaun/status/1996473183587934665",
+              "start": 4,
+              "url": "https://t.co/wujCV6ZmYv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996480586794565953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996473183587934665",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啥意思 https://t.co/wujCV6ZmYv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986664513962450945",
+        "conversation_id": "1996462227164160379",
+        "created_at": "2025-12-04T06:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T07:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996473183587934665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996473183587934665",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996462227164160379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 这么可爱 有没有想过去Pornhub拍片啊？👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 2528,
+          "like_count": 40892,
+          "listed_count": 6,
+          "media_count": 303,
+          "tweet_count": 9981
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T05:18:41.000Z",
+        "description": "90/KanColle_ タウイタウイ泊地/GTA/RDR2/IG",
+        "id": "1986664513962450945",
+        "location": "Tokyo-to, Japan",
+        "name": "Leoaun6.0",
+        "pinned_tweet_id": "1992075506284732442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986668457098944513/ox251i0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 132,
+          "like_count": 399,
+          "listed_count": 1,
+          "media_count": 374,
+          "tweet_count": 864
+        },
+        "username": "MichaeLeoaun",
+        "verified": false
+      }
+    ]
+  }
+}

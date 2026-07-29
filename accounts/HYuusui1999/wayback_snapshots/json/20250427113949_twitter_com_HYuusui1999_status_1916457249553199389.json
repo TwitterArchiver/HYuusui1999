@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1916149806663405770",
+    "created_at": "2025-04-27T11:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T12:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916457249553199389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852912799552602113",
+          "start": 0,
+          "username": "TakeNitrite"
+        },
+        {
+          "end": 27,
+          "id": "1865831426303897600",
+          "start": 13,
+          "username": "Zero_158_Kana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916457249553199389",
+    "in_reply_to_user_id": "1852912799552602113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916453876355551598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TakeNitrite @Zero_158_Kana 抱抱，\n不是你们的错哦"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1916453876355551598].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1916453876355551598",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1916453876355551598"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1916149806663405770",
+        "created_at": "2025-04-27T11:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T12:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916457249553199389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1852912799552602113",
+              "start": 0,
+              "username": "TakeNitrite"
+            },
+            {
+              "end": 27,
+              "id": "1865831426303897600",
+              "start": 13,
+              "username": "Zero_158_Kana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916457249553199389",
+        "in_reply_to_user_id": "1852912799552602113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916453876355551598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TakeNitrite @Zero_158_Kana 抱抱，\n不是你们的错哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1914139301199385082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 781,
+          "like_count": 17052,
+          "listed_count": 6,
+          "media_count": 157,
+          "tweet_count": 3463
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T03:17:41.000Z",
+        "description": "Ĉi tiu konto enhavas negativajn emociajn efikojn, bonvolu atenti singarde.Krome, ĉi tiu nombro ankaŭ povas esti uzata kiel fuĝkabano. Ĉefa konto: @Ziverk2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 146,
+                "username": "Ziverk2"
+              }
+            ]
+          }
+        },
+        "id": "1852912799552602113",
+        "location": "Antarkto",
+        "name": "AhhDianん（锁）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863893525739515905/-_Oi4XQ-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 85,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 78
+        },
+        "username": "TakeNitrite",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T18:51:06.000Z",
+        "description": "这里是零酱&樱舞花&可奈&未知（可能出现的碎片）哦！一（三or多？）只INFP小猫！喵呜～\n/无证hrt2025.1.10\n/想让大家幸福喵\n/超天酱重度依赖\n/インターネット · エンジェル、ただいま降臨 ！\n/Lover：@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "calsym456"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zero_158gjzr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zero_158gjzr",
+                "start": 0,
+                "url": "https://t.co/ZxXMCZ2ANC"
+              }
+            ]
+          }
+        },
+        "id": "1865831426303897600",
+        "location": "梦之乡",
+        "name": "Zero_158_Kana",
+        "pinned_tweet_id": "1906895138582106622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895352936487636992/HyGnw-G1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 728,
+          "like_count": 8249,
+          "listed_count": 9,
+          "media_count": 252,
+          "tweet_count": 4140
+        },
+        "url": "https://t.co/ZxXMCZ2ANC",
+        "username": "Zero_158_Kana",
+        "verified": false
+      }
+    ]
+  }
+}

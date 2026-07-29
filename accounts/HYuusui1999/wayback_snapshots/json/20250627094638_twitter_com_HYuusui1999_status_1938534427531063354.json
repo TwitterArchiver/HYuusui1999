@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1938430744491384832"
+      ],
+      "media_source_tweet_id": [
+        "1938431622870864149"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1938534427531063354",
+    "created_at": "2025-06-27T09:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T10:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938534427531063354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1909553877739085825",
+          "start": 3,
+          "username": "TOKYOheshan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pRG1Wj5xhY",
+          "end": 51,
+          "expanded_url": "https://x.com/TOKYOheshan/status/1938431622870864149/video/1",
+          "media_key": "13_1938430744491384832",
+          "start": 28,
+          "url": "https://t.co/pRG1Wj5xhY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938534427531063354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938431622870864149",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TOKYOheshan: 爱人TV之调教长发男 https://t.co/pRG1Wj5xhY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 157188,
+        "height": 1280,
+        "media_key": "13_1938430744491384832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938430744491384832/img/wqZefI_MiRsU7W-9.jpg",
+        "public_metrics": {
+          "view_count": 71860
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938430744491384832/vid/avc1/320x568/pGRo7lyIDqNYgXvz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938430744491384832/vid/avc1/480x852/NGUzhELl6twjIjt2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938430744491384832/vid/avc1/720x1280/zECtWVCaIaRC9VgP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938430744491384832/pl/TR9b_SvlY9MbX6FN.m3u8?v=06d"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938430744491384832"
+          ],
+          "media_source_tweet_id": [
+            "1938431622870864149"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1938534427531063354",
+        "created_at": "2025-06-27T09:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T10:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938534427531063354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1909553877739085825",
+              "start": 3,
+              "username": "TOKYOheshan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pRG1Wj5xhY",
+              "end": 51,
+              "expanded_url": "https://x.com/TOKYOheshan/status/1938431622870864149/video/1",
+              "media_key": "13_1938430744491384832",
+              "start": 28,
+              "url": "https://t.co/pRG1Wj5xhY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938534427531063354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938431622870864149",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TOKYOheshan: 爱人TV之调教长发男 https://t.co/pRG1Wj5xhY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938430744491384832"
+          ]
+        },
+        "author_id": "1909553877739085825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1938431622870864149",
+        "created_at": "2025-06-27T02:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T03:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938431622870864149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pRG1Wj5xhY",
+              "end": 34,
+              "expanded_url": "https://x.com/TOKYOheshan/status/1938431622870864149/video/1",
+              "media_key": "13_1938430744491384832",
+              "start": 11,
+              "url": "https://t.co/pRG1Wj5xhY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938431622870864149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 124093,
+          "like_count": 288,
+          "quote_count": 16,
+          "reply_count": 72,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "爱人TV之调教长发男 https://t.co/pRG1Wj5xhY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yvjue0189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yvjue0189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 1224,
+          "like_count": 23057,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 5412
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "互联网冲浪找史炒作高手 07无药男娘 IP🇯🇵日本東京 成分复杂：键政｜抽象｜二次元｜神友｜自由民主｜包蜜｜无神论｜LGBTQ🏳️‍🌈｜女裝｜舞萌痴｜永雏塔菲｜東雪蓮 ｜进击的巨人｜MYGO｜平常会更新日常或抽象爱国TV 互fo扩列请私信 欢迎线下找我玩 我爱你中国 主人：@heshan8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 137,
+                "username": "heshan8964"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "東京",
+        "name": "抽象東雪蓮",
+        "pinned_tweet_id": "1932095364385153188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934618396718780416/fwpwYXrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3770,
+          "following_count": 550,
+          "like_count": 612,
+          "listed_count": 10,
+          "media_count": 206,
+          "tweet_count": 371
+        },
+        "username": "TOKYOheshan",
+        "verified": true
+      }
+    ]
+  }
+}

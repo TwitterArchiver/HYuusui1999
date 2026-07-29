@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1985229638935933293",
+    "created_at": "2025-11-03T07:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T08:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985242156819177982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "AstyxStar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985242156819177982",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985241651573592227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AstyxStar 在学什么🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1985229638935933293",
+        "created_at": "2025-11-03T07:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T08:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985242156819177982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "AstyxStar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985242156819177982",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985241651573592227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AstyxStar 在学什么🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "1985229638935933293",
+        "created_at": "2025-11-03T07:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T08:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985241651573592227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985241651573592227",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985241058691645561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 窝这学期甚至还没结束"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。暂时退网（不定期） 偶尔看消息",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 2297,
+          "like_count": 37847,
+          "listed_count": 6,
+          "media_count": 292,
+          "tweet_count": 9195
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14岁初二休学喵 @HobartR6 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "HobartR6"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🏙️ Tokyo",
+        "name": "𝙇𝙪𝙢𝙞.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984347223728275460/Wsdoz0EC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2391,
+          "following_count": 849,
+          "like_count": 768,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 2168
+        },
+        "username": "AstyxStar",
+        "verified": false
+      }
+    ]
+  }
+}

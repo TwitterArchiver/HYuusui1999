@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1903402234454712375",
+    "created_at": "2025-03-22T11:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T12:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903415010032005283"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1903415010032005283",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903402234454712375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好的买了普通版"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1903402215848779776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmo-OwxboAALy59.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1903402234454712375",
+        "created_at": "2025-03-22T11:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T12:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903415010032005283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903415010032005283",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903402234454712375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好的买了普通版"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903402215848779776"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1903402234454712375",
+        "created_at": "2025-03-22T11:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T12:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903402234454712375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CmAsv7qb3m",
+              "end": 32,
+              "expanded_url": "https://x.com/HYuusui1999/status/1903402234454712375/photo/1",
+              "media_key": "3_1903402215848779776",
+              "start": 9,
+              "url": "https://t.co/CmAsv7qb3m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903402234454712375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要买典藏版吗…… https://t.co/CmAsv7qb3m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1903296770777682232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 516,
+          "like_count": 11596,
+          "listed_count": 6,
+          "media_count": 98,
+          "tweet_count": 1699
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

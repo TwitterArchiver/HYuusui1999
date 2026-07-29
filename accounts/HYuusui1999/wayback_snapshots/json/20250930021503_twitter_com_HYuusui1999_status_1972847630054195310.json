@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1972699892209549364",
+    "created_at": "2025-09-30T02:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T03:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972847630054195310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1534066119106912256",
+          "start": 0,
+          "username": "Oo_Motoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972847630054195310",
+    "in_reply_to_user_id": "1534066119106912256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972699892209549364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oo_Motoko 还是关注一下那两人精神状态比较好😓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1972699880025165824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2BwFs1bEAAKxBN.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1972699892209549364",
+        "created_at": "2025-09-30T02:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T03:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972847630054195310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1534066119106912256",
+              "start": 0,
+              "username": "Oo_Motoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972847630054195310",
+        "in_reply_to_user_id": "1534066119106912256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972699892209549364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oo_Motoko 还是关注一下那两人精神状态比较好😓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972699880025165824"
+          ]
+        },
+        "author_id": "1534066119106912256",
+        "conversation_id": "1972699892209549364",
+        "created_at": "2025-09-29T16:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T17:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972699892209549364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7SPDTqKWg1",
+              "end": 73,
+              "expanded_url": "https://x.com/Oo_Motoko/status/1972699892209549364/photo/1",
+              "media_key": "3_1972699880025165824",
+              "start": 50,
+              "url": "https://t.co/7SPDTqKWg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972699892209549364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 19376,
+          "like_count": 72,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好久没回家，看到我妹房门多了几道菜刀砍的刀痕，不愧是我亲妹，总是擅长用最无所谓的态度把别人逼急😉😉 https://t.co/7SPDTqKWg1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 1963,
+          "like_count": 33758,
+          "listed_count": 6,
+          "media_count": 271,
+          "tweet_count": 8411
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-07T06:54:07.000Z",
+        "description": "💼经济舱商旅人|🍤边走边吃日记|💻base厦门&北京|♍️ENTP|🚫对立极端评论",
+        "id": "1534066119106912256",
+        "location": "随机刷新",
+        "name": "猿子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409213297131520/nbrC5AQM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16045,
+          "following_count": 928,
+          "like_count": 14129,
+          "listed_count": 52,
+          "media_count": 2564,
+          "tweet_count": 15029
+        },
+        "username": "Oo_Motoko",
+        "verified": false
+      }
+    ]
+  }
+}

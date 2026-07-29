@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1905983619602010540",
+    "created_at": "2025-03-29T23:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T00:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906129054958485890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1901471587477442560",
+          "start": 0,
+          "username": "Another_and_Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906129054958485890",
+    "in_reply_to_user_id": "1901471587477442560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905983619602010540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Another_and_Me 无人健全"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1905983619602010540",
+        "created_at": "2025-03-29T23:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T00:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906129054958485890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1901471587477442560",
+              "start": 0,
+              "username": "Another_and_Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906129054958485890",
+        "in_reply_to_user_id": "1901471587477442560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905983619602010540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Another_and_Me 无人健全"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901471587477442560",
+        "conversation_id": "1905983619602010540",
+        "created_at": "2025-03-29T14:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T15:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905983619602010540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jimi_yang22770…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/jimi_yang22770/status/1905980462126031032",
+              "start": 19,
+              "url": "https://t.co/y401vSOfeA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905983619602010540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905980462126031032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和你们相比我还是太健全了...... https://t.co/y401vSOfeA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1905989245266972950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 570,
+          "like_count": 12351,
+          "listed_count": 6,
+          "media_count": 111,
+          "tweet_count": 1906
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T03:12:24.000Z",
+        "description": "phigros玩家/bpd形成中/音乐重度依赖/思考哲学/四度自杀/tulpa养成中/生活低能/缺爱的男生/好想......拯救轻生的大家啊....../不建政，建政一律屏蔽/来到世界十四年~/https://t.co/Q7IbukyVr3找我小窗，推特私信条数有限制",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "anti.land/61w641l7SV",
+                "end": 120,
+                "expanded_url": "https://anti.land/61w641l7SV",
+                "start": 97,
+                "url": "https://t.co/Q7IbukyVr3"
+              }
+            ]
+          }
+        },
+        "id": "1901471587477442560",
+        "name": "安纳德-迷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901867661933318144/XwEVWv3Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 82,
+          "like_count": 941,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 181
+        },
+        "username": "Another_and_Me",
+        "verified": false
+      }
+    ]
+  }
+}

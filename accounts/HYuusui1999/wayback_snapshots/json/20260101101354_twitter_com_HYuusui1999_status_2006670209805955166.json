@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005955213702881280"
+      ],
+      "media_source_tweet_id": [
+        "2005955222665835004"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2006670209805955166",
+    "created_at": "2026-01-01T10:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T11:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006670209805955166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1850053428711718912",
+          "start": 3,
+          "username": "duoduolin0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q563J0z342",
+          "end": 89,
+          "expanded_url": "https://x.com/duoduolin0/status/2005955222665835004/photo/1",
+          "media_key": "3_2005955213702881280",
+          "start": 66,
+          "url": "https://t.co/Q563J0z342"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006670209805955166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005955222665835004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @duoduolin0: xd你能不能别这么好笑哈哈哈哈😂😂😂你盗了我的号，然后拿我的号给我小号发让我去关注我小号领奖😂😂😂 https://t.co/Q563J0z342"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005955213702881280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9aVo4waYAAG2Qo.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005955213702881280"
+          ],
+          "media_source_tweet_id": [
+            "2005955222665835004"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "2006670209805955166",
+        "created_at": "2026-01-01T10:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T11:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006670209805955166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1850053428711718912",
+              "start": 3,
+              "username": "duoduolin0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q563J0z342",
+              "end": 89,
+              "expanded_url": "https://x.com/duoduolin0/status/2005955222665835004/photo/1",
+              "media_key": "3_2005955213702881280",
+              "start": 66,
+              "url": "https://t.co/Q563J0z342"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006670209805955166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005955222665835004",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @duoduolin0: xd你能不能别这么好笑哈哈哈哈😂😂😂你盗了我的号，然后拿我的号给我小号发让我去关注我小号领奖😂😂😂 https://t.co/Q563J0z342"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005955213702881280"
+          ]
+        },
+        "author_id": "1850053428711718912",
+        "conversation_id": "2005955222665835004",
+        "created_at": "2025-12-30T10:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T11:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005955222665835004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q563J0z342",
+              "end": 73,
+              "expanded_url": "https://x.com/duoduolin0/status/2005955222665835004/photo/1",
+              "media_key": "3_2005955213702881280",
+              "start": 50,
+              "url": "https://t.co/Q563J0z342"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005955222665835004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 763,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "xd你能不能别这么好笑哈哈哈哈😂😂😂你盗了我的号，然后拿我的号给我小号发让我去关注我小号领奖😂😂😂 https://t.co/Q563J0z342"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 2878,
+          "like_count": 43786,
+          "listed_count": 6,
+          "media_count": 334,
+          "tweet_count": 10725
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T05:55:05.000Z",
+        "description": "",
+        "id": "1850053428711718912",
+        "name": "DDLking🫩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005821438490730499/4rgrtLyw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 261,
+          "like_count": 6158,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1936
+        },
+        "username": "duoduolin0",
+        "verified": false
+      }
+    ]
+  }
+}

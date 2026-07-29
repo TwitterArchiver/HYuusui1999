@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1950740597813195087",
+    "created_at": "2025-07-31T03:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T04:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950759016046424359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1515859446492061696",
+          "start": 0,
+          "username": "xb2002b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950759016046424359",
+    "in_reply_to_user_id": "1515859446492061696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950740597813195087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xb2002b 揉揉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1950740597813195087",
+        "created_at": "2025-07-31T03:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T04:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950759016046424359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1515859446492061696",
+              "start": 0,
+              "username": "xb2002b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950759016046424359",
+        "in_reply_to_user_id": "1515859446492061696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950740597813195087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xb2002b 揉揉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515859446492061696",
+        "conversation_id": "1950740597813195087",
+        "created_at": "2025-07-31T02:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T03:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950740597813195087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950740597813195087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈 李浩然"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 1435,
+          "like_count": 26760,
+          "listed_count": 5,
+          "media_count": 233,
+          "tweet_count": 6628
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T01:07:24.000Z",
+        "description": "Amateur translator. Chinese and English are accepted.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/xb2002b",
+                "end": 23,
+                "expanded_url": "http://github.com/xb2002b",
+                "start": 0,
+                "url": "https://t.co/UqLMrfOvOb"
+              }
+            ]
+          }
+        },
+        "id": "1515859446492061696",
+        "location": "雾之湖",
+        "name": "xb2002b",
+        "pinned_tweet_id": "1930518421143502972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862515176429219840/D4ZJXH3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 97,
+          "like_count": 36711,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 1063
+        },
+        "url": "https://t.co/UqLMrfOvOb",
+        "username": "xb2002b",
+        "verified": false
+      }
+    ]
+  }
+}

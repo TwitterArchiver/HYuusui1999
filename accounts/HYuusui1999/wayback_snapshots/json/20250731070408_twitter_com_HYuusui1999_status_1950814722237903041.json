@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1950813869380612185",
+    "created_at": "2025-07-31T07:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T08:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950814722237903041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1831961897899585536",
+          "start": 0,
+          "username": "Kiriyama_hitori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950814722237903041",
+    "in_reply_to_user_id": "1831961897899585536",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950813869380612185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiriyama_hitori (´･ω･`)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1950813863139753984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxKu32daQAA5l-B.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1950813869380612185",
+        "created_at": "2025-07-31T07:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T08:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950814722237903041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1831961897899585536",
+              "start": 0,
+              "username": "Kiriyama_hitori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950814722237903041",
+        "in_reply_to_user_id": "1831961897899585536",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950813869380612185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiriyama_hitori (´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950813863139753984"
+          ]
+        },
+        "author_id": "1831961897899585536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1950813869380612185",
+        "created_at": "2025-07-31T07:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T08:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950813869380612185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l6LDwzNLjp",
+              "end": 40,
+              "expanded_url": "https://x.com/Kiriyama_hitori/status/1950813869380612185/photo/1",
+              "media_key": "3_1950813863139753984",
+              "start": 17,
+              "url": "https://t.co/l6LDwzNLjp"
+            },
+            {
+              "display_url": "x.com/kiriyama_hitor…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/kiriyama_hitori/status/1950794829027565857",
+              "start": 41,
+              "url": "https://t.co/2zeTTjbbGx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950813869380612185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950794829027565857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已严肃捐献（并非其他人身份证号码 https://t.co/l6LDwzNLjp https://t.co/2zeTTjbbGx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 1444,
+          "like_count": 26896,
+          "listed_count": 5,
+          "media_count": 234,
+          "tweet_count": 6651
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T07:45:44.000Z",
+        "description": "射手座 ISFP- T 鱼鱼蒸 先天心脏病 天主教✝️另外一个意识体是🍊/😃👍👉本人极度劳保 ✂️⛓️🤠/それでもいつか報われるからと思えばいいんでしょうか。 」",
+        "id": "1831961897899585536",
+        "location": "नमोऽवलोकितेश्वराय",
+        "name": "山东琳子✝️",
+        "pinned_tweet_id": "1950147079927714154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946297534508580864/iqbGFOa5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 995,
+          "like_count": 84107,
+          "listed_count": 3,
+          "media_count": 2481,
+          "tweet_count": 18921
+        },
+        "username": "Kiriyama_hitori",
+        "verified": false
+      }
+    ]
+  }
+}

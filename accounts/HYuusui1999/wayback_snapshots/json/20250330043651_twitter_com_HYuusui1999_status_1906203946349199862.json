@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1906185902189330520",
+    "created_at": "2025-03-30T04:36:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T05:36:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906203946349199862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "961552358906802176",
+          "start": 0,
+          "username": "dfdtc7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906203946349199862",
+    "in_reply_to_user_id": "961552358906802176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906200556382933410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dfdtc7 抱抱大头菜(´･ω･`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1906185902189330520",
+        "created_at": "2025-03-30T04:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T05:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906203946349199862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "961552358906802176",
+              "start": 0,
+              "username": "dfdtc7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906203946349199862",
+        "in_reply_to_user_id": "961552358906802176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906200556382933410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dfdtc7 抱抱大头菜(´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "961552358906802176",
+        "conversation_id": "1906185902189330520",
+        "created_at": "2025-03-30T04:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T05:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906200556382933410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906200556382933410",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906196520900202991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 但是她是真的给过我不自杀的承诺的😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1905989245266972950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 581,
+          "like_count": 12569,
+          "listed_count": 6,
+          "media_count": 112,
+          "tweet_count": 1961
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-08T10:48:41.000Z",
+        "description": "大头菜有最爱的人，但她已经不在了...",
+        "id": "961552358906802176",
+        "name": "dfdtc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887309919705325568/vm8zJROc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3816,
+          "following_count": 1769,
+          "like_count": 51397,
+          "listed_count": 11,
+          "media_count": 2272,
+          "tweet_count": 17121
+        },
+        "username": "dfdtc7",
+        "verified": false
+      }
+    ]
+  }
+}

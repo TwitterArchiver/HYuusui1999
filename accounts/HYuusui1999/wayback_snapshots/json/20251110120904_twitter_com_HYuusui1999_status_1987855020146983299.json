@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1987752553518608846",
+    "created_at": "2025-11-10T12:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T13:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987855020146983299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781308864438345728",
+          "start": 0,
+          "username": "FoxRed695449"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/avogado6/statu…",
+          "end": 37,
+          "expanded_url": "https://x.com/avogado6/status/1907785342884983109?s=20",
+          "start": 14,
+          "url": "https://t.co/QI3V843MjW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987855020146983299",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907785342884983109",
+        "type": "quoted"
+      },
+      {
+        "id": "1987752553518608846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxRed695449 https://t.co/QI3V843MjW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3900,
+        "media_key": "3_1907785282713493504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnnQm1PbIAAAaOW.jpg",
+        "width": 3000
+      },
+      {
+        "height": 1519,
+        "media_key": "3_1987752545046192128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5XqaHzbYAA3Emm.jpg",
+        "width": 1219
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1987752553518608846",
+        "created_at": "2025-11-10T12:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T13:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987855020146983299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/avogado6/statu…",
+              "end": 37,
+              "expanded_url": "https://x.com/avogado6/status/1907785342884983109?s=20",
+              "start": 14,
+              "url": "https://t.co/QI3V843MjW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987855020146983299",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907785342884983109",
+            "type": "quoted"
+          },
+          {
+            "id": "1987752553518608846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 https://t.co/QI3V843MjW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907785282713493504"
+          ]
+        },
+        "author_id": "324391547",
+        "conversation_id": "1907785342884983109",
+        "created_at": "2025-04-03T13:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T14:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907785342884983109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mOsegeXXfW",
+              "end": 27,
+              "expanded_url": "https://x.com/avogado6/status/1907785342884983109/photo/1",
+              "media_key": "3_1907785282713493504",
+              "start": 4,
+              "url": "https://t.co/mOsegeXXfW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907785342884983109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4983,
+          "impression_count": 2660961,
+          "like_count": 125461,
+          "quote_count": 415,
+          "reply_count": 209,
+          "retweet_count": 8964
+        },
+        "reply_settings": "everyone",
+        "text": "支える https://t.co/mOsegeXXfW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987752545046192128"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1987752553518608846",
+        "created_at": "2025-11-10T05:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T06:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987752553518608846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/efGm217bnd",
+              "end": 23,
+              "expanded_url": "https://x.com/FoxRed695449/status/1987752553518608846/photo/1",
+              "media_key": "3_1987752545046192128",
+              "start": 0,
+              "url": "https://t.co/efGm217bnd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987752553518608846",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/efGm217bnd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 2369,
+          "like_count": 39258,
+          "listed_count": 6,
+          "media_count": 296,
+          "tweet_count": 9437
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "Hi,這裡是RedFox(近期狀態不佳)|是一個Coser(至少曾經是),喜歡艾瑪(約定的夢幻島),白子(蔚藍檔案),阿米婭以及迷迭香(明日方舟)|是個家長党+年齡党吧(或許),關於從醫院/診所(內地及香港)獲取GnRh和HRT的相關問題可以私信問我,或許可以幫到你",
+        "id": "1781308864438345728",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1983033556189446277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987020404184260610/bLHBuLnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 679,
+          "like_count": 4783,
+          "listed_count": 7,
+          "media_count": 877,
+          "tweet_count": 2632
+        },
+        "username": "FoxRed695449",
+        "verified": true
+      },
+      {
+        "created_at": "2011-06-26T14:46:50.000Z",
+        "description": "化学が好きな一般人です。映像作品とか創ってます。https://t.co/lMOTGT5AX4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/28725264",
+                "end": 47,
+                "expanded_url": "http://nicovideo.jp/mylist/28725264",
+                "start": 24,
+                "url": "https://t.co/lMOTGT5AX4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "avogado6.com",
+                "end": 23,
+                "expanded_url": "https://www.avogado6.com/",
+                "start": 0,
+                "url": "https://t.co/C6ykDstxlb"
+              }
+            ]
+          }
+        },
+        "id": "324391547",
+        "name": "アボガド6",
+        "pinned_tweet_id": "1976586332177613174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/982977860804554753/2TGsjSo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2471616,
+          "following_count": 22,
+          "like_count": 35,
+          "listed_count": 9017,
+          "media_count": 3511,
+          "tweet_count": 4202
+        },
+        "url": "https://t.co/C6ykDstxlb",
+        "username": "avogado6",
+        "verified": true
+      }
+    ]
+  }
+}

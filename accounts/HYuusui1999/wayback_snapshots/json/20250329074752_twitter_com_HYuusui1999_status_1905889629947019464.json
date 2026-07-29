@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1905101053286375751",
+    "created_at": "2025-03-29T07:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T08:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905889629947019464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "961552358906802176",
+          "start": 0,
+          "username": "dfdtc7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905889629947019464",
+    "in_reply_to_user_id": "961552358906802176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905101053286375751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dfdtc7 大头菜也不要出事哦(´･ω･`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1905101053286375751",
+        "created_at": "2025-03-29T07:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T08:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905889629947019464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "961552358906802176",
+              "start": 0,
+              "username": "dfdtc7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905889629947019464",
+        "in_reply_to_user_id": "961552358906802176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905101053286375751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dfdtc7 大头菜也不要出事哦(´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "961552358906802176",
+        "conversation_id": "1905101053286375751",
+        "created_at": "2025-03-27T03:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T04:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905101053286375751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fexisnpc/statu…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/fexisnpc/status/1905054702573900231",
+              "start": 50,
+              "url": "https://t.co/8lm0SZFONP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905101053286375751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3230,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905054702573900231",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大头菜那个时候只是想带她去好一点医院看病而已...\n不然她会出事的...\n大头菜不想有人出事... https://t.co/8lm0SZFONP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1903418336572305499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 533,
+          "like_count": 12069,
+          "listed_count": 6,
+          "media_count": 108,
+          "tweet_count": 1829
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-08T10:48:41.000Z",
+        "description": "大头菜有最爱的人，但她已经不在了...",
+        "id": "961552358906802176",
+        "name": "dfdtc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887309919705325568/vm8zJROc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3812,
+          "following_count": 1773,
+          "like_count": 51374,
+          "listed_count": 11,
+          "media_count": 2271,
+          "tweet_count": 17102
+        },
+        "username": "dfdtc7",
+        "verified": false
+      }
+    ]
+  }
+}

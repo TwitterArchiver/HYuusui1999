@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1998963836951605693",
+    "created_at": "2025-12-11T12:10:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T13:10:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999089422831386667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1858023201588260865",
+          "start": 0,
+          "username": "VonLinne2003"
+        },
+        {
+          "end": 28,
+          "id": "1526630725851787264",
+          "start": 14,
+          "username": "Schnee_Irene_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999089422831386667",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999087072314118415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VonLinne2003 @Schnee_Irene_ 这两个可以实现自动爬取帖文和回复\n比较方便\n但是比较吃储存空间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1998963836951605693",
+        "created_at": "2025-12-11T12:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T13:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999089422831386667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858023201588260865",
+              "start": 0,
+              "username": "VonLinne2003"
+            },
+            {
+              "end": 28,
+              "id": "1526630725851787264",
+              "start": 14,
+              "username": "Schnee_Irene_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999089422831386667",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999087072314118415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VonLinne2003 @Schnee_Irene_ 这两个可以实现自动爬取帖文和回复\n比较方便\n但是比较吃储存空间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1998963836951605693",
+        "created_at": "2025-12-11T12:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T13:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999087072314118415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858023201588260865",
+              "start": 0,
+              "username": "VonLinne2003"
+            },
+            {
+              "end": 28,
+              "id": "1526630725851787264",
+              "start": 14,
+              "username": "Schnee_Irene_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "TwExportly is a Chrome extension for Twitter, allows you to export & download tweets from any account into an CSV or Excel file.",
+              "display_url": "chromewebstore.google.com/detail/twexpor…",
+              "end": 66,
+              "expanded_url": "https://chromewebstore.google.com/detail/twexportly-export-tweets/hbibehafoapglhcgfhlpifagloecmhfh",
+              "images": [
+                {
+                  "height": 128,
+                  "url": "https://pbs.twimg.com/news_img/1999087073815638017/f2uQI9Hr?format=jpg&name=orig",
+                  "width": 128
+                },
+                {
+                  "height": 128,
+                  "url": "https://pbs.twimg.com/news_img/1999087073815638017/f2uQI9Hr?format=jpg&name=150x150",
+                  "width": 128
+                }
+              ],
+              "start": 43,
+              "status": 200,
+              "title": "TwExportly: Export Tweets From Any Account - Chrome Web Store",
+              "unwound_url": "https://chromewebstore.google.com/detail/twexportly-export-tweets/hbibehafoapglhcgfhlpifagloecmhfh",
+              "url": "https://t.co/uN4LwHzfI2"
+            },
+            {
+              "description": "One click to export and download tweets from any user to CSV.",
+              "display_url": "chromewebstore.google.com/detail/tweetex…",
+              "end": 90,
+              "expanded_url": "https://chromewebstore.google.com/detail/tweetexporter-export-twee/bfkchioljbanmplddkgpalpjandldafa",
+              "images": [
+                {
+                  "height": 128,
+                  "url": "https://pbs.twimg.com/news_img/1999087072616046592/Ppjp9sK3?format=jpg&name=orig",
+                  "width": 128
+                },
+                {
+                  "height": 128,
+                  "url": "https://pbs.twimg.com/news_img/1999087072616046592/Ppjp9sK3?format=jpg&name=150x150",
+                  "width": 128
+                }
+              ],
+              "start": 67,
+              "status": 200,
+              "title": "TweetExporter - Export Tweets From Any User - Chrome Web Store",
+              "unwound_url": "https://chromewebstore.google.com/detail/tweetexporter-export-twee/bfkchioljbanmplddkgpalpjandldafa",
+              "url": "https://t.co/wOvHrt9y34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999087072314118415",
+        "in_reply_to_user_id": "1858023201588260865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999026013775503539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VonLinne2003 @Schnee_Irene_ 两个可以导出用户推文的插件\nhttps://t.co/uN4LwHzfI2\nhttps://t.co/wOvHrt9y34"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 2628,
+          "like_count": 41946,
+          "listed_count": 6,
+          "media_count": 305,
+          "tweet_count": 10306
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T05:43:58.000Z",
+        "description": "安徽老乡鸡餐饮有限公司深池分公司",
+        "id": "1858023201588260865",
+        "location": "深池",
+        "name": "深池老乡鸡 LaoXiangJi in Dubhlind",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998940652625920000/et-qaSSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 315,
+          "like_count": 10955,
+          "listed_count": 3,
+          "media_count": 149,
+          "tweet_count": 4132
+        },
+        "username": "VonLinne2003",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-17T18:28:42.000Z",
+        "description": "いい子",
+        "id": "1526630725851787264",
+        "name": "Schnee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983914127832866816/D0K39wiI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 11,
+          "like_count": 557,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 91
+        },
+        "username": "Schnee_Irene_",
+        "verified": false
+      }
+    ]
+  }
+}

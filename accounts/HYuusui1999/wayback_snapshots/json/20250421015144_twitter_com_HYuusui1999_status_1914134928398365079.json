@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1913973211718472160",
+    "created_at": "2025-04-21T01:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T02:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914134928398365079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771230355896561664",
+          "start": 0,
+          "username": "in2dkira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914134928398365079",
+    "in_reply_to_user_id": "1771230355896561664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913973211718472160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@in2dkira 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1913973211718472160",
+        "created_at": "2025-04-21T01:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T02:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914134928398365079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771230355896561664",
+              "start": 0,
+              "username": "in2dkira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914134928398365079",
+        "in_reply_to_user_id": "1771230355896561664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913973211718472160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@in2dkira 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771230355896561664",
+        "conversation_id": "1913973211718472160",
+        "created_at": "2025-04-20T15:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T16:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913973211718472160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lbuprofen_swns…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/lbuprofen_swnsn/status/1913636379608883283",
+              "start": 9,
+              "url": "https://t.co/2Dj3TLTmYn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913973211718472160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 343,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913636379608883283",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我比真嗣更惨 https://t.co/2Dj3TLTmYn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1912415808413647168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 767,
+          "like_count": 16653,
+          "listed_count": 6,
+          "media_count": 155,
+          "tweet_count": 3316
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T17:40:16.000Z",
+        "description": "前@Akira_10190208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 1,
+                "username": "Akira_10190208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/y20QcgJ",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/y20QcgJ",
+                "start": 0,
+                "url": "https://t.co/6QBGLH6G9I"
+              }
+            ]
+          }
+        },
+        "id": "1771230355896561664",
+        "location": "奈落",
+        "name": "Akira 源",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904357455104258048/8U1s5amP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 94,
+          "like_count": 3311,
+          "listed_count": 2,
+          "media_count": 318,
+          "tweet_count": 1340
+        },
+        "url": "https://t.co/6QBGLH6G9I",
+        "username": "in2dkira",
+        "verified": false
+      }
+    ]
+  }
+}

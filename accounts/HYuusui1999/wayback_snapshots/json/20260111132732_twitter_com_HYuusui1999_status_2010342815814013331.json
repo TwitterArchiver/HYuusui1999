@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010337367614177280"
+      ],
+      "media_source_tweet_id": [
+        "2010337404847260164"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2010342815814013331",
+    "created_at": "2026-01-11T13:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T14:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010342815814013331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878681729407356928",
+          "start": 3,
+          "username": "HYuusui1999"
+        },
+        {
+          "end": 33,
+          "id": "1633959561345335300",
+          "start": 17,
+          "username": "allegrarabinow1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u5e3LSKFNi",
+          "end": 69,
+          "expanded_url": "https://x.com/HYuusui1999/status/2010337404847260164/photo/1",
+          "media_key": "3_2010337367614177280",
+          "start": 46,
+          "url": "https://t.co/u5e3LSKFNi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010342815814013331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010337404847260164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HYuusui1999: @allegrarabinow1 翕然Ruth帳號已凍結 https://t.co/u5e3LSKFNi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2010342815814013331].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2010342815814013331",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2010342815814013331"
+    },
+    {
+      "detail": "User has been suspended: [allegrarabinow1].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "allegrarabinow1",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "allegrarabinow1"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 850,
+        "media_key": "3_2010337367614177280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-YnL0NWQAA7wF6.jpg",
+        "width": 2044
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010337367614177280"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "2010337404847260164",
+        "created_at": "2026-01-11T13:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T14:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010337404847260164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1633959561345335300",
+              "start": 0,
+              "username": "allegrarabinow1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u5e3LSKFNi",
+              "end": 52,
+              "expanded_url": "https://x.com/HYuusui1999/status/2010337404847260164/photo/1",
+              "media_key": "3_2010337367614177280",
+              "start": 29,
+              "url": "https://t.co/u5e3LSKFNi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010337404847260164",
+        "in_reply_to_user_id": "1633959561345335300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@allegrarabinow1 翕然Ruth帳號已凍結 https://t.co/u5e3LSKFNi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 2867,
+          "like_count": 43563,
+          "listed_count": 6,
+          "media_count": 342,
+          "tweet_count": 10757
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

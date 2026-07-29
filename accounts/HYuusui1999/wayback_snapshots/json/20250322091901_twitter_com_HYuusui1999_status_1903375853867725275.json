@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1903364300292690205",
+    "created_at": "2025-03-22T09:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T10:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903375853867725275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1835282674455613440",
+          "start": 0,
+          "username": "Amamiya_kksk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903375853867725275",
+    "in_reply_to_user_id": "1835282674455613440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903364300292690205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amamiya_kksk ？您哪位"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1903364300292690205",
+        "created_at": "2025-03-22T09:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T10:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903375853867725275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1835282674455613440",
+              "start": 0,
+              "username": "Amamiya_kksk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903375853867725275",
+        "in_reply_to_user_id": "1835282674455613440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903364300292690205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amamiya_kksk ？您哪位"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835282674455613440",
+        "conversation_id": "1903364300292690205",
+        "created_at": "2025-03-22T08:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T09:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903364300292690205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903364300292690205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜我是谁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1903296770777682232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 506,
+          "like_count": 11490,
+          "listed_count": 6,
+          "media_count": 94,
+          "tweet_count": 1672
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T11:41:25.000Z",
+        "description": "Non-binary💛🤍💜🖤/Any pronoun/中文🇨🇳🇹🇼/English🇬🇧🇺🇲/日本語🇯🇵/DMs are welcome/自我认同为废物/ バカ@inaba_tsumugi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 79,
+                "username": "inaba_tsumugi"
+              }
+            ]
+          }
+        },
+        "id": "1835282674455613440",
+        "location": "Your heart❤",
+        "name": "雨宮ミズキ",
+        "pinned_tweet_id": "1835311114860605472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903364202183770112/USSwGR2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 29,
+          "like_count": 228,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 110
+        },
+        "username": "Amamiya_kksk",
+        "verified": false
+      }
+    ]
+  }
+}

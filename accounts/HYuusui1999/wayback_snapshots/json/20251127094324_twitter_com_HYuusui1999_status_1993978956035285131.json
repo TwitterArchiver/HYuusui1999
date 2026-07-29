@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993974315981922305"
+      ],
+      "media_source_tweet_id": [
+        "1993974322252402785"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+          "id": "1502374025170882561",
+          "name": "WhatsApp"
+        }
+      }
+    ],
+    "conversation_id": "1993978956035285131",
+    "created_at": "2025-11-27T09:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T10:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993978956035285131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1749569248371023872",
+          "start": 3,
+          "username": "Eureka222323"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x7TquBfQ1x",
+          "end": 79,
+          "expanded_url": "https://x.com/Eureka222323/status/1993974322252402785/photo/1",
+          "media_key": "3_1993974315981922305",
+          "start": 56,
+          "url": "https://t.co/x7TquBfQ1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993978956035285131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993974322252402785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Eureka222323: 最新更新：從今天到星期六在大埔的三家麥當勞為災民24小時免費提供食物及飲品 https://t.co/x7TquBfQ1x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993974315981922305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wFE2ta4AEBb5-.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993974315981922305"
+          ],
+          "media_source_tweet_id": [
+            "1993974322252402785"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+              "id": "1502374025170882561",
+              "name": "WhatsApp"
+            }
+          }
+        ],
+        "conversation_id": "1993978956035285131",
+        "created_at": "2025-11-27T09:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993978956035285131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1749569248371023872",
+              "start": 3,
+              "username": "Eureka222323"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x7TquBfQ1x",
+              "end": 79,
+              "expanded_url": "https://x.com/Eureka222323/status/1993974322252402785/photo/1",
+              "media_key": "3_1993974315981922305",
+              "start": 56,
+              "url": "https://t.co/x7TquBfQ1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993978956035285131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993974322252402785",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Eureka222323: 最新更新：從今天到星期六在大埔的三家麥當勞為災民24小時免費提供食物及飲品 https://t.co/x7TquBfQ1x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993974315981922305"
+          ]
+        },
+        "author_id": "1749569248371023872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+              "id": "1502374025170882561",
+              "name": "WhatsApp"
+            }
+          }
+        ],
+        "conversation_id": "1993974322252402785",
+        "created_at": "2025-11-27T09:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993974322252402785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x7TquBfQ1x",
+              "end": 61,
+              "expanded_url": "https://x.com/Eureka222323/status/1993974322252402785/photo/1",
+              "media_key": "3_1993974315981922305",
+              "start": 38,
+              "url": "https://t.co/x7TquBfQ1x"
+            },
+            {
+              "display_url": "x.com/mottoye89/stat…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/mottoye89/status/1993742399009640593",
+              "start": 62,
+              "url": "https://t.co/uIWyzMmWSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993974322252402785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993742399009640593",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最新更新：從今天到星期六在大埔的三家麥當勞為災民24小時免費提供食物及飲品 https://t.co/x7TquBfQ1x https://t.co/uIWyzMmWSL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 2473,
+          "like_count": 40533,
+          "listed_count": 6,
+          "media_count": 302,
+          "tweet_count": 9855
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T23:06:35.000Z",
+        "description": "HK 18｜❤️🥰@Huimao_ow｜小女孩｜也可以叫我优莱卡/莱卡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Huimao_ow"
+              }
+            ]
+          }
+        },
+        "id": "1749569248371023872",
+        "location": "崩潰邊緣",
+        "name": "Eureka 阮玲玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993210147955781632/NDjSA-Xk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 1974,
+          "like_count": 60588,
+          "listed_count": 3,
+          "media_count": 860,
+          "tweet_count": 11451
+        },
+        "username": "Eureka222323",
+        "verified": false
+      }
+    ]
+  }
+}

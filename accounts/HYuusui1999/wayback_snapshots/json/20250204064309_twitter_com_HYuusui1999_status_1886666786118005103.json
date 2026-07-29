@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886666762411737088"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1886666786118005103",
+    "created_at": "2025-02-04T06:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T07:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886666786118005103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XTEPTRzZW7",
+          "end": 35,
+          "expanded_url": "https://x.com/HYuusui1999/status/1886666786118005103/photo/1",
+          "media_key": "3_1886666762411737088",
+          "start": 12,
+          "url": "https://t.co/XTEPTRzZW7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886666786118005103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这teresa是晶吗？ https://t.co/XTEPTRzZW7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 820,
+        "media_key": "3_1886666762411737088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi7JbKcWgAA9o7z.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886666762411737088"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1886666786118005103",
+        "created_at": "2025-02-04T06:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T07:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886666786118005103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XTEPTRzZW7",
+              "end": 35,
+              "expanded_url": "https://x.com/HYuusui1999/status/1886666786118005103/photo/1",
+              "media_key": "3_1886666762411737088",
+              "start": 12,
+              "url": "https://t.co/XTEPTRzZW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886666786118005103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这teresa是晶吗？ https://t.co/XTEPTRzZW7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1886317348082119135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 333,
+          "like_count": 6302,
+          "listed_count": 4,
+          "media_count": 55,
+          "tweet_count": 751
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

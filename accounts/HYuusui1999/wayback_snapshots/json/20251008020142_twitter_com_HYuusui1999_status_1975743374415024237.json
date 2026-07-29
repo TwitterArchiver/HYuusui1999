@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975585651820273664"
+      ],
+      "media_source_tweet_id": [
+        "1975585654999220683"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1975743374415024237",
+    "created_at": "2025-10-08T02:01:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T03:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975743374415024237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1621855735184515074",
+          "start": 3,
+          "username": "baejaan0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4rqzyQQz56",
+          "end": 37,
+          "expanded_url": "https://x.com/baejaan0/status/1975585654999220683/photo/1",
+          "media_key": "3_1975585651820273664",
+          "start": 14,
+          "url": "https://t.co/4rqzyQQz56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975743374415024237",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 456
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975585654999220683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baejaan0: https://t.co/4rqzyQQz56"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2035,
+        "media_key": "3_1975585651820273664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qwrugbIAAE7ei.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975585651820273664"
+          ],
+          "media_source_tweet_id": [
+            "1975585654999220683"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1975743374415024237",
+        "created_at": "2025-10-08T02:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T03:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975743374415024237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1621855735184515074",
+              "start": 3,
+              "username": "baejaan0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4rqzyQQz56",
+              "end": 37,
+              "expanded_url": "https://x.com/baejaan0/status/1975585654999220683/photo/1",
+              "media_key": "3_1975585651820273664",
+              "start": 14,
+              "url": "https://t.co/4rqzyQQz56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975743374415024237",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 456
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975585654999220683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baejaan0: https://t.co/4rqzyQQz56"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975585651820273664"
+          ]
+        },
+        "author_id": "1621855735184515074",
+        "conversation_id": "1975585654999220683",
+        "created_at": "2025-10-07T15:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T16:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975585654999220683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4rqzyQQz56",
+              "end": 23,
+              "expanded_url": "https://x.com/baejaan0/status/1975585654999220683/photo/1",
+              "media_key": "3_1975585651820273664",
+              "start": 0,
+              "url": "https://t.co/4rqzyQQz56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975585654999220683",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 802,
+          "impression_count": 37420,
+          "like_count": 4603,
+          "quote_count": 31,
+          "reply_count": 7,
+          "retweet_count": 456
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4rqzyQQz56"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 2015,
+          "like_count": 34546,
+          "listed_count": 6,
+          "media_count": 278,
+          "tweet_count": 8670
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T12:58:58.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/baejaan0",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/baejaan0",
+                "start": 0,
+                "url": "https://t.co/eK47gG5x0y"
+              }
+            ]
+          }
+        },
+        "id": "1621855735184515074",
+        "name": "단베",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960627654694199297/b4uPB8Ad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6052,
+          "following_count": 10,
+          "like_count": 16518,
+          "listed_count": 13,
+          "media_count": 20,
+          "tweet_count": 4009
+        },
+        "url": "https://t.co/eK47gG5x0y",
+        "username": "baejaan0",
+        "verified": false
+      }
+    ]
+  }
+}

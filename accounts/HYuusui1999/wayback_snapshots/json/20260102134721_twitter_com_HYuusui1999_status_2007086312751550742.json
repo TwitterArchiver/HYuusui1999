@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2006394934333710386",
+    "created_at": "2026-01-02T13:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T14:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007086312751550742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        },
+        {
+          "end": 20,
+          "id": "1420377473901072390",
+          "start": 8,
+          "username": "Timfurry233"
+        },
+        {
+          "end": 28,
+          "id": "1817584080437014528",
+          "start": 21,
+          "username": "N552AA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007086312751550742",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006701598345748750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop @Timfurry233 @N552AA 何必"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [N552AA].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "N552AA",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "N552AA"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2006394934333710386",
+        "created_at": "2026-01-02T13:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T14:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007086312751550742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            },
+            {
+              "end": 20,
+              "id": "1420377473901072390",
+              "start": 8,
+              "username": "Timfurry233"
+            },
+            {
+              "end": 28,
+              "id": "1817584080437014528",
+              "start": 21,
+              "username": "N552AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007086312751550742",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006701598345748750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop @Timfurry233 @N552AA 何必"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613079089879076864",
+        "conversation_id": "2006394934333710386",
+        "created_at": "2026-01-01T12:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T13:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006701598345748750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420377473901072390",
+              "start": 0,
+              "username": "Timfurry233"
+            },
+            {
+              "end": 20,
+              "id": "1817584080437014528",
+              "start": 13,
+              "username": "N552AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006701598345748750",
+        "in_reply_to_user_id": "1420377473901072390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006632041086128292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Timfurry233 @N552AA 这是真史官👍大家多多支持"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 2863,
+          "like_count": 43762,
+          "listed_count": 6,
+          "media_count": 334,
+          "tweet_count": 10732
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2006394934333710386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96450,
+          "following_count": 665,
+          "like_count": 33464,
+          "listed_count": 275,
+          "media_count": 14544,
+          "tweet_count": 21047
+        },
+        "username": "Cldeop",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-28T13:36:23.000Z",
+        "description": "wikifur维基兽！/立志成为编程兽/咱是一只furry哦！⚠️偶尔会有🔞内容啦( ˃̶̤́ ꒳ ˂̶̤̀ )，懂一点点前端代码啦，但还很生疏💻中文⭕️English⭕️/日本语❌机翻telegram: https://t.co/5gGVDFM0WF blog: https://t.co/sjwsjkH2Lt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/im_furry_Data",
+                "end": 126,
+                "expanded_url": "http://t.me/im_furry_Data",
+                "start": 103,
+                "url": "https://t.co/5gGVDFM0WF"
+              },
+              {
+                "display_url": "furries.fun",
+                "end": 156,
+                "expanded_url": "https://furries.fun",
+                "start": 133,
+                "url": "https://t.co/sjwsjkH2Lt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "furries.fun",
+                "end": 23,
+                "expanded_url": "https://furries.fun",
+                "start": 0,
+                "url": "https://t.co/sjwsjkH2Lt"
+              }
+            ]
+          }
+        },
+        "id": "1420377473901072390",
+        "location": "毛毛之家: furryhome.cn",
+        "name": "xiaohuangbo🔜大学",
+        "pinned_tweet_id": "1998775629785813199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957346714417037312/nxpCXagl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4059,
+          "following_count": 2937,
+          "like_count": 28785,
+          "listed_count": 17,
+          "media_count": 504,
+          "tweet_count": 2913
+        },
+        "url": "https://t.co/sjwsjkH2Lt",
+        "username": "Timfurry233",
+        "verified": true
+      }
+    ]
+  }
+}

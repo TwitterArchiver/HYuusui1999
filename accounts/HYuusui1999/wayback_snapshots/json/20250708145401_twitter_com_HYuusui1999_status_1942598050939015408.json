@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1942535218541334724",
+    "created_at": "2025-07-08T14:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T15:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942598050939015408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818464663983865863",
+          "start": 0,
+          "username": "2843000985PRC"
+        },
+        {
+          "end": 31,
+          "id": "1679788677583765505",
+          "start": 15,
+          "username": "YlYpBKkt3257198"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942598050939015408",
+    "in_reply_to_user_id": "1818464663983865863",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942597783686692999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2843000985PRC @YlYpBKkt3257198 我不是涩推我不是（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1942535218541334724",
+        "created_at": "2025-07-08T14:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T15:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942598050939015408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1818464663983865863",
+              "start": 0,
+              "username": "2843000985PRC"
+            },
+            {
+              "end": 31,
+              "id": "1679788677583765505",
+              "start": 15,
+              "username": "YlYpBKkt3257198"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942598050939015408",
+        "in_reply_to_user_id": "1818464663983865863",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942597783686692999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2843000985PRC @YlYpBKkt3257198 我不是涩推我不是（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818464663983865863",
+        "conversation_id": "1942535218541334724",
+        "created_at": "2025-07-08T14:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T15:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942597783686692999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1679788677583765505",
+              "start": 0,
+              "username": "YlYpBKkt3257198"
+            },
+            {
+              "end": 29,
+              "id": "1878681729407356928",
+              "start": 17,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942597783686692999",
+        "in_reply_to_user_id": "1679788677583765505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942543601373962287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YlYpBKkt3257198 @HYuusui1999 Wow，润之 还认识这样的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 1351,
+          "like_count": 24777,
+          "listed_count": 5,
+          "media_count": 217,
+          "tweet_count": 6106
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T01:52:33.000Z",
+        "description": "大雨落幽燕，\n白浪滔天，\n秦皇岛外打渔船。\n一片汪洋都不见，\n知向谁边？\n\n往事越千年，\n魏武挥鞭，\n东临碣石有遗篇。\n萧瑟秋风今又是，\n换了人间。",
+        "id": "1818464663983865863",
+        "location": "People's Republic of China",
+        "name": "𝓒𝓱𝓪𝓲𝓻𝓶𝓪𝓷 𝓜𝓪𝓸 ☭",
+        "pinned_tweet_id": "1895418225657340368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939197610041999360/qY7kyTkx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 120,
+          "like_count": 2961,
+          "listed_count": 5,
+          "media_count": 935,
+          "tweet_count": 2033
+        },
+        "username": "2843000985PRC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T09:43:50.000Z",
+        "description": "东叔不键政哈❌太无脑的也会开喷，这号纯闲聊，分享日常，喜欢东叔的点点关注，平时喜欢写写字 画画 弹琴🫨养🐱，不是毛左（和别人聊过才知道自己理论不强 学习中）希望能cos好东叔（一般都会互fo🫡）",
+        "id": "1679788677583765505",
+        "location": "延安",
+        "name": "毛润之 Mao Zedong （互Fo 🌟",
+        "pinned_tweet_id": "1926307011936895091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924727739220951041/hFlBgl8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1819,
+          "following_count": 2227,
+          "like_count": 14754,
+          "listed_count": 4,
+          "media_count": 259,
+          "tweet_count": 5664
+        },
+        "username": "YlYpBKkt3257198",
+        "verified": false
+      }
+    ]
+  }
+}

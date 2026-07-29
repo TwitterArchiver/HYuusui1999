@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1972288643240022119",
+    "created_at": "2025-09-28T23:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T00:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972446228718989554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844926832967286785",
+          "start": 0,
+          "username": "orisam123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972446228718989554",
+    "in_reply_to_user_id": "1844926832967286785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972288643240022119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orisam123 我也想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1972288643240022119",
+        "created_at": "2025-09-28T23:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T00:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972446228718989554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "orisam123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972446228718989554",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972288643240022119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orisam123 我也想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "1972288643240022119",
+        "created_at": "2025-09-28T13:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T14:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972288643240022119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972288643240022119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想找人打架，有人懂我意思吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 1948,
+          "like_count": 33275,
+          "listed_count": 6,
+          "media_count": 271,
+          "tweet_count": 8299
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "从2024年七月初开始的饭桶（减肥中)\n   |     \n闺蜜&姐姐&引路人:  \n@zihou1968025650\n\ntg群组:\nhttps://t.co/yTt9lE770i\n\n|  广告栏  日雌370 @Cheese_Ghostfox 东北地区发货24h在线",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "zihou1968025650"
+              },
+              {
+                "end": 122,
+                "start": 106,
+                "username": "Cheese_Ghostfox"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+keUB4EQpayswN…",
+                "end": 90,
+                "expanded_url": "https://t.me/+keUB4EQpayswNThl",
+                "start": 67,
+                "url": "https://t.co/yTt9lE770i"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "新京",
+        "name": "折筱orisam🏳️‍⚧️🍛🍚🍲🍙🍱🍣",
+        "pinned_tweet_id": "1972221820309995562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972221628097708032/LU2zOJtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2696,
+          "following_count": 1192,
+          "like_count": 51740,
+          "listed_count": 4,
+          "media_count": 676,
+          "tweet_count": 13442
+        },
+        "username": "orisam123",
+        "verified": false
+      }
+    ]
+  }
+}

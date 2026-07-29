@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003042497715380224"
+      ],
+      "media_source_tweet_id": [
+        "2003042539931365806"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2055552856695140545",
+    "created_at": "2026-05-16T07:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T08:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055552856695140545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878681729407356928",
+          "start": 3,
+          "username": "HYuusui1999"
+        },
+        {
+          "end": 32,
+          "id": "1000763746430500865",
+          "start": 17,
+          "username": "manoj901858808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GzuA2Sp6Lo",
+          "end": 66,
+          "expanded_url": "https://x.com/HYuusui1999/status/2003042539931365806/photo/1",
+          "media_key": "3_2003042497715380224",
+          "start": 43,
+          "url": "https://t.co/GzuA2Sp6Lo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055552856695140545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003042539931365806",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HYuusui1999: @manoj901858808 我本还泪帳號已凍結 https://t.co/GzuA2Sp6Lo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055552856695140545].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055552856695140545",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055552856695140545"
+    },
+    {
+      "detail": "User has been suspended: [manoj901858808].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "manoj901858808",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "manoj901858808"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_2003042497715380224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8w8igJWIAAXtzC.jpg",
+        "width": 2044
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003042497715380224"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "2003042539931365806",
+        "created_at": "2025-12-22T09:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T10:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003042539931365806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1000763746430500865",
+              "start": 0,
+              "username": "manoj901858808"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzuA2Sp6Lo",
+              "end": 49,
+              "expanded_url": "https://x.com/HYuusui1999/status/2003042539931365806/photo/1",
+              "media_key": "3_2003042497715380224",
+              "start": 26,
+              "url": "https://t.co/GzuA2Sp6Lo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003042539931365806",
+        "in_reply_to_user_id": "1000763746430500865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3000,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "@manoj901858808 我本还泪帳號已凍結 https://t.co/GzuA2Sp6Lo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 3291,
+          "like_count": 44966,
+          "listed_count": 6,
+          "media_count": 369,
+          "tweet_count": 11701
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

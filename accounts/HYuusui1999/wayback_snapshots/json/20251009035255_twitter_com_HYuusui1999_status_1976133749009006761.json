@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976050353641816065"
+      ],
+      "media_source_tweet_id": [
+        "1976050361535525326"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1976133749009006761",
+    "created_at": "2025-10-09T03:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T04:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976133749009006761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1433678976564662273",
+          "start": 3,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IlFHixgr9B",
+          "end": 43,
+          "expanded_url": "https://x.com/hsn8086/status/1976050361535525326/photo/1",
+          "media_key": "3_1976050353641816065",
+          "start": 20,
+          "url": "https://t.co/IlFHixgr9B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976133749009006761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976050361535525326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086: 老资历给跪了 https://t.co/IlFHixgr9B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1040,
+        "media_key": "3_1976050353641816065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2xXU7sbAAERYMd.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976050353641816065"
+          ],
+          "media_source_tweet_id": [
+            "1976050361535525326"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1976133749009006761",
+        "created_at": "2025-10-09T03:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T04:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976133749009006761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1433678976564662273",
+              "start": 3,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IlFHixgr9B",
+              "end": 43,
+              "expanded_url": "https://x.com/hsn8086/status/1976050361535525326/photo/1",
+              "media_key": "3_1976050353641816065",
+              "start": 20,
+              "url": "https://t.co/IlFHixgr9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976133749009006761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976050361535525326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086: 老资历给跪了 https://t.co/IlFHixgr9B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976050353641816065"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1976050361535525326",
+        "created_at": "2025-10-08T22:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T23:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976050361535525326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IlFHixgr9B",
+              "end": 30,
+              "expanded_url": "https://x.com/hsn8086/status/1976050361535525326/photo/1",
+              "media_key": "3_1976050353641816065",
+              "start": 7,
+              "url": "https://t.co/IlFHixgr9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976050361535525326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 51606,
+          "like_count": 351,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "老资历给跪了 https://t.co/IlFHixgr9B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 2053,
+          "like_count": 34892,
+          "listed_count": 6,
+          "media_count": 280,
+          "tweet_count": 8715
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967874771443650562/Dp0kz42r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98867,
+          "following_count": 988,
+          "like_count": 45121,
+          "listed_count": 223,
+          "media_count": 16348,
+          "tweet_count": 24098
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

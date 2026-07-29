@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1959210087333138535",
+    "created_at": "2025-08-23T11:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T12:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959210087333138535"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 17,
+          "tag": "请重点关注"
+        },
+        {
+          "end": 69,
+          "start": 65,
+          "tag": "请扩散"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878681729407356928",
+          "start": 3,
+          "username": "HYuusui1999"
+        },
+        {
+          "end": 55,
+          "id": "1831961897899585536",
+          "start": 39,
+          "username": "kiriyama_hitori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959210087333138535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959208596904055259",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HYuusui1999: #请重点关注 哪位朋友有当事人信息请提供给 @kiriyama_hitori /我 或直接报警\n#请扩散"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1959210087333138535",
+        "created_at": "2025-08-23T11:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T12:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959210087333138535"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "请重点关注"
+            },
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "请扩散"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1878681729407356928",
+              "start": 3,
+              "username": "HYuusui1999"
+            },
+            {
+              "end": 55,
+              "id": "1831961897899585536",
+              "start": 39,
+              "username": "kiriyama_hitori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959210087333138535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959208596904055259",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HYuusui1999: #请重点关注 哪位朋友有当事人信息请提供给 @kiriyama_hitori /我 或直接报警\n#请扩散"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1959208596904055259",
+        "created_at": "2025-08-23T10:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T11:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959208596904055259"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "请重点关注"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "请扩散"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1831961897899585536",
+              "start": 22,
+              "username": "kiriyama_hitori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ln_fbsq/status…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/ln_fbsq/status/1959163683436994695",
+              "start": 53,
+              "url": "https://t.co/Fa1XZsNjp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959208596904055259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959163683436994695",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#请重点关注 哪位朋友有当事人信息请提供给 @kiriyama_hitori /我 或直接报警\n#请扩散 https://t.co/Fa1XZsNjp1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 1603,
+          "like_count": 29436,
+          "listed_count": 5,
+          "media_count": 254,
+          "tweet_count": 7482
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T07:45:44.000Z",
+        "description": "典型低端人口 射手座 ISFP- T 鱼鱼蒸 先天心脏病 另外一个意识体是自己猜去吧哈哈/号主极度劳保 ✂️⛓️",
+        "id": "1831961897899585536",
+        "location": "距离你7.8公里",
+        "name": "黑夜里的波奇",
+        "pinned_tweet_id": "1958777531307630698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958993448880807936/PwYqjojt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 815,
+          "like_count": 87815,
+          "listed_count": 3,
+          "media_count": 2673,
+          "tweet_count": 20404
+        },
+        "username": "kiriyama_hitori",
+        "verified": false
+      }
+    ]
+  }
+}

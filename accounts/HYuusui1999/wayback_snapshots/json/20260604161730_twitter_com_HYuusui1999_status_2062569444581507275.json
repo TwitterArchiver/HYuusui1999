@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2062569444581507275",
+    "created_at": "2026-06-04T16:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062569444581507275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1869031385425743872",
+          "start": 3,
+          "username": "AkaHenrry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062569444581507275",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062491629714538659",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AkaHenrry: vico🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2062569444581507275",
+        "created_at": "2026-06-04T16:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062569444581507275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1869031385425743872",
+              "start": 3,
+              "username": "AkaHenrry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062569444581507275",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062491629714538659",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AkaHenrry: vico🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869031385425743872",
+        "conversation_id": "2062491629714538659",
+        "created_at": "2026-06-04T11:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062491629714538659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mantou0618/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/mantou0618/status/2062482735340605556",
+              "start": 6,
+              "url": "https://t.co/YgZWvGe6Lx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062491629714538659",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 294,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062482735340605556",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "vico🥲 https://t.co/YgZWvGe6Lx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 3355,
+          "like_count": 45175,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 11778
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T14:47:13.000Z",
+        "description": "中文/日本語（勉強ing..）/EN ｜BI头指定二区卡局qeg | code｜同好互fo｜working together for better tomorrow!｜不要键政，这是日常推｜ 系二刺螈，很好说话。希望和大家好好相处(๑•ᴗ•๑)♡\n小账：@wi98114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "wi98114"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiyz.is-a.dev",
+                "end": 23,
+                "expanded_url": "https://tiyz.is-a.dev",
+                "start": 0,
+                "url": "https://t.co/8kNtlzRJ30"
+              }
+            ]
+          }
+        },
+        "id": "1869031385425743872",
+        "location": "Koto-ku, Tokyo",
+        "name": "希文｜しうん（goodbye）",
+        "pinned_tweet_id": "2045864999906931180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044807012719206400/xBZg97tw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 270,
+          "like_count": 5449,
+          "listed_count": 2,
+          "media_count": 698,
+          "tweet_count": 2733
+        },
+        "url": "https://t.co/8kNtlzRJ30",
+        "username": "AkaHenrry",
+        "verified": true
+      }
+    ]
+  }
+}

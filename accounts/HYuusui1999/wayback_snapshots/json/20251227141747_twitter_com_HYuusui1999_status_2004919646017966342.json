@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003408503873110019"
+      ],
+      "media_source_tweet_id": [
+        "2003408516535726307"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2004919646017966342",
+    "created_at": "2025-12-27T14:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T15:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004919646017966342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1753293214826848256",
+          "start": 3,
+          "username": "tatanakots"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/em8Kn9a2Du",
+          "end": 118,
+          "expanded_url": "https://x.com/tatanakots/status/2003408516535726307/photo/1",
+          "media_key": "3_2003408503873110019",
+          "start": 95,
+          "url": "https://t.co/em8Kn9a2Du"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004919646017966342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003408516535726307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatanakots: 对的对的，于是被Fragrance禁言了\n我的科技自始至终都是从Fragrance拿的，如果说我把所有人绑起来了，只是没开枪罢了，那么绳子、枪和子弹都在这里 https://t.co/em8Kn9a2Du"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003408503873110019",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G82Ja3VagAMb3OP.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003408503873110019"
+          ],
+          "media_source_tweet_id": [
+            "2003408516535726307"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "2004919646017966342",
+        "created_at": "2025-12-27T14:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T15:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004919646017966342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1753293214826848256",
+              "start": 3,
+              "username": "tatanakots"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/em8Kn9a2Du",
+              "end": 118,
+              "expanded_url": "https://x.com/tatanakots/status/2003408516535726307/photo/1",
+              "media_key": "3_2003408503873110019",
+              "start": 95,
+              "url": "https://t.co/em8Kn9a2Du"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004919646017966342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003408516535726307",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tatanakots: 对的对的，于是被Fragrance禁言了\n我的科技自始至终都是从Fragrance拿的，如果说我把所有人绑起来了，只是没开枪罢了，那么绳子、枪和子弹都在这里 https://t.co/em8Kn9a2Du"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003408503873110019"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "conversation_id": "2003408516535726307",
+        "created_at": "2025-12-23T10:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T11:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003408516535726307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/em8Kn9a2Du",
+              "end": 102,
+              "expanded_url": "https://x.com/tatanakots/status/2003408516535726307/photo/1",
+              "media_key": "3_2003408503873110019",
+              "start": 79,
+              "url": "https://t.co/em8Kn9a2Du"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003408516535726307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5544,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "对的对的，于是被Fragrance禁言了\n我的科技自始至终都是从Fragrance拿的，如果说我把所有人绑起来了，只是没开枪罢了，那么绳子、枪和子弹都在这里 https://t.co/em8Kn9a2Du"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 2867,
+          "like_count": 43751,
+          "listed_count": 6,
+          "media_count": 332,
+          "tweet_count": 10702
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "不玩舞萌。",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3418,
+          "following_count": 244,
+          "like_count": 23960,
+          "listed_count": 6,
+          "media_count": 1457,
+          "tweet_count": 9598
+        },
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

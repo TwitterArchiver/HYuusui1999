@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1885153721543516411",
+    "created_at": "2025-01-31T02:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T03:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885153721543516411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 40,
+          "id": "868831876315848705",
+          "start": 31,
+          "username": "idr_labs"
+        }
+      ],
+      "urls": [
+        {
+          "description": "性别角色测试",
+          "display_url": "idrlabs.com/cn/gender/resu…",
+          "end": 27,
+          "expanded_url": "https://www.idrlabs.com/cn/gender/result.php?masculine=56&feminine=50",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1885153725796524032/YZjJGoAi?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1885153725796524032/YZjJGoAi?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 4,
+          "status": 200,
+          "title": "我是未分化——双性化。我的分数是56%男性化，50%女性化。",
+          "unwound_url": "https://www.idrlabs.com/cn/gender/result.php?masculine=56&feminine=50",
+          "url": "https://t.co/3YEBxC0iwK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885153721543516411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "双性化？https://t.co/3YEBxC0iwK 来自 @idr_labs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1885153721543516411",
+        "created_at": "2025-01-31T02:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T03:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885153721543516411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "868831876315848705",
+              "start": 31,
+              "username": "idr_labs"
+            }
+          ],
+          "urls": [
+            {
+              "description": "性别角色测试",
+              "display_url": "idrlabs.com/cn/gender/resu…",
+              "end": 27,
+              "expanded_url": "https://www.idrlabs.com/cn/gender/result.php?masculine=56&feminine=50",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1885153725796524032/YZjJGoAi?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1885153725796524032/YZjJGoAi?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 4,
+              "status": 200,
+              "title": "我是未分化——双性化。我的分数是56%男性化，50%女性化。",
+              "unwound_url": "https://www.idrlabs.com/cn/gender/result.php?masculine=56&feminine=50",
+              "url": "https://t.co/3YEBxC0iwK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885153721543516411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "双性化？https://t.co/3YEBxC0iwK 来自 @idr_labs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 299,
+          "like_count": 5032,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 604
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-28T14:10:36.000Z",
+        "description": "",
+        "id": "868831876315848705",
+        "name": "IDR Labs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/966651156813504512/DxWIg43W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9872,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 43,
+          "media_count": 19,
+          "tweet_count": 780
+        },
+        "username": "idr_labs",
+        "verified": false
+      }
+    ]
+  }
+}

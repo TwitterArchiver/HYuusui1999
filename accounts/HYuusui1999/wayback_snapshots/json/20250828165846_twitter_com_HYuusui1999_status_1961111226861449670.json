@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1961111226861449670",
+    "created_at": "2025-08-28T16:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T17:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961111226861449670"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 17,
+          "tag": "请重点关注"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878681729407356928",
+          "start": 3,
+          "username": "HYuusui1999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961111226861449670",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961110894412173537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HYuusui1999: #请重点关注 请支援"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1961111226861449670",
+        "created_at": "2025-08-28T16:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T17:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961111226861449670"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "请重点关注"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1878681729407356928",
+              "start": 3,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961111226861449670",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961110894412173537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HYuusui1999: #请重点关注 请支援"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1961110894412173537",
+        "created_at": "2025-08-28T16:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T17:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961110894412173537"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "请重点关注"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lianshufa/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/lianshufa/status/1961102732951265345",
+              "start": 11,
+              "url": "https://t.co/gZyobtgaKW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961110894412173537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961102732951265345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#请重点关注 请支援 https://t.co/gZyobtgaKW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 1621,
+          "like_count": 30023,
+          "listed_count": 6,
+          "media_count": 260,
+          "tweet_count": 7610
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1941633460424319255",
+    "created_at": "2025-07-05T23:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T00:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941638110716010996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "HyotoChandesuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941638110716010996",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941633460424319255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HyotoChandesuyo 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1941633449862844416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvIRVd8XUAAh9j6.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1941633460424319255",
+        "created_at": "2025-07-05T23:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T00:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941638110716010996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "HyotoChandesuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941638110716010996",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941633460424319255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HyotoChandesuyo 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941633449862844416"
+          ]
+        },
+        "author_id": "1680834021377593344",
+        "conversation_id": "1941633460424319255",
+        "created_at": "2025-07-05T23:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T00:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941633460424319255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HPqhsXJmqH",
+              "end": 23,
+              "expanded_url": "https://x.com/HyotoChandesuyo/status/1941633460424319255/photo/1",
+              "media_key": "3_1941633449862844416",
+              "start": 0,
+              "url": "https://t.co/HPqhsXJmqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941633460424319255",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HPqhsXJmqH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 1346,
+          "like_count": 24624,
+          "listed_count": 5,
+          "media_count": 216,
+          "tweet_count": 6040
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "MtX🍥｜Asexuality｜いつまでも風に吹かれたい",
+        "id": "1680834021377593344",
+        "location": "土星",
+        "name": "温原ひょと🍥",
+        "pinned_tweet_id": "1941635427662020956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941630808256806913/BfULC25P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2435,
+          "following_count": 968,
+          "like_count": 113079,
+          "listed_count": 14,
+          "media_count": 4351,
+          "tweet_count": 29964
+        },
+        "username": "HyotoChandesuyo",
+        "verified": false
+      }
+    ]
+  }
+}

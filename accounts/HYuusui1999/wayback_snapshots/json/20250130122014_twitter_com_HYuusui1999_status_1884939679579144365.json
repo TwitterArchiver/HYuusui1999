@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1884789033622265928",
+    "created_at": "2025-01-30T12:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T13:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884939679579144365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847963434102747136",
+          "start": 0,
+          "username": "moYUDTIvNs64199"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884939679579144365",
+    "in_reply_to_user_id": "1847963434102747136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884789033622265928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moYUDTIvNs64199 并非强制"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1884789033622265928",
+        "created_at": "2025-01-30T12:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T13:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884939679579144365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847963434102747136",
+              "start": 0,
+              "username": "moYUDTIvNs64199"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884939679579144365",
+        "in_reply_to_user_id": "1847963434102747136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884789033622265928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moYUDTIvNs64199 并非强制"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884789025472700416"
+          ]
+        },
+        "author_id": "1847963434102747136",
+        "conversation_id": "1884789033622265928",
+        "created_at": "2025-01-30T02:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T03:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884789033622265928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3IfTpvSvJx",
+              "end": 23,
+              "expanded_url": "https://x.com/moYUDTIvNs64199/status/1884789033622265928/photo/1",
+              "media_key": "3_1884789025472700416",
+              "start": 0,
+              "url": "https://t.co/3IfTpvSvJx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884789033622265928",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3562,
+          "like_count": 69,
+          "quote_count": 7,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3IfTpvSvJx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 295,
+          "like_count": 4870,
+          "listed_count": 3,
+          "media_count": 42,
+          "tweet_count": 589
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T11:30:00.000Z",
+        "description": "十分期待，使用埃尔温·隆美尔头像与 id 的对手出现",
+        "id": "1847963434102747136",
+        "location": "广西，南宁一中，广西师范大学，南宁百货大楼",
+        "name": "沙漠之蝎·隆美尔拼尽全力都无法战胜的氰化钾",
+        "pinned_tweet_id": "1877581335038144975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884257153361629185/B3IF86vE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3560,
+          "following_count": 459,
+          "like_count": 2571,
+          "listed_count": 10,
+          "media_count": 1895,
+          "tweet_count": 4576
+        },
+        "username": "moYUDTIvNs64199",
+        "verified": false
+      }
+    ]
+  }
+}

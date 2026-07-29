@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055525212276551681",
+        "3_2055525213543264256"
+      ],
+      "media_source_tweet_id": [
+        "2055525233453568034",
+        "2055525233453568034"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2059242025816318306",
+    "created_at": "2026-05-26T11:55:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T12:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059242025816318306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892197607109476352",
+          "start": 3,
+          "username": "lianshufa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8faQWkYN14",
+          "end": 52,
+          "expanded_url": "https://x.com/lianshufa/status/2055525233453568034/photo/1",
+          "media_key": "3_2055525212276551681",
+          "start": 29,
+          "url": "https://t.co/8faQWkYN14"
+        },
+        {
+          "display_url": "pic.x.com/8faQWkYN14",
+          "end": 52,
+          "expanded_url": "https://x.com/lianshufa/status/2055525233453568034/photo/1",
+          "media_key": "3_2055525213543264256",
+          "start": 29,
+          "url": "https://t.co/8faQWkYN14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059242025816318306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055525233453568034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lianshufa: 热烈庆祝诗遥逃离戒网瘾学校 https://t.co/8faQWkYN14"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2055525212276551681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaxSjiacAEEAYQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1542,
+        "media_key": "3_2055525213543264256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaxSoQa8AA6Kgh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055525212276551681",
+            "3_2055525213543264256"
+          ],
+          "media_source_tweet_id": [
+            "2055525233453568034",
+            "2055525233453568034"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059242025816318306",
+        "created_at": "2026-05-26T11:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059242025816318306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892197607109476352",
+              "start": 3,
+              "username": "lianshufa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8faQWkYN14",
+              "end": 52,
+              "expanded_url": "https://x.com/lianshufa/status/2055525233453568034/photo/1",
+              "media_key": "3_2055525212276551681",
+              "start": 29,
+              "url": "https://t.co/8faQWkYN14"
+            },
+            {
+              "display_url": "pic.x.com/8faQWkYN14",
+              "end": 52,
+              "expanded_url": "https://x.com/lianshufa/status/2055525233453568034/photo/1",
+              "media_key": "3_2055525213543264256",
+              "start": 29,
+              "url": "https://t.co/8faQWkYN14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059242025816318306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055525233453568034",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lianshufa: 热烈庆祝诗遥逃离戒网瘾学校 https://t.co/8faQWkYN14"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055525212276551681",
+            "3_2055525213543264256"
+          ]
+        },
+        "author_id": "1892197607109476352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055525233453568034",
+        "created_at": "2026-05-16T05:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055525233453568034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8faQWkYN14",
+              "end": 37,
+              "expanded_url": "https://x.com/lianshufa/status/2055525233453568034/photo/1",
+              "media_key": "3_2055525212276551681",
+              "start": 14,
+              "url": "https://t.co/8faQWkYN14"
+            },
+            {
+              "display_url": "pic.x.com/8faQWkYN14",
+              "end": 37,
+              "expanded_url": "https://x.com/lianshufa/status/2055525233453568034/photo/1",
+              "media_key": "3_2055525213543264256",
+              "start": 14,
+              "url": "https://t.co/8faQWkYN14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055525233453568034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11872,
+          "like_count": 231,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "热烈庆祝诗遥逃离戒网瘾学校 https://t.co/8faQWkYN14"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 3279,
+          "like_count": 44954,
+          "listed_count": 5,
+          "media_count": 369,
+          "tweet_count": 11718
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T13:01:39.000Z",
+        "description": "个人主页:https://t.co/zZum0DqESa｜生日2009.10.02｜两性畸形?｜X?tF｜舞萌痴｜化学竞赛｜弹电吉他🎸",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lsfself.top",
+                "end": 28,
+                "expanded_url": "http://lsfself.top",
+                "start": 5,
+                "url": "https://t.co/zZum0DqESa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lsfself.top",
+                "end": 23,
+                "expanded_url": "http://lsfself.top",
+                "start": 0,
+                "url": "https://t.co/zZum0DqESa"
+              }
+            ]
+          }
+        },
+        "id": "1892197607109476352",
+        "location": "北京回龙观医院门诊2层13诊室",
+        "name": "lsf",
+        "pinned_tweet_id": "2059227384486973524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035628512263221248/duwFcH0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4137,
+          "following_count": 1744,
+          "like_count": 2534,
+          "listed_count": 4,
+          "media_count": 76,
+          "tweet_count": 387
+        },
+        "url": "https://t.co/zZum0DqESa",
+        "username": "lianshufa",
+        "verified": false
+      }
+    ]
+  }
+}

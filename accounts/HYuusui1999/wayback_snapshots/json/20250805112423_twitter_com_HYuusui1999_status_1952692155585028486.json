@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1952650350478971019",
+    "created_at": "2025-08-05T11:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T12:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952692155585028486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1248637653001494529",
+          "start": 0,
+          "username": "Hibi3cus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952692155585028486",
+    "in_reply_to_user_id": "1248637653001494529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952650350478971019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hibi3cus 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1952650350478971019",
+        "created_at": "2025-08-05T11:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T12:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952692155585028486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Hibi3cus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952692155585028486",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952650350478971019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hibi3cus 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248637653001494529",
+        "conversation_id": "1952650350478971019",
+        "created_at": "2025-08-05T08:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T09:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952650350478971019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952650350478971019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲爱的你的需求得不到满足的时候你就应该识趣地收回期待了，明明你应该已经习惯了不是吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 1519,
+          "like_count": 28324,
+          "listed_count": 5,
+          "media_count": 240,
+          "tweet_count": 7040
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "",
+        "id": "1248637653001494529",
+        "name": "墨砚斋收破烂の小掌柜清漪",
+        "pinned_tweet_id": "1946257666570846540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941029996341940224/Mj6visiU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 225,
+          "like_count": 172521,
+          "listed_count": 31,
+          "media_count": 38,
+          "tweet_count": 42636
+        },
+        "username": "Hibi3cus",
+        "verified": false
+      }
+    ]
+  }
+}

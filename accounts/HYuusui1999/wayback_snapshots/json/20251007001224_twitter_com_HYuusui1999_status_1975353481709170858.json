@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1974805088502775964",
+    "created_at": "2025-10-07T00:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T01:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975353481709170858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "992551168944439296",
+          "start": 0,
+          "username": "pale_machine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975353481709170858",
+    "in_reply_to_user_id": "992551168944439296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974805088502775964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pale_machine 未必"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_1974805085193687040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2fqwxOa0AA_jsO.jpg",
+        "width": 548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1974805088502775964",
+        "created_at": "2025-10-07T00:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T01:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975353481709170858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "992551168944439296",
+              "start": 0,
+              "username": "pale_machine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975353481709170858",
+        "in_reply_to_user_id": "992551168944439296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974805088502775964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pale_machine 未必"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974805085193687040"
+          ]
+        },
+        "author_id": "992551168944439296",
+        "conversation_id": "1974805088502775964",
+        "created_at": "2025-10-05T11:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T12:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974805088502775964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LY7dWoWgJy",
+              "end": 48,
+              "expanded_url": "https://x.com/pale_machine/status/1974805088502775964/photo/1",
+              "media_key": "3_1974805085193687040",
+              "start": 25,
+              "url": "https://t.co/LY7dWoWgJy"
+            },
+            {
+              "display_url": "x.com/Lily_Syrup/sta…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Lily_Syrup/status/1974726922291867735",
+              "start": 49,
+              "url": "https://t.co/InPoHNFTTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974805088502775964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10428,
+          "like_count": 136,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974726922291867735",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当男的...出轨了...只要装死...就能被原谅 https://t.co/LY7dWoWgJy https://t.co/InPoHNFTTw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 1995,
+          "like_count": 34251,
+          "listed_count": 6,
+          "media_count": 278,
+          "tweet_count": 8638
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-04T23:46:54.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "box.n3ko.cc/_/palemachichi",
+                "end": 23,
+                "expanded_url": "http://box.n3ko.cc/_/palemachichi",
+                "start": 0,
+                "url": "https://t.co/KhELlCif7A"
+              }
+            ]
+          }
+        },
+        "id": "992551168944439296",
+        "location": "⏻",
+        "name": "⏻",
+        "pinned_tweet_id": "1968334215910691112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958785508039172097/m3MCSZkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 840,
+          "like_count": 11264,
+          "listed_count": 5,
+          "media_count": 56,
+          "tweet_count": 235
+        },
+        "url": "https://t.co/KhELlCif7A",
+        "username": "pale_machine",
+        "verified": false
+      }
+    ]
+  }
+}

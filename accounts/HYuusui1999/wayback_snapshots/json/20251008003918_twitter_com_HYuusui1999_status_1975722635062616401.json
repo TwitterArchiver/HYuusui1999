@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975557598347948032"
+      ],
+      "media_source_tweet_id": [
+        "1975557610758914520"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1975722635062616401",
+    "created_at": "2025-10-08T00:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T01:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975722635062616401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1566739868688199680",
+          "start": 3,
+          "username": "ChiangShauYuKan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/drPX9yGRTu",
+          "end": 55,
+          "expanded_url": "https://x.com/ChiangShauYuKan/status/1975557610758914520/photo/1",
+          "media_key": "3_1975557598347948032",
+          "start": 32,
+          "url": "https://t.co/drPX9yGRTu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975722635062616401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975557610758914520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChiangShauYuKan: 你们谁要吃击败汤杯面 https://t.co/drPX9yGRTu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1975557598347948032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qXKzLacAAVmOR.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975557598347948032"
+          ],
+          "media_source_tweet_id": [
+            "1975557610758914520"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1975722635062616401",
+        "created_at": "2025-10-08T00:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T01:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975722635062616401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1566739868688199680",
+              "start": 3,
+              "username": "ChiangShauYuKan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/drPX9yGRTu",
+              "end": 55,
+              "expanded_url": "https://x.com/ChiangShauYuKan/status/1975557610758914520/photo/1",
+              "media_key": "3_1975557598347948032",
+              "start": 32,
+              "url": "https://t.co/drPX9yGRTu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975722635062616401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975557610758914520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChiangShauYuKan: 你们谁要吃击败汤杯面 https://t.co/drPX9yGRTu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975557598347948032"
+          ]
+        },
+        "author_id": "1566739868688199680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1975557610758914520",
+        "created_at": "2025-10-07T13:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T14:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975557610758914520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/drPX9yGRTu",
+              "end": 34,
+              "expanded_url": "https://x.com/ChiangShauYuKan/status/1975557610758914520/photo/1",
+              "media_key": "3_1975557598347948032",
+              "start": 11,
+              "url": "https://t.co/drPX9yGRTu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975557610758914520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 464,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们谁要吃击败汤杯面 https://t.co/drPX9yGRTu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 2006,
+          "like_count": 34435,
+          "listed_count": 6,
+          "media_count": 278,
+          "tweet_count": 8659
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T10:47:56.000Z",
+        "description": "阴晴不定 道德败坏\n跌@lilmonix3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "lilmonix3"
+              }
+            ]
+          }
+        },
+        "id": "1566739868688199680",
+        "location": "横幅由窝摄于2023.11.19",
+        "name": "醬燒魚乾",
+        "pinned_tweet_id": "1935293435520630965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927542879137792000/lvJcA1nn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2335,
+          "following_count": 844,
+          "like_count": 221344,
+          "listed_count": 6,
+          "media_count": 996,
+          "tweet_count": 24404
+        },
+        "username": "ChiangShauYuKan",
+        "verified": false
+      }
+    ]
+  }
+}

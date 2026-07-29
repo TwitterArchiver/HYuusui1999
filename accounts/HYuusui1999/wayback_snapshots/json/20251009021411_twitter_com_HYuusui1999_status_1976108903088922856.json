@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976108893802471425"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1975841436701741410",
+    "created_at": "2025-10-09T02:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T03:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976108903088922856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1670362954590728197",
+          "start": 0,
+          "username": "citric_baizhou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C8SoCQ1lsD",
+          "end": 39,
+          "expanded_url": "https://x.com/HYuusui1999/status/1976108903088922856/photo/1",
+          "media_key": "3_1976108893802471425",
+          "start": 16,
+          "url": "https://t.co/C8SoCQ1lsD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976108903088922856",
+    "in_reply_to_user_id": "1670362954590728197",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975902507797983718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@citric_baizhou https://t.co/C8SoCQ1lsD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1976108903088922856].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1976108903088922856",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1976108903088922856"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 178,
+        "media_key": "3_1976108893802471425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2yMkayWIAEwTuv.jpg",
+        "width": 264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670362954590728197",
+        "conversation_id": "1975841436701741410",
+        "created_at": "2025-10-08T12:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T13:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975902507797983718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975902507797983718",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975895598357475618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 偷的我又不卖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 2042,
+          "like_count": 34831,
+          "listed_count": 6,
+          "media_count": 280,
+          "tweet_count": 8707
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-18T09:29:12.000Z",
+        "description": "07｜MtX🍥｜温原/白粥｜Psycho｜ただ夏の匂いに目を瞑りたい｜🐽@tanbara_ririka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 36,
+                "username": "tanbara_ririka"
+              }
+            ]
+          }
+        },
+        "id": "1670362954590728197",
+        "location": "土星",
+        "name": "枸櫞酸白粥緩釋片🍥",
+        "pinned_tweet_id": "1972936706203783189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975926719380062208/qzvT5spJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 1369,
+          "like_count": 20225,
+          "listed_count": 4,
+          "media_count": 603,
+          "tweet_count": 3918
+        },
+        "username": "citric_baizhou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1919255516007870803",
+    "created_at": "2025-05-18T04:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T05:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923955667271856527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1715891855983026176",
+          "start": 0,
+          "username": "hetongzhi114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/yaming00742313…",
+          "end": 40,
+          "expanded_url": "https://x.com/yaming00742313/status/1923926983358153085",
+          "start": 17,
+          "url": "https://t.co/CGY9Aph3vT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923955667271856527",
+    "in_reply_to_user_id": "1715891855983026176",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923926983358153085",
+        "type": "quoted"
+      },
+      {
+        "id": "1919255516007870803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hetongzhi114514 https://t.co/CGY9Aph3vT"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1919255516007870803].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1919255516007870803",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1919255516007870803"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1219,
+        "media_key": "3_1923926979541123072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrMpZP1WwAASa5W.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1919255516007870803",
+        "created_at": "2025-05-18T04:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T05:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923955667271856527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1715891855983026176",
+              "start": 0,
+              "username": "hetongzhi114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/yaming00742313…",
+              "end": 40,
+              "expanded_url": "https://x.com/yaming00742313/status/1923926983358153085",
+              "start": 17,
+              "url": "https://t.co/CGY9Aph3vT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923955667271856527",
+        "in_reply_to_user_id": "1715891855983026176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923926983358153085",
+            "type": "quoted"
+          },
+          {
+            "id": "1919255516007870803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hetongzhi114514 https://t.co/CGY9Aph3vT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923926979541123072"
+          ]
+        },
+        "author_id": "1647815138450505730",
+        "conversation_id": "1923926983358153085",
+        "created_at": "2025-05-18T02:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T03:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923926983358153085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K7gynrl9Zm",
+              "end": 161,
+              "expanded_url": "https://x.com/yaming00742313/status/1923926983358153085/photo/1",
+              "media_key": "3_1923926979541123072",
+              "start": 138,
+              "url": "https://t.co/K7gynrl9Zm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923926983358153085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4431,
+          "like_count": 135,
+          "quote_count": 24,
+          "reply_count": 12,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "宇航和其他救援人员，于昨晚在去贵阳花溪弘扬学校救援受害者的过程中，被教官和警察联合围捕，现已失联……😔\n图中该视频为受害者求助者以及该戒网瘾机构的相关信息，望扩散!\n为了受害者，也为了宇航他们这些每次冒着生命危险从牢笼中拯救受害者的救援人员的安全!😢\n情况非常紧急！求转发! https://t.co/K7gynrl9Zm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n\n～公告栏～\n@TencentRM好久前开始从b站盗句号视频，\n视频创作者是@juhao0721，请注意\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "TencentRM"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "juhao0721"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 1004,
+          "like_count": 19703,
+          "listed_count": 6,
+          "media_count": 197,
+          "tweet_count": 4605
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-22T00:44:44.000Z",
+        "description": "Libertarian Socialist | Democratic Socialist |Supporter of Participatory Economics | Agnostic | Focus on History & Politics | “终有一天，我们会在没有黑暗的地方相见。”",
+        "id": "1715891855983026176",
+        "name": "Citizen from Below🏴🚩",
+        "pinned_tweet_id": "1919905738085769303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910555002357358592/NFv9iHgZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 3735,
+          "like_count": 70378,
+          "listed_count": 6,
+          "media_count": 830,
+          "tweet_count": 15330
+        },
+        "username": "hetongzhi114514",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（雨中高歌死）",
+        "pinned_tweet_id": "1923926983358153085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12452,
+          "following_count": 1565,
+          "like_count": 6344,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 2399
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

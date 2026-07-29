@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975674586160373765"
+      ],
+      "media_source_tweet_id": [
+        "1975674592355361076"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1975792939382284672",
+    "created_at": "2025-10-08T05:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T06:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975792939382284672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863119530723250176",
+          "start": 3,
+          "username": "zettai_22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CBSSZUDMDi",
+          "end": 38,
+          "expanded_url": "https://x.com/zettai_22/status/1975674592355361076/photo/1",
+          "media_key": "3_1975674586160373765",
+          "start": 15,
+          "url": "https://t.co/CBSSZUDMDi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975792939382284672",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2727
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975674592355361076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @zettai_22: https://t.co/CBSSZUDMDi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1975674586160373765",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2sBkYvbIAUPUNZ.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975674586160373765"
+          ],
+          "media_source_tweet_id": [
+            "1975674592355361076"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1975792939382284672",
+        "created_at": "2025-10-08T05:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T06:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975792939382284672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863119530723250176",
+              "start": 3,
+              "username": "zettai_22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CBSSZUDMDi",
+              "end": 38,
+              "expanded_url": "https://x.com/zettai_22/status/1975674592355361076/photo/1",
+              "media_key": "3_1975674586160373765",
+              "start": 15,
+              "url": "https://t.co/CBSSZUDMDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975792939382284672",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2727
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975674592355361076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @zettai_22: https://t.co/CBSSZUDMDi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975674586160373765"
+          ]
+        },
+        "author_id": "1863119530723250176",
+        "conversation_id": "1975674592355361076",
+        "created_at": "2025-10-07T21:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T22:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975674592355361076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CBSSZUDMDi",
+              "end": 23,
+              "expanded_url": "https://x.com/zettai_22/status/1975674592355361076/photo/1",
+              "media_key": "3_1975674586160373765",
+              "start": 0,
+              "url": "https://t.co/CBSSZUDMDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975674592355361076",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2283,
+          "impression_count": 268912,
+          "like_count": 28098,
+          "quote_count": 17,
+          "reply_count": 0,
+          "retweet_count": 2727
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/CBSSZUDMDi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 2036,
+          "like_count": 34771,
+          "listed_count": 6,
+          "media_count": 279,
+          "tweet_count": 8700
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T07:14:59.000Z",
+        "description": "絵描くの好き垢🍒🍊🐢https://t.co/ds0b5T2N3I",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/hu2p0ivfct8c9xc",
+                "end": 33,
+                "expanded_url": "https://marshmallow-qa.com/hu2p0ivfct8c9xc",
+                "start": 10,
+                "url": "https://t.co/ds0b5T2N3I"
+              }
+            ]
+          }
+        },
+        "id": "1863119530723250176",
+        "location": "無断転載使用禁止",
+        "name": "₂₂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975716124592586752/CWtwqWd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69245,
+          "following_count": 85,
+          "like_count": 2407,
+          "listed_count": 299,
+          "media_count": 37,
+          "tweet_count": 159
+        },
+        "username": "zettai_22",
+        "verified": false
+      }
+    ]
+  }
+}

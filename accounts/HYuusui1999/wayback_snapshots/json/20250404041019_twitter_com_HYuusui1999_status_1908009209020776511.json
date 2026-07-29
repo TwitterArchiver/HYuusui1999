@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1908009209020776511",
+    "created_at": "2025-04-04T04:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T05:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908009209020776511"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miku668866/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/miku668866/status/1907925450107826517",
+          "start": 5,
+          "url": "https://t.co/Bf34Ej6MyM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908009209020776511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907925450107826517",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有消息吗 https://t.co/Bf34Ej6MyM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1908009209020776511",
+        "created_at": "2025-04-04T04:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T05:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908009209020776511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miku668866/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/miku668866/status/1907925450107826517",
+              "start": 5,
+              "url": "https://t.co/Bf34Ej6MyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908009209020776511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907925450107826517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有消息吗 https://t.co/Bf34Ej6MyM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870447511539785728",
+        "conversation_id": "1907925450107826517",
+        "created_at": "2025-04-03T22:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T23:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907925450107826517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907925450107826517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 810,
+          "like_count": 13,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "100G亚硝酸钠跟这个世界再见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1905989245266972950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 641,
+          "like_count": 13726,
+          "listed_count": 6,
+          "media_count": 119,
+          "tweet_count": 2284
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T12:33:47.000Z",
+        "description": "MTF Partner：@chianyu57i    坐标：苏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "chianyu57i"
+              }
+            ]
+          }
+        },
+        "id": "1870447511539785728",
+        "name": "Missing🏳️‍⚧️ 🍥",
+        "pinned_tweet_id": "1890640998247571829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870661187815591936/eUgtfTjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 56,
+          "like_count": 89,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 96
+        },
+        "username": "miku668866",
+        "verified": false
+      }
+    ]
+  }
+}

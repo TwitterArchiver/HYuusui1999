@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1983521318424433019",
+    "created_at": "2025-10-29T13:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T14:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983521318424433019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878681729407356928",
+          "start": 3,
+          "username": "HYuusui1999"
+        },
+        {
+          "end": 31,
+          "id": "1277411486168756231",
+          "start": 17,
+          "username": "mangoiceshake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983521318424433019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983520510857347102",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HYuusui1999: @mangoiceshake 账号已停用"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [mangoiceshake].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "mangoiceshake",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "mangoiceshake"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1983521318424433019",
+        "created_at": "2025-10-29T13:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T14:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983521318424433019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1878681729407356928",
+              "start": 3,
+              "username": "HYuusui1999"
+            },
+            {
+              "end": 31,
+              "id": "1277411486168756231",
+              "start": 17,
+              "username": "mangoiceshake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983521318424433019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983520510857347102",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HYuusui1999: @mangoiceshake 账号已停用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1983520510857347102",
+        "created_at": "2025-10-29T13:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T14:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983520510857347102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1277411486168756231",
+              "start": 0,
+              "username": "mangoiceshake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983520510857347102",
+        "in_reply_to_user_id": "1277411486168756231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@mangoiceshake 账号已停用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n\n暂时退网（不定期）\n偶尔看消息",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 2230,
+          "like_count": 36299,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 9013
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

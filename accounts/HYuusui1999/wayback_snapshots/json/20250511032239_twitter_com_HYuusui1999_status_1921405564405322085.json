@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1921260652858921254",
+    "created_at": "2025-05-11T03:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T04:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921405564405322085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1836420929611796486",
+          "start": 0,
+          "username": "lingyuanyousa00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921405564405322085",
+    "in_reply_to_user_id": "1836420929611796486",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921260652858921254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingyuanyousa00 先临摹嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1921260648358461440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqmwYWJXwAAaZmp.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1084,
+        "media_key": "3_1921260645779185664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqmwYMibIAAMSCH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1509,
+        "media_key": "3_1921260642838982656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqmwYBlbMAAnco-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1921260652858921254",
+        "created_at": "2025-05-11T03:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T04:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921405564405322085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1836420929611796486",
+              "start": 0,
+              "username": "lingyuanyousa00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921405564405322085",
+        "in_reply_to_user_id": "1836420929611796486",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921260652858921254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingyuanyousa00 先临摹嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921260648358461440",
+            "3_1921260645779185664",
+            "3_1921260642838982656"
+          ]
+        },
+        "author_id": "1836420929611796486",
+        "conversation_id": "1921260652858921254",
+        "created_at": "2025-05-10T17:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T18:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921260652858921254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HhtJBqkIYp",
+              "end": 65,
+              "expanded_url": "https://x.com/lingyuanyousa00/status/1921260652858921254/photo/1",
+              "media_key": "3_1921260648358461440",
+              "start": 42,
+              "url": "https://t.co/HhtJBqkIYp"
+            },
+            {
+              "display_url": "pic.x.com/HhtJBqkIYp",
+              "end": 65,
+              "expanded_url": "https://x.com/lingyuanyousa00/status/1921260652858921254/photo/1",
+              "media_key": "3_1921260645779185664",
+              "start": 42,
+              "url": "https://t.co/HhtJBqkIYp"
+            },
+            {
+              "display_url": "pic.x.com/HhtJBqkIYp",
+              "end": 65,
+              "expanded_url": "https://x.com/lingyuanyousa00/status/1921260652858921254/photo/1",
+              "media_key": "3_1921260642838982656",
+              "start": 42,
+              "url": "https://t.co/HhtJBqkIYp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921260652858921254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "燃尽喽～一个周就这个样😭😭😭别人这个时间都画出来不下三幅神作了😭😭我的一比就是构思 https://t.co/HhtJBqkIYp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921395402059764110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 902,
+          "like_count": 18063,
+          "listed_count": 6,
+          "media_count": 172,
+          "tweet_count": 3928
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T15:04:34.000Z",
+        "description": "",
+        "id": "1836420929611796486",
+        "name": "喜欢超压的KANO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917092032973312000/kvDO-uR6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 1721,
+          "like_count": 41624,
+          "listed_count": 4,
+          "media_count": 1263,
+          "tweet_count": 17469
+        },
+        "username": "lingyuanyousa00",
+        "verified": false
+      }
+    ]
+  }
+}

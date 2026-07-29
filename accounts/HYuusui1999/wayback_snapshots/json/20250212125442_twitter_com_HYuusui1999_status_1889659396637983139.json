@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889659390866677760"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1889659396637983139",
+    "created_at": "2025-02-12T12:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T13:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889659396637983139"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+          "display_url": "infinityweet.me/interaction-ci…",
+          "end": 40,
+          "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+          "start": 17,
+          "status": 200,
+          "title": "Interaction Circle • Infinitweet",
+          "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+          "url": "https://t.co/lvqYvu4vu0"
+        },
+        {
+          "display_url": "pic.x.com/6bPv0O5Hb1",
+          "end": 64,
+          "expanded_url": "https://x.com/HYuusui1999/status/1889659396637983139/photo/1",
+          "media_key": "3_1889659390866677760",
+          "start": 41,
+          "url": "https://t.co/6bPv0O5Hb1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889659396637983139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的Twitter互动圈\n\n➡️ https://t.co/lvqYvu4vu0 https://t.co/6bPv0O5Hb1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1889659390866677760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjlrNEMW4AAAQdE.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889659390866677760"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1889659396637983139",
+        "created_at": "2025-02-12T12:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T13:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889659396637983139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/lvqYvu4vu0"
+            },
+            {
+              "display_url": "pic.x.com/6bPv0O5Hb1",
+              "end": 64,
+              "expanded_url": "https://x.com/HYuusui1999/status/1889659396637983139/photo/1",
+              "media_key": "3_1889659390866677760",
+              "start": 41,
+              "url": "https://t.co/6bPv0O5Hb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889659396637983139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/lvqYvu4vu0 https://t.co/6bPv0O5Hb1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1885940576446808416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 347,
+          "like_count": 6772,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 816
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1920029893925929351",
+    "created_at": "2025-05-07T08:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T09:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920029893925929351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hyuusui1999/st…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/hyuusui1999/status/1920028627615224018",
+          "start": 36,
+          "url": "https://t.co/0PswLJUNGc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920029893925929351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920028627615224018",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草了，这下能上网的就剩没卡备用机、kindle、电视机、switch了 https://t.co/0PswLJUNGc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1920029893925929351",
+        "created_at": "2025-05-07T08:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T09:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920029893925929351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hyuusui1999/st…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/hyuusui1999/status/1920028627615224018",
+              "start": 36,
+              "url": "https://t.co/0PswLJUNGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920029893925929351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920028627615224018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草了，这下能上网的就剩没卡备用机、kindle、电视机、switch了 https://t.co/0PswLJUNGc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1920028627615224018",
+        "created_at": "2025-05-07T08:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T09:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920028627615224018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hyuusui1999/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/hyuusui1999/status/1920017171683672307",
+              "start": 14,
+              "url": "https://t.co/ChU0iAOuZB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920028627615224018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920017171683672307",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是？我笔记本怎么在学校？ https://t.co/ChU0iAOuZB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1920000163336028430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 822,
+          "like_count": 17499,
+          "listed_count": 6,
+          "media_count": 166,
+          "tweet_count": 3699
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

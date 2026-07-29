@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930554656880824320"
+      ],
+      "media_source_tweet_id": [
+        "1930554668679307442"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1930559898867191956",
+    "created_at": "2025-06-05T09:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T10:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930559898867191956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1769408963102265344",
+          "start": 3,
+          "username": "tICDh2g4Rz89685"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QcaBX8HWRn",
+          "end": 107,
+          "expanded_url": "https://x.com/tICDh2g4Rz89685/status/1930554668679307442/photo/1",
+          "media_key": "3_1930554656880824320",
+          "start": 84,
+          "url": "https://t.co/QcaBX8HWRn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930559898867191956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930554668679307442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tICDh2g4Rz89685: 家里人每天逼着我吃这一袋不知道什么东西的他们所谓的中药\n我去问配药的那个人他也支支吾吾什么都不肯跟我说 什么时候吃死我就是了 https://t.co/QcaBX8HWRn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1930554656880824320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsq1O17bkAAgFcv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930554656880824320"
+          ],
+          "media_source_tweet_id": [
+            "1930554668679307442"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1930559898867191956",
+        "created_at": "2025-06-05T09:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T10:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930559898867191956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1769408963102265344",
+              "start": 3,
+              "username": "tICDh2g4Rz89685"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QcaBX8HWRn",
+              "end": 107,
+              "expanded_url": "https://x.com/tICDh2g4Rz89685/status/1930554668679307442/photo/1",
+              "media_key": "3_1930554656880824320",
+              "start": 84,
+              "url": "https://t.co/QcaBX8HWRn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930559898867191956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930554668679307442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tICDh2g4Rz89685: 家里人每天逼着我吃这一袋不知道什么东西的他们所谓的中药\n我去问配药的那个人他也支支吾吾什么都不肯跟我说 什么时候吃死我就是了 https://t.co/QcaBX8HWRn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930554656880824320"
+          ]
+        },
+        "author_id": "1769408963102265344",
+        "conversation_id": "1930554668679307442",
+        "created_at": "2025-06-05T09:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T10:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930554668679307442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QcaBX8HWRn",
+              "end": 86,
+              "expanded_url": "https://x.com/tICDh2g4Rz89685/status/1930554668679307442/photo/1",
+              "media_key": "3_1930554656880824320",
+              "start": 63,
+              "url": "https://t.co/QcaBX8HWRn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930554668679307442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "家里人每天逼着我吃这一袋不知道什么东西的他们所谓的中药\n我去问配药的那个人他也支支吾吾什么都不肯跟我说 什么时候吃死我就是了 https://t.co/QcaBX8HWRn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。 ～公告栏～ @jvhao0721 @tingfeng_TF @noname87525好久前开始从b站盗句号视频， 视频创作者是@juhao0721，请注意 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "jvhao0721"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "tingfeng_TF"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "noname87525"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "juhao0721"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 1107,
+          "like_count": 20962,
+          "listed_count": 6,
+          "media_count": 201,
+          "tweet_count": 4752
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T17:03:50.000Z",
+        "description": "是符符符 /mtf 很抱歉我的言论影响到你",
+        "id": "1769408963102265344",
+        "name": "符",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893217141882789888/zqpJZRsq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 204,
+          "like_count": 105,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 130
+        },
+        "username": "tICDh2g4Rz89685",
+        "verified": false
+      }
+    ]
+  }
+}

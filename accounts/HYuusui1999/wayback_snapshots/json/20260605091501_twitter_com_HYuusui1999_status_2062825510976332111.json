@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2062825510976332111",
+    "created_at": "2026-06-05T09:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T10:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062825510976332111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PsycheRabbiiOw…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/PsycheRabbiiOwO/status/2062809746315542563",
+          "start": 8,
+          "url": "https://t.co/lKNCL2GBq5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062825510976332111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062809746315542563",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "合着修的是阴道 https://t.co/lKNCL2GBq5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2062825510976332111",
+        "created_at": "2026-06-05T09:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T10:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062825510976332111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PsycheRabbiiOw…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/PsycheRabbiiOwO/status/2062809746315542563",
+              "start": 8,
+              "url": "https://t.co/lKNCL2GBq5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062825510976332111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062809746315542563",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "合着修的是阴道 https://t.co/lKNCL2GBq5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768935696646238208",
+        "conversation_id": "2062807395210780872",
+        "created_at": "2026-06-05T08:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062809746315542563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062809746315542563",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062807395210780872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 ？！修道？！\n\n你要术了？！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 3457,
+          "like_count": 45589,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 11833
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 1500,
+          "like_count": 15782,
+          "listed_count": 3,
+          "media_count": 288,
+          "tweet_count": 2561
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

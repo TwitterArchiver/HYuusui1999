@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003043714130706432"
+      ],
+      "media_source_tweet_id": [
+        "2003043768875074035"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2003044055081726042",
+    "created_at": "2025-12-22T10:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T11:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003044055081726042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878681729407356928",
+          "start": 3,
+          "username": "HYuusui1999"
+        },
+        {
+          "end": 29,
+          "id": "1614826297091592198",
+          "start": 17,
+          "username": "Winter_yoki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T6Tcasj8Le",
+          "end": 65,
+          "expanded_url": "https://x.com/HYuusui1999/status/2003043768875074035/photo/1",
+          "media_key": "3_2003043714130706432",
+          "start": 42,
+          "url": "https://t.co/T6Tcasj8Le"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003044055081726042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003043768875074035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HYuusui1999: @Winter_yoki 冬麦yoki帳號已停用 https://t.co/T6Tcasj8Le"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2003044055081726042].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2003044055081726042",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2003044055081726042"
+    },
+    {
+      "detail": "Could not find user with entities.mentions.username: [Winter_yoki].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Winter_yoki",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Winter_yoki"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 814,
+        "media_key": "3_2003043714130706432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8w9pTpXAAA9VJ1.jpg",
+        "width": 2044
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003043714130706432"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "2003043768875074035",
+        "created_at": "2025-12-22T10:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003043768875074035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1614826297091592198",
+              "start": 0,
+              "username": "Winter_yoki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T6Tcasj8Le",
+              "end": 48,
+              "expanded_url": "https://x.com/HYuusui1999/status/2003043768875074035/photo/1",
+              "media_key": "3_2003043714130706432",
+              "start": 25,
+              "url": "https://t.co/T6Tcasj8Le"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003043768875074035",
+        "in_reply_to_user_id": "1614826297091592198",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@Winter_yoki 冬麦yoki帳號已停用 https://t.co/T6Tcasj8Le"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 2852,
+          "like_count": 43790,
+          "listed_count": 6,
+          "media_count": 324,
+          "tweet_count": 10670
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

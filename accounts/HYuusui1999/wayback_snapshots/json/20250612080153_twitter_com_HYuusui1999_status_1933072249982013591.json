@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1932996497324585364",
+    "created_at": "2025-06-12T08:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T09:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933072249982013591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1768252813363314688",
+          "start": 0,
+          "username": "LinKuoTian8964K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933072249982013591",
+    "in_reply_to_user_id": "1768252813363314688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932996497324585364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinKuoTian8964K 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1932996497324585364",
+        "created_at": "2025-06-12T08:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T09:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933072249982013591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768252813363314688",
+              "start": 0,
+              "username": "LinKuoTian8964K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933072249982013591",
+        "in_reply_to_user_id": "1768252813363314688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932996497324585364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinKuoTian8964K 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768252813363314688",
+        "conversation_id": "1932996497324585364",
+        "created_at": "2025-06-12T03:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T04:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932996497324585364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LinKuoTian8964…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/LinKuoTian8964K/status/1893330229868806599",
+              "start": 14,
+              "url": "https://t.co/lVqpyha5KY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932996497324585364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893330229868806599",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我怀念拿头撞墙的感觉了…… https://t.co/lVqpyha5KY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。 ～公告栏～ @jvhao0721 @tingfeng_TF @noname87525好久前开始从b站盗句号视频， 视频创作者是@juhao0721，请注意 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "jvhao0721"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "tingfeng_TF"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "noname87525"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "juhao0721"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 1118,
+          "like_count": 21622,
+          "listed_count": 6,
+          "media_count": 204,
+          "tweet_count": 4943
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T12:28:33.000Z",
+        "description": "不友跨了。自己也不知道什么时候翻，有点受虐倾向，有时候脑子不太灵光，脾气比较暴躁，经常被人挂，还总遭人讨厌。所发的帖子经常贴脸开大，发言很逆天，且可能出现负能量内容，请谨慎关注。想被捆，想被关进笼子……嗯很好不知道写什么",
+        "id": "1768252813363314688",
+        "location": "广西省桂林市李老师故居开坦克举白纸报答恩情",
+        "name": "水中月-林阔天空",
+        "pinned_tweet_id": "1912524604129825042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853342112051503104/61LjScn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 189,
+          "like_count": 39382,
+          "listed_count": 3,
+          "media_count": 328,
+          "tweet_count": 4114
+        },
+        "username": "LinKuoTian8964K",
+        "verified": false
+      }
+    ]
+  }
+}

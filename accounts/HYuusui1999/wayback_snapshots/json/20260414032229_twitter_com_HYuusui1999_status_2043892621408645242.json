@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2043219772746367286",
+    "created_at": "2026-04-14T03:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T04:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043892621408645242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1761739613436321792",
+          "start": 0,
+          "username": "YJGAME0189"
+        },
+        {
+          "end": 26,
+          "id": "1652301381670428672",
+          "start": 12,
+          "username": "Delusions6515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043892621408645242",
+    "in_reply_to_user_id": "1761739613436321792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043845111063425518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YJGAME0189 @Delusions6515 没事"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2043845111063425518].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2043845111063425518",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2043845111063425518"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2043219772746367286",
+        "created_at": "2026-04-14T03:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T04:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043892621408645242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1761739613436321792",
+              "start": 0,
+              "username": "YJGAME0189"
+            },
+            {
+              "end": 26,
+              "id": "1652301381670428672",
+              "start": 12,
+              "username": "Delusions6515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043892621408645242",
+        "in_reply_to_user_id": "1761739613436321792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043845111063425518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YJGAME0189 @Delusions6515 没事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 3196,
+          "like_count": 44889,
+          "listed_count": 5,
+          "media_count": 369,
+          "tweet_count": 11574
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T13:07:28.000Z",
+        "description": "人类在惨痛的历史中选择了重蹈覆辙\n叫我雨爵_YJGAME/Y*Jubeat/MrRain.J，另有TO3RO等马甲\nCN/EN〇 JP△\n开盒鉴证傻逼全部滚蛋 音游人oc人关注我\n自杀干预请通过QQ联系我\n成分在「查看更多」\n十分推荐辱骂@Sakura_tram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Sakura_tram"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/101638040",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/101638040",
+                "start": 0,
+                "url": "https://t.co/PmgsVH8ahQ"
+              }
+            ]
+          }
+        },
+        "id": "1761739613436321792",
+        "location": "STAR.RAIL 2.5次元空间站/音乐游戏体验馆",
+        "name": "YJGAME TO3RO MrRainJ等十来号人",
+        "pinned_tweet_id": "2020803041977335808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029372782774239234/vCPZmWdp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 1223,
+          "like_count": 43221,
+          "listed_count": 3,
+          "media_count": 408,
+          "tweet_count": 14191
+        },
+        "url": "https://t.co/PmgsVH8ahQ",
+        "username": "YJGAME0189",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T13:19:34.000Z",
+        "description": "呜喵～ | 负能量(过去有，现在很少) | 习惯性锁推 | 死也没死成 | 炸柜MtF，卧薪尝胆中 (Update: 家长不管党 再更新： 时不时可能被扔进精神病院) | 妹妹: @shaoxiancao1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 90,
+                "username": "shaoxiancao1314"
+              }
+            ]
+          }
+        },
+        "id": "1652301381670428672",
+        "name": "Delusions",
+        "pinned_tweet_id": "1999003382653292629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958481701786849282/x3FSgEYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 430,
+          "like_count": 1694,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 442
+        },
+        "username": "Delusions6515",
+        "verified": false
+      }
+    ]
+  }
+}

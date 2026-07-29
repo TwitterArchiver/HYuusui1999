@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1959207430782439878",
+    "created_at": "2025-08-23T10:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T11:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959208022347006353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1721714145480114176",
+          "start": 0,
+          "username": "2_A_L_Iris_Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959208022347006353",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959207430782439878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2_A_L_Iris_Z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1959207430782439878",
+        "created_at": "2025-08-23T10:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T11:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959208022347006353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1721714145480114176",
+              "start": 0,
+              "username": "2_A_L_Iris_Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959208022347006353",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959207430782439878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2_A_L_Iris_Z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1959207430782439878",
+        "created_at": "2025-08-23T10:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T11:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959207430782439878"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "请重点关注"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "请扩散"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1831961897899585536",
+              "start": 23,
+              "username": "kiriyama_hitori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ln_fbsq/status…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/ln_fbsq/status/1959163683436994695",
+              "start": 54,
+              "url": "https://t.co/Fa1XZsMLzt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959207430782439878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959163683436994695",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#请重点关注 有哪位朋友有当事人信息请提供给 @kiriyama_hitori /我 或直接报警\n#请扩散 https://t.co/Fa1XZsMLzt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 1603,
+          "like_count": 29436,
+          "listed_count": 5,
+          "media_count": 254,
+          "tweet_count": 7473
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "孩子们我回来了\n丢失的推特号：@A_L_Iris_Z\n永远不要忘记2FA密钥！！哪怕邮箱绑定正确\nBD. / ASD. / 🎂Age 20 /🌆Living in Hefei / 💻Programmer with Algorithm  /🏳️‍🌈🏳️‍⚧️ friendly / No 🍥 💉HRT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "A_L_Iris_Z"
+              }
+            ]
+          }
+        },
+        "id": "1721714145480114176",
+        "name": "Iris鸢尾丛下",
+        "pinned_tweet_id": "1947485722031907234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956558351829217280/pLWV3d4E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 327,
+          "like_count": 2726,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 815
+        },
+        "username": "2_A_L_Iris_Z",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2074919386109133126",
+    "created_at": "2026-07-10T03:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T04:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075426633222160414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1156097249841041408",
+          "start": 0,
+          "username": "LightrainPure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075426633222160414",
+    "in_reply_to_user_id": "1156097249841041408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074919386109133126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LightrainPure 嗯，要不咱不引用呢（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2074919386109133126",
+        "created_at": "2026-07-10T03:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075426633222160414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1156097249841041408",
+              "start": 0,
+              "username": "LightrainPure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075426633222160414",
+        "in_reply_to_user_id": "1156097249841041408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074919386109133126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LightrainPure 嗯，要不咱不引用呢（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1156097249841041408",
+        "conversation_id": "2074919386109133126",
+        "created_at": "2026-07-08T18:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074919386109133126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/lanziilove/status/2074719995918254118",
+              "start": 111,
+              "url": "https://t.co/5UR60xS9G8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074919386109133126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 12576,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074719995918254118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尽管我家 2024 年就同意我手术了😎也说承担在 411 的手术费用。但是我却拖到现在也没去约手术甚至没开过非常正式的诊断证明。事实上当我知道手术只是个几万块钱就能搞定的事情，并且我变 pass 只用了半年时是很失落的😇 https://t.co/5UR60xS9G8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 3571,
+          "like_count": 45833,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 11908
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-30T07:00:38.000Z",
+        "description": "Java后端｜ 🍥HRT 2023.10.11 ｜跨圈观测者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainLazydo",
+                "end": 23,
+                "expanded_url": "https://t.me/RainLazydo",
+                "start": 0,
+                "url": "https://t.co/UVDPwmMnL0"
+              }
+            ]
+          }
+        },
+        "id": "1156097249841041408",
+        "name": "Yukie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764584461830889472/PczkEV6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 991,
+          "like_count": 2164,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 1500
+        },
+        "url": "https://t.co/UVDPwmMnL0",
+        "username": "LightrainPure",
+        "verified": false
+      }
+    ]
+  }
+}

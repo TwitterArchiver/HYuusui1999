@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1917521249263141037",
+    "created_at": "2025-04-30T10:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T11:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917521249263141037"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "请重点关注"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/chenxu233/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/chenxu233/status/1917509997350867422",
+          "start": 7,
+          "url": "https://t.co/bv96IpFCtW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917521249263141037",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917509997350867422",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#请重点关注 https://t.co/bv96IpFCtW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1917521249263141037",
+        "created_at": "2025-04-30T10:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T11:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917521249263141037"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "请重点关注"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/chenxu233/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/chenxu233/status/1917509997350867422",
+              "start": 7,
+              "url": "https://t.co/bv96IpFCtW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917521249263141037",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917509997350867422",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#请重点关注 https://t.co/bv96IpFCtW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785683748006264833",
+        "conversation_id": "1917509997350867422",
+        "created_at": "2025-04-30T09:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T10:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917509997350867422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917509997350867422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起啊啊啊啊啊，抱歉啊啊啊啊啊，太对不起这个世界了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1917405127981371473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 785,
+          "like_count": 17127,
+          "listed_count": 6,
+          "media_count": 161,
+          "tweet_count": 3538
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T14:52:46.000Z",
+        "description": "主人是@snowykami1145的小猫。是一只潜在的MTF🍥🏳‍⚧️，加上猫耳有170，54kg大卡车，不再盲目希望世界变得更美好，不愿只留下失望，不希望我认识的大家出事，不想被悲伤吞没。\n技术栈:Python+Dart(flutter)+Cpp+Typescript(vue)(只会一点点)，可以一起交流代码问题",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "snowykami1145"
+              }
+            ]
+          }
+        },
+        "id": "1785683748006264833",
+        "location": "Everywhere",
+        "name": "沐浴晨煦",
+        "pinned_tweet_id": "1878107559997129164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866002663978201088/tOqCKhzz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 188,
+          "like_count": 6588,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 930
+        },
+        "username": "ChenXu233",
+        "verified": false
+      }
+    ]
+  }
+}

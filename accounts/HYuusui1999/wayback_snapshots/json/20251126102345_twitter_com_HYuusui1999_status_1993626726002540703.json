@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1993626726002540703",
+    "created_at": "2025-11-26T10:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T11:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993626726002540703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1922333766628081665",
+          "start": 3,
+          "username": "xiaoiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993626726002540703",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991128669893320733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoiQAQ: 我是咲苡！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1993626726002540703",
+        "created_at": "2025-11-26T10:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T11:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993626726002540703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1922333766628081665",
+              "start": 3,
+              "username": "xiaoiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993626726002540703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991128669893320733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoiQAQ: 我是咲苡！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922333766628081665",
+        "conversation_id": "1991128669893320733",
+        "created_at": "2025-11-19T12:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T13:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991128669893320733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991128669893320733",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 362,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是咲苡！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 2453,
+          "like_count": 40423,
+          "listed_count": 5,
+          "media_count": 302,
+          "tweet_count": 9821
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T16:51:10.000Z",
+        "description": "是咲苡呀，大号被封这是小号喵！09年mtf已经吃糖两百多天啦，162cm体重未知",
+        "id": "1922333766628081665",
+        "location": "济宁",
+        "name": "咲苡洛🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991128107563294720/ZJKgkuDh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 109,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 31
+        },
+        "username": "xiaoiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

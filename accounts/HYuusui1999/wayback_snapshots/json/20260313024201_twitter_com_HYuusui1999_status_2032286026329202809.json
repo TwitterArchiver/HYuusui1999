@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2032079966800892163",
+    "created_at": "2026-03-13T02:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T03:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032286026329202809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1974276207496867842",
+          "start": 0,
+          "username": "DXMDusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032286026329202809",
+    "in_reply_to_user_id": "1974276207496867842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032079966800892163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DXMDusk 祝好运呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032079959951388673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNl9QgXsAEJdMb.jpg",
+        "width": 1014
+      },
+      {
+        "height": 850,
+        "media_key": "3_2032079962753441792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNl9a8boAAKO5N.jpg",
+        "width": 1644
+      },
+      {
+        "height": 823,
+        "media_key": "3_2032079960324612096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNl9R5WoAAqTAq.jpg",
+        "width": 1643
+      },
+      {
+        "height": 1019,
+        "media_key": "3_2032079961083768832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNl9UuWcAA_SZ3.jpg",
+        "width": 1644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2032079966800892163",
+        "created_at": "2026-03-13T02:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T03:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032286026329202809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032286026329202809",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032079966800892163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 祝好运呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032079959951388673",
+            "3_2032079962753441792",
+            "3_2032079960324612096",
+            "3_2032079961083768832"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2032079966800892163",
+        "created_at": "2026-03-12T13:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032079966800892163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VU9bhjnm8N",
+              "end": 119,
+              "expanded_url": "https://x.com/DXMDusk/status/2032079966800892163/photo/1",
+              "media_key": "3_2032079959951388673",
+              "start": 96,
+              "url": "https://t.co/VU9bhjnm8N"
+            },
+            {
+              "display_url": "pic.x.com/VU9bhjnm8N",
+              "end": 119,
+              "expanded_url": "https://x.com/DXMDusk/status/2032079966800892163/photo/1",
+              "media_key": "3_2032079962753441792",
+              "start": 96,
+              "url": "https://t.co/VU9bhjnm8N"
+            },
+            {
+              "display_url": "pic.x.com/VU9bhjnm8N",
+              "end": 119,
+              "expanded_url": "https://x.com/DXMDusk/status/2032079966800892163/photo/1",
+              "media_key": "3_2032079960324612096",
+              "start": 96,
+              "url": "https://t.co/VU9bhjnm8N"
+            },
+            {
+              "display_url": "pic.x.com/VU9bhjnm8N",
+              "end": 119,
+              "expanded_url": "https://x.com/DXMDusk/status/2032079966800892163/photo/1",
+              "media_key": "3_2032079961083768832",
+              "start": 96,
+              "url": "https://t.co/VU9bhjnm8N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032079966800892163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 367,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "望平安啊，雨晴姐\n小米还记得当年是谁说的“为发烧而生”\n谁说的小米手机是无锁的你可以随便刷机吗，小米公司是真司马了曾经的小米甚至可以刷完全体的Linux\n如今解锁个bl锁都要被法务部警告威胁 https://t.co/VU9bhjnm8N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 3131,
+          "like_count": 44661,
+          "listed_count": 6,
+          "media_count": 367,
+          "tweet_count": 11323
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 855,
+          "like_count": 1369,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 1342
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

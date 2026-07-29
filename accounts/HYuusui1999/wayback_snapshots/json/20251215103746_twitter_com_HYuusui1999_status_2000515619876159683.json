@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2000468087595008460",
+    "created_at": "2025-12-15T10:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T11:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000515619876159683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1448187795571286017",
+          "start": 0,
+          "username": "mudaixingzi"
+        },
+        {
+          "end": 23,
+          "id": "1757031119894257664",
+          "start": 13,
+          "username": "wozijibzd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000515619876159683",
+    "in_reply_to_user_id": "1448187795571286017",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000468087595008460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mudaixingzi @wozijibzd"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2000468087595008460].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2000468087595008460",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2000468087595008460"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2000468087595008460",
+        "created_at": "2025-12-15T10:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T11:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000515619876159683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1448187795571286017",
+              "start": 0,
+              "username": "mudaixingzi"
+            },
+            {
+              "end": 23,
+              "id": "1757031119894257664",
+              "start": 13,
+              "username": "wozijibzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000515619876159683",
+        "in_reply_to_user_id": "1448187795571286017",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000468087595008460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mudaixingzi @wozijibzd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 2729,
+          "like_count": 42889,
+          "listed_count": 6,
+          "media_count": 308,
+          "tweet_count": 10426
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T07:24:21.000Z",
+        "description": "重来",
+        "id": "1448187795571286017",
+        "name": "莺",
+        "pinned_tweet_id": "1998169265862852679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998870719036534784/A3SyMmMM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4938,
+          "following_count": 490,
+          "like_count": 46184,
+          "listed_count": 17,
+          "media_count": 2158,
+          "tweet_count": 16094
+        },
+        "username": "mudaixingzi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T13:17:33.000Z",
+        "description": "在外流浪的mtf",
+        "id": "1757031119894257664",
+        "location": "地球🌍",
+        "name": "叙叙🍥",
+        "pinned_tweet_id": "1994424840535883803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998212945868959744/VDHcqQ0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 624,
+          "like_count": 4985,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1901
+        },
+        "username": "wozijibzd",
+        "verified": false
+      }
+    ]
+  }
+}

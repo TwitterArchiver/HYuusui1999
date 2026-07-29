@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2040827893035725153",
+    "created_at": "2026-04-07T10:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T11:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041455988684083272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032715306632884224",
+          "start": 0,
+          "username": "omgnowihave"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041455988684083272",
+    "in_reply_to_user_id": "2032715306632884224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040827893035725153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omgnowihave 可以说说为什么吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2040827893035725153",
+        "created_at": "2026-04-07T10:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041455988684083272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032715306632884224",
+              "start": 0,
+              "username": "omgnowihave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041455988684083272",
+        "in_reply_to_user_id": "2032715306632884224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040827893035725153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omgnowihave 可以说说为什么吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032715306632884224",
+        "conversation_id": "2040827893035725153",
+        "created_at": "2026-04-05T16:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040827893035725153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/omgnowihave/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/omgnowihave/status/2040815401702203439",
+              "start": 15,
+              "url": "https://t.co/1XbYWXFica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040827893035725153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4655,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040815401702203439",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我收回這句話\n我他媽割死算了 https://t.co/1XbYWXFica"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 3186,
+          "like_count": 44853,
+          "listed_count": 5,
+          "media_count": 369,
+          "tweet_count": 11524
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T07:08:06.000Z",
+        "description": "2009/12/24 | 座标台中 | 炸柜王 | \n 旧帐号 @omgnowihavefish（被冻结了）\n@xiohunggu251015(被删了）\n676767676767676767676767676767676767676767676767676767676767",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "omgnowihavefish"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "xiohunggu251015"
+              }
+            ]
+          }
+        },
+        "id": "2032715306632884224",
+        "name": "黄瓜🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2033199415520018879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032716573929340928/3UpIyBpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 581,
+          "like_count": 3416,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 839
+        },
+        "username": "omgnowihave",
+        "verified": false
+      }
+    ]
+  }
+}

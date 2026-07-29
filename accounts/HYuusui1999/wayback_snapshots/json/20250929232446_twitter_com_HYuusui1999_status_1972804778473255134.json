@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1960249528533266526",
+    "created_at": "2025-09-29T23:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T00:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972804778473255134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1910265162856366080",
+          "start": 0,
+          "username": "yiwa76862"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972804778473255134",
+    "in_reply_to_user_id": "1910265162856366080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960249528533266526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiwa76862 要不要说说看遇到了什么困难"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1960249528533266526",
+        "created_at": "2025-09-29T23:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T00:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972804778473255134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1910265162856366080",
+              "start": 0,
+              "username": "yiwa76862"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972804778473255134",
+        "in_reply_to_user_id": "1910265162856366080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960249528533266526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiwa76862 要不要说说看遇到了什么困难"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910265162856366080",
+        "conversation_id": "1960249528533266526",
+        "created_at": "2025-08-26T07:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T08:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960249528533266526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960249528533266526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都有人安慰，但是我是贱种畜生，没有人爱我没有人站在我的身边，所以我死了都不会被人在乎……呵呵……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 1953,
+          "like_count": 33478,
+          "listed_count": 6,
+          "media_count": 271,
+          "tweet_count": 8356
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T09:35:02.000Z",
+        "description": "fgo望月千代女单推人，来源图片皆为约稿",
+        "id": "1910265162856366080",
+        "location": "镜花学院",
+        "name": "佩佩龙的西哈诺----诅咒之神",
+        "pinned_tweet_id": "1957672918348923321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966078100606791680/e8JSCzcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 159,
+          "like_count": 2862,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 929
+        },
+        "username": "yiwa76862",
+        "verified": false
+      }
+    ]
+  }
+}

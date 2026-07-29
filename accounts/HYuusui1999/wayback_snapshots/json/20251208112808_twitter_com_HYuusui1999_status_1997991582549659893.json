@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1997991582549659893",
+    "created_at": "2025-12-08T11:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T12:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997991582549659893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1844926832967286785",
+          "start": 3,
+          "username": "orisam123"
+        },
+        {
+          "end": 25,
+          "id": "1178683932717522945",
+          "start": 15,
+          "username": "takomalu1"
+        },
+        {
+          "end": 42,
+          "id": "1682912923851841536",
+          "start": 26,
+          "username": "chan19890604t04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997991582549659893",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996037948996026778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @orisam123: @takomalu1 @chan19890604t04 真的是布林老哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1997991582549659893",
+        "created_at": "2025-12-08T11:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T12:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997991582549659893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844926832967286785",
+              "start": 3,
+              "username": "orisam123"
+            },
+            {
+              "end": 25,
+              "id": "1178683932717522945",
+              "start": 15,
+              "username": "takomalu1"
+            },
+            {
+              "end": 42,
+              "id": "1682912923851841536",
+              "start": 26,
+              "username": "chan19890604t04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997991582549659893",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996037948996026778",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @orisam123: @takomalu1 @chan19890604t04 真的是布林老哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "1995746013613785169",
+        "created_at": "2025-12-03T02:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T03:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996037948996026778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1178683932717522945",
+              "start": 0,
+              "username": "takomalu1"
+            },
+            {
+              "end": 27,
+              "id": "1682912923851841536",
+              "start": 11,
+              "username": "chan19890604t04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996037948996026778",
+        "in_reply_to_user_id": "1178683932717522945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1946,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995882082766041166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@takomalu1 @chan19890604t04 真的是布林老哥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 2583,
+          "like_count": 41498,
+          "listed_count": 6,
+          "media_count": 303,
+          "tweet_count": 10133
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "疯婆 取向异性微双 有点怕疼的sub |  \n从2024年七月初开始的饭桶（减肥中)\n   |     \n闺蜜&姐姐&引路人:  \n@zihou1968025650\n\ntg群组:\nhttps://t.co/yTt9lE770i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "zihou1968025650"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+keUB4EQpayswN…",
+                "end": 113,
+                "expanded_url": "https://t.me/+keUB4EQpayswNThl",
+                "start": 90,
+                "url": "https://t.co/yTt9lE770i"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "新京",
+        "name": "折筱orisam🏳️‍⚧️（少女秃头中）",
+        "pinned_tweet_id": "1889966215923466584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972221628097708032/LU2zOJtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3195,
+          "following_count": 1328,
+          "like_count": 59243,
+          "listed_count": 3,
+          "media_count": 815,
+          "tweet_count": 16297
+        },
+        "username": "orisam123",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-30T14:52:11.000Z",
+        "description": "軟體宅物師程工 | 跨里緣投啦",
+        "id": "1178683932717522945",
+        "location": "New Jersey, USA",
+        "name": "takomalu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1251683412382973962/ea0c_sfu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 352,
+          "like_count": 124140,
+          "listed_count": 5,
+          "media_count": 4790,
+          "tweet_count": 28472
+        },
+        "username": "takomalu1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T00:38:40.000Z",
+        "description": "不跟粉蛆🕷️🐷🐰對話 圖和影片皆是轉載的 備用號@chan19890604to5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "chan19890604to5"
+              }
+            ]
+          }
+        },
+        "id": "1682912923851841536",
+        "location": "Taiwan",
+        "name": "陳少4.0",
+        "pinned_tweet_id": "1992999502090031395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906652458711171072/LTlW2rI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2769,
+          "following_count": 1652,
+          "like_count": 66224,
+          "listed_count": 20,
+          "media_count": 12834,
+          "tweet_count": 31833
+        },
+        "username": "chan19890604t04",
+        "verified": false
+      }
+    ]
+  }
+}

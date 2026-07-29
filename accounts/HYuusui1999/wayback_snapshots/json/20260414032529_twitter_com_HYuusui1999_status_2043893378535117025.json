@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2043868113222152414",
+    "created_at": "2026-04-14T03:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T04:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043893378535117025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1459356998097850370",
+          "start": 0,
+          "username": "Aequoia1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043893378535117025",
+    "in_reply_to_user_id": "1459356998097850370",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043868113222152414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aequoia1 节哀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2043868113222152414",
+        "created_at": "2026-04-14T03:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T04:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043893378535117025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1459356998097850370",
+              "start": 0,
+              "username": "Aequoia1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043893378535117025",
+        "in_reply_to_user_id": "1459356998097850370",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043868113222152414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aequoia1 节哀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459356998097850370",
+        "conversation_id": "2043868113222152414",
+        "created_at": "2026-04-14T01:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T02:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043868113222152414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043868113222152414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚考完试突然收到奶奶去世的消息😢\n这两天得回去一下了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 3197,
+          "like_count": 44891,
+          "listed_count": 5,
+          "media_count": 369,
+          "tweet_count": 11578
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-13T03:06:53.000Z",
+        "description": "If you’ve chosen life, then choose to live.",
+        "id": "1459356998097850370",
+        "name": "Ich1noseyukI🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637329154960916480/-ulZkX_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 511,
+          "like_count": 5758,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 971
+        },
+        "username": "Aequoia1",
+        "verified": false
+      }
+    ]
+  }
+}

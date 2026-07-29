@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1929101869131121000",
+    "created_at": "2025-06-01T09:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T10:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929101869131121000"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "请重点关注"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/shimonachan/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/shimonachan/status/1929081184346050736",
+          "start": 16,
+          "url": "https://t.co/u5JvQsUFs7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929101869131121000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929081184346050736",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#请重点关注 请亲友们陪陪ta https://t.co/u5JvQsUFs7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929081174951096320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsV5G5_acAAowjp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1929101869131121000",
+        "created_at": "2025-06-01T09:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T10:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929101869131121000"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "请重点关注"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/shimonachan/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/shimonachan/status/1929081184346050736",
+              "start": 16,
+              "url": "https://t.co/u5JvQsUFs7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929101869131121000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929081184346050736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#请重点关注 请亲友们陪陪ta https://t.co/u5JvQsUFs7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929081174951096320"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "conversation_id": "1929081184346050736",
+        "created_at": "2025-06-01T07:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T08:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929081184346050736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZSApAfEk0I",
+              "end": 40,
+              "expanded_url": "https://x.com/ShimonaChan/status/1929081184346050736/photo/1",
+              "media_key": "3_1929081174951096320",
+              "start": 17,
+              "url": "https://t.co/ZSApAfEk0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929081184346050736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 401,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这样死不比什么吞药自杀痛快多了？ https://t.co/ZSApAfEk0I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。    ～公告栏～ @jvhao0721好久前开始从b站盗句号视频， 视频创作者是@juhao0721，请注意 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "jvhao0721"
+              },
+              {
+                "end": 98,
+                "start": 88,
+                "username": "juhao0721"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 1072,
+          "like_count": 20748,
+          "listed_count": 6,
+          "media_count": 195,
+          "tweet_count": 4674
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "眠るのが好き…",
+        "id": "758296624875446272",
+        "location": "別看，看了會死",
+        "name": "Shimona",
+        "pinned_tweet_id": "1915837945178951857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923325303193296896/3M20fT_X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27419,
+          "following_count": 3488,
+          "like_count": 9562,
+          "listed_count": 27,
+          "media_count": 4076,
+          "tweet_count": 27051
+        },
+        "username": "ShimonaChan",
+        "verified": false
+      }
+    ]
+  }
+}

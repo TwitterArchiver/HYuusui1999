@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039727898710687744"
+      ],
+      "media_source_tweet_id": [
+        "2039727925591712080"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2040704086232961185",
+    "created_at": "2026-04-05T08:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T09:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040704086232961185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2039720325152206848",
+          "start": 3,
+          "username": "tataqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U4v8yJdJ06",
+          "end": 111,
+          "expanded_url": "https://x.com/tataqwq/status/2039727925591712080/photo/1",
+          "media_key": "3_2039727898710687744",
+          "start": 88,
+          "url": "https://t.co/U4v8yJdJ06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040704086232961185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039727925591712080",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tataqwq: 求扩散一下！原账号和小号全部被盗！邮箱被更改，我现在根本登不上！我不知道他想干嘛，现在在想办法申诉回来，如果那个账号给你发私信千万别信！\n我要急哭了 https://t.co/U4v8yJdJ06"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2039727898710687744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6Rt4kawAARUBE.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039727898710687744"
+          ],
+          "media_source_tweet_id": [
+            "2039727925591712080"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "2040704086232961185",
+        "created_at": "2026-04-05T08:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040704086232961185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2039720325152206848",
+              "start": 3,
+              "username": "tataqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U4v8yJdJ06",
+              "end": 111,
+              "expanded_url": "https://x.com/tataqwq/status/2039727925591712080/photo/1",
+              "media_key": "3_2039727898710687744",
+              "start": 88,
+              "url": "https://t.co/U4v8yJdJ06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040704086232961185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039727925591712080",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tataqwq: 求扩散一下！原账号和小号全部被盗！邮箱被更改，我现在根本登不上！我不知道他想干嘛，现在在想办法申诉回来，如果那个账号给你发私信千万别信！\n我要急哭了 https://t.co/U4v8yJdJ06"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039727898710687744"
+          ]
+        },
+        "author_id": "2039720325152206848",
+        "conversation_id": "2039727925591712080",
+        "created_at": "2026-04-02T15:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039727925591712080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U4v8yJdJ06",
+              "end": 98,
+              "expanded_url": "https://x.com/tataqwq/status/2039727925591712080/photo/1",
+              "media_key": "3_2039727898710687744",
+              "start": 75,
+              "url": "https://t.co/U4v8yJdJ06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039727925591712080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11693,
+          "like_count": 82,
+          "quote_count": 11,
+          "reply_count": 24,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "求扩散一下！原账号和小号全部被盗！邮箱被更改，我现在根本登不上！我不知道他想干嘛，现在在想办法申诉回来，如果那个账号给你发私信千万别信！\n我要急哭了 https://t.co/U4v8yJdJ06"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1130,
+          "following_count": 3176,
+          "like_count": 44742,
+          "listed_count": 6,
+          "media_count": 369,
+          "tweet_count": 11493
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T15:03:16.000Z",
+        "description": "",
+        "id": "2039720325152206848",
+        "name": "塔塔账号被盗看我推文",
+        "pinned_tweet_id": "2039727925591712080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039723640543965184/PwDHQPoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 118,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 33
+        },
+        "username": "tataqwq",
+        "verified": false
+      }
+    ]
+  }
+}

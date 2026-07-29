@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003043368004182017"
+      ],
+      "media_source_tweet_id": [
+        "2003043402716426599"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2003044063931777079",
+    "created_at": "2025-12-22T10:04:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T11:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003044063931777079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878681729407356928",
+          "start": 3,
+          "username": "HYuusui1999"
+        },
+        {
+          "end": 29,
+          "id": "1726969617850286080",
+          "start": 17,
+          "username": "NashiMoe233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9PHFUlRlcR",
+          "end": 64,
+          "expanded_url": "https://x.com/HYuusui1999/status/2003043402716426599/photo/1",
+          "media_key": "3_2003043368004182017",
+          "start": 41,
+          "url": "https://t.co/9PHFUlRlcR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003044063931777079",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003043402716426599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HYuusui1999: @NashiMoe233 涙の販売機帳號已停用 https://t.co/9PHFUlRlcR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2003044063931777079].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2003044063931777079",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2003044063931777079"
+    },
+    {
+      "detail": "Could not find user with entities.mentions.username: [NashiMoe233].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "NashiMoe233",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "NashiMoe233"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 822,
+        "media_key": "3_2003043368004182017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8w9VKOXYAEwABg.jpg",
+        "width": 2050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003043368004182017"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "2003043402716426599",
+        "created_at": "2025-12-22T10:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003043402716426599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1726969617850286080",
+              "start": 0,
+              "username": "NashiMoe233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9PHFUlRlcR",
+              "end": 47,
+              "expanded_url": "https://x.com/HYuusui1999/status/2003043402716426599/photo/1",
+              "media_key": "3_2003043368004182017",
+              "start": 24,
+              "url": "https://t.co/9PHFUlRlcR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003043402716426599",
+        "in_reply_to_user_id": "1726969617850286080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@NashiMoe233 涙の販売機帳號已停用 https://t.co/9PHFUlRlcR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 2852,
+          "like_count": 43790,
+          "listed_count": 6,
+          "media_count": 324,
+          "tweet_count": 10671
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1972438750300143845",
+    "created_at": "2025-09-29T03:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T04:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972511630996144505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "770178042325004289",
+          "start": 0,
+          "username": "qfbymc000215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972511630996144505",
+    "in_reply_to_user_id": "770178042325004289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972511245627728255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qfbymc000215 我是说可以不用发帖子倾诉\n和个人说说也可以的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1972438750300143845",
+        "created_at": "2025-09-29T03:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T04:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972511630996144505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "770178042325004289",
+              "start": 0,
+              "username": "qfbymc000215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972511630996144505",
+        "in_reply_to_user_id": "770178042325004289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972511245627728255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qfbymc000215 我是说可以不用发帖子倾诉\n和个人说说也可以的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "770178042325004289",
+        "conversation_id": "1972438750300143845",
+        "created_at": "2025-09-29T03:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T04:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972511245627728255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972511245627728255",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972459809262985461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 等的是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 1953,
+          "like_count": 33448,
+          "listed_count": 6,
+          "media_count": 271,
+          "tweet_count": 8331
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-29T08:35:29.000Z",
+        "description": "一般通过",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/meranti_2016",
+                "end": 23,
+                "expanded_url": "https://t.me/meranti_2016",
+                "start": 0,
+                "url": "https://t.co/kcxgHyVCot"
+              }
+            ]
+          }
+        },
+        "id": "770178042325004289",
+        "name": "semi2333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920056949560987648/kNWsq1sd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 142,
+          "like_count": 10358,
+          "listed_count": 1,
+          "media_count": 540,
+          "tweet_count": 6333
+        },
+        "url": "https://t.co/kcxgHyVCot",
+        "username": "qfbymc000215",
+        "verified": false
+      }
+    ]
+  }
+}

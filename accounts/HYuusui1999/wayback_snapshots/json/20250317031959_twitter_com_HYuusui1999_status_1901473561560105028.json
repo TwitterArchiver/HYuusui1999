@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1901295257779609902",
+    "created_at": "2025-03-17T03:19:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T04:19:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901473561560105028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "HyotoKagurazaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901473561560105028",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901295257779609902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HyotoKagurazaka 我也是啊(￣▽￣)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1901295257779609902",
+        "created_at": "2025-03-17T03:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T04:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901473561560105028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "HyotoKagurazaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901473561560105028",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901295257779609902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HyotoKagurazaka 我也是啊(￣▽￣)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680834021377593344",
+        "conversation_id": "1901295257779609902",
+        "created_at": "2025-03-16T15:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T16:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901295257779609902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901295257779609902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 433,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "遇见你们很开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 479,
+          "like_count": 10804,
+          "listed_count": 6,
+          "media_count": 92,
+          "tweet_count": 1457
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "いつまでも風に吹かれたい",
+        "id": "1680834021377593344",
+        "location": "土星",
+        "name": "温原ひょと 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901041267271983104/hjQd08KK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2139,
+          "following_count": 970,
+          "like_count": 79174,
+          "listed_count": 13,
+          "media_count": 3882,
+          "tweet_count": 24470
+        },
+        "username": "HyotoKagurazaka",
+        "verified": false
+      }
+    ]
+  }
+}

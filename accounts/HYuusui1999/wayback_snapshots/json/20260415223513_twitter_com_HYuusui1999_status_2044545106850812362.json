@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2044351999505023089",
+    "created_at": "2026-04-15T22:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T23:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044545106850812362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032715306632884224",
+          "start": 0,
+          "username": "omgnowihave"
+        },
+        {
+          "end": 25,
+          "id": "1801382796436639745",
+          "start": 13,
+          "username": "_Sennya0717"
+        },
+        {
+          "end": 34,
+          "id": "1724348868585013248",
+          "start": 26,
+          "username": "kiriu07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044545106850812362",
+    "in_reply_to_user_id": "2032715306632884224",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044351999505023089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omgnowihave @_Sennya0717 @kiriu07"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044351992009789440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7_TiebEAAeAIl.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2044351999505023089",
+        "created_at": "2026-04-15T22:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T23:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044545106850812362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032715306632884224",
+              "start": 0,
+              "username": "omgnowihave"
+            },
+            {
+              "end": 25,
+              "id": "1801382796436639745",
+              "start": 13,
+              "username": "_Sennya0717"
+            },
+            {
+              "end": 34,
+              "id": "1724348868585013248",
+              "start": 26,
+              "username": "kiriu07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044545106850812362",
+        "in_reply_to_user_id": "2032715306632884224",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044351999505023089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omgnowihave @_Sennya0717 @kiriu07"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044351992009789440"
+          ]
+        },
+        "author_id": "2032715306632884224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044351999505023089",
+        "created_at": "2026-04-15T09:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T10:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044351999505023089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SVgUueyoco",
+              "end": 31,
+              "expanded_url": "https://x.com/omgnowihave/status/2044351999505023089/photo/1",
+              "media_key": "3_2044351992009789440",
+              "start": 8,
+              "url": "https://t.co/SVgUueyoco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044351999505023089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9285,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等下配晚餐吃😈 https://t.co/SVgUueyoco"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 3209,
+          "like_count": 44969,
+          "listed_count": 5,
+          "media_count": 369,
+          "tweet_count": 11605
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T07:08:06.000Z",
+        "description": "2009/12/24 | 座标台中 | 炸柜王 | \n 旧帐号 @omgnowihavefish（被冻结了）\n@xiohunggu251015(被删了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "omgnowihavefish"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "xiohunggu251015"
+              }
+            ]
+          }
+        },
+        "id": "2032715306632884224",
+        "name": "黄瓜(邪惡台中人)",
+        "pinned_tweet_id": "2033199415520018879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032716573929340928/3UpIyBpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 657,
+          "like_count": 4151,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1064
+        },
+        "username": "omgnowihave",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T22:35:19.000Z",
+        "description": "║生日 2008.07.17 / 坐标台湾 / 高一休学\n║INFP / 猫猫\n║MtF / 家长党 / 持证含糖 2025.02.11\n║双相二型 / 焦虑症 / ADHD / BPD / 阿斯伯格 / CPTSD\n║音游人 / 渴望温暖 / 努力变得健全\n║网页是更详细的自介（施工中）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/SennyaOwO",
+                "end": 23,
+                "expanded_url": "https://lit.link/SennyaOwO",
+                "start": 0,
+                "url": "https://t.co/3kWAHiQr3p"
+              }
+            ]
+          }
+        },
+        "id": "1801382796436639745",
+        "location": "互联网",
+        "name": "千夜在睡觉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1949911363368665124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004473589333213184/JvXCzyUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2682,
+          "following_count": 1653,
+          "like_count": 9509,
+          "listed_count": 5,
+          "media_count": 310,
+          "tweet_count": 3331
+        },
+        "url": "https://t.co/3kWAHiQr3p",
+        "username": "_Sennya0717",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T08:49:58.000Z",
+        "description": "MTF / 主帳號系統已進入警急狀態並去世(🍥) / 一切以網站為主 / 重度依戀，永遠愛著大家 / 自殺干預緊急應變小組",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiriyo.link",
+                "end": 23,
+                "expanded_url": "http://kiriyo.link",
+                "start": 0,
+                "url": "https://t.co/n3HrUiPmzq"
+              }
+            ]
+          }
+        },
+        "id": "1724348868585013248",
+        "location": "Taiwan",
+        "name": "霧夜KiriyoX🍥™",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021740981062971393/0ODalPMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 57,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/n3HrUiPmzq",
+        "username": "kiriu07",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1993936295262068855",
+    "created_at": "2025-11-28T05:11:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T06:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994272827709477081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929844692583436289",
+          "start": 0,
+          "username": "tukapel0_57"
+        },
+        {
+          "end": 29,
+          "id": "1519869093586751488",
+          "start": 13,
+          "username": "bugcat_capoo_tw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994272827709477081",
+    "in_reply_to_user_id": "1929844692583436289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994015276732699072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tukapel0_57 @bugcat_capoo_tw 假如你不知道这件事会怎样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1993936295262068855",
+        "created_at": "2025-11-28T05:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T06:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994272827709477081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929844692583436289",
+              "start": 0,
+              "username": "tukapel0_57"
+            },
+            {
+              "end": 29,
+              "id": "1519869093586751488",
+              "start": 13,
+              "username": "bugcat_capoo_tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994272827709477081",
+        "in_reply_to_user_id": "1929844692583436289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994015276732699072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tukapel0_57 @bugcat_capoo_tw 假如你不知道这件事会怎样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929844692583436289",
+        "conversation_id": "1993936295262068855",
+        "created_at": "2025-11-27T12:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994015276732699072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1519869093586751488",
+              "start": 0,
+              "username": "bugcat_capoo_tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994015276732699072",
+        "in_reply_to_user_id": "1519869093586751488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 28791,
+          "like_count": 152,
+          "quote_count": 5,
+          "reply_count": 65,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993936295262068855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bugcat_capoo_tw 你到底想干嘛。。。。我买了几千的玩偶怎么办。。为什么，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 2481,
+          "like_count": 40609,
+          "listed_count": 6,
+          "media_count": 302,
+          "tweet_count": 9877
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T10:16:51.000Z",
+        "description": "Chinese | rhythm games | painting | IDKabtmore :3\n📧→ 3923269201@qq.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ZPN5h2T",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ZPN5h2T",
+                "start": 0,
+                "url": "https://t.co/0HMEnakVQE"
+              }
+            ]
+          }
+        },
+        "id": "1929844692583436289",
+        "name": "Tukapel0_57 “甲鸟孑孓”",
+        "pinned_tweet_id": "1994116545916883310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931736104644063232/sq4W4MX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 21,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/0HMEnakVQE",
+        "username": "tukapel0_57",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T02:40:18.000Z",
+        "description": "Strange creature that looks like a cat and a bug. From Taiwan.  猫と虫のように見える奇妙な生き物。台湾から",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/capoo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/capoo",
+                "start": 0,
+                "url": "https://t.co/XuFbWWyx7k"
+              }
+            ]
+          }
+        },
+        "id": "1519869093586751488",
+        "location": "Taichung City, Taiwan",
+        "name": "Bugcat Capoo",
+        "pinned_tweet_id": "1969605259820745073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1519869339981152257/KbHAyq-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124745,
+          "following_count": 71,
+          "like_count": 99,
+          "listed_count": 266,
+          "media_count": 326,
+          "tweet_count": 353
+        },
+        "url": "https://t.co/XuFbWWyx7k",
+        "username": "bugcat_capoo_tw",
+        "verified": true
+      }
+    ]
+  }
+}

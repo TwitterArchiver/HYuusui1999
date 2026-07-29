@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1969119138833445193",
+    "created_at": "2025-09-20T07:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T08:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969306408379158769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1954966290424111104",
+          "start": 0,
+          "username": "paofufuaichi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969306408379158769",
+    "in_reply_to_user_id": "1954966290424111104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969119138833445193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paofufuaichi 走向哪里呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16997,
+        "height": 1280,
+        "media_key": "7_1969118845525729280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1969118845525729280/pu/img/TVIT828sw8efSlM4.jpg",
+        "public_metrics": {
+          "view_count": 85
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1969118845525729280/pu/vid/avc1/320x568/6wZjICf07kZKT1Fw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1969118845525729280/pu/vid/avc1/480x852/Gfu-iFQjxS35F9xo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1969118845525729280/pu/vid/avc1/720x1280/B5Iwjppm7ofzoG8t.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1969118845525729280/pu/pl/k6NaTos2_Oix0Rsu.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1969119138833445193",
+        "created_at": "2025-09-20T07:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T08:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969306408379158769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1954966290424111104",
+              "start": 0,
+              "username": "paofufuaichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969306408379158769",
+        "in_reply_to_user_id": "1954966290424111104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969119138833445193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paofufuaichi 走向哪里呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1969118845525729280"
+          ]
+        },
+        "author_id": "1954966290424111104",
+        "conversation_id": "1969119138833445193",
+        "created_at": "2025-09-19T19:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T20:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969119138833445193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CSa5WXhVZK",
+              "end": 40,
+              "expanded_url": "https://x.com/paofufuaichi/status/1969119138833445193/video/1",
+              "media_key": "7_1969118845525729280",
+              "start": 17,
+              "url": "https://t.co/CSa5WXhVZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969119138833445193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 165,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是时候跟过去告别走向那里了…… https://t.co/CSa5WXhVZK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 1734,
+          "like_count": 30777,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 7954
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T18:01:09.000Z",
+        "description": "25.05.29无证含糖🍥/本人极度缺爱/身高180cm/体重57.7kg/生日09.05.04/轻微社恐/轻sm/浙江温州的/🚪48（记得私信）/接线下私信详谈/\n同类互fo/超级爱各位宝宝❤️❤️❤️(˵¯͒〰¯͒˵)/兼职号 @paofufu54",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 116,
+                "username": "paofufu54"
+              }
+            ]
+          }
+        },
+        "id": "1954966290424111104",
+        "name": "泡芙芙爱吃🍥",
+        "pinned_tweet_id": "1962183808221856153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954966458120712193/blSOSbww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 142,
+          "like_count": 210,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 79
+        },
+        "username": "paofufuaichi",
+        "verified": false
+      }
+    ]
+  }
+}

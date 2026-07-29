@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2026205551202607219",
+    "created_at": "2026-02-24T08:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T09:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026215913674899826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2001598933169315840",
+          "start": 0,
+          "username": "XldscX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026215913674899826",
+    "in_reply_to_user_id": "2001598933169315840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026205551202607219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XldscX 某人家长期望孩子考托考到120，我哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2026205551202607219",
+        "created_at": "2026-02-24T08:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026215913674899826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2001598933169315840",
+              "start": 0,
+              "username": "XldscX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026215913674899826",
+        "in_reply_to_user_id": "2001598933169315840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026205551202607219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XldscX 某人家长期望孩子考托考到120，我哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001598933169315840",
+        "conversation_id": "2026205551202607219",
+        "created_at": "2026-02-24T08:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026205551202607219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XldscX/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/XldscX/status/2026184589627335151",
+              "start": 24,
+              "url": "https://t.co/kyegMsSX0t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026205551202607219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026184589627335151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "张口闭口雅思9，正常人能考到7.5就超牛逼了。 https://t.co/kyegMsSX0t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 3035,
+          "like_count": 43986,
+          "listed_count": 6,
+          "media_count": 364,
+          "tweet_count": 11024
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T10:23:02.000Z",
+        "description": "我还是劝你们听Ludicin吧，曾经有个教育家做了一个实验，把听Ludicin的孩子和不听Ludicin的孩子从楼上扔下去，听Ludicin的孩子使用手机播放Ludicin的歌被好听到起飞。而另一个孩子不听Ludicin，直接当场dropdead。从小培养听Ludicin的意识，比任何教育都重要，这就是听Ludicin",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.163.com/song?id=263740…",
+                "end": 23,
+                "expanded_url": "https://music.163.com/song?id=2637402867&uct2=U2FsdGVkX1/XfjjVnwMFP6PT6YaKrz8aBzuHf03Mm/E=",
+                "start": 0,
+                "url": "https://t.co/9UnSJ1l3nk"
+              }
+            ]
+          }
+        },
+        "id": "2001598933169315840",
+        "location": "天河 廣州 廣東省",
+        "name": "沈翎与",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024800074124206080/YLmilWJ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 165,
+          "like_count": 3019,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1104
+        },
+        "url": "https://t.co/9UnSJ1l3nk",
+        "username": "XldscX",
+        "verified": false
+      }
+    ]
+  }
+}

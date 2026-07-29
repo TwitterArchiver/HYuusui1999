@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1901497845989216724",
+    "created_at": "2025-03-17T05:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T06:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901511021757358330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "961552358906802176",
+          "start": 0,
+          "username": "dfdtc7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901511021757358330",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901510706673180712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dfdtc7 如果绝对客观地讲，\n每个人都应该对这件事负责"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1901497845989216724",
+        "created_at": "2025-03-17T05:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T06:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901511021757358330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "961552358906802176",
+              "start": 0,
+              "username": "dfdtc7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901511021757358330",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901510706673180712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dfdtc7 如果绝对客观地讲，\n每个人都应该对这件事负责"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1901497845989216724",
+        "created_at": "2025-03-17T05:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T06:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901510706673180712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "961552358906802176",
+              "start": 0,
+              "username": "dfdtc7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901510706673180712",
+        "in_reply_to_user_id": "961552358906802176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901500767342612682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dfdtc7 不可以这么说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 484,
+          "like_count": 10949,
+          "listed_count": 6,
+          "media_count": 94,
+          "tweet_count": 1492
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-08T10:48:41.000Z",
+        "description": "大头菜有最爱的人，但她已经不在了...",
+        "id": "961552358906802176",
+        "name": "dfdtc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887309919705325568/vm8zJROc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3798,
+          "following_count": 1771,
+          "like_count": 50984,
+          "listed_count": 11,
+          "media_count": 2259,
+          "tweet_count": 16905
+        },
+        "username": "dfdtc7",
+        "verified": false
+      }
+    ]
+  }
+}

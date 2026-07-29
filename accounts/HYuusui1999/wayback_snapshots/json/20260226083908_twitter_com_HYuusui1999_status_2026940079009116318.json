@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2026728204258484474",
+    "created_at": "2026-02-26T08:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T09:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026940079009116318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1947508861063335939",
+          "start": 0,
+          "username": "vvyyjbkb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026940079009116318",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026936506422567018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vvyyjbkb 所以希望妳明白，妳的價值不止於他們說的那樣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2026728204258484474",
+        "created_at": "2026-02-26T08:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026940079009116318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1947508861063335939",
+              "start": 0,
+              "username": "vvyyjbkb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026940079009116318",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026936506422567018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vvyyjbkb 所以希望妳明白，妳的價值不止於他們說的那樣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2026728204258484474",
+        "created_at": "2026-02-26T08:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026936506422567018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1947508861063335939",
+              "start": 0,
+              "username": "vvyyjbkb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HYuusui1999/st…",
+              "end": 33,
+              "expanded_url": "https://x.com/HYuusui1999/status/2026935574867718613?s=20",
+              "start": 10,
+              "url": "https://t.co/DFXPZPeg2C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026936506422567018",
+        "in_reply_to_user_id": "1947508861063335939",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026935574867718613",
+            "type": "quoted"
+          },
+          {
+            "id": "2026728204258484474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vvyyjbkb https://t.co/DFXPZPeg2C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 3126,
+          "like_count": 44609,
+          "listed_count": 6,
+          "media_count": 364,
+          "tweet_count": 11205
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T04:13:22.000Z",
+        "description": "09年小药娘可以叫咱小绫/hrt起始日2025.7.22/身高163/体重140/已炸柜/\n家暴党/离家出走中/坐标广西来宾/",
+        "id": "1947508861063335939",
+        "location": "药娘共和国",
+        "name": "绫喵喵🍥",
+        "pinned_tweet_id": "1971976999481889126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020816994338213888/zaIhMIoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 278,
+          "like_count": 795,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 378
+        },
+        "username": "vvyyjbkb",
+        "verified": false
+      }
+    ]
+  }
+}

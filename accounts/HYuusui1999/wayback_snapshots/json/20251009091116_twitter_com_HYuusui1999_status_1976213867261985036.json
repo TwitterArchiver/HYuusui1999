@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1976208178670076346",
+    "created_at": "2025-10-09T09:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T10:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976213867261985036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1971006655430262784",
+          "start": 0,
+          "username": "FxxkApexLegend"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976213867261985036",
+    "in_reply_to_user_id": "1971006655430262784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976208178670076346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FxxkApexLegend 我的印象是安倍比石破、高市好很多🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 492,
+        "media_key": "3_1976208172630278145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2zm3NPaAAENCaR.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1976208178670076346",
+        "created_at": "2025-10-09T09:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T10:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976213867261985036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1971006655430262784",
+              "start": 0,
+              "username": "FxxkApexLegend"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976213867261985036",
+        "in_reply_to_user_id": "1971006655430262784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976208178670076346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FxxkApexLegend 我的印象是安倍比石破、高市好很多🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976208172630278145"
+          ]
+        },
+        "author_id": "1971006655430262784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1976208178670076346",
+        "created_at": "2025-10-09T08:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T09:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976208178670076346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ldag0QCIbM",
+              "end": 30,
+              "expanded_url": "https://x.com/FxxkApexLegend/status/1976208178670076346/photo/1",
+              "media_key": "3_1976208172630278145",
+              "start": 7,
+              "url": "https://t.co/Ldag0QCIbM"
+            },
+            {
+              "display_url": "x.com/akie_official/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/akie_official/status/1974759052606627897",
+              "start": 31,
+              "url": "https://t.co/LJkOPHYvSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976208178670076346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 312,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974759052606627897",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "bro你谁。 https://t.co/Ldag0QCIbM https://t.co/LJkOPHYvSG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 2066,
+          "like_count": 35071,
+          "listed_count": 6,
+          "media_count": 283,
+          "tweet_count": 8729
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "“青野怎麼不玩地平線去推特賣藥了”/我是「翎」 / 181cm 54kg🏳️‍⚧️🍥MtX💛🤍💜🖤(she?/they) /26fall🇨🇦🇬🇧 / Apex地平線從新手到入門到賬號已註銷 // 里推@KagurazakaAkira ❤️@juhao0721 / 擔保買藥找@minokakay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 100,
+                "username": "KagurazakaAkira"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "juhao0721"
+              },
+              {
+                "end": 147,
+                "start": 137,
+                "username": "minokakay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEbyHV"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "location": "在🇬🇧读书",
+        "name": "🍀🍥青野🍥🍀",
+        "pinned_tweet_id": "1971656298539503670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971157025330704384/YaGDwMwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 229,
+          "like_count": 1102,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1242
+        },
+        "url": "https://t.co/BKhBrEbyHV",
+        "username": "FxxkApexLegend",
+        "verified": false
+      }
+    ]
+  }
+}

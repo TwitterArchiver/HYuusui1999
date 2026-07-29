@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1998012568955191406",
+    "created_at": "2025-12-08T12:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T13:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998012568955191406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1555140316629307393",
+          "start": 0,
+          "username": "MTNEKO8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998012568955191406",
+    "in_reply_to_user_id": "1555140316629307393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@MTNEKO8964 面条喵账号已受限"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1998012568955191406",
+        "created_at": "2025-12-08T12:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T13:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998012568955191406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1555140316629307393",
+              "start": 0,
+              "username": "MTNEKO8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998012568955191406",
+        "in_reply_to_user_id": "1555140316629307393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@MTNEKO8964 面条喵账号已受限"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 2588,
+          "like_count": 41547,
+          "listed_count": 6,
+          "media_count": 303,
+          "tweet_count": 10144
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-04T10:35:41.000Z",
+        "description": "MtX🍥｜hrt：25.2.11｜泛性恋 / 社恐 / 抑郁焦虑 / 社会化程度极低的阿斯｜面条的tg频道https://t.co/lTJOZv0FHG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123456",
+                "end": 76,
+                "expanded_url": "https://t.me/MTNEKO123456",
+                "start": 53,
+                "url": "https://t.co/lTJOZv0FHG"
+              }
+            ]
+          }
+        },
+        "id": "1555140316629307393",
+        "name": "面条喵🍥🐱🐈（重新开始",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993999956198477824/GL9pGhbD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 47
+        },
+        "username": "MTNEKO8964",
+        "verified": true
+      }
+    ]
+  }
+}

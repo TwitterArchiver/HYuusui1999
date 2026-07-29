@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1939618357046865976",
+    "created_at": "2025-06-30T10:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T11:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939632845816738079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1764728841010831360",
+          "start": 0,
+          "username": "Quack_one"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939632845816738079",
+    "in_reply_to_user_id": "1764728841010831360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 17,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939618357046865976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Quack_one 您头像咋了（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939618352080605184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuronVuX0AADnph.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1939618357046865976",
+        "created_at": "2025-06-30T10:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T11:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939632845816738079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1764728841010831360",
+              "start": 0,
+              "username": "Quack_one"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939632845816738079",
+        "in_reply_to_user_id": "1764728841010831360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939618357046865976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Quack_one 您头像咋了（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939618352080605184"
+          ]
+        },
+        "author_id": "1764728841010831360",
+        "conversation_id": "1939618357046865976",
+        "created_at": "2025-06-30T09:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T10:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939618357046865976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A95ImQRoOb",
+              "end": 27,
+              "expanded_url": "https://x.com/Quack_one/status/1939618357046865976/photo/1",
+              "media_key": "3_1939618352080605184",
+              "start": 4,
+              "url": "https://t.co/A95ImQRoOb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939618357046865976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 442,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大胆！ https://t.co/A95ImQRoOb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yvjue0189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yvjue0189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 1253,
+          "like_count": 23457,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 5641
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T19:05:36.000Z",
+        "description": "小南娘 | 吉他手 | 爵士乐 | 演奏视频在b站：尤里uri | 学琴请私信\nhttps://t.co/R4nmxTGEQa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quack_one1",
+                "end": 63,
+                "expanded_url": "https://ngl.link/quack_one1",
+                "start": 40,
+                "url": "https://t.co/R4nmxTGEQa"
+              }
+            ]
+          }
+        },
+        "id": "1764728841010831360",
+        "location": "china",
+        "name": "沙漠独狼",
+        "pinned_tweet_id": "1931702106152698129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939629890141044736/digu1t8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2974,
+          "following_count": 279,
+          "like_count": 1384,
+          "listed_count": 6,
+          "media_count": 101,
+          "tweet_count": 1604
+        },
+        "username": "Quack_one",
+        "verified": false
+      }
+    ]
+  }
+}

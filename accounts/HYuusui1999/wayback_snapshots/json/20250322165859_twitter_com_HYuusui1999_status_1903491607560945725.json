@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1903469923940417536"
+      ],
+      "media_source_tweet_id": [
+        "1903469931695317433"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1903491607560945725",
+    "created_at": "2025-03-22T16:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T17:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903491607560945725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1682445540695609345",
+          "start": 3,
+          "username": "zfuihg81263"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uGLvbx22VK",
+          "end": 71,
+          "expanded_url": "https://x.com/zfuihg81263/status/1903469931695317433/photo/1",
+          "media_key": "3_1903469923940417536",
+          "start": 48,
+          "url": "https://t.co/uGLvbx22VK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903491607560945725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903469931695317433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zfuihg81263: 疯狂找工作中!青岛城阳有没有人给我介绍一份包吃包住的工作…… https://t.co/uGLvbx22VK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1903469923940417536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmp7z5EbwAAn_VW.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903469923940417536"
+          ],
+          "media_source_tweet_id": [
+            "1903469931695317433"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1903491607560945725",
+        "created_at": "2025-03-22T16:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T17:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903491607560945725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1682445540695609345",
+              "start": 3,
+              "username": "zfuihg81263"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uGLvbx22VK",
+              "end": 71,
+              "expanded_url": "https://x.com/zfuihg81263/status/1903469931695317433/photo/1",
+              "media_key": "3_1903469923940417536",
+              "start": 48,
+              "url": "https://t.co/uGLvbx22VK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903491607560945725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903469931695317433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zfuihg81263: 疯狂找工作中!青岛城阳有没有人给我介绍一份包吃包住的工作…… https://t.co/uGLvbx22VK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903469923940417536"
+          ]
+        },
+        "author_id": "1682445540695609345",
+        "conversation_id": "1903469931695317433",
+        "created_at": "2025-03-22T15:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T16:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903469931695317433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uGLvbx22VK",
+              "end": 54,
+              "expanded_url": "https://x.com/zfuihg81263/status/1903469931695317433/photo/1",
+              "media_key": "3_1903469923940417536",
+              "start": 31,
+              "url": "https://t.co/uGLvbx22VK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903469931695317433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 521,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "疯狂找工作中!青岛城阳有没有人给我介绍一份包吃包住的工作…… https://t.co/uGLvbx22VK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1903418336572305499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 523,
+          "like_count": 11800,
+          "listed_count": 6,
+          "media_count": 105,
+          "tweet_count": 1752
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T17:41:09.000Z",
+        "description": "09年无证含糖 | 163cm45kg |HRT2024.10.2 |已炸柜|想和同类贴贴|性取向是同类和男娘!|重度抑郁症|重度焦虑|双向情感障碍|泪失禁|梦想成为可爱的小女生每天都想穿裙子出门|同类互fo|M属性|TG:@cmyf_qwq|最好的姐姐~@xueqing_qwq|有任何事情都可以联系我的电报|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "cmyf_qwq"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "xueqing_qwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cmyf_qwq",
+                "end": 23,
+                "expanded_url": "http://t.me/cmyf_qwq",
+                "start": 0,
+                "url": "https://t.co/Xg5Th62LhY"
+              }
+            ]
+          }
+        },
+        "id": "1682445540695609345",
+        "name": "朝梦引帆🍥",
+        "pinned_tweet_id": "1903338773452296386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864086343007268864/zYe352zI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 252,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 176
+        },
+        "url": "https://t.co/Xg5Th62LhY",
+        "username": "zfuihg81263",
+        "verified": false
+      }
+    ]
+  }
+}

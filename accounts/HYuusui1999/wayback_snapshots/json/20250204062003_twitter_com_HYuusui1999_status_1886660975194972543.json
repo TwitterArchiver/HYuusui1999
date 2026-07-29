@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1886397672359170132",
+    "created_at": "2025-02-04T06:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T07:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886660975194972543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880275242926714881",
+          "start": 0,
+          "username": "AiEastAsia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886660975194972543",
+    "in_reply_to_user_id": "1880275242926714881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886564641624768794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AiEastAsia 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1886397672359170132",
+        "created_at": "2025-02-04T06:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T07:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886660975194972543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880275242926714881",
+              "start": 0,
+              "username": "AiEastAsia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886660975194972543",
+        "in_reply_to_user_id": "1880275242926714881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886564641624768794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AiEastAsia 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880275242926714881",
+        "conversation_id": "1886397672359170132",
+        "created_at": "2025-02-03T23:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T00:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886564641624768794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886564641624768794",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886397672359170132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1886317348082119135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 332,
+          "like_count": 6280,
+          "listed_count": 4,
+          "media_count": 54,
+          "tweet_count": 745
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T15:25:35.000Z",
+        "description": "不許為失去的晨霞落憾\n落日是再現的晨霞",
+        "id": "1880275242926714881",
+        "location": "東亜",
+        "name": "中谽栁",
+        "pinned_tweet_id": "1884542607482913067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886002335815745537/l7XdoBtp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 240,
+          "like_count": 2343,
+          "listed_count": 4,
+          "media_count": 19,
+          "tweet_count": 769
+        },
+        "username": "AiEastAsia",
+        "verified": false
+      }
+    ]
+  }
+}

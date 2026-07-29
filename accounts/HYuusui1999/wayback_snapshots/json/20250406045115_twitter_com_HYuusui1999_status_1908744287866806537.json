@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1908744287866806537",
+    "created_at": "2025-04-06T04:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T05:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908744287866806537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/2temisinin/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/2temisinin/status/1908728855642456301",
+          "start": 4,
+          "url": "https://t.co/ctYosGDqFk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908744287866806537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908728855642456301",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请关注 https://t.co/ctYosGDqFk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1908744287866806537",
+        "created_at": "2025-04-06T04:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T05:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908744287866806537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/2temisinin/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/2temisinin/status/1908728855642456301",
+              "start": 4,
+              "url": "https://t.co/ctYosGDqFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908744287866806537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908728855642456301",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请关注 https://t.co/ctYosGDqFk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372184630753853444",
+        "conversation_id": "1908728855642456301",
+        "created_at": "2025-04-06T03:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T04:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908728855642456301"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908728855642456301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "越来越在潜意识中认为死亡有来世\n而理智科学又在不停的压抑这种想法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1905989245266972950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 696,
+          "like_count": 14589,
+          "listed_count": 6,
+          "media_count": 127,
+          "tweet_count": 2648
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T13:54:56.000Z",
+        "description": "最爱@haku_dabai｜可以叫我鸮｜ 家长党小证MtF🏳️‍⚧️｜ Wuhan生科大一休学 ，业余药理学习中｜PCB、尼康用户、电台呼号BH6RQG｜彩虹六号、Noita、MC｜药物咨询@HarugumoLee｜代为めんま保存追悼账号🕯️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "haku_dabai"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "HarugumoLee"
+              }
+            ]
+          }
+        },
+        "id": "1372184630753853444",
+        "location": "罗德岛",
+        "name": "氯鸮西泮",
+        "pinned_tweet_id": "1894930997873127616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894978786338222080/ksYWNZSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2494,
+          "following_count": 1522,
+          "like_count": 28212,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 2461
+        },
+        "username": "2temisinin",
+        "verified": false
+      }
+    ]
+  }
+}

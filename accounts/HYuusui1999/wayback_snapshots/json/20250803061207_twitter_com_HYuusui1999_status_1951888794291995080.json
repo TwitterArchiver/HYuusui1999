@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1951888794291995080",
+    "created_at": "2025-08-03T06:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T07:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951888794291995080"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_kaname_03/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/_kaname_03/status/1951293094873145598",
+          "start": 8,
+          "url": "https://t.co/MuqVmGyxP8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951888794291995080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951293094873145598",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还是人吗=_= https://t.co/MuqVmGyxP8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22931,
+        "height": 1280,
+        "media_key": "13_1951292936928534528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1951292936928534528/img/1jrhaKMYt8rYZ0b3.jpg",
+        "public_metrics": {
+          "view_count": 9512542
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951292936928534528/vid/avc1/320x568/pbPIuhXNKaQAiDqv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951292936928534528/vid/avc1/480x852/I76swTva7d00Nxhr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951292936928534528/vid/avc1/720x1280/Uqksxf_qer8tLX0B.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1951292936928534528/pl/hlqOYmwO1h22-_0A.m3u8?v=5da"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1951888794291995080",
+        "created_at": "2025-08-03T06:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T07:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951888794291995080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_kaname_03/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/_kaname_03/status/1951293094873145598",
+              "start": 8,
+              "url": "https://t.co/MuqVmGyxP8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951888794291995080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951293094873145598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还是人吗=_= https://t.co/MuqVmGyxP8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1951292936928534528"
+          ]
+        },
+        "author_id": "1601735483901751296",
+        "conversation_id": "1951293094873145598",
+        "created_at": "2025-08-01T14:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T15:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951293094873145598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xaKwQrnVS6",
+              "end": 56,
+              "expanded_url": "https://x.com/_kaname_03/status/1951293094873145598/video/1",
+              "media_key": "13_1951292936928534528",
+              "start": 33,
+              "url": "https://t.co/xaKwQrnVS6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951293094873145598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21073,
+          "impression_count": 22867737,
+          "like_count": 50227,
+          "quote_count": 2103,
+          "reply_count": 1488,
+          "retweet_count": 2011
+        },
+        "reply_settings": "everyone",
+        "text": "ぶっこわれ過ぎだろ😹😹😹\n夜の歌舞伎町こんなのしか居なくて楽しい https://t.co/xaKwQrnVS6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 1483,
+          "like_count": 27811,
+          "listed_count": 5,
+          "media_count": 239,
+          "tweet_count": 6830
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T00:28:03.000Z",
+        "description": "@_kaname_2 ↩︎鍵垢人選ぶ/@_kaname_12 ↩︎サブ垢/ほむらちゃんを愛してます😻/ツイ消し常習犯/あいどるです/下のリンクからTikTokフォローして😿😿😿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "_kaname_2"
+              },
+              {
+                "end": 30,
+                "start": 19,
+                "username": "_kaname_12"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@__kaname__03?…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@__kaname__03?_t=ZS-8xHbaeN8iuW&_r=1",
+                "start": 0,
+                "url": "https://t.co/B4IofS0S0w"
+              }
+            ]
+          }
+        },
+        "id": "1601735483901751296",
+        "location": "見滝原⇔風見野",
+        "name": "かなめ",
+        "pinned_tweet_id": "1891318708607361134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774095561496707072/_O5OTRC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19194,
+          "following_count": 128,
+          "like_count": 5835,
+          "listed_count": 33,
+          "media_count": 624,
+          "tweet_count": 2940
+        },
+        "url": "https://t.co/B4IofS0S0w",
+        "username": "_kaname_03",
+        "verified": false
+      }
+    ]
+  }
+}

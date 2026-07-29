@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1972753365034741844",
+    "created_at": "2025-09-30T00:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T01:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972817461616759141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1733255083440357376",
+          "start": 0,
+          "username": "8964_xy11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972817461616759141",
+    "in_reply_to_user_id": "1733255083440357376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972753365034741844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_xy11 怎么能这样……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1972753365034741844",
+        "created_at": "2025-09-30T00:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T01:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972817461616759141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1733255083440357376",
+              "start": 0,
+              "username": "8964_xy11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972817461616759141",
+        "in_reply_to_user_id": "1733255083440357376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972753365034741844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_xy11 怎么能这样……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733255083440357376",
+        "conversation_id": "1972753365034741844",
+        "created_at": "2025-09-29T20:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T21:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972753365034741844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972753365034741844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我妈不懂打人不打脸的道理，唉。最近只好变成口罩入和别人说我流感了…不过我也是真感冒了，嗓子疼咳嗽低烧两三天了。难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 1957,
+          "like_count": 33641,
+          "listed_count": 6,
+          "media_count": 271,
+          "tweet_count": 8391
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T22:40:22.000Z",
+        "description": "低精度伪人生物/感谢各路私人恩怨 ｜（匿名留言⬇️）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiye19652",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiye19652",
+                "start": 0,
+                "url": "https://t.co/j6vldLUAkw"
+              }
+            ]
+          }
+        },
+        "id": "1733255083440357376",
+        "location": "你找不到的地方",
+        "name": "曦夜今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972779600234352640/8B94hwqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 750,
+          "like_count": 40586,
+          "listed_count": 7,
+          "media_count": 103,
+          "tweet_count": 2965
+        },
+        "url": "https://t.co/j6vldLUAkw",
+        "username": "8964_xy11",
+        "verified": false
+      }
+    ]
+  }
+}

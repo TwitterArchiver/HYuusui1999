@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1900514034140782747",
+    "created_at": "2025-03-15T10:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T11:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900853444975751223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1893688350076542976",
+          "start": 0,
+          "username": "drug_artist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900853444975751223",
+    "in_reply_to_user_id": "1893688350076542976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900514034140782747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drug_artist 您"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 958,
+        "media_key": "3_1900514031150174208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl_7cSVaEAAGMlZ.jpg",
+        "width": 1280
+      },
+      {
+        "height": 958,
+        "media_key": "3_1900514031485755393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl_7cTlaoAEV_fx.jpg",
+        "width": 1280
+      },
+      {
+        "height": 958,
+        "media_key": "3_1900514029262852096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl_7cLTb0AAJt7L.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1900514034140782747",
+        "created_at": "2025-03-15T10:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T11:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900853444975751223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1893688350076542976",
+              "start": 0,
+              "username": "drug_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900853444975751223",
+        "in_reply_to_user_id": "1893688350076542976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900514034140782747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist 您"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900514031150174208",
+            "3_1900514031485755393",
+            "3_1900514029262852096"
+          ]
+        },
+        "author_id": "1893688350076542976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1900514034140782747",
+        "created_at": "2025-03-14T11:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T12:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900514034140782747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CaGqehT06d",
+              "end": 67,
+              "expanded_url": "https://x.com/drug_artist/status/1900514034140782747/photo/1",
+              "media_key": "3_1900514031150174208",
+              "start": 44,
+              "url": "https://t.co/CaGqehT06d"
+            },
+            {
+              "display_url": "pic.x.com/CaGqehT06d",
+              "end": 67,
+              "expanded_url": "https://x.com/drug_artist/status/1900514034140782747/photo/1",
+              "media_key": "3_1900514031485755393",
+              "start": 44,
+              "url": "https://t.co/CaGqehT06d"
+            },
+            {
+              "display_url": "pic.x.com/CaGqehT06d",
+              "end": 67,
+              "expanded_url": "https://x.com/drug_artist/status/1900514034140782747/photo/1",
+              "media_key": "3_1900514029262852096",
+              "start": 44,
+              "url": "https://t.co/CaGqehT06d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900514034140782747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 113,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "据报告 dmt 巧克力 微量 dmt 体验很好 看到了恶魔 万花筒幻觉 身体粘稠 扭曲 https://t.co/CaGqehT06d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 440,
+          "like_count": 9829,
+          "listed_count": 4,
+          "media_count": 87,
+          "tweet_count": 1294
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T15:44:29.000Z",
+        "description": "🎀欢迎来我的主页喵～/是INFP喵～/爱好是一切…我喜欢的东西！/都来找我聊天！心情不好来找我心情不好也可以来找我！/请把我当成情绪垃圾桶吧喵～😇",
+        "id": "1893688350076542976",
+        "name": "💕🎀沐雨ソース💞✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893688536513040384/B_JIysQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 93,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 200
+        },
+        "username": "drug_artist",
+        "verified": false
+      }
+    ]
+  }
+}

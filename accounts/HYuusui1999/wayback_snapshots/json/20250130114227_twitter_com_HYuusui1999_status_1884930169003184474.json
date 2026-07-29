@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1884679809118388694",
+    "created_at": "2025-01-30T11:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T12:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884930169003184474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1422567543940677634",
+          "start": 0,
+          "username": "alt_usu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884930169003184474",
+    "in_reply_to_user_id": "1422567543940677634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884679809118388694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alt_usu 怎么才算早恋啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1884679809118388694",
+        "created_at": "2025-01-30T11:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T12:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884930169003184474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1422567543940677634",
+              "start": 0,
+              "username": "alt_usu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884930169003184474",
+        "in_reply_to_user_id": "1422567543940677634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884679809118388694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alt_usu 怎么才算早恋啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422567543940677634",
+        "conversation_id": "1884679809118388694",
+        "created_at": "2025-01-29T19:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T20:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884679809118388694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alt_usu/status…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/alt_usu/status/1884675335687725152",
+              "start": 143,
+              "url": "https://t.co/XyyFu690mB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884679809118388694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1999,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884675335687725152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "学生时代被禁止早恋，刚进入社会却又马上被催找n朋友、催结婚，很多人也都能发现这其中的不合理之处，“禁止早恋”的历史并不长，“未成年”的历史也不长，工业时代之前成人和儿童是没有如今这般泾渭分明的界限的，那时人们并不认为有什么事情是必须成人能做而儿童则不能做的。帮家里干活、做生意、从事生 https://t.co/XyyFu690mB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 294,
+          "like_count": 4756,
+          "listed_count": 3,
+          "media_count": 41,
+          "tweet_count": 582
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-03T14:38:43.000Z",
+        "description": "人有不可化约的尊严与价值，不是任何伟大理想的工具",
+        "id": "1422567543940677634",
+        "location": "Chiba-shi Wakaba-ku, Chiba",
+        "name": "❄️素",
+        "pinned_tweet_id": "1740107442418237574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781733276270690304/WBG4Nhk-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 400,
+          "like_count": 184290,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 11611
+        },
+        "username": "alt_usu",
+        "verified": false
+      }
+    ]
+  }
+}

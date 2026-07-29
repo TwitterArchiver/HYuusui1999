@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1882763136660566306",
+    "created_at": "2025-01-25T01:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T02:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882966210859647134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806577888751427584",
+          "start": 0,
+          "username": "maggiebai48"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882966210859647134",
+    "in_reply_to_user_id": "1806577888751427584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882763136660566306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maggiebai48 家族是一种怪异"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1882763136660566306",
+        "created_at": "2025-01-25T01:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T02:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882966210859647134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806577888751427584",
+              "start": 0,
+              "username": "maggiebai48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882966210859647134",
+        "in_reply_to_user_id": "1806577888751427584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882763136660566306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maggiebai48 家族是一种怪异"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806577888751427584",
+        "conversation_id": "1882763136660566306",
+        "created_at": "2025-01-24T12:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T13:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882763136660566306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882763136660566306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天晚上其实发生了件很令人气愤的事，我的一个堂弟好像是14岁那样，成绩差到完全跟不上，学不进，只好转到技校上学。小年家族聚餐，那些亲戚几乎是指着头骂他没用没出息（因为他是我们这代第一个读技校的）浪费钱浪费资源辛辛苦苦培养还是当保安的料。他打电话给我，向我哭诉饭桌上发生的这些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 236,
+          "like_count": 2924,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 386
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-28T06:38:47.000Z",
+        "description": "#les  带我去看你盛开的繁花",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "les"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/maggiebai48210…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/maggiebai4821036",
+                "start": 0,
+                "url": "https://t.co/3eDFTqxopY"
+              }
+            ]
+          }
+        },
+        "id": "1806577888751427584",
+        "location": "花园",
+        "name": "枫铃",
+        "pinned_tweet_id": "1879500829360898197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851462131079942144/7JSnVhtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 1149,
+          "like_count": 20838,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 2817
+        },
+        "url": "https://t.co/3eDFTqxopY",
+        "username": "maggiebai48",
+        "verified": false
+      }
+    ]
+  }
+}

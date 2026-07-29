@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1999099874000969947",
+    "created_at": "2025-12-11T12:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T13:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999099874000969947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1937334914808184834",
+          "start": 3,
+          "username": "VitaminC0327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999099874000969947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998978568454607131",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VitaminC0327: 卧槽我十几个互关没了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1999099874000969947",
+        "created_at": "2025-12-11T12:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T13:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999099874000969947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1937334914808184834",
+              "start": 3,
+              "username": "VitaminC0327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999099874000969947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998978568454607131",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VitaminC0327: 卧槽我十几个互关没了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937334914808184834",
+        "conversation_id": "1998978568454607131",
+        "created_at": "2025-12-11T04:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T05:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998978568454607131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998978568454607131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15437,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我十几个互关没了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfXxgs"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 2631,
+          "like_count": 41965,
+          "listed_count": 6,
+          "media_count": 305,
+          "tweet_count": 10315
+        },
+        "url": "https://t.co/BjaOJfXxgs",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T02:20:19.000Z",
+        "description": "碎碎念｜分享日常｜喜欢和礼貌的宝宝一起玩耍｜纯绿｜我眼熟的互关可来找我加v｜自认为是高p｜我帖子会很多 甚至刷屏 介意勿关注可屏蔽｜只过眼熟经常互动的互关@JellyVitaminC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "JellyVitaminC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vitaminc0327",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vitaminc0327",
+                "start": 0,
+                "url": "https://t.co/AFsuEF1NBQ"
+              }
+            ]
+          }
+        },
+        "id": "1937334914808184834",
+        "location": "^ ^等你读懂我的隐喻 等我们的心脏共鸣^ ^",
+        "name": "VitaminC",
+        "pinned_tweet_id": "1970117470397853787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997376783956713472/vBGlQnqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11832,
+          "following_count": 510,
+          "like_count": 5746,
+          "listed_count": 15,
+          "media_count": 658,
+          "tweet_count": 12707
+        },
+        "url": "https://t.co/AFsuEF1NBQ",
+        "username": "VitaminC0327",
+        "verified": false
+      }
+    ]
+  }
+}

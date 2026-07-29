@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1992920443054157843",
+    "created_at": "2025-11-24T11:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T12:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992920443054157843"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dreamlandsym/s…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/dreamlandsym/status/1992907510236471719",
+          "start": 22,
+          "url": "https://t.co/W11J5oAJo6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992920443054157843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992907510236471719",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抛开实际年龄，单看推特 \n你们觉得我几岁？ https://t.co/W11J5oAJo6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1992920443054157843",
+        "created_at": "2025-11-24T11:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T12:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992920443054157843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dreamlandsym/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/dreamlandsym/status/1992907510236471719",
+              "start": 22,
+              "url": "https://t.co/W11J5oAJo6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992920443054157843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992907510236471719",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抛开实际年龄，单看推特 \n你们觉得我几岁？ https://t.co/W11J5oAJo6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865831426303897600",
+        "conversation_id": "1992907510236471719",
+        "created_at": "2025-11-24T10:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T11:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992907510236471719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AsdQWD358224/s…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/AsdQWD358224/status/1992907005439422582",
+              "start": 21,
+              "url": "https://t.co/tIkPSedMlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992907510236471719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992907005439422582",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抛开实际年龄，单看推特\n你们觉得我几岁？ https://t.co/tIkPSedMlt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 2448,
+          "like_count": 40296,
+          "listed_count": 5,
+          "media_count": 302,
+          "tweet_count": 9786
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T18:51:06.000Z",
+        "description": "你们好！我们是dreamland system，现主导是零酱和可奈\n/无证hrt2025.1.10\n/里推（触发警告🎈）：@DreamlandSysSub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "DreamlandSysSub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zero_158gjzr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zero_158gjzr",
+                "start": 0,
+                "url": "https://t.co/ZxXMCZ22Y4"
+              }
+            ]
+          }
+        },
+        "id": "1865831426303897600",
+        "location": "梦之彼岸 dreamland",
+        "name": "北雁梦 - ドリームランド システム",
+        "pinned_tweet_id": "1988932406028771734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971261083634761732/H3a08est_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 899,
+          "like_count": 10860,
+          "listed_count": 5,
+          "media_count": 400,
+          "tweet_count": 6930
+        },
+        "url": "https://t.co/ZxXMCZ22Y4",
+        "username": "dreamlandsym",
+        "verified": false
+      }
+    ]
+  }
+}

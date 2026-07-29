@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002269676664205312"
+      ],
+      "media_source_tweet_id": [
+        "2002269679629578708"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2002301732877930633",
+    "created_at": "2025-12-20T08:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T09:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002301732877930633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "764856941151596549",
+          "start": 3,
+          "username": "_AkitaYura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZjoXX8zZOo",
+          "end": 63,
+          "expanded_url": "https://x.com/_AkitaYura/status/2002269679629578708/photo/1",
+          "media_key": "3_2002269676664205312",
+          "start": 40,
+          "url": "https://t.co/ZjoXX8zZOo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002301732877930633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002269679629578708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_AkitaYura: 婴儿尸检报告出来后的新消息！杀人犯叫陈君贤！！ https://t.co/ZjoXX8zZOo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2002301732877930633].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2002301732877930633",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2002301732877930633"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1708,
+        "media_key": "3_2002269676664205312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8l9qZYbMAAjTJn.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002269676664205312"
+          ]
+        },
+        "author_id": "764856941151596549",
+        "conversation_id": "2002269679629578708",
+        "created_at": "2025-12-20T06:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T07:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002269679629578708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZjoXX8zZOo",
+              "end": 47,
+              "expanded_url": "https://x.com/_AkitaYura/status/2002269679629578708/photo/1",
+              "media_key": "3_2002269676664205312",
+              "start": 24,
+              "url": "https://t.co/ZjoXX8zZOo"
+            },
+            {
+              "display_url": "x.com/_AkitaYura/sta…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/_AkitaYura/status/1995790777562378274",
+              "start": 48,
+              "url": "https://t.co/lfNNwpKDzn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002269679629578708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995790777562378274",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "婴儿尸检报告出来后的新消息！杀人犯叫陈君贤！！ https://t.co/ZjoXX8zZOo https://t.co/lfNNwpKDzn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 2839,
+          "like_count": 43507,
+          "listed_count": 6,
+          "media_count": 312,
+          "tweet_count": 10593
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T16:11:19.000Z",
+        "description": "双🏳‍🌈|喵拉图女爵👑|麻辣烫#1🌶|颜控💅|吾独爱猪猪🐷\n▫️🐑@ShikuiL23822",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "ShikuiL23822"
+              }
+            ]
+          }
+        },
+        "id": "764856941151596549",
+        "location": "R18禁止💢|文爱禁止💢",
+        "name": "Akita Yura",
+        "pinned_tweet_id": "1999341529442460018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997229845726867456/uZxKxFpd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 628,
+          "like_count": 67758,
+          "listed_count": 10,
+          "media_count": 2058,
+          "tweet_count": 17154
+        },
+        "username": "_AkitaYura",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998969361902583808"
+      ],
+      "media_source_tweet_id": [
+        "1998969372690550826"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1998999148608323698",
+    "created_at": "2025-12-11T06:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T07:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998999148608323698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "996924002567307264",
+          "start": 3,
+          "username": "RealSoCD"
+        },
+        {
+          "end": 31,
+          "id": "248647906",
+          "start": 22,
+          "username": "Jesoooor"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rEf4U5Iwxr",
+          "end": 81,
+          "expanded_url": "https://x.com/RealSoCD/status/1998969372690550826/photo/1",
+          "media_key": "3_1998969361902583808",
+          "start": 58,
+          "url": "https://t.co/rEf4U5Iwxr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998999148608323698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998969372690550826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RealSoCD: Jesse 老师@Jesoooor 账号被冻结了？ \n\nWhat happened?? https://t.co/rEf4U5Iwxr"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Jesoooor].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Jesoooor",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Jesoooor"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998969361902583808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G73ECy0XwAADFpP.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998969361902583808"
+          ],
+          "media_source_tweet_id": [
+            "1998969372690550826"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1998999148608323698",
+        "created_at": "2025-12-11T06:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T07:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998999148608323698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "996924002567307264",
+              "start": 3,
+              "username": "RealSoCD"
+            },
+            {
+              "end": 31,
+              "id": "248647906",
+              "start": 22,
+              "username": "Jesoooor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rEf4U5Iwxr",
+              "end": 81,
+              "expanded_url": "https://x.com/RealSoCD/status/1998969372690550826/photo/1",
+              "media_key": "3_1998969361902583808",
+              "start": 58,
+              "url": "https://t.co/rEf4U5Iwxr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998999148608323698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998969372690550826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RealSoCD: Jesse 老师@Jesoooor 账号被冻结了？ \n\nWhat happened?? https://t.co/rEf4U5Iwxr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998969361902583808"
+          ]
+        },
+        "author_id": "996924002567307264",
+        "conversation_id": "1998969372690550826",
+        "created_at": "2025-12-11T04:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T05:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998969372690550826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "248647906",
+              "start": 8,
+              "username": "Jesoooor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rEf4U5Iwxr",
+              "end": 67,
+              "expanded_url": "https://x.com/RealSoCD/status/1998969372690550826/photo/1",
+              "media_key": "3_1998969361902583808",
+              "start": 44,
+              "url": "https://t.co/rEf4U5Iwxr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998969372690550826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Jesse 老师@Jesoooor 账号被冻结了？ \n\nWhat happened?? https://t.co/rEf4U5Iwxr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 2616,
+          "like_count": 41795,
+          "listed_count": 6,
+          "media_count": 303,
+          "tweet_count": 10228
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-17T01:22:58.000Z",
+        "description": "假装体面，故作潇洒地活着",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stillunderconstructionthanks.com",
+                "end": 23,
+                "expanded_url": "http://stillunderconstructionthanks.com",
+                "start": 0,
+                "url": "https://t.co/4G97C6VIev"
+              }
+            ]
+          }
+        },
+        "id": "996924002567307264",
+        "location": "Neverland of my own",
+        "name": "SoCD🍟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/996924843340648448/3RZxjBAL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 287,
+          "like_count": 1353,
+          "listed_count": 2,
+          "media_count": 415,
+          "tweet_count": 1148
+        },
+        "url": "https://t.co/4G97C6VIev",
+        "username": "RealSoCD",
+        "verified": true
+      }
+    ]
+  }
+}

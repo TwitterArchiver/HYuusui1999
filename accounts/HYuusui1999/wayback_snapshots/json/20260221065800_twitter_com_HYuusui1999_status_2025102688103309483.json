@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000246764969041920",
+        "3_2000246764797116416"
+      ],
+      "media_source_tweet_id": [
+        "2000246774062370968",
+        "2000246774062370968"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025102688103309483",
+    "created_at": "2026-02-21T06:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T07:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025102688103309483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1881639336711491584",
+          "start": 3,
+          "username": "mao_xian1527"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8OhwpSOcKg",
+          "end": 44,
+          "expanded_url": "https://x.com/mao_xian1527/status/2000246774062370968/photo/1",
+          "media_key": "3_2000246764969041920",
+          "start": 21,
+          "url": "https://t.co/8OhwpSOcKg"
+        },
+        {
+          "display_url": "pic.x.com/8OhwpSOcKg",
+          "end": 44,
+          "expanded_url": "https://x.com/mao_xian1527/status/2000246774062370968/photo/1",
+          "media_key": "3_2000246764797116416",
+          "start": 21,
+          "url": "https://t.co/8OhwpSOcKg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025102688103309483",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000246774062370968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mao_xian1527: 自設 https://t.co/8OhwpSOcKg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2000246764969041920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8JN1cEaoAA14n4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2000246764797116416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8JN1bbbQAAF1c7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000246764969041920",
+            "3_2000246764797116416"
+          ],
+          "media_source_tweet_id": [
+            "2000246774062370968",
+            "2000246774062370968"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025102688103309483",
+        "created_at": "2026-02-21T06:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025102688103309483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1881639336711491584",
+              "start": 3,
+              "username": "mao_xian1527"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8OhwpSOcKg",
+              "end": 44,
+              "expanded_url": "https://x.com/mao_xian1527/status/2000246774062370968/photo/1",
+              "media_key": "3_2000246764969041920",
+              "start": 21,
+              "url": "https://t.co/8OhwpSOcKg"
+            },
+            {
+              "display_url": "pic.x.com/8OhwpSOcKg",
+              "end": 44,
+              "expanded_url": "https://x.com/mao_xian1527/status/2000246774062370968/photo/1",
+              "media_key": "3_2000246764797116416",
+              "start": 21,
+              "url": "https://t.co/8OhwpSOcKg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025102688103309483",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000246774062370968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mao_xian1527: 自設 https://t.co/8OhwpSOcKg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000246764969041920",
+            "3_2000246764797116416"
+          ]
+        },
+        "author_id": "1881639336711491584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000246774062370968",
+        "created_at": "2025-12-14T16:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000246774062370968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8OhwpSOcKg",
+              "end": 26,
+              "expanded_url": "https://x.com/mao_xian1527/status/2000246774062370968/photo/1",
+              "media_key": "3_2000246764969041920",
+              "start": 3,
+              "url": "https://t.co/8OhwpSOcKg"
+            },
+            {
+              "display_url": "pic.x.com/8OhwpSOcKg",
+              "end": 26,
+              "expanded_url": "https://x.com/mao_xian1527/status/2000246774062370968/photo/1",
+              "media_key": "3_2000246764797116416",
+              "start": 3,
+              "url": "https://t.co/8OhwpSOcKg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000246774062370968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 470,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "自設 https://t.co/8OhwpSOcKg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 2990,
+          "like_count": 43618,
+          "listed_count": 6,
+          "media_count": 364,
+          "tweet_count": 10919
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T09:47:12.000Z",
+        "description": "🤍 【繪畫/Arknights/プロセカ/oc/其他/基本無言】繁體中文🤍Email designated contact maoxian1527@gmail.com",
+        "id": "1881639336711491584",
+        "location": "中華人民共和國",
+        "name": "猫弦",
+        "pinned_tweet_id": "1935033619443290477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993626923877138432/ULz9wsnd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 178,
+          "like_count": 530,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 305
+        },
+        "username": "mao_xian1527",
+        "verified": false
+      }
+    ]
+  }
+}

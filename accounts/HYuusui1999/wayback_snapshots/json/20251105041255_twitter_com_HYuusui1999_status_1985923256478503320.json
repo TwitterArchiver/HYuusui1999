@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985906755315056640",
+        "3_1985906753733885952"
+      ],
+      "media_source_tweet_id": [
+        "1985906758792200668",
+        "1985906758792200668"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1985923256478503320",
+    "created_at": "2025-11-05T04:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T05:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985923256478503320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1461728708935385088",
+          "start": 3,
+          "username": "Qbb7680"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4BxgvVDZl2",
+          "end": 55,
+          "expanded_url": "https://x.com/Qbb7680/status/1985906758792200668/photo/1",
+          "media_key": "3_1985906755315056640",
+          "start": 32,
+          "url": "https://t.co/4BxgvVDZl2"
+        },
+        {
+          "display_url": "pic.x.com/4BxgvVDZl2",
+          "end": 55,
+          "expanded_url": "https://x.com/Qbb7680/status/1985906758792200668/photo/1",
+          "media_key": "3_1985906753733885952",
+          "start": 32,
+          "url": "https://t.co/4BxgvVDZl2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985923256478503320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985906758792200668",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qbb7680: 没想到气波波真也有上电视的一天。。。 https://t.co/4BxgvVDZl2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985906755315056640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G49brBOaQAAazHl.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985906753733885952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G49bq7VbgAA4cIe.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985906755315056640",
+            "3_1985906753733885952"
+          ],
+          "media_source_tweet_id": [
+            "1985906758792200668",
+            "1985906758792200668"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985923256478503320",
+        "created_at": "2025-11-05T04:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T05:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985923256478503320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1461728708935385088",
+              "start": 3,
+              "username": "Qbb7680"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4BxgvVDZl2",
+              "end": 55,
+              "expanded_url": "https://x.com/Qbb7680/status/1985906758792200668/photo/1",
+              "media_key": "3_1985906755315056640",
+              "start": 32,
+              "url": "https://t.co/4BxgvVDZl2"
+            },
+            {
+              "display_url": "pic.x.com/4BxgvVDZl2",
+              "end": 55,
+              "expanded_url": "https://x.com/Qbb7680/status/1985906758792200668/photo/1",
+              "media_key": "3_1985906753733885952",
+              "start": 32,
+              "url": "https://t.co/4BxgvVDZl2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985923256478503320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985906758792200668",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Qbb7680: 没想到气波波真也有上电视的一天。。。 https://t.co/4BxgvVDZl2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985906755315056640",
+            "3_1985906753733885952"
+          ]
+        },
+        "author_id": "1461728708935385088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985906758792200668",
+        "created_at": "2025-11-05T03:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T04:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985906758792200668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4BxgvVDZl2",
+              "end": 42,
+              "expanded_url": "https://x.com/Qbb7680/status/1985906758792200668/photo/1",
+              "media_key": "3_1985906755315056640",
+              "start": 19,
+              "url": "https://t.co/4BxgvVDZl2"
+            },
+            {
+              "display_url": "pic.x.com/4BxgvVDZl2",
+              "end": 42,
+              "expanded_url": "https://x.com/Qbb7680/status/1985906758792200668/photo/1",
+              "media_key": "3_1985906753733885952",
+              "start": 19,
+              "url": "https://t.co/4BxgvVDZl2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985906758792200668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 837,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "没想到气波波真也有上电视的一天。。。 https://t.co/4BxgvVDZl2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。暂时退网（不定期） 偶尔看消息",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 2327,
+          "like_count": 38687,
+          "listed_count": 6,
+          "media_count": 294,
+          "tweet_count": 9288
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-19T16:11:06.000Z",
+        "description": "如星，如月，与风，与剑/ 是凶猛的九节狼，饲养条件：室温24℃湿度50%适当阳光直射/男娘？有对象们 / 喵粒子永远正确/驻苏州，但是苏州没有机场，不能全国可飞/过门可解锁高中数理辅导服务，300每小时，苏州可休息日上门，同济思路，助您高考",
+        "id": "1461728708935385088",
+        "location": "过🚪50/出🚪788",
+        "name": "是气波波nya～",
+        "pinned_tweet_id": "1910388607640363163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958133930722525184/iEmVOcDC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6510,
+          "following_count": 1025,
+          "like_count": 79522,
+          "listed_count": 13,
+          "media_count": 972,
+          "tweet_count": 5502
+        },
+        "username": "Qbb7680",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2043052280833020100",
+    "created_at": "2026-04-11T19:45:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T20:45:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043052856513839418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746050438666002432",
+          "start": 0,
+          "username": "mitsuki072527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043052856513839418",
+    "in_reply_to_user_id": "1746050438666002432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043052280833020100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mitsuki072527 呜呜考完试一定会来陪你呀( ；´Д｀)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2043052258972307457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFphNHmakAExmA4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2043052280833020100",
+        "created_at": "2026-04-11T19:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T20:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043052856513839418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746050438666002432",
+              "start": 0,
+              "username": "mitsuki072527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043052856513839418",
+        "in_reply_to_user_id": "1746050438666002432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043052280833020100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mitsuki072527 呜呜考完试一定会来陪你呀( ；´Д｀)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043052258972307457"
+          ]
+        },
+        "author_id": "1746050438666002432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043052280833020100",
+        "created_at": "2026-04-11T19:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T20:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043052280833020100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7TtasHXQEz",
+              "end": 23,
+              "expanded_url": "https://x.com/mitsuki072527/status/2043052280833020100/photo/1",
+              "media_key": "3_2043052258972307457",
+              "start": 0,
+              "url": "https://t.co/7TtasHXQEz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043052280833020100",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7TtasHXQEz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 3186,
+          "like_count": 44897,
+          "listed_count": 5,
+          "media_count": 369,
+          "tweet_count": 11554
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T06:04:14.000Z",
+        "description": "病み垢 shtwt｜https://t.co/t9wZ8fSAUv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ritsu90802",
+                "end": 33,
+                "expanded_url": "https://ngl.link/ritsu90802",
+                "start": 10,
+                "url": "https://t.co/t9wZ8fSAUv"
+              }
+            ]
+          }
+        },
+        "id": "1746050438666002432",
+        "location": "天国",
+        "name": "死ぬまで",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011873791551684613/8f2jDUKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 118,
+          "like_count": 2133,
+          "listed_count": 2,
+          "media_count": 318,
+          "tweet_count": 4273
+        },
+        "username": "mitsuki072527",
+        "verified": false
+      }
+    ]
+  }
+}

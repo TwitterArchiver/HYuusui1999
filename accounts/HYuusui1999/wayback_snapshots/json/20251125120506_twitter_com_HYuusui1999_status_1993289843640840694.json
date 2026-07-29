@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1988530955682796020",
+    "created_at": "2025-11-25T12:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T13:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993289843640840694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1538551937276444672",
+          "start": 0,
+          "username": "robertaaronss"
+        },
+        {
+          "end": 29,
+          "id": "1911977013675806720",
+          "start": 15,
+          "username": "sakurafoca521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993289843640840694",
+    "in_reply_to_user_id": "1538551937276444672",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993282062972076447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@robertaaronss @sakurafoca521 if you want\nbut it seems you are more interested in those pretty girls("
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [sakurafoca521].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "sakurafoca521",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "sakurafoca521"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1988530955682796020",
+        "created_at": "2025-11-25T12:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T13:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993289843640840694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1538551937276444672",
+              "start": 0,
+              "username": "robertaaronss"
+            },
+            {
+              "end": 29,
+              "id": "1911977013675806720",
+              "start": 15,
+              "username": "sakurafoca521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993289843640840694",
+        "in_reply_to_user_id": "1538551937276444672",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993282062972076447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@robertaaronss @sakurafoca521 if you want\nbut it seems you are more interested in those pretty girls("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538551937276444672",
+        "conversation_id": "1988530955682796020",
+        "created_at": "2025-11-25T11:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T12:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993282062972076447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            },
+            {
+              "end": 27,
+              "id": "1911977013675806720",
+              "start": 13,
+              "username": "sakurafoca521"
+            },
+            {
+              "end": 40,
+              "id": "1878681729407356928",
+              "start": 28,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993282062972076447",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988530955682796020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 @sakurafoca521 @HYuusui1999 May I DM you?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 2449,
+          "like_count": 40370,
+          "listed_count": 5,
+          "media_count": 302,
+          "tweet_count": 9803
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T15:59:14.000Z",
+        "description": "",
+        "id": "1538551937276444672",
+        "name": "Robert Aaron Santos Sariola",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749065068388696065/94t5yzfO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 7501,
+          "like_count": 2996,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 485
+        },
+        "username": "robertaaronss",
+        "verified": false
+      }
+    ]
+  }
+}

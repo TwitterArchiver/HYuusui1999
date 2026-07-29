@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1928673344599257521",
+    "created_at": "2025-05-31T04:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T05:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928673344599257521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1919296206381170688",
+          "start": 3,
+          "username": "juhao0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928673344599257521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928658275538497622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @juhao0721: 那个b纯脸皮厚我说白了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1928673344599257521",
+        "created_at": "2025-05-31T04:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T05:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928673344599257521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919296206381170688",
+              "start": 3,
+              "username": "juhao0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928673344599257521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928658275538497622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @juhao0721: 那个b纯脸皮厚我说白了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919296206381170688",
+        "conversation_id": "1928658275538497622",
+        "created_at": "2025-05-31T03:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T04:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928658275538497622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/juhao0721/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/juhao0721/status/1928658130012901735",
+              "start": 12,
+              "url": "https://t.co/gC88OmLV7J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928658275538497622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928658130012901735",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那个b纯脸皮厚我说白了 https://t.co/gC88OmLV7J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n\n～公告栏～\n@TencentRM好久前开始从b站盗句号视频，\n视频创作者是@juhao0721，请注意\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "TencentRM"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "juhao0721"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 1058,
+          "like_count": 20522,
+          "listed_count": 6,
+          "media_count": 195,
+          "tweet_count": 4589
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T07:42:19.000Z",
+        "description": "这里是可爱小句号~\n有可爱，有实力，更有整活（）\n灌注句号喵，灌注句号蟹蟹喵\nBilibili主页：https://t.co/gkIkiiDUIM  juhao_句号",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/sjWmIxU",
+                "end": 73,
+                "expanded_url": "http://b23.tv/sjWmIxU",
+                "start": 50,
+                "url": "https://t.co/gkIkiiDUIM"
+              }
+            ]
+          }
+        },
+        "id": "1919296206381170688",
+        "location": "重庆",
+        "name": "juhao_我是可爱小句号",
+        "pinned_tweet_id": "1928658130012901735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919296697173413888/OSVwoOxe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 52,
+          "like_count": 472,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 210
+        },
+        "username": "juhao0721",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1979878781532926199",
+    "created_at": "2025-10-19T11:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T12:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979878781532926199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878681729407356928",
+          "start": 3,
+          "username": "HYuusui1999"
+        },
+        {
+          "end": 33,
+          "id": "2962119486",
+          "start": 17,
+          "username": "hoshinoyumemi11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979878781532926199",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979877583828472189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HYuusui1999: @hoshinoyumemi11 账号已停用"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [hoshinoyumemi11].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hoshinoyumemi11",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hoshinoyumemi11"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1979878781532926199",
+        "created_at": "2025-10-19T11:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T12:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979878781532926199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1878681729407356928",
+              "start": 3,
+              "username": "HYuusui1999"
+            },
+            {
+              "end": 33,
+              "id": "2962119486",
+              "start": 17,
+              "username": "hoshinoyumemi11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979878781532926199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979877583828472189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HYuusui1999: @hoshinoyumemi11 账号已停用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1979877583828472189",
+        "created_at": "2025-10-19T11:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T12:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979877583828472189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2962119486",
+              "start": 0,
+              "username": "hoshinoyumemi11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979877583828472189",
+        "in_reply_to_user_id": "2962119486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@hoshinoyumemi11 账号已停用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n\n暂时退网（从2025年10月17日起，预计1个月）\n除留言以外的功能全部暂停运作",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 2118,
+          "like_count": 35703,
+          "listed_count": 6,
+          "media_count": 286,
+          "tweet_count": 8843
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

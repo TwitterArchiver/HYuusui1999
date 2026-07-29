@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2040100592207765773",
+    "created_at": "2026-04-03T16:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T17:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040100592207765773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2028321716049743872",
+          "start": 3,
+          "username": "xynMTFxyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040100592207765773",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040089436734599601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xynMTFxyn: 救救她😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2040100592207765773",
+        "created_at": "2026-04-03T16:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040100592207765773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2028321716049743872",
+              "start": 3,
+              "username": "xynMTFxyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040100592207765773",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040089436734599601",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xynMTFxyn: 救救她😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028321716049743872",
+        "conversation_id": "2040089436734599601",
+        "created_at": "2026-04-03T15:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040089436734599601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/saki_kawaii1/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/saki_kawaii1/status/2040064814907899906",
+              "start": 5,
+              "url": "https://t.co/l5EF1k0dgI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040089436734599601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040064814907899906",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "救救她😭 https://t.co/l5EF1k0dgI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1124,
+          "following_count": 3171,
+          "like_count": 44737,
+          "listed_count": 6,
+          "media_count": 368,
+          "tweet_count": 11479
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T04:14:51.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2026/2/20|药娘小资历| ENTP| 生产日期2010/11/5 | 172厘米 | 70公斤| 摄影📹| LGBT 🏳️‍🌈 | 青岛|私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍| 微粉红🇨🇳 |",
+        "id": "2028321716049743872",
+        "name": "南盺酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2030696282222985619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028373556783153152/usYeYRCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 53,
+          "like_count": 26,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 186
+        },
+        "username": "xynMTFxyn",
+        "verified": false
+      }
+    ]
+  }
+}

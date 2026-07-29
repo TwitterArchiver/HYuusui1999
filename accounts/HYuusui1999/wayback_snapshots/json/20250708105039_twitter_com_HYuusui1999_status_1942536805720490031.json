@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1942390500268597663",
+    "created_at": "2025-07-08T10:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T11:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942536805720490031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1865831426303897600",
+          "start": 0,
+          "username": "Zero_158_Kana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942536805720490031",
+    "in_reply_to_user_id": "1865831426303897600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942390500268597663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zero_158_Kana 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1942390500268597663",
+        "created_at": "2025-07-08T10:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T11:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942536805720490031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1865831426303897600",
+              "start": 0,
+              "username": "Zero_158_Kana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942536805720490031",
+        "in_reply_to_user_id": "1865831426303897600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942390500268597663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zero_158_Kana 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865831426303897600",
+        "conversation_id": "1942390500268597663",
+        "created_at": "2025-07-08T01:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T02:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942390500268597663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Zero_158_Kana/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Zero_158_Kana/status/1933470161862033428",
+              "start": 17,
+              "url": "https://t.co/P8e2IpFTWr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942390500268597663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933470161862033428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的喵…这个话对我自己也适用的呢 https://t.co/P8e2IpFTWr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 1351,
+          "like_count": 24735,
+          "listed_count": 5,
+          "media_count": 217,
+          "tweet_count": 6084
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T18:51:06.000Z",
+        "description": "你们好！我们是北雁梦系统，目前能确定的成员有零，折洛，可奈，七碎，icy，Cecilia \n/无证hrt2025.1.10\n/里推：@DreamlandSysSub\n/Lover：@calsym456 @AsdQWD358224 @Caroline_9870",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "DreamlandSysSub"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "calsym456"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "AsdQWD358224"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "Caroline_9870"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zero_158gjzr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zero_158gjzr",
+                "start": 0,
+                "url": "https://t.co/ZxXMCZ2ANC"
+              }
+            ]
+          }
+        },
+        "id": "1865831426303897600",
+        "location": "梦之彼岸",
+        "name": "北雁梦 - ドリームランド システム",
+        "pinned_tweet_id": "1940194691842285589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940127451700416512/Uey-rF84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 820,
+          "like_count": 9408,
+          "listed_count": 8,
+          "media_count": 300,
+          "tweet_count": 5375
+        },
+        "url": "https://t.co/ZxXMCZ2ANC",
+        "username": "Zero_158_Kana",
+        "verified": false
+      }
+    ]
+  }
+}

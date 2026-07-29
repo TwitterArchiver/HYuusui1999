@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968743256289853442"
+      ],
+      "media_source_tweet_id": [
+        "1968743263159959813"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1968814109681385483",
+    "created_at": "2025-09-18T23:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T00:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968814109681385483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807107145756008448",
+          "start": 3,
+          "username": "kagurazakaAkira"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FYOy6DPwcn",
+          "end": 95,
+          "expanded_url": "https://x.com/kagurazakaAkira/status/1968743263159959813/photo/1",
+          "media_key": "3_1968743256289853442",
+          "start": 72,
+          "url": "https://t.co/FYOy6DPwcn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968814109681385483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968743263159959813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kagurazakaAkira: 拿着网暴和人身威胁作为手段，却无法为自己的观点找到一点合理的理论支持。某些反同群体完全就是犯罪组织了 https://t.co/FYOy6DPwcn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1968814109681385483].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1968814109681385483",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1968814109681385483"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 715,
+        "media_key": "3_1968743256289853442",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Jhj40aQAIG2O6.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968743256289853442"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "1968743263159959813",
+        "created_at": "2025-09-18T18:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T19:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968743263159959813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FYOy6DPwcn",
+              "end": 74,
+              "expanded_url": "https://x.com/kagurazakaAkira/status/1968743263159959813/photo/1",
+              "media_key": "3_1968743256289853442",
+              "start": 51,
+              "url": "https://t.co/FYOy6DPwcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968743263159959813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "拿着网暴和人身威胁作为手段，却无法为自己的观点找到一点合理的理论支持。某些反同群体完全就是犯罪组织了 https://t.co/FYOy6DPwcn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 1658,
+          "like_count": 30384,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 7896
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "这里是翎，此账号被接管，非本人使用，取关了不是互关的人。账号被警察视奸，号主患有精神疾病已炸柜，建议谨慎接触。 爱❤️@juhao0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重庆市渝北区红锦大道60号",
+        "name": "游戳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967836914817597440/NxMReEln_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7907,
+          "following_count": 845,
+          "like_count": 46041,
+          "listed_count": 11,
+          "media_count": 3404,
+          "tweet_count": 27583
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "kagurazakaAkira",
+        "verified": true
+      }
+    ]
+  }
+}

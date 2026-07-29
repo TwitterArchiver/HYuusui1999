@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1999455139195945465",
+    "created_at": "2025-12-12T12:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T13:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999463096881164551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1655093096710021120",
+          "start": 0,
+          "username": "yuzuchanqwq"
+        },
+        {
+          "end": 25,
+          "id": "1491429513779359745",
+          "start": 13,
+          "username": "mizuchanqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999463096881164551",
+    "in_reply_to_user_id": "1655093096710021120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999455139195945465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzuchanqwq @mizuchanqwq 😭抱抱妳們"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1999455139195945465",
+        "created_at": "2025-12-12T12:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T13:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999463096881164551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1655093096710021120",
+              "start": 0,
+              "username": "yuzuchanqwq"
+            },
+            {
+              "end": 25,
+              "id": "1491429513779359745",
+              "start": 13,
+              "username": "mizuchanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999463096881164551",
+        "in_reply_to_user_id": "1655093096710021120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999455139195945465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzuchanqwq @mizuchanqwq 😭抱抱妳們"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655093096710021120",
+        "conversation_id": "1999455139195945465",
+        "created_at": "2025-12-12T12:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T13:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999455139195945465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1491429513779359745",
+              "start": 25,
+              "username": "mizuchanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999455139195945465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自本日起，除非本人的生命安全得到保障，否則將不會與@mizuchanqwq 有任何關係。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfXxgs"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 2665,
+          "like_count": 42290,
+          "listed_count": 6,
+          "media_count": 307,
+          "tweet_count": 10314
+        },
+        "url": "https://t.co/BjaOJfXxgs",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-07T06:12:10.000Z",
+        "description": "🇲🇴🏳️‍⚧️08 MtF / HRT 2024.09.14 / RLE中 / 一個可愛的小妹妹 / 也是一隻小貓 (≧▽≦) / 最愛最愛最愛的小貓❤️🐱 @mizuchanqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "mizuchanqwq"
+              }
+            ]
+          }
+        },
+        "id": "1655093096710021120",
+        "location": "貓屬東京",
+        "name": "ø",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999442438365253632/5Bsp-iFt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 1191,
+          "like_count": 33410,
+          "listed_count": 5,
+          "media_count": 984,
+          "tweet_count": 10817
+        },
+        "username": "yuzuchanqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T15:11:30.000Z",
+        "description": "🐱 1歲小貓 | 🫂 Asylum | 🇯🇵 帰国生 | 🚞鉄オタ | 日本語を母語とする言語学習者 | #永住許可の取消しに反対します | ❤️🍬👉@yuzuchanqwq",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 53,
+                "tag": "永住許可の取消しに反対します"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "yuzuchanqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/r7xikf1qyy6sam…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/r7xikf1qyy6samt?t=K83upe&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/T0ns0Ohc69"
+              }
+            ]
+          }
+        },
+        "id": "1491429513779359745",
+        "location": "貓貓首都圏",
+        "name": "若水ちゃん︎︎︎︎︎🐱🧂",
+        "pinned_tweet_id": "1995873325823009226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988071679235682304/BRVBNxcl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2601,
+          "following_count": 2247,
+          "like_count": 88701,
+          "listed_count": 8,
+          "media_count": 2079,
+          "tweet_count": 10987
+        },
+        "url": "https://t.co/T0ns0Ohc69",
+        "username": "mizuchanqwq",
+        "verified": false
+      }
+    ]
+  }
+}

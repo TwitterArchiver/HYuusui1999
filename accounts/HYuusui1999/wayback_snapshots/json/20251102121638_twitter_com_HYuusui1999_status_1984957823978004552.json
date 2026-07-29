@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984954252591349760"
+      ],
+      "media_source_tweet_id": [
+        "1984954263756558638"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1984957823978004552",
+    "created_at": "2025-11-02T12:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T13:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984957823978004552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1971006655430262784",
+          "start": 3,
+          "username": "FxxkApexLegend"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/buhd16teLs",
+          "end": 74,
+          "expanded_url": "https://x.com/FxxkApexLegend/status/1984954263756558638/photo/1",
+          "media_key": "3_1984954252591349760",
+          "start": 51,
+          "url": "https://t.co/buhd16teLs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984957823978004552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984954263756558638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FxxkApexLegend: 把这个人拉黑b站就没有开屏广告了\n\n@9772b388-e7 https://t.co/buhd16teLs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1984954252591349760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4v5YEEbwAA_EV1.jpg",
+        "width": 873
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984954252591349760"
+          ],
+          "media_source_tweet_id": [
+            "1984954263756558638"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1984957823978004552",
+        "created_at": "2025-11-02T12:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T13:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984957823978004552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1971006655430262784",
+              "start": 3,
+              "username": "FxxkApexLegend"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/buhd16teLs",
+              "end": 74,
+              "expanded_url": "https://x.com/FxxkApexLegend/status/1984954263756558638/photo/1",
+              "media_key": "3_1984954252591349760",
+              "start": 51,
+              "url": "https://t.co/buhd16teLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984957823978004552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984954263756558638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FxxkApexLegend: 把这个人拉黑b站就没有开屏广告了\n\n@9772b388-e7 https://t.co/buhd16teLs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984954252591349760"
+          ]
+        },
+        "author_id": "1971006655430262784",
+        "conversation_id": "1984954263756558638",
+        "created_at": "2025-11-02T12:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T13:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984954263756558638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/buhd16teLs",
+              "end": 54,
+              "expanded_url": "https://x.com/FxxkApexLegend/status/1984954263756558638/photo/1",
+              "media_key": "3_1984954252591349760",
+              "start": 31,
+              "url": "https://t.co/buhd16teLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984954263756558638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "把这个人拉黑b站就没有开屏广告了\n\n@9772b388-e7 https://t.co/buhd16teLs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n\n暂时退网（不定期）\n偶尔看消息",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 2275,
+          "like_count": 37300,
+          "listed_count": 6,
+          "media_count": 290,
+          "tweet_count": 9121
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "請輸入文本。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEb0Sn"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "name": "🍀🍥青野🍥🍀",
+        "pinned_tweet_id": "1978784252008239241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984834861589573632/M2WZxoYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 329,
+          "like_count": 2269,
+          "listed_count": 9,
+          "media_count": 287,
+          "tweet_count": 2527
+        },
+        "url": "https://t.co/BKhBrEb0Sn",
+        "username": "FxxkApexLegend",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1886397672359170132",
+    "created_at": "2025-02-04T06:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T07:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886661267357573596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1822186783515217920",
+          "start": 0,
+          "username": "niu_fan5778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886661267357573596",
+    "in_reply_to_user_id": "1822186783515217920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886437336826761615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niu_fan5778 已经没事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1886397672359170132",
+        "created_at": "2025-02-04T06:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T07:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886661267357573596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1822186783515217920",
+              "start": 0,
+              "username": "niu_fan5778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886661267357573596",
+        "in_reply_to_user_id": "1822186783515217920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886437336826761615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niu_fan5778 已经没事了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822186783515217920",
+        "conversation_id": "1886397672359170132",
+        "created_at": "2025-02-03T15:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T16:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886437336826761615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886437336826761615",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886399875660538015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 虽然不清楚原委，但是没事吧孩子？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1886317348082119135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 332,
+          "like_count": 6280,
+          "listed_count": 4,
+          "media_count": 54,
+          "tweet_count": 748
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T08:23:07.000Z",
+        "description": "06/♍/左翼民粹/喜欢思考/intj（其实人格有阶段性）/什么都发  （♂）医学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iiexy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iiexy",
+                "start": 0,
+                "url": "https://t.co/lV4DmdfWbE"
+              }
+            ]
+          }
+        },
+        "id": "1822186783515217920",
+        "location": "La Habra Heights, CA   提问→",
+        "name": "404 not found",
+        "pinned_tweet_id": "1881202950258954428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881984742117257216/YJhpzgyE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 143,
+          "like_count": 5281,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 978
+        },
+        "url": "https://t.co/lV4DmdfWbE",
+        "username": "niu_fan5778",
+        "verified": false
+      }
+    ]
+  }
+}

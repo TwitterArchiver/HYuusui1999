@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1922571199885791538",
+    "created_at": "2025-05-18T01:16:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T02:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923910587588768131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1919053439960748032",
+          "start": 0,
+          "username": "asdmtfpride"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923910587588768131",
+    "in_reply_to_user_id": "1919053439960748032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922571199885791538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asdmtfpride 不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1922571199885791538",
+        "created_at": "2025-05-18T01:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T02:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923910587588768131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1919053439960748032",
+              "start": 0,
+              "username": "asdmtfpride"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923910587588768131",
+        "in_reply_to_user_id": "1919053439960748032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922571199885791538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asdmtfpride 不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919053439960748032",
+        "conversation_id": "1922571199885791538",
+        "created_at": "2025-05-14T08:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T09:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922571199885791538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922571199885791538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "或许可能，《死在六月》？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n\n～公告栏～\n@juhaoO721是仿冒账号（好久前开始从b站盗句号视频，1k余fo），\n正主是@juhao0721，请注意甄别\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "juhaoO721"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "username": "juhao0721"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 995,
+          "like_count": 19644,
+          "listed_count": 6,
+          "media_count": 195,
+          "tweet_count": 4517
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T15:36:18.000Z",
+        "description": "橙凝凌",
+        "id": "1919053439960748032",
+        "name": "橙凝凌",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 48,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 91
+        },
+        "username": "asdmtfpride",
+        "verified": false
+      }
+    ]
+  }
+}

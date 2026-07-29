@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975413018726178817"
+      ],
+      "media_source_tweet_id": [
+        "1975413024971518101"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1975745005475037402",
+    "created_at": "2025-10-08T02:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T03:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975745005475037402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1941164403216318464",
+          "start": 3,
+          "username": "display6789"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IWeY4Lxv2Q",
+          "end": 42,
+          "expanded_url": "https://x.com/display6789/status/1975413024971518101/photo/1",
+          "media_key": "3_1975413018726178817",
+          "start": 19,
+          "url": "https://t.co/IWeY4Lxv2Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975745005475037402",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2707
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975413024971518101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @display6789: 😛 https://t.co/IWeY4Lxv2Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1220,
+        "media_key": "3_1975413018726178817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2oTrKHbIAExg4R.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975413018726178817"
+          ],
+          "media_source_tweet_id": [
+            "1975413024971518101"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1975745005475037402",
+        "created_at": "2025-10-08T02:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T03:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975745005475037402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1941164403216318464",
+              "start": 3,
+              "username": "display6789"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IWeY4Lxv2Q",
+              "end": 42,
+              "expanded_url": "https://x.com/display6789/status/1975413024971518101/photo/1",
+              "media_key": "3_1975413018726178817",
+              "start": 19,
+              "url": "https://t.co/IWeY4Lxv2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975745005475037402",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2707
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975413024971518101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @display6789: 😛 https://t.co/IWeY4Lxv2Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975413018726178817"
+          ]
+        },
+        "author_id": "1941164403216318464",
+        "conversation_id": "1975413024971518101",
+        "created_at": "2025-10-07T04:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T05:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975413024971518101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IWeY4Lxv2Q",
+              "end": 25,
+              "expanded_url": "https://x.com/display6789/status/1975413024971518101/photo/1",
+              "media_key": "3_1975413018726178817",
+              "start": 2,
+              "url": "https://t.co/IWeY4Lxv2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975413024971518101",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4740,
+          "impression_count": 440365,
+          "like_count": 35590,
+          "quote_count": 63,
+          "reply_count": 5,
+          "retweet_count": 2707
+        },
+        "reply_settings": "everyone",
+        "text": "😛 https://t.co/IWeY4Lxv2Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 2017,
+          "like_count": 34566,
+          "listed_count": 6,
+          "media_count": 278,
+          "tweet_count": 8673
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-04T15:57:22.000Z",
+        "description": "장르계❌ https://t.co/ZxtYbY1xvH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "asked.kr/display6789",
+                "end": 28,
+                "expanded_url": "https://asked.kr/display6789",
+                "start": 5,
+                "url": "https://t.co/ZxtYbY1xvH"
+              }
+            ]
+          }
+        },
+        "id": "1941164403216318464",
+        "name": "무릉도원",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975573028173168640/vm1t3Pa1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11805,
+          "following_count": 55,
+          "like_count": 30,
+          "listed_count": 29,
+          "media_count": 26,
+          "tweet_count": 612
+        },
+        "username": "display6789",
+        "verified": false
+      }
+    ]
+  }
+}

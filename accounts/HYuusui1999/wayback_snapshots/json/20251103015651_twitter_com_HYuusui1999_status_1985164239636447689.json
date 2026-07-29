@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1985164239636447689",
+    "created_at": "2025-11-03T01:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T02:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985164239636447689"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 17,
+          "tag": "请重点关注"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878681729407356928",
+          "start": 3,
+          "username": "HYuusui1999"
+        },
+        {
+          "end": 34,
+          "id": "1752528596718211072",
+          "start": 24,
+          "username": "Gotousugi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985164239636447689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985140380988231957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HYuusui1999: #请重点关注 @Gotousugi 已失联数月，有知情者请说明情况"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1985164239636447689",
+        "created_at": "2025-11-03T01:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T02:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985164239636447689"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "请重点关注"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1878681729407356928",
+              "start": 3,
+              "username": "HYuusui1999"
+            },
+            {
+              "end": 34,
+              "id": "1752528596718211072",
+              "start": 24,
+              "username": "Gotousugi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985164239636447689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985140380988231957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HYuusui1999: #请重点关注 @Gotousugi 已失联数月，有知情者请说明情况"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1985140380988231957",
+        "created_at": "2025-11-03T00:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T01:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985140380988231957"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "请重点关注"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1752528596718211072",
+              "start": 7,
+              "username": "Gotousugi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/0yowlry/status…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/0yowlry/status/1985056784655220775",
+              "start": 34,
+              "url": "https://t.co/qwFdfvZ86T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985140380988231957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985056784655220775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#请重点关注 @Gotousugi 已失联数月，有知情者请说明情况 https://t.co/qwFdfvZ86T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n\n暂时退网（不定期）\n偶尔看消息",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 2287,
+          "like_count": 37548,
+          "listed_count": 6,
+          "media_count": 291,
+          "tweet_count": 9158
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T03:06:13.000Z",
+        "description": "09年/准高一/友跨🏳️‍⚧️/MtF倾向🍥（hrt2025.7.15，斷糖中）/期待srs/坐标上海/小号@CharmingFirefly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 54,
+                "username": "CharmingFirefly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kcna.kp/kp",
+                "end": 23,
+                "expanded_url": "http://www.kcna.kp/kp",
+                "start": 0,
+                "url": "https://t.co/3zRMUL1t7b"
+              }
+            ]
+          }
+        },
+        "id": "1752528596718211072",
+        "location": "光州広域市，大韓民国🇰🇷（距离你2^31-1km)",
+        "name": "⛩️後藤 스기🍥🏳️‍⚧️🧊",
+        "pinned_tweet_id": "1953252977319526816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845095597038239745/93vRoCpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1472,
+          "following_count": 2546,
+          "like_count": 37861,
+          "listed_count": 5,
+          "media_count": 1104,
+          "tweet_count": 19947
+        },
+        "url": "https://t.co/3zRMUL1t7b",
+        "username": "Gotousugi",
+        "verified": false
+      }
+    ]
+  }
+}

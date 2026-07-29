@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1952407711196553417",
+    "created_at": "2025-08-05T00:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T01:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952524499473051656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1808158258500456449",
+          "start": 0,
+          "username": "Mitaner_hidden"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952524499473051656",
+    "in_reply_to_user_id": "1808158258500456449",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952407711196553417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mitaner_hidden 羡慕"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1952407711196553417].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1952407711196553417",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1952407711196553417"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1952407711196553417",
+        "created_at": "2025-08-05T00:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T01:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952524499473051656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1808158258500456449",
+              "start": 0,
+              "username": "Mitaner_hidden"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952524499473051656",
+        "in_reply_to_user_id": "1808158258500456449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952407711196553417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mitaner_hidden 羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 1498,
+          "like_count": 28017,
+          "listed_count": 5,
+          "media_count": 239,
+          "tweet_count": 6941
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T15:18:44.000Z",
+        "description": "@Luo_yiyu 里推 ｜只过熟人｜请勿对外分享该账号发布内容 ｜ 含有负面或敏感内容",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "Luo_yiyu"
+              }
+            ]
+          }
+        },
+        "id": "1808158258500456449",
+        "name": "劳拉西泮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922947937438662660/B9GZ3c7T_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 37,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 112
+        },
+        "username": "Mitaner_hidden",
+        "verified": false
+      }
+    ]
+  }
+}

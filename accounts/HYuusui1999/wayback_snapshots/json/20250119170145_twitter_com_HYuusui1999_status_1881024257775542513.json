@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1880993141479837785",
+    "created_at": "2025-01-19T17:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T18:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881024257775542513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1327607104522362881",
+          "start": 0,
+          "username": "_KannaChanver2_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881024257775542513",
+    "in_reply_to_user_id": "1327607104522362881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880993141479837785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_KannaChanver2_ 抱抱您"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1880993141479837785",
+        "created_at": "2025-01-19T17:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T18:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881024257775542513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1327607104522362881",
+              "start": 0,
+              "username": "_KannaChanver2_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881024257775542513",
+        "in_reply_to_user_id": "1327607104522362881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880993141479837785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_KannaChanver2_ 抱抱您"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880993131476455424",
+            "3_1880993133544329216"
+          ]
+        },
+        "author_id": "1327607104522362881",
+        "conversation_id": "1880993141479837785",
+        "created_at": "2025-01-19T14:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T15:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880993141479837785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q6xnY2CSPx",
+              "end": 112,
+              "expanded_url": "https://x.com/_KannaChanver2_/status/1880993141479837785/photo/1",
+              "media_key": "3_1880993131476455424",
+              "start": 89,
+              "url": "https://t.co/q6xnY2CSPx"
+            },
+            {
+              "display_url": "pic.x.com/q6xnY2CSPx",
+              "end": 112,
+              "expanded_url": "https://x.com/_KannaChanver2_/status/1880993141479837785/photo/1",
+              "media_key": "3_1880993133544329216",
+              "start": 89,
+              "url": "https://t.co/q6xnY2CSPx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880993141479837785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 451,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出门买个菜发现挂在小原付后视镜的头盔被偷了...你日的人怎么这么无聊，偷一个几千块的头盔干什么，旁边机车的全盔不比破小原付的头盔值钱吗...\n推了两公里推回家了，每天都这么无语 https://t.co/q6xnY2CSPx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 174,
+          "like_count": 1352,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 194
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-14T13:41:59.000Z",
+        "description": "自由意志主义/非二元🏳️‍🌈/日本东京学部考学中/想变成某人的猫猫被圈养/みんなの幸せを願う💝\nkanna的telegram：https://t.co/pjisIn1uyC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/BadKanna",
+                "end": 86,
+                "expanded_url": "https://t.me/BadKanna",
+                "start": 63,
+                "url": "https://t.co/pjisIn1uyC"
+              }
+            ]
+          }
+        },
+        "id": "1327607104522362881",
+        "location": "比宇宙更远的地方",
+        "name": "大Kanna",
+        "pinned_tweet_id": "1855914327859171724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872284408809689088/98JZ6-sv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 235,
+          "like_count": 33893,
+          "listed_count": 2,
+          "media_count": 574,
+          "tweet_count": 3708
+        },
+        "username": "_KannaChanver2_",
+        "verified": false
+      }
+    ]
+  }
+}

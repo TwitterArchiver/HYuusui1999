@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1947226156417052801",
+    "created_at": "2025-07-21T12:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T13:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947269868815868075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882424383224029184",
+          "start": 0,
+          "username": "wanbodaoba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947269868815868075",
+    "in_reply_to_user_id": "1882424383224029184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947226156417052801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanbodaoba 异议"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1947226156417052801",
+        "created_at": "2025-07-21T12:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947269868815868075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882424383224029184",
+              "start": 0,
+              "username": "wanbodaoba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947269868815868075",
+        "in_reply_to_user_id": "1882424383224029184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947226156417052801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanbodaoba 异议"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882424383224029184",
+        "conversation_id": "1947226156417052801",
+        "created_at": "2025-07-21T09:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T10:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947226156417052801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947226156417052801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么狗屁朋友，救助，你自己是烂人一个，永远也不会有的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 1390,
+          "like_count": 26076,
+          "listed_count": 5,
+          "media_count": 228,
+          "tweet_count": 6499
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T13:45:41.000Z",
+        "description": "波波～我的弯刀会杀光所有人，手起刀落，多么爽快，",
+        "id": "1882424383224029184",
+        "name": "哥萨克",
+        "pinned_tweet_id": "1947173925802414318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947162127535329280/EJysv3TA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 59,
+          "like_count": 5631,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 99
+        },
+        "username": "wanbodaoba",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1941551307803984305",
+    "created_at": "2025-07-05T23:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T00:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941633371903283251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1617523246144053251",
+          "start": 0,
+          "username": "s1nyvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941633371903283251",
+    "in_reply_to_user_id": "1617523246144053251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941551307803984305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s1nyvu 要不阿b再试试(´･ω･`)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1941551304699953152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvHGn_XWQAAKwML.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1941551307803984305",
+        "created_at": "2025-07-05T23:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T00:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941633371903283251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1617523246144053251",
+              "start": 0,
+              "username": "s1nyvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941633371903283251",
+        "in_reply_to_user_id": "1617523246144053251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941551307803984305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s1nyvu 要不阿b再试试(´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941551304699953152"
+          ]
+        },
+        "author_id": "1617523246144053251",
+        "conversation_id": "1941551307803984305",
+        "created_at": "2025-07-05T17:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T18:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941551307803984305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6y8hDQyWjt",
+              "end": 102,
+              "expanded_url": "https://x.com/s1nyvu/status/1941551307803984305/photo/1",
+              "media_key": "3_1941551304699953152",
+              "start": 79,
+              "url": "https://t.co/6y8hDQyWjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941551307803984305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 172,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我可能需要在推上给自己明码标价了（）抛开义务论，放弃个人素养，享受缺德人生（）\n实际上是真的要破产了😭行了事已至此我也不在乎了，你们这些小处男放马过来吧（） https://t.co/6y8hDQyWjt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 1346,
+          "like_count": 24598,
+          "listed_count": 5,
+          "media_count": 216,
+          "tweet_count": 6028
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T14:02:59.000Z",
+        "description": "一般友🏳️‍⚧️女装爱好弯弯男（？）没吃过🍥|07老年人|与山东老保撕逼辍学离家无业穷困ing|ENFJ+表演型人格+双相（？）|文学研究型爱好者，偶尔写写诗歌、小说|CS、mc双推人|门🚪0.1￥（是的就是一毛钱）赞赏自愿|同类可互fo扩列喵|（祝我好似喵）",
+        "id": "1617523246144053251",
+        "location": "Goose Town",
+        "name": "❄️雪梦歆屿🦖",
+        "pinned_tweet_id": "1928345532537114825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939286425934921728/nchzB8iB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 36,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 902
+        },
+        "username": "s1nyvu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1987857514684166194",
+    "created_at": "2025-11-10T12:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T13:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987857514684166194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1919963459279888384",
+          "start": 3,
+          "username": "hrklovehonoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987857514684166194",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987851194212241430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hrklovehonoka: 避雷吉林六院"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1987857514684166194",
+        "created_at": "2025-11-10T12:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T13:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987857514684166194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1919963459279888384",
+              "start": 3,
+              "username": "hrklovehonoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987857514684166194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987851194212241430",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hrklovehonoka: 避雷吉林六院"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919963459279888384",
+        "conversation_id": "1987851194212241430",
+        "created_at": "2025-11-10T11:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T12:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987851194212241430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987851194212241430",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "避雷吉林六院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 2369,
+          "like_count": 39262,
+          "listed_count": 6,
+          "media_count": 296,
+          "tweet_count": 9440
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T03:52:33.000Z",
+        "description": "最爱的小猫@hsgmxz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "hsgmxz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/haruka_ichika",
+                "end": 23,
+                "expanded_url": "https://ngl.link/haruka_ichika",
+                "start": 0,
+                "url": "https://t.co/rGzWiV7L46"
+              }
+            ]
+          }
+        },
+        "id": "1919963459279888384",
+        "location": "大久保公园",
+        "name": "🎀小遥🍥",
+        "pinned_tweet_id": "1985354298533007735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984291368072876032/_8eXJi72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 1239,
+          "like_count": 3409,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 631
+        },
+        "url": "https://t.co/rGzWiV7L46",
+        "username": "hrklovehonoka",
+        "verified": false
+      }
+    ]
+  }
+}

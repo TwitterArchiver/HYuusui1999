@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2053006643311624402",
+    "created_at": "2026-05-09T06:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T07:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053006643311624402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1889157954143981568",
+          "start": 3,
+          "username": "_blueberrysauce"
+        },
+        {
+          "end": 45,
+          "id": "1904873292366036992",
+          "start": 34,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053006643311624402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052786186184479103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_blueberrysauce: 是我啊我代管的账号\n我是 @Chiyuyu520"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2053006643311624402",
+        "created_at": "2026-05-09T06:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053006643311624402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1889157954143981568",
+              "start": 3,
+              "username": "_blueberrysauce"
+            },
+            {
+              "end": 45,
+              "id": "1904873292366036992",
+              "start": 34,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053006643311624402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052786186184479103",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_blueberrysauce: 是我啊我代管的账号\n我是 @Chiyuyu520"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889157954143981568",
+        "conversation_id": "2052786186184479103",
+        "created_at": "2026-05-08T16:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052786186184479103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1904873292366036992",
+              "start": 13,
+              "username": "Chiyuyu520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hyuusui1999/st…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/hyuusui1999/status/2052424095325974621",
+              "start": 25,
+              "url": "https://t.co/shpydAYgsW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052786186184479103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052424095325974621",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是我啊我代管的账号\n我是 @Chiyuyu520 https://t.co/shpydAYgsW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 3272,
+          "like_count": 44911,
+          "listed_count": 6,
+          "media_count": 369,
+          "tweet_count": 11669
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T03:42:26.000Z",
+        "description": "好朋友@liciiQAQ 妹妹/推特托管人@Chiyuyu520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "liciiQAQ"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Chiyuyu520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/milksugar17165",
+                "end": 23,
+                "expanded_url": "https://ngl.link/milksugar17165",
+                "start": 0,
+                "url": "https://t.co/7oEMPv167Q"
+              }
+            ]
+          }
+        },
+        "id": "1889157954143981568",
+        "location": "江苏",
+        "name": "小小菠萝包🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907076397060808704/k0sUv7QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2886,
+          "following_count": 1295,
+          "like_count": 9390,
+          "listed_count": 7,
+          "media_count": 180,
+          "tweet_count": 3000
+        },
+        "url": "https://t.co/7oEMPv167Q",
+        "username": "_blueberrysauce",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3933,
+          "following_count": 1292,
+          "like_count": 6606,
+          "listed_count": 9,
+          "media_count": 362,
+          "tweet_count": 1417
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

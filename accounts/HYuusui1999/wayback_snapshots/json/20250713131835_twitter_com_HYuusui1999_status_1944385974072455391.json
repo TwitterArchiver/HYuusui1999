@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1944366915004076329",
+    "created_at": "2025-07-13T13:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T14:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944385974072455391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1627301480440164352",
+          "start": 0,
+          "username": "Lily_Syrup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944385974072455391",
+    "in_reply_to_user_id": "1627301480440164352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944366915004076329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lily_Syrup 这两者不是有很大区别的么🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1944366915004076329",
+        "created_at": "2025-07-13T13:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T14:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944385974072455391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1627301480440164352",
+              "start": 0,
+              "username": "Lily_Syrup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944385974072455391",
+        "in_reply_to_user_id": "1627301480440164352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944366915004076329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lily_Syrup 这两者不是有很大区别的么🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627301480440164352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1944366915004076329",
+        "created_at": "2025-07-13T12:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T13:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944366915004076329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944366915004076329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很无语\n不是每个学地质学的都喜欢地理\n我就不喜欢地理\n我更喜欢岩浆岩，岩石矿物这些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 1366,
+          "like_count": 25296,
+          "listed_count": 5,
+          "media_count": 224,
+          "tweet_count": 6274
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T13:38:19.000Z",
+        "description": "地质学Geology & 陨石学 Meteoritics ｜你可以叫我 糖浆｜有理有据表达不满 ｜烤批粥原摆烂选手｜业余摄影师｜jpop 日摇 术力口｜INFJ｜看到鉴政，od就烦｜华枝春满，天心月圆@LihaigeUpasaka\n｜用爱发电@Alter_Syrup 阴暗地爬行@Mc_Syrup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 100,
+                "username": "LihaigeUpasaka"
+              },
+              {
+                "end": 133,
+                "start": 121,
+                "username": "Alter_Syrup"
+              },
+              {
+                "end": 148,
+                "start": 139,
+                "username": "Mc_Syrup"
+              }
+            ]
+          }
+        },
+        "id": "1627301480440164352",
+        "location": "Kyoto-fu, Japan",
+        "name": "Hypersthene",
+        "pinned_tweet_id": "1780992344306983398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900478254311776256/0XzoVkXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 1242,
+          "like_count": 104163,
+          "listed_count": 4,
+          "media_count": 1341,
+          "tweet_count": 6410
+        },
+        "username": "Lily_Syrup",
+        "verified": false
+      }
+    ]
+  }
+}

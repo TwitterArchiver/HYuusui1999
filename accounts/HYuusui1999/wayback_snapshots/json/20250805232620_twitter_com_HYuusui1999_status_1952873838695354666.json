@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1952873838695354666",
+    "created_at": "2025-08-05T23:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T00:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952873838695354666"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HYuusui1999/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/HYuusui1999/status/1952738711872876703",
+          "start": 9,
+          "url": "https://t.co/y0oGxld1MA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952873838695354666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952738711872876703",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "睡了一觉，我好了 https://t.co/y0oGxld1MA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1952873838695354666",
+        "created_at": "2025-08-05T23:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T00:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952873838695354666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HYuusui1999/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/HYuusui1999/status/1952738711872876703",
+              "start": 9,
+              "url": "https://t.co/y0oGxld1MA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952873838695354666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952738711872876703",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "睡了一觉，我好了 https://t.co/y0oGxld1MA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1952738711872876703",
+        "created_at": "2025-08-05T14:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T15:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952738711872876703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952738711872876703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 310,
+          "like_count": 29,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我艹感觉状态不对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 1517,
+          "like_count": 28341,
+          "listed_count": 5,
+          "media_count": 240,
+          "tweet_count": 7050
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

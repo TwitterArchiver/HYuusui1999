@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975346077227491329"
+      ],
+      "media_source_tweet_id": [
+        "1975346086282993813"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1975758377482350968",
+    "created_at": "2025-10-08T03:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T04:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975758377482350968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1719314433674280960",
+          "start": 3,
+          "username": "mpp770"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oBL39zHRgv",
+          "end": 39,
+          "expanded_url": "https://x.com/mpp770/status/1975346086282993813/photo/1",
+          "media_key": "3_1975346077227491329",
+          "start": 16,
+          "url": "https://t.co/oBL39zHRgv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975758377482350968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2935
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975346086282993813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mpp770: 版権絵 https://t.co/oBL39zHRgv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1860,
+        "media_key": "3_1975346077227491329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2nWypmbIAE7GgX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975346077227491329"
+          ],
+          "media_source_tweet_id": [
+            "1975346086282993813"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1975758377482350968",
+        "created_at": "2025-10-08T03:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T04:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975758377482350968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1719314433674280960",
+              "start": 3,
+              "username": "mpp770"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oBL39zHRgv",
+              "end": 39,
+              "expanded_url": "https://x.com/mpp770/status/1975346086282993813/photo/1",
+              "media_key": "3_1975346077227491329",
+              "start": 16,
+              "url": "https://t.co/oBL39zHRgv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975758377482350968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2935
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975346086282993813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mpp770: 版権絵 https://t.co/oBL39zHRgv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975346077227491329"
+          ]
+        },
+        "author_id": "1719314433674280960",
+        "conversation_id": "1975346086282993813",
+        "created_at": "2025-10-06T23:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T00:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975346086282993813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oBL39zHRgv",
+              "end": 27,
+              "expanded_url": "https://x.com/mpp770/status/1975346086282993813/photo/1",
+              "media_key": "3_1975346077227491329",
+              "start": 4,
+              "url": "https://t.co/oBL39zHRgv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975346086282993813",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3537,
+          "impression_count": 314138,
+          "like_count": 32276,
+          "quote_count": 60,
+          "reply_count": 4,
+          "retweet_count": 2935
+        },
+        "reply_settings": "everyone",
+        "text": "版権絵 https://t.co/oBL39zHRgv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 2027,
+          "like_count": 34615,
+          "listed_count": 6,
+          "media_count": 278,
+          "tweet_count": 8679
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-31T11:24:52.000Z",
+        "description": "無法地帯❕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@fa_mim0",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@fa_mim0",
+                "start": 0,
+                "url": "https://t.co/PZRpBycF3m"
+              }
+            ]
+          }
+        },
+        "id": "1719314433674280960",
+        "location": "i頂き物",
+        "name": "n",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910786847732899840/dRtj221b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 61,
+          "like_count": 36,
+          "listed_count": 6,
+          "media_count": 8,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/PZRpBycF3m",
+        "username": "mpp770",
+        "verified": false
+      }
+    ]
+  }
+}

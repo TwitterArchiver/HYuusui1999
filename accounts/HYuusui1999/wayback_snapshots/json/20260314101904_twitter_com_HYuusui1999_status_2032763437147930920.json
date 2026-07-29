@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2032709488231461128",
+    "created_at": "2026-03-14T10:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T11:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032763437147930920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766452473840173056",
+          "start": 0,
+          "username": "mikotossd0106"
+        },
+        {
+          "end": 27,
+          "id": "1559906722588000256",
+          "start": 15,
+          "username": "Project_Luo"
+        },
+        {
+          "end": 42,
+          "id": "1793491174122192896",
+          "start": 28,
+          "username": "boilingwatter"
+        },
+        {
+          "end": 58,
+          "id": "1704469304077611008",
+          "start": 43,
+          "username": "jiaoyanboluooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032763437147930920",
+    "in_reply_to_user_id": "1766452473840173056",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032762479491866904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikotossd0106 @Project_Luo @boilingwatter @jiaoyanboluooo ？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2032762479491866904].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2032762479491866904",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2032762479491866904"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2032709488231461128",
+        "created_at": "2026-03-14T10:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032763437147930920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766452473840173056",
+              "start": 0,
+              "username": "mikotossd0106"
+            },
+            {
+              "end": 27,
+              "id": "1559906722588000256",
+              "start": 15,
+              "username": "Project_Luo"
+            },
+            {
+              "end": 42,
+              "id": "1793491174122192896",
+              "start": 28,
+              "username": "boilingwatter"
+            },
+            {
+              "end": 58,
+              "id": "1704469304077611008",
+              "start": 43,
+              "username": "jiaoyanboluooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032763437147930920",
+        "in_reply_to_user_id": "1766452473840173056",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032762479491866904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikotossd0106 @Project_Luo @boilingwatter @jiaoyanboluooo ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 3141,
+          "like_count": 44764,
+          "listed_count": 6,
+          "media_count": 368,
+          "tweet_count": 11384
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T13:14:37.000Z",
+        "description": "这个人很懒，没留下任何东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikotossd.net",
+                "end": 23,
+                "expanded_url": "http://mikotossd.net",
+                "start": 0,
+                "url": "https://t.co/hoi4XcP34Y"
+              }
+            ]
+          }
+        },
+        "id": "1766452473840173056",
+        "location": "成都",
+        "name": "御坂鱼坂",
+        "pinned_tweet_id": "2016170324564574213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028471964957110272/CXxZxkpg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 1595,
+          "like_count": 81789,
+          "listed_count": 5,
+          "media_count": 1092,
+          "tweet_count": 4944
+        },
+        "url": "https://t.co/hoi4XcP34Y",
+        "username": "mikotossd0106",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-17T14:15:28.000Z",
+        "description": "果然还是喜欢被叫小洛呢w  找我面基会被uno牌打哭的😈 但是可以用抹茶点心拐我跑😺  反香菜联盟首席成员😾 里@Mitaner_hidden",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Mitaner_hidden"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yiurblog.top",
+                "end": 23,
+                "expanded_url": "http://www.yiurblog.top",
+                "start": 0,
+                "url": "https://t.co/A4NOlo6xwn"
+              }
+            ]
+          }
+        },
+        "id": "1559906722588000256",
+        "name": "洛🐱今天饿了吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954610505039138816/kJvPf_cj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089,
+          "following_count": 565,
+          "like_count": 6788,
+          "listed_count": 10,
+          "media_count": 939,
+          "tweet_count": 10442
+        },
+        "url": "https://t.co/A4NOlo6xwn",
+        "username": "Project_Luo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T03:56:45.000Z",
+        "description": "南氵氵叫我水水就行🥺||语言：中文/English||UQ语言班在读||目前精神状态良好||眼熟的和喜欢的我会自动fo你哦🥺（不fo发diao照的和看黄男）||什么都想干但是目前为止都一事无成的废水，也许明天会好起来的",
+        "id": "1793491174122192896",
+        "name": "boilingwatter🍔",
+        "pinned_tweet_id": "1958104725632553471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793491539148349441/GiFM2QYW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 180,
+          "like_count": 853,
+          "listed_count": 4,
+          "media_count": 111,
+          "tweet_count": 2055
+        },
+        "username": "boilingwatter",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜/不知道什么党/不要靠近我，我只会让你伤心/主人@Amour761",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 101,
+                "username": "Amour761"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2029254116195876924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009379005779333121/NgNbuIP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3888,
+          "following_count": 3069,
+          "like_count": 20164,
+          "listed_count": 12,
+          "media_count": 1208,
+          "tweet_count": 4255
+        },
+        "username": "jiaoyanboluooo",
+        "verified": false
+      }
+    ]
+  }
+}

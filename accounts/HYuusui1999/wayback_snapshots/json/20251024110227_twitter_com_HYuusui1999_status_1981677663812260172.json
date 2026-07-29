@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1981677663812260172",
+    "created_at": "2025-10-24T11:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T12:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981677663812260172"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mikotossd0106/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/mikotossd0106/status/1981671285366386896",
+          "start": 12,
+          "url": "https://t.co/ZsmQlMnVqX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981677663812260172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981671285366386896",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们是不是都有人喜欢啊 https://t.co/ZsmQlMnVqX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1981677663812260172",
+        "created_at": "2025-10-24T11:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T12:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981677663812260172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mikotossd0106/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/mikotossd0106/status/1981671285366386896",
+              "start": 12,
+              "url": "https://t.co/ZsmQlMnVqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981677663812260172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981671285366386896",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们是不是都有人喜欢啊 https://t.co/ZsmQlMnVqX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766452473840173056",
+        "conversation_id": "1981671285366386896",
+        "created_at": "2025-10-24T10:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T11:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981671285366386896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981671285366386896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们是不是都有人喜欢啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n\n暂时退网（从2025年10月17日起，预计1个月）\n除留言以外的功能全部暂停运作",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 2171,
+          "like_count": 36010,
+          "listed_count": 6,
+          "media_count": 288,
+          "tweet_count": 8912
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T13:14:37.000Z",
+        "description": "B-503 雪风",
+        "id": "1766452473840173056",
+        "location": "成都",
+        "name": "YuKikAzE",
+        "pinned_tweet_id": "1950593800772182240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949508283506786304/ipIcd8Jv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 1351,
+          "like_count": 67556,
+          "listed_count": 6,
+          "media_count": 703,
+          "tweet_count": 3452
+        },
+        "username": "mikotossd0106",
+        "verified": false
+      }
+    ]
+  }
+}

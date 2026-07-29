@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1968739958132265275",
+    "created_at": "2025-09-18T23:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T00:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968814589677572445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1421238969346445316",
+          "start": 0,
+          "username": "qianduzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968814589677572445",
+    "in_reply_to_user_id": "1421238969346445316",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968739958132265275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianduzz 摸摸您"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1968739958132265275",
+        "created_at": "2025-09-18T23:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T00:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968814589677572445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1421238969346445316",
+              "start": 0,
+              "username": "qianduzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968814589677572445",
+        "in_reply_to_user_id": "1421238969346445316",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968739958132265275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianduzz 摸摸您"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421238969346445316",
+        "conversation_id": "1968739958132265275",
+        "created_at": "2025-09-18T18:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T19:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968739958132265275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968739958132265275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我只是不想再被抛弃了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 1658,
+          "like_count": 30387,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 7899
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-30T22:39:18.000Z",
+        "description": "最爱的宝宝@maque478728\n\n死亡倒计时中～私宅阴暗b isfp   mtx  非二元性别    重度精神病 精神状态不太稳定 od 自伤 雪兔 会发癫 0.5  泛性恋 成分复杂 可以做你的树洞噢   (全是负能量/介意慎入)   可以叫我天天！我很好说话 喜欢所有乖宝宝 \n 🚪52",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "maque478728"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhangweishihundan.com",
+                "end": 23,
+                "expanded_url": "https://www.zhangweishihundan.com/",
+                "start": 0,
+                "url": "https://t.co/dhhgMYDCl2"
+              }
+            ]
+          }
+        },
+        "id": "1421238969346445316",
+        "location": "上海市奉贤区",
+        "name": "前度",
+        "pinned_tweet_id": "1957146344755458078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881935423548870656/foFkOjX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 525,
+          "like_count": 2227,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 992
+        },
+        "url": "https://t.co/dhhgMYDCl2",
+        "username": "qianduzz",
+        "verified": false
+      }
+    ]
+  }
+}

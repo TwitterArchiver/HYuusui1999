@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1946837824424022224",
+    "created_at": "2025-07-20T07:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T08:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946837824424022224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1430936966066020353",
+          "start": 3,
+          "username": "Emma20131621"
+        },
+        {
+          "end": 31,
+          "id": "1429365180618706945",
+          "start": 18,
+          "username": "Simone_Luxem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946837824424022224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946780216329707621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Emma20131621: @Simone_Luxem 和所有朋友说一声，Simone不是亖了，只是回国了。请大家不要担心。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1946837824424022224",
+        "created_at": "2025-07-20T07:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T08:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946837824424022224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1430936966066020353",
+              "start": 3,
+              "username": "Emma20131621"
+            },
+            {
+              "end": 31,
+              "id": "1429365180618706945",
+              "start": 18,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946837824424022224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946780216329707621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Emma20131621: @Simone_Luxem 和所有朋友说一声，Simone不是亖了，只是回国了。请大家不要担心。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430936966066020353",
+        "conversation_id": "1946668409418391882",
+        "created_at": "2025-07-20T03:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T04:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946780216329707621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946780216329707621",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 934,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946668409418391882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 和所有朋友说一声，Simone不是亖了，只是回国了。请大家不要担心。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 1391,
+          "like_count": 26046,
+          "listed_count": 5,
+          "media_count": 228,
+          "tweet_count": 6489
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-26T16:55:45.000Z",
+        "description": "是中国大陆的在逃学生，性别酷儿，泛性恋，厌恶威权、集体主义，想要大家都平等而自由地活着。I'm a student in UvA.I'm pansexual, queer, polyamorous, radically against the patriarchy and paternalism.",
+        "id": "1430936966066020353",
+        "location": "Amsterdam, The Netherlands",
+        "name": "Emma Shi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1430937154314715136/0fJt8ZbI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 493,
+          "like_count": 55807,
+          "listed_count": 4,
+          "media_count": 491,
+          "tweet_count": 5788
+        },
+        "username": "Emma20131621",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4504,
+          "following_count": 219,
+          "like_count": 21498,
+          "listed_count": 13,
+          "media_count": 1636,
+          "tweet_count": 19970
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

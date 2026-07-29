@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994325466585653248"
+      ],
+      "media_source_tweet_id": [
+        "1994325473204019292"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1994359207269736468",
+    "created_at": "2025-11-28T10:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T11:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994359207269736468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1071980496031178752",
+          "start": 3,
+          "username": "hk2019freehk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KljmqdQouO",
+          "end": 41,
+          "expanded_url": "https://x.com/hk2019freehk/status/1994325473204019292/photo/1",
+          "media_key": "3_1994325466585653248",
+          "start": 18,
+          "url": "https://t.co/KljmqdQouO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994359207269736468",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994325473204019292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hk2019freehk: https://t.co/KljmqdQouO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1994325466585653248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61EcgpaYAAdhY8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994325466585653248"
+          ],
+          "media_source_tweet_id": [
+            "1994325473204019292"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1994359207269736468",
+        "created_at": "2025-11-28T10:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994359207269736468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1071980496031178752",
+              "start": 3,
+              "username": "hk2019freehk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KljmqdQouO",
+              "end": 41,
+              "expanded_url": "https://x.com/hk2019freehk/status/1994325473204019292/photo/1",
+              "media_key": "3_1994325466585653248",
+              "start": 18,
+              "url": "https://t.co/KljmqdQouO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994359207269736468",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994325473204019292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hk2019freehk: https://t.co/KljmqdQouO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994325466585653248"
+          ]
+        },
+        "author_id": "1071980496031178752",
+        "conversation_id": "1994325473204019292",
+        "created_at": "2025-11-28T08:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T09:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994325473204019292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KljmqdQouO",
+              "end": 23,
+              "expanded_url": "https://x.com/hk2019freehk/status/1994325473204019292/photo/1",
+              "media_key": "3_1994325466585653248",
+              "start": 0,
+              "url": "https://t.co/KljmqdQouO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994325473204019292",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 442,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KljmqdQouO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 2483,
+          "like_count": 40683,
+          "listed_count": 6,
+          "media_count": 302,
+          "tweet_count": 9883
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-10T04:10:41.000Z",
+        "description": "消息或謠言的驗證標準： 1. 股市有沒有上升？ 2. 軍隊有沒有調動？ 3. 美國有沒有反應？",
+        "id": "1071980496031178752",
+        "name": "香港/中國新聞-小豬",
+        "pinned_tweet_id": "1984772055460692091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843805597906677761/zx_7dmlv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21267,
+          "following_count": 4238,
+          "like_count": 241867,
+          "listed_count": 120,
+          "media_count": 25387,
+          "tweet_count": 81902
+        },
+        "username": "hk2019freehk",
+        "verified": true
+      }
+    ]
+  }
+}

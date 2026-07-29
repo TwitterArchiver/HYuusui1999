@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998376403818225664",
+        "3_1998376414404657153"
+      ],
+      "media_source_tweet_id": [
+        "1998376424462536836",
+        "1998376424462536836"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1998615947343454339",
+    "created_at": "2025-12-10T04:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T05:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998615947343454339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "769435667168268288",
+          "start": 3,
+          "username": "baibu_ice"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y6bHFqJDpz",
+          "end": 50,
+          "expanded_url": "https://x.com/baibu_ice/status/1998376424462536836/photo/1",
+          "media_key": "3_1998376403818225664",
+          "start": 27,
+          "url": "https://t.co/Y6bHFqJDpz"
+        },
+        {
+          "display_url": "pic.x.com/Y6bHFqJDpz",
+          "end": 50,
+          "expanded_url": "https://x.com/baibu_ice/status/1998376424462536836/photo/1",
+          "media_key": "3_1998376414404657153",
+          "start": 27,
+          "url": "https://t.co/Y6bHFqJDpz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998615947343454339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998376424462536836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baibu_ice: 【关于冬麦销号的说明】 https://t.co/Y6bHFqJDpz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2140,
+        "media_key": "3_1998376403818225664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7uowF0boAASjWk.jpg",
+        "width": 1048
+      },
+      {
+        "height": 2276,
+        "media_key": "3_1998376414404657153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7uowtQbwAEqY8l.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998376403818225664",
+            "3_1998376414404657153"
+          ],
+          "media_source_tweet_id": [
+            "1998376424462536836",
+            "1998376424462536836"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1998615947343454339",
+        "created_at": "2025-12-10T04:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T05:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998615947343454339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "769435667168268288",
+              "start": 3,
+              "username": "baibu_ice"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y6bHFqJDpz",
+              "end": 50,
+              "expanded_url": "https://x.com/baibu_ice/status/1998376424462536836/photo/1",
+              "media_key": "3_1998376403818225664",
+              "start": 27,
+              "url": "https://t.co/Y6bHFqJDpz"
+            },
+            {
+              "display_url": "pic.x.com/Y6bHFqJDpz",
+              "end": 50,
+              "expanded_url": "https://x.com/baibu_ice/status/1998376424462536836/photo/1",
+              "media_key": "3_1998376414404657153",
+              "start": 27,
+              "url": "https://t.co/Y6bHFqJDpz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998615947343454339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998376424462536836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baibu_ice: 【关于冬麦销号的说明】 https://t.co/Y6bHFqJDpz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998376403818225664",
+            "3_1998376414404657153"
+          ]
+        },
+        "author_id": "769435667168268288",
+        "conversation_id": "1998376424462536836",
+        "created_at": "2025-12-09T12:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T13:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998376424462536836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y6bHFqJDpz",
+              "end": 35,
+              "expanded_url": "https://x.com/baibu_ice/status/1998376424462536836/photo/1",
+              "media_key": "3_1998376403818225664",
+              "start": 12,
+              "url": "https://t.co/Y6bHFqJDpz"
+            },
+            {
+              "display_url": "pic.x.com/Y6bHFqJDpz",
+              "end": 35,
+              "expanded_url": "https://x.com/baibu_ice/status/1998376424462536836/photo/1",
+              "media_key": "3_1998376414404657153",
+              "start": 12,
+              "url": "https://t.co/Y6bHFqJDpz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998376424462536836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 17661,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "【关于冬麦销号的说明】 https://t.co/Y6bHFqJDpz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 2607,
+          "like_count": 41643,
+          "listed_count": 6,
+          "media_count": 303,
+          "tweet_count": 10189
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-27T07:25:33.000Z",
+        "description": "这里是白布，男生🌈｜infp｜180-70kg-side｜欢迎互粉｜性格很好｜喜欢白袜，催眠｜对xnh没有抵抗力｜致力于为自己的每一帧画面，编织成最富有文艺色彩的故事｜好朋友阿能：@Exusiai159｜周刊宝宝加油：@sunsiyu2007｜里推后续会通知",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "Exusiai159"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "sunsiyu2007"
+              }
+            ]
+          }
+        },
+        "id": "769435667168268288",
+        "location": "距离你的心520km",
+        "name": "白布不冰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960182227293351936/PpL-Nuet_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4310,
+          "following_count": 442,
+          "like_count": 14572,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 3270
+        },
+        "username": "baibu_ice",
+        "verified": false
+      }
+    ]
+  }
+}

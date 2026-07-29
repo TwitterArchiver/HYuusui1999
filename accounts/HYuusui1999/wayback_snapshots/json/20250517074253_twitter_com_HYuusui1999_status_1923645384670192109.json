@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1923593147193696717",
+    "created_at": "2025-05-17T07:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T08:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923645384670192109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1659216945202491395",
+          "start": 0,
+          "username": "YukimiSinsyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923645384670192109",
+    "in_reply_to_user_id": "1659216945202491395",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923593147193696717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukimiSinsyou 是御主呢\nfo啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1923593147193696717",
+        "created_at": "2025-05-17T07:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T08:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923645384670192109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1659216945202491395",
+              "start": 0,
+              "username": "YukimiSinsyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923645384670192109",
+        "in_reply_to_user_id": "1659216945202491395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923593147193696717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukimiSinsyou 是御主呢\nfo啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659216945202491395",
+        "conversation_id": "1923593147193696717",
+        "created_at": "2025-05-17T04:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T05:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923593147193696717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923593147193696717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我求你们来视奸我吧😭我不想玩单机推特"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 974,
+          "like_count": 19437,
+          "listed_count": 6,
+          "media_count": 189,
+          "tweet_count": 4242
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-18T15:18:59.000Z",
+        "description": "抑制黑波的源头👁️",
+        "id": "1659216945202491395",
+        "location": "地狱 是非曲直厅",
+        "name": "系寄莎玛",
+        "pinned_tweet_id": "1884968808684949785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770480941204475904/eQ7k9KRb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 728,
+          "like_count": 10446,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 4098
+        },
+        "username": "YukimiSinsyou",
+        "verified": false
+      }
+    ]
+  }
+}

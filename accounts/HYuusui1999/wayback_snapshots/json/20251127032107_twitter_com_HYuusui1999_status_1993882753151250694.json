@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1993852852163498237",
+    "created_at": "2025-11-27T03:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T04:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993882753151250694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1851403302938071040",
+          "start": 0,
+          "username": "UMP91147621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993882753151250694",
+    "in_reply_to_user_id": "1851403302938071040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993852852163498237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UMP91147621 感觉只是单纯想批评ta本人而不是观点了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993852850045337600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6uWmm1aQAA5VnX.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1993852852163498237",
+        "created_at": "2025-11-27T03:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T04:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993882753151250694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1851403302938071040",
+              "start": 0,
+              "username": "UMP91147621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993882753151250694",
+        "in_reply_to_user_id": "1851403302938071040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993852852163498237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UMP91147621 感觉只是单纯想批评ta本人而不是观点了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993852850045337600"
+          ]
+        },
+        "author_id": "1851403302938071040",
+        "conversation_id": "1993852852163498237",
+        "created_at": "2025-11-27T01:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T02:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993852852163498237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Wvs7JAaZd",
+              "end": 127,
+              "expanded_url": "https://x.com/UMP91147621/status/1993852852163498237/photo/1",
+              "media_key": "3_1993852850045337600",
+              "start": 104,
+              "url": "https://t.co/3Wvs7JAaZd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993852852163498237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "动物有你妈的权利呢😅动物都不是人类社会的主体，哪里来的权利 新左派跨畜就喜欢大搞所谓“平等权利”，实际上也没有人破坏他们的权利，是不让坐高铁飞机了？还是不让贷款了？没有任何法律是说因为你跨性别了就限制你权利 https://t.co/3Wvs7JAaZd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 2462,
+          "like_count": 40481,
+          "listed_count": 6,
+          "media_count": 302,
+          "tweet_count": 9846
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T23:18:50.000Z",
+        "description": "日本に留学中     社会学部     \n99組/虹ヶ咲     🔖👑/🦒🍅     まゆち/もえぴ         \n歴史/言語/政治/哲学/書道/甲冑/城/戦国",
+        "id": "1851403302938071040",
+        "location": "東京 新宿区",
+        "name": "大ばナナ",
+        "pinned_tweet_id": "1949770867963207815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851406388716863488/CrgWRYEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 1744,
+          "like_count": 27956,
+          "listed_count": 9,
+          "media_count": 3293,
+          "tweet_count": 23730
+        },
+        "username": "UMP91147621",
+        "verified": true
+      }
+    ]
+  }
+}

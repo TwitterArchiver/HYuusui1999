@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2006711777472774530",
+    "created_at": "2026-01-01T12:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T13:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006711777472774530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1588296700543741952",
+          "start": 0,
+          "username": "Jennife80677612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006711777472774530",
+    "in_reply_to_user_id": "1588296700543741952",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Jennife80677612 RIP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2006711777472774530",
+        "created_at": "2026-01-01T12:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T13:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006711777472774530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1588296700543741952",
+              "start": 0,
+              "username": "Jennife80677612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006711777472774530",
+        "in_reply_to_user_id": "1588296700543741952",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Jennife80677612 RIP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 2875,
+          "like_count": 43770,
+          "listed_count": 6,
+          "media_count": 334,
+          "tweet_count": 10726
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-03T22:26:58.000Z",
+        "description": "永别了，晚安。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Jennifer050601",
+                "end": 23,
+                "expanded_url": "http://t.me/Jennifer050601",
+                "start": 0,
+                "url": "https://t.co/0YODfr0aRD"
+              }
+            ]
+          }
+        },
+        "id": "1588296700543741952",
+        "location": "She/Her",
+        "name": "🏳‍⚧珍妮QwQ🍥~",
+        "pinned_tweet_id": "1678797606670188547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679185482062909440/TMHKKX1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 787,
+          "like_count": 939,
+          "listed_count": 17,
+          "media_count": 38,
+          "tweet_count": 779
+        },
+        "url": "https://t.co/0YODfr0aRD",
+        "username": "Jennife80677612",
+        "verified": false
+      }
+    ]
+  }
+}

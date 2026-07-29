@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1969995876405072090",
+    "created_at": "2025-09-22T13:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T14:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970118356687523851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1909511403700166656",
+          "start": 0,
+          "username": "Yezizhio_O"
+        },
+        {
+          "end": 27,
+          "id": "1823898821673541633",
+          "start": 12,
+          "username": "BengBengChuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970118356687523851",
+    "in_reply_to_user_id": "1909511403700166656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970117803492680097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yezizhio_O @BengBengChuang 所以有困难吗（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1969995876405072090",
+        "created_at": "2025-09-22T13:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T14:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970118356687523851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1909511403700166656",
+              "start": 0,
+              "username": "Yezizhio_O"
+            },
+            {
+              "end": 27,
+              "id": "1823898821673541633",
+              "start": 12,
+              "username": "BengBengChuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970118356687523851",
+        "in_reply_to_user_id": "1909511403700166656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970117803492680097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yezizhio_O @BengBengChuang 所以有困难吗（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909511403700166656",
+        "conversation_id": "1969995876405072090",
+        "created_at": "2025-09-22T13:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T14:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970117803492680097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            },
+            {
+              "end": 28,
+              "id": "1823898821673541633",
+              "start": 13,
+              "username": "BengBengChuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970117803492680097",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970116561022140875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 @BengBengChuang 因为我是阴暗b（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 1775,
+          "like_count": 31199,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 8033
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T07:40:09.000Z",
+        "description": "大号@BengBengChuang发帖号。\n用小号刷推和评论互动（可以量化互动🤔✪慎关评论会刷屏！随缘关注回关（但不用礼貌回关啦也许以后会单取 致歉🥺|我在偷偷观察人类|单取随意|此号不太看私信，私信请大号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "BengBengChuang"
+              }
+            ]
+          }
+        },
+        "id": "1909511403700166656",
+        "location": "人类的本质是树 小猫 海水和一些心碎",
+        "name": "椰子汁(恩师蹦蹦床)",
+        "pinned_tweet_id": "1914142982632247400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969984896262418432/Q5m-x5XS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 147,
+          "like_count": 2610,
+          "listed_count": 1,
+          "media_count": 798,
+          "tweet_count": 7838
+        },
+        "username": "Yezizhio_O",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T01:45:46.000Z",
+        "description": "重生之我在X写日记/碎碎念来着…这里是我的朋友圈和树洞/评论基本看见就回 /关取自由请自便/聊天私信请先互动眼熟下怕遇到怪人/推文含有大量负面情绪/牢骚抱怨 时而抽象（可以叫我骨头🦴评论椰子汁回",
+        "id": "1823898821673541633",
+        "location": "想拥有坚硬躯壳",
+        "name": "蹦蹦床(换了一个萌萌的头像版)",
+        "pinned_tweet_id": "1942909283093598690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969423306693754884/-TMfF9W6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 100,
+          "like_count": 914,
+          "listed_count": 2,
+          "media_count": 598,
+          "tweet_count": 2747
+        },
+        "username": "BengBengChuang",
+        "verified": false
+      }
+    ]
+  }
+}

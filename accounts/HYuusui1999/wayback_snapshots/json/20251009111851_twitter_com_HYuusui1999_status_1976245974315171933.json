@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972146672341073920"
+      ],
+      "media_source_tweet_id": [
+        "1972146710848983402"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1976245974315171933",
+    "created_at": "2025-10-09T11:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T12:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976245974315171933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1893325795759886336",
+          "start": 3,
+          "username": "Brigitta_INE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e9cGXQSCsS",
+          "end": 48,
+          "expanded_url": "https://x.com/Brigitta_INE/status/1972146710848983402/photo/1",
+          "media_key": "3_1972146672341073920",
+          "start": 25,
+          "url": "https://t.co/e9cGXQSCsS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976245974315171933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972146710848983402",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Brigitta_INE: 有点傻乎乎的 https://t.co/e9cGXQSCsS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3290,
+        "media_key": "3_1972146672341073920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1548xnbwAAKkYF.jpg",
+        "width": 2382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972146672341073920"
+          ],
+          "media_source_tweet_id": [
+            "1972146710848983402"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1976245974315171933",
+        "created_at": "2025-10-09T11:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T12:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976245974315171933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893325795759886336",
+              "start": 3,
+              "username": "Brigitta_INE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e9cGXQSCsS",
+              "end": 48,
+              "expanded_url": "https://x.com/Brigitta_INE/status/1972146710848983402/photo/1",
+              "media_key": "3_1972146672341073920",
+              "start": 25,
+              "url": "https://t.co/e9cGXQSCsS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976245974315171933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972146710848983402",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Brigitta_INE: 有点傻乎乎的 https://t.co/e9cGXQSCsS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972146672341073920"
+          ]
+        },
+        "author_id": "1893325795759886336",
+        "conversation_id": "1972146710848983402",
+        "created_at": "2025-09-28T03:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T04:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972146710848983402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e9cGXQSCsS",
+              "end": 30,
+              "expanded_url": "https://x.com/Brigitta_INE/status/1972146710848983402/photo/1",
+              "media_key": "3_1972146672341073920",
+              "start": 7,
+              "url": "https://t.co/e9cGXQSCsS"
+            },
+            {
+              "display_url": "x.com/Brigitta_INE/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Brigitta_INE/status/1971265153623785541",
+              "start": 31,
+              "url": "https://t.co/NI5WBZdxND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972146710848983402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6919,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971265153623785541",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点傻乎乎的 https://t.co/e9cGXQSCsS https://t.co/NI5WBZdxND"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 2069,
+          "like_count": 35136,
+          "listed_count": 6,
+          "media_count": 283,
+          "tweet_count": 8747
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T15:44:23.000Z",
+        "description": "请输入文本",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/109812806",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/109812806",
+                "start": 0,
+                "url": "https://t.co/SWpURElNja"
+              }
+            ]
+          }
+        },
+        "id": "1893325795759886336",
+        "location": "🇨🇳",
+        "name": "薇尔琪塔～",
+        "pinned_tweet_id": "1972702109670973860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976079356159315969/48Yug325_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 178,
+          "like_count": 1752,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 770
+        },
+        "url": "https://t.co/SWpURElNja",
+        "username": "Brigitta_INE",
+        "verified": false
+      }
+    ]
+  }
+}

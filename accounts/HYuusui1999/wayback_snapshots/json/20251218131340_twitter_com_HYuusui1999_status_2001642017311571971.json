@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2001289282879963321",
+    "created_at": "2025-12-18T13:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T14:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001642017311571971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973585079852257280",
+          "start": 0,
+          "username": "Yanluo_W"
+        },
+        {
+          "end": 20,
+          "id": "1811690667720212480",
+          "start": 10,
+          "username": "y0zarashi"
+        },
+        {
+          "end": 31,
+          "id": "1811690667720212480",
+          "start": 21,
+          "username": "y0zarashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001642017311571971",
+    "in_reply_to_user_id": "1973585079852257280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001640297881886837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yanluo_W @y0zarashi @y0zarashi 還說自己是跨男呢"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2001640297881886837].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2001640297881886837",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2001640297881886837"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2001289282879963321",
+        "created_at": "2025-12-18T13:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T14:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001642017311571971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973585079852257280",
+              "start": 0,
+              "username": "Yanluo_W"
+            },
+            {
+              "end": 20,
+              "id": "1811690667720212480",
+              "start": 10,
+              "username": "y0zarashi"
+            },
+            {
+              "end": 31,
+              "id": "1811690667720212480",
+              "start": 21,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001642017311571971",
+        "in_reply_to_user_id": "1973585079852257280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001640297881886837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yanluo_W @y0zarashi @y0zarashi 還說自己是跨男呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 2798,
+          "like_count": 43270,
+          "listed_count": 6,
+          "media_count": 310,
+          "tweet_count": 10525
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T03:05:40.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.WIKI",
+                "end": 23,
+                "expanded_url": "http://MTF.WIKI",
+                "start": 0,
+                "url": "https://t.co/vfGe2FxrYD"
+              }
+            ]
+          }
+        },
+        "id": "1973585079852257280",
+        "location": "路还长",
+        "name": "唐毓文",
+        "pinned_tweet_id": "1999351980112904384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973594419350872067/7rhyBDCC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 61,
+          "like_count": 66,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 2092
+        },
+        "url": "https://t.co/vfGe2FxrYD",
+        "username": "Yanluo_W",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "不术无糖 ftm 不是很喜欢顺女  厌女  女的滚！我是跨男，已做手术是术后党，不要在我的帖子下面谈论政治。不玩网，已退网，我要重新开始我的新生活 ，谢谢！ 不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深。不知道为什么吴思嫣把我当做仇人看待了。",
+        "id": "1811690667720212480",
+        "location": "何以思嫣",
+        "name": "yozarashi🏳️‍⚧️",
+        "pinned_tweet_id": "1988859428183892376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989173282617323535/gFc0LSIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 157,
+          "like_count": 33,
+          "listed_count": 5,
+          "media_count": 1109,
+          "tweet_count": 5132
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

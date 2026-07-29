@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2053351917619982697",
+    "created_at": "2026-05-11T05:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T06:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053703462228234544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1940622242381262848",
+          "start": 0,
+          "username": "Inoue_CxAAII"
+        },
+        {
+          "end": 28,
+          "id": "1547247978565423105",
+          "start": 14,
+          "username": "yomoda_yukusa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053703462228234544",
+    "in_reply_to_user_id": "1940622242381262848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053361690520191173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inoue_CxAAII @yomoda_yukusa 何必"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2053351917619982697",
+        "created_at": "2026-05-11T05:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053703462228234544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1940622242381262848",
+              "start": 0,
+              "username": "Inoue_CxAAII"
+            },
+            {
+              "end": 28,
+              "id": "1547247978565423105",
+              "start": 14,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053703462228234544",
+        "in_reply_to_user_id": "1940622242381262848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053361690520191173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inoue_CxAAII @yomoda_yukusa 何必"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940622242381262848",
+        "conversation_id": "2053351917619982697",
+        "created_at": "2026-05-10T06:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053361690520191173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547247978565423105",
+              "start": 0,
+              "username": "yomoda_yukusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053361690520191173",
+        "in_reply_to_user_id": "1547247978565423105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053351917619982697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yomoda_yukusa 煞笔你当enby还当出优越感来了是吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 3294,
+          "like_count": 45020,
+          "listed_count": 6,
+          "media_count": 369,
+          "tweet_count": 11700
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-03T04:03:08.000Z",
+        "description": "大梦方醒，永归主怀",
+        "id": "1940622242381262848",
+        "name": "井上 彩結樹 Inoue Sayuki ༒R.I.P.",
+        "pinned_tweet_id": "2052352435528843501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029202626315993095/w12DBvYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 156,
+          "like_count": 119,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1514
+        },
+        "username": "Inoue_CxAAII",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T15:54:26.000Z",
+        "description": "和我簽訂契約吧，\n我是最年輕的墮天使。\n給我你的生命和靈魂，\n我將予你以愛與毀滅。\n\n無能\n無力\n無知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yukusaIRS",
+                "end": 23,
+                "expanded_url": "https://t.me/yukusaIRS",
+                "start": 0,
+                "url": "https://t.co/UWfmvUHF1n"
+              }
+            ]
+          }
+        },
+        "id": "1547247978565423105",
+        "location": "偽神的芷海：大且癲瓊斯病院",
+        "name": "四方田憂芷 伪辉 “憂芷居然還活著”",
+        "pinned_tweet_id": "2014745998900523208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991907634052800512/cwNrp1-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2854,
+          "following_count": 2387,
+          "like_count": 34019,
+          "listed_count": 9,
+          "media_count": 1636,
+          "tweet_count": 22266
+        },
+        "url": "https://t.co/UWfmvUHF1n",
+        "username": "yomoda_yukusa",
+        "verified": false
+      }
+    ]
+  }
+}

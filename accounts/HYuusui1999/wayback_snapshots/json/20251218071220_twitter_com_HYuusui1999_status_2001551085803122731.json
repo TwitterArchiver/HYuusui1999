@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2001551085803122731",
+    "created_at": "2025-12-18T07:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T08:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001551085803122731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1961601874140016640",
+          "start": 0,
+          "username": "voidedzero0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001551085803122731",
+    "in_reply_to_user_id": "1961601874140016640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@voidedzero0 Aripiprazole帳號已受限"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2001551085803122731",
+        "created_at": "2025-12-18T07:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T08:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001551085803122731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1961601874140016640",
+              "start": 0,
+              "username": "voidedzero0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001551085803122731",
+        "in_reply_to_user_id": "1961601874140016640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@voidedzero0 Aripiprazole帳號已受限"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 2765,
+          "like_count": 43133,
+          "listed_count": 6,
+          "media_count": 310,
+          "tweet_count": 10507
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T01:28:49.000Z",
+        "description": "plural 双相 精分 阿斯伯格 adhd  因换代导致的类mtf 无糖 高负能 自伤 od\n画画 文 oc 混圈森罗万象   可加q/电报\n算远离人世的个人小空间。I love  you",
+        "id": "1961601874140016640",
+        "location": "中国",
+        "name": "Aripiprazole",
+        "pinned_tweet_id": "2000081582103879767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000081363740098560/O9urZrV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 36
+        },
+        "username": "voidedzero0",
+        "verified": false
+      }
+    ]
+  }
+}

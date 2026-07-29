@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1933529382246887910",
+    "created_at": "2025-06-14T12:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T13:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933863940657729942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933863940657729942",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933529382246887910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 哎，老人也辛苦了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 70600,
+        "height": 960,
+        "media_key": "13_1933528985998163968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1933528985998163968/img/y9hI_ntDP6s28Fxd.jpg",
+        "public_metrics": {
+          "view_count": 272877
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933528985998163968/vid/avc1/320x568/urIUMgib7ihgrr8v.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933528985998163968/vid/avc1/480x852/fTYrk66825RcJLgP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933528985998163968/vid/avc1/540x960/HVbOGvK-ISfvrDkH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1933528985998163968/pl/oYN-HSynl1qH5maV.m3u8?v=37a"
+          }
+        ],
+        "width": 540
+      },
+      {
+        "height": 1208,
+        "media_key": "3_1933528994265120768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtVGYEIXQAAEfrt.jpg",
+        "width": 1100
+      },
+      {
+        "duration_ms": 17205,
+        "height": 960,
+        "media_key": "13_1933529245319368704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1933529245319368704/img/HLseirITEBtprTTp.jpg",
+        "public_metrics": {
+          "view_count": 14614
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933529245319368704/vid/avc1/320x568/ylWuC45CFTRJ2w_p.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933529245319368704/vid/avc1/480x852/8T7qnQPct9HqjTaN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933529245319368704/vid/avc1/540x960/ICUbQ2OEpTU5o389.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1933529245319368704/pl/Sz2HB9-vvK7ltjw3.m3u8?v=cfc"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1933529382246887910",
+        "created_at": "2025-06-14T12:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T13:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933863940657729942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933863940657729942",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933529382246887910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 哎，老人也辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1933528985998163968",
+            "3_1933528994265120768",
+            "13_1933529245319368704"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1933529382246887910",
+        "created_at": "2025-06-13T14:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T15:15:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933528534011535770",
+          "1933529382246887910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TuLoD5U26q",
+              "end": 170,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1933529382246887910/video/1",
+              "media_key": "13_1933528985998163968",
+              "start": 147,
+              "url": "https://t.co/TuLoD5U26q"
+            },
+            {
+              "display_url": "pic.x.com/TuLoD5U26q",
+              "end": 170,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1933529382246887910/video/1",
+              "media_key": "3_1933528994265120768",
+              "start": 147,
+              "url": "https://t.co/TuLoD5U26q"
+            },
+            {
+              "display_url": "pic.x.com/TuLoD5U26q",
+              "end": 170,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1933529382246887910/video/1",
+              "media_key": "13_1933529245319368704",
+              "start": 147,
+              "url": "https://t.co/TuLoD5U26q"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1847984648032276948",
+              "start": 171,
+              "url": "https://t.co/LMdU0KK9Vv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933529382246887910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 597,
+          "impression_count": 1691166,
+          "like_count": 3041,
+          "quote_count": 47,
+          "reply_count": 176,
+          "retweet_count": 685
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847984648032276948",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2024年，湖南湘雅二院研究生罗帅宇发现并揭露了所在医院“恶魔医生”刘翔峰过度医疗，如切除患者正常肠管、伪造绝症病例、故意把结石塞进病人体内等恶行，还发现所在医院涉嫌洗钱、行贿、以及疑似儿童肾源交易。在收集证据准备举报期间，2024年5月8日，罗帅宇却离奇坠楼。近日，该事件重新冲上网络热搜。 https://t.co/TuLoD5U26q https://t.co/LMdU0KK9Vv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。 ～公告栏～ @jvhao0721 @tingfeng_TF @noname87525 @rubbishbin114好久前开始从b站盗句号视频， 视频创作者是@juhao0721，请注意 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "jvhao0721"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "tingfeng_TF"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "noname87525"
+              },
+              {
+                "end": 105,
+                "start": 91,
+                "username": "rubbishbin114"
+              },
+              {
+                "end": 136,
+                "start": 126,
+                "username": "juhao0721"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 1151,
+          "like_count": 22145,
+          "listed_count": 6,
+          "media_count": 210,
+          "tweet_count": 5081
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1932445549719896196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2013753,
+          "following_count": 960,
+          "like_count": 6952,
+          "listed_count": 8165,
+          "media_count": 29842,
+          "tweet_count": 36392
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

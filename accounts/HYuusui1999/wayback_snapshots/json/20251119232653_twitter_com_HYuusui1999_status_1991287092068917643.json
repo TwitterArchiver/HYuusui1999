@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1991287092068917643",
+    "created_at": "2025-11-19T23:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T00:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991287092068917643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NyaCatNyan/sta…",
+          "end": 23,
+          "expanded_url": "https://x.com/NyaCatNyan/status/1991219093568168422",
+          "start": 0,
+          "url": "https://t.co/1CqDw9Pot8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991287092068917643",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991219093568168422",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/1CqDw9Pot8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1991219093568168422].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1991219093568168422",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1991219093568168422"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1991287092068917643",
+        "created_at": "2025-11-19T23:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T00:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991287092068917643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NyaCatNyan/sta…",
+              "end": 23,
+              "expanded_url": "https://x.com/NyaCatNyan/status/1991219093568168422",
+              "start": 0,
+              "url": "https://t.co/1CqDw9Pot8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991287092068917643",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991219093568168422",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/1CqDw9Pot8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 2398,
+          "like_count": 39829,
+          "listed_count": 6,
+          "media_count": 302,
+          "tweet_count": 9631
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

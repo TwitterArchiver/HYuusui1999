@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003041637585256448"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2003026913217085910",
+    "created_at": "2025-12-22T09:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T10:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003041679675384035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RR5vwkk8tn",
+          "end": 23,
+          "expanded_url": "https://x.com/HYuusui1999/status/2003041679675384035/photo/1",
+          "media_key": "3_2003041637585256448",
+          "start": 0,
+          "url": "https://t.co/RR5vwkk8tn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003041679675384035",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003026913217085910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/RR5vwkk8tn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2003041679675384035].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2003041679675384035",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2003041679675384035"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 790,
+        "media_key": "3_2003041637585256448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8w7wb6WAAAZy2B.jpg",
+        "width": 2046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2003026913217085910",
+        "created_at": "2025-12-22T08:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T09:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003026913217085910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1835745415544946688",
+              "start": 0,
+              "username": "3501257908Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003026913217085910",
+        "in_reply_to_user_id": "1835745415544946688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@3501257908Y 小冬QAQ帳號已凍結"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 2852,
+          "like_count": 43790,
+          "listed_count": 6,
+          "media_count": 319,
+          "tweet_count": 10662
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1981296578964140043",
+    "created_at": "2025-10-24T10:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T11:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981668802254270559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1947652886273368065",
+          "start": 0,
+          "username": "bucketyishere"
+        },
+        {
+          "end": 26,
+          "id": "1762820280035250176",
+          "start": 15,
+          "username": "Ocelot8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981668802254270559",
+    "in_reply_to_user_id": "1947652886273368065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981296578964140043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bucketyishere @Ocelot8964 你觉得怎么样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981296567492448256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G376uxQWkAAqWEa.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1981296567492530176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G376uxQX0AAWo3O.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1981296567517577216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G376uxWWAAA_4T7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1981296578964140043",
+        "created_at": "2025-10-24T10:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T11:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981668802254270559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1947652886273368065",
+              "start": 0,
+              "username": "bucketyishere"
+            },
+            {
+              "end": 26,
+              "id": "1762820280035250176",
+              "start": 15,
+              "username": "Ocelot8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981668802254270559",
+        "in_reply_to_user_id": "1947652886273368065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981296578964140043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bucketyishere @Ocelot8964 你觉得怎么样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981296567492448256",
+            "3_1981296567492530176",
+            "3_1981296567517577216"
+          ]
+        },
+        "author_id": "1947652886273368065",
+        "conversation_id": "1981296578964140043",
+        "created_at": "2025-10-23T09:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T10:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981296578964140043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bIC5wRnRZo",
+              "end": 122,
+              "expanded_url": "https://x.com/lysol1i/status/1981296578964140043/photo/1",
+              "media_key": "3_1981296567492448256",
+              "start": 99,
+              "url": "https://t.co/bIC5wRnRZo"
+            },
+            {
+              "display_url": "pic.x.com/bIC5wRnRZo",
+              "end": 122,
+              "expanded_url": "https://x.com/lysol1i/status/1981296578964140043/photo/1",
+              "media_key": "3_1981296567492530176",
+              "start": 99,
+              "url": "https://t.co/bIC5wRnRZo"
+            },
+            {
+              "display_url": "pic.x.com/bIC5wRnRZo",
+              "end": 122,
+              "expanded_url": "https://x.com/lysol1i/status/1981296578964140043/photo/1",
+              "media_key": "3_1981296567517577216",
+              "start": 99,
+              "url": "https://t.co/bIC5wRnRZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981296578964140043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5805,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今天的学校很疯狂，副校长召集全校同学进行考前演讲，讲一半几个万圣节黑衣人冲进教室把他拖上一辆车带走了，所有同学回到教室后电视开始播放他被绑架后的录像，需要我们在学校搜集各种物品来破解迷题解救他。。 https://t.co/bIC5wRnRZo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n\n暂时退网（从2025年10月17日起，预计1个月）\n除留言以外的功能全部暂停运作",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 2169,
+          "like_count": 35995,
+          "listed_count": 6,
+          "media_count": 288,
+          "tweet_count": 8906
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T13:40:15.000Z",
+        "description": "世界上解释自己行为动机字数最多的果蝇厨",
+        "id": "1947652886273368065",
+        "name": "给你桶完了",
+        "pinned_tweet_id": "1959477578546475359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980837719421894657/h7f0lmEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 194,
+          "like_count": 2848,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 998
+        },
+        "username": "bucketyishere",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T12:41:36.000Z",
+        "description": "這是一隻豹貓（隨便叫Leopard Cat或者Ocelot）🐆🐱｜\nChinese🇨🇳(掌握) & English🇺🇸(competent) & German🇩🇪(Anfänger)｜Progressive Conservative｜反對二元敘事｜批判性｜英語大約C1+ Level｜看書｜想喝奶茶🥤｜",
+        "id": "1762820280035250176",
+        "location": "IP地址：梁家河",
+        "name": "豹猫 Ocelot 🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974070935444766721/m3y7aJ3u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 613,
+          "like_count": 14421,
+          "listed_count": 2,
+          "media_count": 351,
+          "tweet_count": 7179
+        },
+        "username": "Ocelot8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1920911180379406754",
+    "created_at": "2025-05-10T08:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T09:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921126087267934290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1842268081567272960",
+          "start": 0,
+          "username": "BrittanyBe89332"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921126087267934290",
+    "in_reply_to_user_id": "1842268081567272960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920911180379406754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BrittanyBe89332 抱抱您\n祝好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1920911144514187267",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gqhygi3bcAMVjxR.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gqhygi3bcAMVjxR.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1920911180379406754",
+        "created_at": "2025-05-10T08:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T09:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921126087267934290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1842268081567272960",
+              "start": 0,
+              "username": "BrittanyBe89332"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921126087267934290",
+        "in_reply_to_user_id": "1842268081567272960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920911180379406754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BrittanyBe89332 抱抱您\n祝好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1920911144514187267"
+          ]
+        },
+        "author_id": "1842268081567272960",
+        "conversation_id": "1920911180379406754",
+        "created_at": "2025-05-09T18:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T19:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920911180379406754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gndacPQPyr",
+              "end": 23,
+              "expanded_url": "https://x.com/BrittanyBe89332/status/1920911180379406754/photo/1",
+              "media_key": "16_1920911144514187267",
+              "start": 0,
+              "url": "https://t.co/gndacPQPyr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920911180379406754",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7004,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gndacPQPyr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1920000163336028430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 878,
+          "like_count": 17924,
+          "listed_count": 6,
+          "media_count": 169,
+          "tweet_count": 3863
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T18:18:45.000Z",
+        "description": "我说了很多话我都记不得了 @Deehoo0203",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "Deehoo0203"
+              }
+            ]
+          }
+        },
+        "id": "1842268081567272960",
+        "location": "🚪520/1314",
+        "name": "我不想去上学了，因为我太困、太冷了。学校里也没有人喜欢我。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917665724824444928/18npB8F8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26134,
+          "following_count": 193,
+          "like_count": 487,
+          "listed_count": 47,
+          "media_count": 110,
+          "tweet_count": 592
+        },
+        "username": "BrittanyBe89332",
+        "verified": false
+      }
+    ]
+  }
+}

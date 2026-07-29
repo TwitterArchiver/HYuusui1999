@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989181026933846018"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1989154688273641911",
+    "created_at": "2025-11-14T03:58:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T04:58:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989181042402742764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796349415650664448",
+          "start": 0,
+          "username": "KawaiiEru_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H7WBR0sMhU",
+          "end": 35,
+          "expanded_url": "https://x.com/HYuusui1999/status/1989181042402742764/photo/1",
+          "media_key": "3_1989181026933846018",
+          "start": 12,
+          "url": "https://t.co/H7WBR0sMhU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989181042402742764",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989154688273641911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiiEru_ https://t.co/H7WBR0sMhU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1989181042402742764].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1989181042402742764",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1989181042402742764"
+    },
+    {
+      "detail": "User has been suspended: [KawaiiEru_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "KawaiiEru_",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "KawaiiEru_"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 220,
+        "media_key": "3_1989181026933846018",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5r9mthWsAIdk6a.jpg",
+        "width": 2056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1989154688273641911",
+        "created_at": "2025-11-14T02:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T03:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989154688273641911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796349415650664448",
+              "start": 0,
+              "username": "KawaiiEru_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989154688273641911",
+        "in_reply_to_user_id": "1796349415650664448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@KawaiiEru_ 账号已冻结"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 2371,
+          "like_count": 39420,
+          "listed_count": 6,
+          "media_count": 298,
+          "tweet_count": 9508
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

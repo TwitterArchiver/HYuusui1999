@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975578162118729732",
+        "3_1975578191306821632",
+        "3_1975578201381617664",
+        "3_1975578326661275648"
+      ],
+      "media_source_tweet_id": [
+        "1975578418617160042",
+        "1975578418617160042",
+        "1975578418617160042",
+        "1975578418617160042"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1975765109034172638",
+    "created_at": "2025-10-08T03:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T04:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975765109034172638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1592505818447900672",
+          "start": 3,
+          "username": "nideaneng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LgJabcGT7h",
+          "end": 38,
+          "expanded_url": "https://x.com/nideaneng/status/1975578418617160042/photo/1",
+          "media_key": "3_1975578162118729732",
+          "start": 15,
+          "url": "https://t.co/LgJabcGT7h"
+        },
+        {
+          "display_url": "pic.x.com/LgJabcGT7h",
+          "end": 38,
+          "expanded_url": "https://x.com/nideaneng/status/1975578418617160042/photo/1",
+          "media_key": "3_1975578191306821632",
+          "start": 15,
+          "url": "https://t.co/LgJabcGT7h"
+        },
+        {
+          "display_url": "pic.x.com/LgJabcGT7h",
+          "end": 38,
+          "expanded_url": "https://x.com/nideaneng/status/1975578418617160042/photo/1",
+          "media_key": "3_1975578201381617664",
+          "start": 15,
+          "url": "https://t.co/LgJabcGT7h"
+        },
+        {
+          "display_url": "pic.x.com/LgJabcGT7h",
+          "end": 38,
+          "expanded_url": "https://x.com/nideaneng/status/1975578418617160042/photo/1",
+          "media_key": "3_1975578326661275648",
+          "start": 15,
+          "url": "https://t.co/LgJabcGT7h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975765109034172638",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 223
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975578418617160042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nideaneng: https://t.co/LgJabcGT7h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_1975578162118729732",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qp3xMbIAQysGa.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1432,
+        "media_key": "3_1975578191306821632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qp5d7aEAAOPvP.png",
+        "width": 1289
+      },
+      {
+        "height": 1974,
+        "media_key": "3_1975578201381617664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qp6DdbQAAdnc5.png",
+        "width": 2151
+      },
+      {
+        "height": 1126,
+        "media_key": "3_1975578326661275648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qqBWKbIAAQJ3z.png",
+        "width": 1314
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975578162118729732",
+            "3_1975578191306821632",
+            "3_1975578201381617664",
+            "3_1975578326661275648"
+          ],
+          "media_source_tweet_id": [
+            "1975578418617160042",
+            "1975578418617160042",
+            "1975578418617160042",
+            "1975578418617160042"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1975765109034172638",
+        "created_at": "2025-10-08T03:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T04:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975765109034172638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1592505818447900672",
+              "start": 3,
+              "username": "nideaneng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LgJabcGT7h",
+              "end": 38,
+              "expanded_url": "https://x.com/nideaneng/status/1975578418617160042/photo/1",
+              "media_key": "3_1975578162118729732",
+              "start": 15,
+              "url": "https://t.co/LgJabcGT7h"
+            },
+            {
+              "display_url": "pic.x.com/LgJabcGT7h",
+              "end": 38,
+              "expanded_url": "https://x.com/nideaneng/status/1975578418617160042/photo/1",
+              "media_key": "3_1975578191306821632",
+              "start": 15,
+              "url": "https://t.co/LgJabcGT7h"
+            },
+            {
+              "display_url": "pic.x.com/LgJabcGT7h",
+              "end": 38,
+              "expanded_url": "https://x.com/nideaneng/status/1975578418617160042/photo/1",
+              "media_key": "3_1975578201381617664",
+              "start": 15,
+              "url": "https://t.co/LgJabcGT7h"
+            },
+            {
+              "display_url": "pic.x.com/LgJabcGT7h",
+              "end": 38,
+              "expanded_url": "https://x.com/nideaneng/status/1975578418617160042/photo/1",
+              "media_key": "3_1975578326661275648",
+              "start": 15,
+              "url": "https://t.co/LgJabcGT7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975765109034172638",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 223
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975578418617160042",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nideaneng: https://t.co/LgJabcGT7h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975578162118729732",
+            "3_1975578191306821632",
+            "3_1975578201381617664",
+            "3_1975578326661275648"
+          ]
+        },
+        "author_id": "1592505818447900672",
+        "conversation_id": "1975578418617160042",
+        "created_at": "2025-10-07T15:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T16:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975578418617160042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LgJabcGT7h",
+              "end": 23,
+              "expanded_url": "https://x.com/nideaneng/status/1975578418617160042/photo/1",
+              "media_key": "3_1975578162118729732",
+              "start": 0,
+              "url": "https://t.co/LgJabcGT7h"
+            },
+            {
+              "display_url": "pic.x.com/LgJabcGT7h",
+              "end": 23,
+              "expanded_url": "https://x.com/nideaneng/status/1975578418617160042/photo/1",
+              "media_key": "3_1975578191306821632",
+              "start": 0,
+              "url": "https://t.co/LgJabcGT7h"
+            },
+            {
+              "display_url": "pic.x.com/LgJabcGT7h",
+              "end": 23,
+              "expanded_url": "https://x.com/nideaneng/status/1975578418617160042/photo/1",
+              "media_key": "3_1975578201381617664",
+              "start": 0,
+              "url": "https://t.co/LgJabcGT7h"
+            },
+            {
+              "display_url": "pic.x.com/LgJabcGT7h",
+              "end": 23,
+              "expanded_url": "https://x.com/nideaneng/status/1975578418617160042/photo/1",
+              "media_key": "3_1975578326661275648",
+              "start": 0,
+              "url": "https://t.co/LgJabcGT7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975578418617160042",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 26640,
+          "like_count": 1514,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 223
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LgJabcGT7h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 2028,
+          "like_count": 34643,
+          "listed_count": 6,
+          "media_count": 278,
+          "tweet_count": 8685
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-15T13:12:43.000Z",
+        "description": "",
+        "id": "1592505818447900672",
+        "name": ":-|",
+        "pinned_tweet_id": "1897675598765645967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882487758746476544/oeJEKLHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41241,
+          "following_count": 0,
+          "like_count": 520,
+          "listed_count": 135,
+          "media_count": 482,
+          "tweet_count": 575
+        },
+        "username": "nideaneng",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2021892960669904977",
+    "created_at": "2026-02-12T10:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T11:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021892960669904977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1407003323387977728",
+          "start": 3,
+          "username": "SoftLanChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021892960669904977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021287541220229331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SoftLanChan: 我在此强烈建议各位MTF修修眉毛，你不会就去美团搜团购，十块钱二十块钱一次，pass程度真能增加不少。\n你要连这笔钱都舍不得掏那你就留个头发帘把眉毛挡住了，也能pass不少。修过眉的也可以这么做，我认为效果会更上一层楼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2021892960669904977",
+        "created_at": "2026-02-12T10:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021892960669904977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1407003323387977728",
+              "start": 3,
+              "username": "SoftLanChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021892960669904977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021287541220229331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SoftLanChan: 我在此强烈建议各位MTF修修眉毛，你不会就去美团搜团购，十块钱二十块钱一次，pass程度真能增加不少。\n你要连这笔钱都舍不得掏那你就留个头发帘把眉毛挡住了，也能pass不少。修过眉的也可以这么做，我认为效果会更上一层楼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407003323387977728",
+        "conversation_id": "2021287541220229331",
+        "created_at": "2026-02-10T18:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T19:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021287541220229331"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021287541220229331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 24401,
+          "like_count": 221,
+          "quote_count": 5,
+          "reply_count": 27,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我在此强烈建议各位MTF修修眉毛，你不会就去美团搜团购，十块钱二十块钱一次，pass程度真能增加不少。\n你要连这笔钱都舍不得掏那你就留个头发帘把眉毛挡住了，也能pass不少。修过眉的也可以这么做，我认为效果会更上一层楼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 2939,
+          "like_count": 43261,
+          "listed_count": 6,
+          "media_count": 364,
+          "tweet_count": 10852
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T15:51:58.000Z",
+        "description": "某个被传言已经死掉的MTF\n从头开始吧，至少没人记得我\nFor Managed Democracy！",
+        "id": "1407003323387977728",
+        "location": "宛平南路600",
+        "name": "YumeLan🏳️‍⚧️🇺🇦Super Earth",
+        "pinned_tweet_id": "2019493225409703961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011315765878898688/_EZGaB5W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3013,
+          "following_count": 271,
+          "like_count": 14415,
+          "listed_count": 10,
+          "media_count": 32,
+          "tweet_count": 599
+        },
+        "username": "SoftLanChan",
+        "verified": false
+      }
+    ]
+  }
+}

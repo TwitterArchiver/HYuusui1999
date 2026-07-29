@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1989708403892261231",
+    "created_at": "2025-11-15T15:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T16:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989714540054155279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1480902300432420865",
+          "start": 0,
+          "username": "Notyet_cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989714540054155279",
+    "in_reply_to_user_id": "1480902300432420865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989708403892261231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Notyet_cat 可是已然分享了想法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1989708403892261231",
+        "created_at": "2025-11-15T15:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T16:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989714540054155279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1480902300432420865",
+              "start": 0,
+              "username": "Notyet_cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989714540054155279",
+        "in_reply_to_user_id": "1480902300432420865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989708403892261231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Notyet_cat 可是已然分享了想法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1480902300432420865",
+        "conversation_id": "1989708403892261231",
+        "created_at": "2025-11-15T14:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T15:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989708403892261231"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989708403892261231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对世界上所有的东西失去兴趣了\n不想了解，不想触碰。\n因为已经体验不到美好了\n完全不会\n不会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 2372,
+          "like_count": 39448,
+          "listed_count": 6,
+          "media_count": 302,
+          "tweet_count": 9521
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-11T14:00:13.000Z",
+        "description": "mtx/无证含糖/双相情感障碍/\n可以叫我竹猫或者小依哦",
+        "id": "1480902300432420865",
+        "name": "梦韵竹猫🍥&竹猫小依🍥",
+        "pinned_tweet_id": "1985869250662449564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986010815921799169/RjANWW4b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 257,
+          "like_count": 2463,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 1702
+        },
+        "username": "Notyet_cat",
+        "verified": false
+      }
+    ]
+  }
+}

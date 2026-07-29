@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068288709569708032"
+      ],
+      "media_source_tweet_id": [
+        "2068288717794734154"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2077023988841091463",
+    "created_at": "2026-07-14T13:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T14:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077023988841091463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1835559569319444480",
+          "start": 3,
+          "username": "Riyoko101280411"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eb8k1iYMce",
+          "end": 44,
+          "expanded_url": "https://x.com/Riyoko101280411/status/2068288717794734154/photo/1",
+          "media_key": "3_2068288709569708032",
+          "start": 21,
+          "url": "https://t.co/eb8k1iYMce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077023988841091463",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068288717794734154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Riyoko101280411: https://t.co/eb8k1iYMce"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1031,
+        "media_key": "3_2068288709569708032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQJn4LagAAwL5r.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068288709569708032"
+          ],
+          "media_source_tweet_id": [
+            "2068288717794734154"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "2077023988841091463",
+        "created_at": "2026-07-14T13:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077023988841091463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1835559569319444480",
+              "start": 3,
+              "username": "Riyoko101280411"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eb8k1iYMce",
+              "end": 44,
+              "expanded_url": "https://x.com/Riyoko101280411/status/2068288717794734154/photo/1",
+              "media_key": "3_2068288709569708032",
+              "start": 21,
+              "url": "https://t.co/eb8k1iYMce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077023988841091463",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068288717794734154",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Riyoko101280411: https://t.co/eb8k1iYMce"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068288709569708032"
+          ]
+        },
+        "author_id": "1835559569319444480",
+        "conversation_id": "2068288717794734154",
+        "created_at": "2026-06-20T11:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068288717794734154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eb8k1iYMce",
+              "end": 23,
+              "expanded_url": "https://x.com/Riyoko101280411/status/2068288717794734154/photo/1",
+              "media_key": "3_2068288709569708032",
+              "start": 0,
+              "url": "https://t.co/eb8k1iYMce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068288717794734154",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eb8k1iYMce"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 3569,
+          "like_count": 45807,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 11911
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T06:01:54.000Z",
+        "description": "r18g注意 雜多垢 使用翻譯器 音ゲー/r18g好き 無言フォロー失礼します (ृ´͈ ᵕ `͈ ृ )pixiv: https://t.co/8XWYbSE6At email:yuki2085@outlook.com お題箱:https://t.co/ddrWaq54UJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113042501",
+                "end": 83,
+                "expanded_url": "https://www.pixiv.net/users/113042501",
+                "start": 60,
+                "url": "https://t.co/8XWYbSE6At"
+              },
+              {
+                "display_url": "odaibako.net/u/Riyoko10",
+                "end": 138,
+                "expanded_url": "https://odaibako.net/u/Riyoko10",
+                "start": 115,
+                "url": "https://t.co/ddrWaq54UJ"
+              }
+            ]
+          }
+        },
+        "id": "1835559569319444480",
+        "name": "Riyoko10",
+        "pinned_tweet_id": "2021875355720794543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982270445895188480/fbfOo8eg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 354,
+          "like_count": 7149,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 578
+        },
+        "url": "",
+        "username": "Riyoko101280411",
+        "verified": false
+      }
+    ]
+  }
+}

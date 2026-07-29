@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1913992728289108403",
+    "created_at": "2025-04-20T16:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T17:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913992728289108403"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/string_fish/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/string_fish/status/1913979642375258168",
+          "start": 3,
+          "url": "https://t.co/Bz56qOqtxd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913992728289108403",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913979642375258168",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "同问 https://t.co/Bz56qOqtxd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1913992728289108403",
+        "created_at": "2025-04-20T16:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T17:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913992728289108403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/string_fish/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/string_fish/status/1913979642375258168",
+              "start": 3,
+              "url": "https://t.co/Bz56qOqtxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913992728289108403",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913979642375258168",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同问 https://t.co/Bz56qOqtxd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1125017516055482368",
+        "conversation_id": "1913979642375258168",
+        "created_at": "2025-04-20T15:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T16:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913979642375258168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913979642375258168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "抑郁是正常的吗？那么开心为什么是正常的？焦虑是正常的吗？那么不焦虑为什么是正常的？神经多样性发育是正常的吗？那么神经典型发育为什么是正常的？分心是正常的吗？那么专心为什么是正常的？到底是谁定义的正常呢？到底什么才是正常？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1912415808413647168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 756,
+          "like_count": 16407,
+          "listed_count": 5,
+          "media_count": 154,
+          "tweet_count": 3268
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-05T12:40:52.000Z",
+        "description": "Salted fish\n一条咸鱼。\n丨HAM CS EE 古典音乐丨建政、看黄、逆天发言号请自动远离。\nIn Memory of @kage_papuki @TianqiChen666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "kage_papuki"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "TianqiChen666"
+              }
+            ]
+          }
+        },
+        "id": "1125017516055482368",
+        "name": "Arius sul G String",
+        "pinned_tweet_id": "1906695939617878398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726651138899144704/1YP2C4fU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 1567,
+          "like_count": 61756,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 1897
+        },
+        "username": "String_fish",
+        "verified": false
+      }
+    ]
+  }
+}

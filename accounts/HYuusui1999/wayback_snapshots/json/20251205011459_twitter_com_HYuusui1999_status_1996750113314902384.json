@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1996227863952101376",
+        "3_1996227864241598464",
+        "3_1996227864472199170",
+        "3_1996227863956406272"
+      ],
+      "media_source_tweet_id": [
+        "1996227915848045011",
+        "1996227915848045011",
+        "1996227915848045011",
+        "1996227915848045011"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1996750113314902384",
+    "created_at": "2025-12-05T01:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T02:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996750113314902384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F6ktkZxjb2",
+          "end": 107,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+          "media_key": "7_1996227863952101376",
+          "start": 84,
+          "url": "https://t.co/F6ktkZxjb2"
+        },
+        {
+          "display_url": "pic.x.com/F6ktkZxjb2",
+          "end": 107,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+          "media_key": "3_1996227864241598464",
+          "start": 84,
+          "url": "https://t.co/F6ktkZxjb2"
+        },
+        {
+          "display_url": "pic.x.com/F6ktkZxjb2",
+          "end": 107,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+          "media_key": "3_1996227864472199170",
+          "start": 84,
+          "url": "https://t.co/F6ktkZxjb2"
+        },
+        {
+          "display_url": "pic.x.com/F6ktkZxjb2",
+          "end": 107,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+          "media_key": "3_1996227863956406272",
+          "start": 84,
+          "url": "https://t.co/F6ktkZxjb2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996750113314902384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996227915848045011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 之前被我们曝光过冒充警察当街抓人的西安护航把自己所有的视频都删了\n然后更新了一条新视频\n配乐是苏武牧羊\n嘲讽我是匈奴🤯🤯🤯🤯 https://t.co/F6ktkZxjb2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 81850,
+        "height": 640,
+        "media_key": "7_1996227863952101376",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1996227863952101376/pu/img/c4GQ0MDf7ncgvUCS.jpg",
+        "public_metrics": {
+          "view_count": 2965
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996227863952101376/pu/vid/avc1/320x568/3UQB7KSHAlTi_hck.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996227863952101376/pu/vid/avc1/360x640/nOcBPXUca7eayG96.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1996227863952101376/pu/pl/5V5yBcMr5QbWn4Qf.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 360
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996227864241598464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QGqoLbcAAl95Z.jpg",
+        "width": 917
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1996227864472199170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QGqpCaIAIzoDM.jpg",
+        "width": 859
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1996227863956406272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QGqnHbwAAOJuX.jpg",
+        "width": 859
+      },
+      {
+        "duration_ms": 81850,
+        "height": 640,
+        "media_key": "7_1996227863952101376",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1996227863952101376/pu/img/c4GQ0MDf7ncgvUCS.jpg",
+        "public_metrics": {
+          "view_count": 2969
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996227863952101376/pu/vid/avc1/320x568/3UQB7KSHAlTi_hck.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996227863952101376/pu/vid/avc1/360x640/nOcBPXUca7eayG96.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1996227863952101376/pu/pl/5V5yBcMr5QbWn4Qf.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1996227863952101376",
+            "3_1996227864241598464",
+            "3_1996227864472199170",
+            "3_1996227863956406272"
+          ],
+          "media_source_tweet_id": [
+            "1996227915848045011",
+            "1996227915848045011",
+            "1996227915848045011",
+            "1996227915848045011"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1996750113314902384",
+        "created_at": "2025-12-05T01:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T02:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996750113314902384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F6ktkZxjb2",
+              "end": 107,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+              "media_key": "7_1996227863952101376",
+              "start": 84,
+              "url": "https://t.co/F6ktkZxjb2"
+            },
+            {
+              "display_url": "pic.x.com/F6ktkZxjb2",
+              "end": 107,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+              "media_key": "3_1996227864241598464",
+              "start": 84,
+              "url": "https://t.co/F6ktkZxjb2"
+            },
+            {
+              "display_url": "pic.x.com/F6ktkZxjb2",
+              "end": 107,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+              "media_key": "3_1996227864472199170",
+              "start": 84,
+              "url": "https://t.co/F6ktkZxjb2"
+            },
+            {
+              "display_url": "pic.x.com/F6ktkZxjb2",
+              "end": 107,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+              "media_key": "3_1996227863956406272",
+              "start": 84,
+              "url": "https://t.co/F6ktkZxjb2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996750113314902384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996227915848045011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 之前被我们曝光过冒充警察当街抓人的西安护航把自己所有的视频都删了\n然后更新了一条新视频\n配乐是苏武牧羊\n嘲讽我是匈奴🤯🤯🤯🤯 https://t.co/F6ktkZxjb2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1996227863952101376",
+            "3_1996227864241598464",
+            "3_1996227864472199170",
+            "3_1996227863956406272"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1996227915848045011",
+        "created_at": "2025-12-03T14:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996227915848045011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F6ktkZxjb2",
+              "end": 86,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+              "media_key": "7_1996227863952101376",
+              "start": 63,
+              "url": "https://t.co/F6ktkZxjb2"
+            },
+            {
+              "display_url": "pic.x.com/F6ktkZxjb2",
+              "end": 86,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+              "media_key": "3_1996227864241598464",
+              "start": 63,
+              "url": "https://t.co/F6ktkZxjb2"
+            },
+            {
+              "display_url": "pic.x.com/F6ktkZxjb2",
+              "end": 86,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+              "media_key": "3_1996227864472199170",
+              "start": 63,
+              "url": "https://t.co/F6ktkZxjb2"
+            },
+            {
+              "display_url": "pic.x.com/F6ktkZxjb2",
+              "end": 86,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1996227915848045011/video/1",
+              "media_key": "3_1996227863956406272",
+              "start": 63,
+              "url": "https://t.co/F6ktkZxjb2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996227915848045011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5888,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "之前被我们曝光过冒充警察当街抓人的西安护航把自己所有的视频都删了\n然后更新了一条新视频\n配乐是苏武牧羊\n嘲讽我是匈奴🤯🤯🤯🤯 https://t.co/F6ktkZxjb2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 2534,
+          "like_count": 41000,
+          "listed_count": 6,
+          "media_count": 303,
+          "tweet_count": 10000
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 1134,
+          "like_count": 929,
+          "listed_count": 6,
+          "media_count": 269,
+          "tweet_count": 1501
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

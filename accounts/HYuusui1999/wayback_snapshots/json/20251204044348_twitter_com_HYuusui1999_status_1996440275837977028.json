@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1996436029402927311",
+    "created_at": "2025-12-04T04:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T05:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996440275837977028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639203203890970624",
+          "start": 0,
+          "username": "SyntaxError_V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996440275837977028",
+    "in_reply_to_user_id": "1639203203890970624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996436029402927311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyntaxError_V 不错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1996436029402927311",
+        "created_at": "2025-12-04T04:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T05:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996440275837977028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639203203890970624",
+              "start": 0,
+              "username": "SyntaxError_V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996440275837977028",
+        "in_reply_to_user_id": "1639203203890970624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996436029402927311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyntaxError_V 不错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639203203890970624",
+        "conversation_id": "1996436029402927311",
+        "created_at": "2025-12-04T04:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T05:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996436029402927311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996436029402927311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚还在进行我的美味午餐中 突然看见什么interview的邮件 吓晕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 2522,
+          "like_count": 40872,
+          "listed_count": 6,
+          "media_count": 303,
+          "tweet_count": 9973
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-24T09:52:07.000Z",
+        "description": "Father hold me close, don’t let me drown.",
+        "id": "1639203203890970624",
+        "location": "Republic of Korea",
+        "name": "φ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985376877318668289/vJGo1qfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 489,
+          "like_count": 18818,
+          "listed_count": 3,
+          "media_count": 447,
+          "tweet_count": 4933
+        },
+        "username": "SyntaxError_V",
+        "verified": false
+      }
+    ]
+  }
+}

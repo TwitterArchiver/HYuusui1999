@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1967677625566183554",
+    "created_at": "2025-09-23T04:47:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T05:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970349349017448939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1945425262554054656",
+          "start": 0,
+          "username": "nifangchangba2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970349349017448939",
+    "in_reply_to_user_id": "1945425262554054656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967677625566183554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nifangchangba2 每个人都藏着伤疤（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967677617706020865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G06YXjvasAEAhFI.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1967677625566183554",
+        "created_at": "2025-09-23T04:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T05:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970349349017448939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1945425262554054656",
+              "start": 0,
+              "username": "nifangchangba2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970349349017448939",
+        "in_reply_to_user_id": "1945425262554054656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967677625566183554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nifangchangba2 每个人都藏着伤疤（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967677617706020865"
+          ]
+        },
+        "author_id": "1945425262554054656",
+        "conversation_id": "1967677625566183554",
+        "created_at": "2025-09-15T19:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T20:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967677625566183554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RzejM8ttWt",
+              "end": 31,
+              "expanded_url": "https://x.com/nifangchangba2/status/1967677625566183554/photo/1",
+              "media_key": "3_1967677617706020865",
+              "start": 8,
+              "url": "https://t.co/RzejM8ttWt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967677625566183554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的痛无人知晓 https://t.co/RzejM8ttWt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 1777,
+          "like_count": 31220,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 8039
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T10:08:32.000Z",
+        "description": "币圈爆仓侠",
+        "id": "1945425262554054656",
+        "location": "香港",
+        "name": "你方唱罢我登场",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967677769879523339/WjAE6-ud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 38,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 9
+        },
+        "username": "nifangchangba2",
+        "verified": false
+      }
+    ]
+  }
+}

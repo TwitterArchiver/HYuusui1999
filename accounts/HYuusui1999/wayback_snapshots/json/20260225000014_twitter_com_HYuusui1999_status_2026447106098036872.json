@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2026160703590007212",
+    "created_at": "2026-02-25T00:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T01:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026447106098036872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1831127108791529473",
+          "start": 0,
+          "username": "Meuuuu_kk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026447106098036872",
+    "in_reply_to_user_id": "1831127108791529473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026160703590007212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meuuuu_kk 自己高兴就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2026160703590007212",
+        "created_at": "2026-02-25T00:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T01:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026447106098036872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831127108791529473",
+              "start": 0,
+              "username": "Meuuuu_kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026447106098036872",
+        "in_reply_to_user_id": "1831127108791529473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026160703590007212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meuuuu_kk 自己高兴就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831127108791529473",
+        "conversation_id": "2026160703590007212",
+        "created_at": "2026-02-24T05:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T06:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026160703590007212"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026160703590007212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2978,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "焦虑症太严重倾向退学回国了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 3087,
+          "like_count": 44272,
+          "listed_count": 6,
+          "media_count": 364,
+          "tweet_count": 11115
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T00:28:52.000Z",
+        "description": "被流放村里\n顺性别直男",
+        "id": "1831127108791529473",
+        "name": "🥥",
+        "pinned_tweet_id": "2020922857547784315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015506308548481024/XNQeoTA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 188,
+          "like_count": 8947,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 4888
+        },
+        "username": "Meuuuu_kk",
+        "verified": false
+      }
+    ]
+  }
+}

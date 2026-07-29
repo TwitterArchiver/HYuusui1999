@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1999319213123699041",
+    "created_at": "2025-12-13T13:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T14:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999826649785798974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1868195254689779712",
+          "start": 0,
+          "username": "TSANeon0414"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999826649785798974",
+    "in_reply_to_user_id": "1868195254689779712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999319213123699041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TSANeon0414 或者他們會找到章魚哥meme也說不定"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1351,
+        "media_key": "3_1999319206781992960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78COcjbQAASk4q.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1999319213123699041",
+        "created_at": "2025-12-13T13:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T14:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999826649785798974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1868195254689779712",
+              "start": 0,
+              "username": "TSANeon0414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999826649785798974",
+        "in_reply_to_user_id": "1868195254689779712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999319213123699041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TSANeon0414 或者他們會找到章魚哥meme也說不定"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999319206781992960"
+          ]
+        },
+        "author_id": "1868195254689779712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1999319213123699041",
+        "created_at": "2025-12-12T03:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T04:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999319213123699041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eqBZFfUPd5",
+              "end": 50,
+              "expanded_url": "https://x.com/TSANeon0414/status/1999319213123699041/photo/1",
+              "media_key": "3_1999319206781992960",
+              "start": 27,
+              "url": "https://t.co/eqBZFfUPd5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999319213123699041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 70927,
+          "like_count": 2998,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 171
+        },
+        "reply_settings": "everyone",
+        "text": "我快笑死\n未來的人類如果挖到一定想說我們是什麼生物🐙 https://t.co/eqBZFfUPd5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 2681,
+          "like_count": 42469,
+          "listed_count": 6,
+          "media_count": 307,
+          "tweet_count": 10358
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T07:24:16.000Z",
+        "description": "@studio_tsa 所屬Paparazzi夜總會 🚥立志成為全民偶像的男人 🌠目標萬人演唱會！今天也聽過我的歌聲了嗎？ 同事:@ink1221_vtuber 麻麻:@byakuya9931 商業洽談：tsastudio7@gmail.com 連動洽詢：paparazzirabbit@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "studio_tsa"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "ink1221_vtuber"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "byakuya9931"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=wc0ETy…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/watch?v=wc0ETyICxG8",
+                "start": 0,
+                "url": "https://t.co/9w0CDaVnt6"
+              }
+            ]
+          }
+        },
+        "id": "1868195254689779712",
+        "name": "逆恩Neon Vtuber 🚦TSA所屬 【Paparazzi】",
+        "pinned_tweet_id": "1996557907555684758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974821709787410432/boQdDk1q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3096,
+          "following_count": 404,
+          "like_count": 35699,
+          "listed_count": 7,
+          "media_count": 937,
+          "tweet_count": 12167
+        },
+        "url": "https://t.co/9w0CDaVnt6",
+        "username": "TSANeon0414",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1878962637507035136"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1878962639814234259",
+    "created_at": "2025-01-14T00:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T01:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1878962639814234259"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O4wN82SMtQ",
+          "end": 28,
+          "expanded_url": "https://x.com/HYuusui1999/status/1878962639814234259/photo/1",
+          "media_key": "3_1878962637507035136",
+          "start": 5,
+          "url": "https://t.co/O4wN82SMtQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878962639814234259",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新头像 https://t.co/O4wN82SMtQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1878962637507035136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhNqkErWgAAsEM8.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878962637507035136"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1878962639814234259",
+        "created_at": "2025-01-14T00:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T01:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878962639814234259"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O4wN82SMtQ",
+              "end": 28,
+              "expanded_url": "https://x.com/HYuusui1999/status/1878962639814234259/photo/1",
+              "media_key": "3_1878962637507035136",
+              "start": 5,
+              "url": "https://t.co/O4wN82SMtQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878962639814234259",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/O4wN82SMtQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "",
+        "id": "1878681729407356928",
+        "name": "祐穂・H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 19,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

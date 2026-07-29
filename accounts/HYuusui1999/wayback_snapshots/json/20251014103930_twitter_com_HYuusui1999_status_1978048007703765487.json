@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1978048007703765487",
+    "created_at": "2025-10-14T10:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T11:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978048007703765487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878681729407356928",
+          "start": 3,
+          "username": "HYuusui1999"
+        },
+        {
+          "end": 29,
+          "id": "1176535991454064640",
+          "start": 17,
+          "username": "NekoMakiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978048007703765487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978041672178037117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HYuusui1999: @NekoMakiQAQ 账号已被停用"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [NekoMakiQAQ].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "NekoMakiQAQ",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "NekoMakiQAQ"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1978048007703765487",
+        "created_at": "2025-10-14T10:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T11:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978048007703765487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1878681729407356928",
+              "start": 3,
+              "username": "HYuusui1999"
+            },
+            {
+              "end": 29,
+              "id": "1176535991454064640",
+              "start": 17,
+              "username": "NekoMakiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978048007703765487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978041672178037117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HYuusui1999: @NekoMakiQAQ 账号已被停用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1978041672178037117",
+        "created_at": "2025-10-14T10:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T11:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978041672178037117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "NekoMakiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978041672178037117",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@NekoMakiQAQ 账号已被停用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 2102,
+          "like_count": 35511,
+          "listed_count": 6,
+          "media_count": 284,
+          "tweet_count": 8786
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

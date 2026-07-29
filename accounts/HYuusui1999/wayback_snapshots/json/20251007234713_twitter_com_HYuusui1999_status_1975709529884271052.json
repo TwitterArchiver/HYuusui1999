@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975516135610257408"
+      ],
+      "media_source_tweet_id": [
+        "1975516144590307600"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1975709529884271052",
+    "created_at": "2025-10-07T23:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T00:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975709529884271052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1385991185689284608",
+          "start": 3,
+          "username": "Joshua78261443"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gKd4Y7Qwlx",
+          "end": 43,
+          "expanded_url": "https://x.com/Joshua78261443/status/1975516144590307600/photo/1",
+          "media_key": "3_1975516135610257408",
+          "start": 20,
+          "url": "https://t.co/gKd4Y7Qwlx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975709529884271052",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975516144590307600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Joshua78261443: https://t.co/gKd4Y7Qwlx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1975516135610257408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2pxdWcaEAAgJiv.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975516135610257408"
+          ],
+          "media_source_tweet_id": [
+            "1975516144590307600"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1975709529884271052",
+        "created_at": "2025-10-07T23:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T00:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975709529884271052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1385991185689284608",
+              "start": 3,
+              "username": "Joshua78261443"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gKd4Y7Qwlx",
+              "end": 43,
+              "expanded_url": "https://x.com/Joshua78261443/status/1975516144590307600/photo/1",
+              "media_key": "3_1975516135610257408",
+              "start": 20,
+              "url": "https://t.co/gKd4Y7Qwlx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975709529884271052",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975516144590307600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Joshua78261443: https://t.co/gKd4Y7Qwlx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975516135610257408"
+          ]
+        },
+        "author_id": "1385991185689284608",
+        "conversation_id": "1975516144590307600",
+        "created_at": "2025-10-07T10:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T11:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975516144590307600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gKd4Y7Qwlx",
+              "end": 23,
+              "expanded_url": "https://x.com/Joshua78261443/status/1975516144590307600/photo/1",
+              "media_key": "3_1975516135610257408",
+              "start": 0,
+              "url": "https://t.co/gKd4Y7Qwlx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975516144590307600",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 15925,
+          "like_count": 314,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gKd4Y7Qwlx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 1997,
+          "like_count": 34306,
+          "listed_count": 6,
+          "media_count": 278,
+          "tweet_count": 8646
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T16:17:18.000Z",
+        "description": "",
+        "id": "1385991185689284608",
+        "name": "Joshua",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894772626612224000/kOuH4Xcb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3966,
+          "following_count": 988,
+          "like_count": 38104,
+          "listed_count": 25,
+          "media_count": 2686,
+          "tweet_count": 18016
+        },
+        "username": "Joshua78261443",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938526886813892608"
+      ],
+      "media_source_tweet_id": [
+        "1938526904111468963"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1938569731348287625",
+    "created_at": "2025-06-27T12:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T13:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938569731348287625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1826871427972362240",
+          "start": 3,
+          "username": "misaka__network"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KnHp93Bfal",
+          "end": 52,
+          "expanded_url": "https://x.com/misaka__network/status/1938526904111468963/photo/1",
+          "media_key": "3_1938526886813892608",
+          "start": 29,
+          "url": "https://t.co/KnHp93Bfal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938569731348287625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938526904111468963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @misaka__network: 看看你的欧派🤤 https://t.co/KnHp93Bfal"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1938569731348287625].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1938569731348287625",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1938569731348287625"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1864,
+        "media_key": "3_1938526886813892608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GucH7swWAAAP8xh.jpg",
+        "width": 1461
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938526886813892608"
+          ]
+        },
+        "author_id": "1826871427972362240",
+        "conversation_id": "1938526904111468963",
+        "created_at": "2025-06-27T09:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T10:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938526904111468963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KnHp93Bfal",
+              "end": 31,
+              "expanded_url": "https://x.com/misaka__network/status/1938526904111468963/photo/1",
+              "media_key": "3_1938526886813892608",
+              "start": 8,
+              "url": "https://t.co/KnHp93Bfal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938526904111468963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "看看你的欧派🤤 https://t.co/KnHp93Bfal"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yvjue0189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yvjue0189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 1225,
+          "like_count": 23076,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 5422
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T06:38:09.000Z",
+        "description": "Pronoun: Misaka/Misaka's; \nGPG Key Fingerprint: 3C01 D0C8 C0D2 3F40 C3E2  4EFD 2C99 FFA9 E7DF F7E2 E954; \nTrans Female; \nGAHT: 2025-1-24; \nMy dear: @Luo_yiyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 148,
+                "username": "Luo_yiyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "webpagesvc.misakanetworksystem.org/index.html",
+                "end": 23,
+                "expanded_url": "http://webpagesvc.misakanetworksystem.org/index.html",
+                "start": 0,
+                "url": "https://t.co/cDAtzx6l4u"
+              }
+            ]
+          }
+        },
+        "id": "1826871427972362240",
+        "location": "/Users/MisakaNetworkServices/",
+        "name": "Misaka Makoto (御坂　まこと)🏳️‍🌈🏳️‍⚧️🍥🇳🇿🇦🇶🇹🇼",
+        "pinned_tweet_id": "1925803308469334259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892543426656415744/mYE7JEtM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 686,
+          "like_count": 37659,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 13020
+        },
+        "url": "https://t.co/cDAtzx6l4u",
+        "username": "misaka__network",
+        "verified": false
+      }
+    ]
+  }
+}

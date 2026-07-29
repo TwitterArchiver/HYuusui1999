@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061997430871076864",
+        "3_2061998118518878208",
+        "3_2061997431860953088"
+      ],
+      "media_source_tweet_id": [
+        "2061998120909578344",
+        "2061998120909578344",
+        "2061998120909578344"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2062572006894346481",
+    "created_at": "2026-06-04T16:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062572006894346481"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 18,
+          "tag": "牢a"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1239457591417171973",
+          "start": 3,
+          "username": "GFWfrog"
+        },
+        {
+          "end": 51,
+          "id": "17556811",
+          "start": 46,
+          "username": "RDNY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mBgcldvLzK",
+          "end": 102,
+          "expanded_url": "https://x.com/GFWfrog/status/2061998120909578344/photo/1",
+          "media_key": "3_2061997430871076864",
+          "start": 79,
+          "url": "https://t.co/mBgcldvLzK"
+        },
+        {
+          "display_url": "pic.x.com/mBgcldvLzK",
+          "end": 102,
+          "expanded_url": "https://x.com/GFWfrog/status/2061998120909578344/photo/1",
+          "media_key": "3_2061998118518878208",
+          "start": 79,
+          "url": "https://t.co/mBgcldvLzK"
+        },
+        {
+          "display_url": "pic.x.com/mBgcldvLzK",
+          "end": 102,
+          "expanded_url": "https://x.com/GFWfrog/status/2061998120909578344/photo/1",
+          "media_key": "3_2061997431860953088",
+          "start": 79,
+          "url": "https://t.co/mBgcldvLzK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062572006894346481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061998120909578344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GFWfrog: 👇这是被 #牢a 盗用其二创作品形象注册商标的原画师Rodney @RDNY ，希望大家可以帮他出谋划策，维护他的权益🙏🏻🙏🏻🙏🏻 https://t.co/mBgcldvLzK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 709,
+        "media_key": "3_2061997430871076864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2vvQrWsAAAnjg.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1484,
+        "media_key": "3_2061998118518878208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2wXSXXcAARqDb.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1132,
+        "media_key": "3_2061997431860953088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2vvUXXAAA_m7i.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061997430871076864",
+            "3_2061998118518878208",
+            "3_2061997431860953088"
+          ],
+          "media_source_tweet_id": [
+            "2061998120909578344",
+            "2061998120909578344",
+            "2061998120909578344"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "2062572006894346481",
+        "created_at": "2026-06-04T16:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062572006894346481"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "牢a"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1239457591417171973",
+              "start": 3,
+              "username": "GFWfrog"
+            },
+            {
+              "end": 51,
+              "id": "17556811",
+              "start": 46,
+              "username": "RDNY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mBgcldvLzK",
+              "end": 102,
+              "expanded_url": "https://x.com/GFWfrog/status/2061998120909578344/photo/1",
+              "media_key": "3_2061997430871076864",
+              "start": 79,
+              "url": "https://t.co/mBgcldvLzK"
+            },
+            {
+              "display_url": "pic.x.com/mBgcldvLzK",
+              "end": 102,
+              "expanded_url": "https://x.com/GFWfrog/status/2061998120909578344/photo/1",
+              "media_key": "3_2061998118518878208",
+              "start": 79,
+              "url": "https://t.co/mBgcldvLzK"
+            },
+            {
+              "display_url": "pic.x.com/mBgcldvLzK",
+              "end": 102,
+              "expanded_url": "https://x.com/GFWfrog/status/2061998120909578344/photo/1",
+              "media_key": "3_2061997431860953088",
+              "start": 79,
+              "url": "https://t.co/mBgcldvLzK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062572006894346481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061998120909578344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GFWfrog: 👇这是被 #牢a 盗用其二创作品形象注册商标的原画师Rodney @RDNY ，希望大家可以帮他出谋划策，维护他的权益🙏🏻🙏🏻🙏🏻 https://t.co/mBgcldvLzK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061997430871076864",
+            "3_2061998118518878208",
+            "3_2061997431860953088"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "conversation_id": "2061998120909578344",
+        "created_at": "2026-06-03T02:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T03:24:32.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061997433870025092",
+          "2061997660916080990",
+          "2061997762023927923",
+          "2061998120909578344"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "牢a"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 38,
+              "id": "17556811",
+              "start": 33,
+              "username": "RDNY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mBgcldvLzK",
+              "end": 89,
+              "expanded_url": "https://x.com/GFWfrog/status/2061998120909578344/photo/1",
+              "media_key": "3_2061997430871076864",
+              "start": 66,
+              "url": "https://t.co/mBgcldvLzK"
+            },
+            {
+              "display_url": "pic.x.com/mBgcldvLzK",
+              "end": 89,
+              "expanded_url": "https://x.com/GFWfrog/status/2061998120909578344/photo/1",
+              "media_key": "3_2061998118518878208",
+              "start": 66,
+              "url": "https://t.co/mBgcldvLzK"
+            },
+            {
+              "display_url": "pic.x.com/mBgcldvLzK",
+              "end": 89,
+              "expanded_url": "https://x.com/GFWfrog/status/2061998120909578344/photo/1",
+              "media_key": "3_2061997431860953088",
+              "start": 66,
+              "url": "https://t.co/mBgcldvLzK"
+            },
+            {
+              "display_url": "x.com/RDNY/status/20…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/RDNY/status/2061778508700156081",
+              "start": 90,
+              "url": "https://t.co/N5Y81DbEAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061998120909578344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 74628,
+          "like_count": 949,
+          "quote_count": 2,
+          "reply_count": 44,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061778508700156081",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "👇这是被 #牢a 盗用其二创作品形象注册商标的原画师Rodney @RDNY ，希望大家可以帮他出谋划策，维护他的权益🙏🏻🙏🏻🙏🏻 https://t.co/mBgcldvLzK https://t.co/N5Y81DbEAF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 3356,
+          "like_count": 45205,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 11782
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "投稿方式：私信 或 https://t.co/aVPvX0T16B 网页投稿 150岁爷习近平粉丝群：https://t.co/tzbqdA1XzO\n电报频道：https://t.co/Evu48wn45r \n#习近平150岁倒计时 #大自爆运动 #大冲塔运动 #大躺平运动 #不正确记忆\n邮箱：gfwfrog@gmail.com 🐸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 116,
+                "start": 105,
+                "tag": "习近平150岁倒计时"
+              },
+              {
+                "end": 123,
+                "start": 117,
+                "tag": "大自爆运动"
+              },
+              {
+                "end": 130,
+                "start": 124,
+                "tag": "大冲塔运动"
+              },
+              {
+                "end": 137,
+                "start": 131,
+                "tag": "大躺平运动"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "不正确记忆"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gfwbao.com",
+                "end": 33,
+                "expanded_url": "http://gfwbao.com",
+                "start": 10,
+                "url": "https://t.co/aVPvX0T16B"
+              },
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 74,
+                "expanded_url": "http://t.me/SpeedUpCN",
+                "start": 51,
+                "url": "https://t.co/tzbqdA1XzO"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 103,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 80,
+                "url": "https://t.co/Evu48wn45r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85Q3u"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙哈哈🐸",
+        "pinned_tweet_id": "2061787904045613194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050371764165767168/HypsUXGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264741,
+          "following_count": 2521,
+          "like_count": 127312,
+          "listed_count": 915,
+          "media_count": 7437,
+          "tweet_count": 14075
+        },
+        "url": "https://t.co/B3cyU85Q3u",
+        "username": "GFWfrog",
+        "verified": true
+      },
+      {
+        "created_at": "2008-11-22T13:00:44.000Z",
+        "description": "絵描き\n東方Projectの二次創作\nIDOLM@STER CGやFate等の漫画 (一迅社) \nVtuber「マリーさん @VirtualNekochan」イラスト\nweb漫画「ポプねこさん」他\nI'm not able to reply or respond right now.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "VirtualNekochan"
+              }
+            ]
+          }
+        },
+        "id": "17556811",
+        "location": "Japan",
+        "name": "ロドニィ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1158353304474144769/xu_YW8-Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18237,
+          "following_count": 11333,
+          "like_count": 380,
+          "listed_count": 391,
+          "media_count": 5,
+          "tweet_count": 147
+        },
+        "username": "RDNY",
+        "verified": false
+      }
+    ]
+  }
+}

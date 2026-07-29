@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1879940627733119280",
+    "created_at": "2025-01-18T11:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T12:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880571828030284053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1657288224451203073",
+          "start": 0,
+          "username": "Cialloi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880571828030284053",
+    "in_reply_to_user_id": "1657288224451203073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879940627733119280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cialloi 抱抱您"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1879940627733119280",
+        "created_at": "2025-01-18T11:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T12:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880571828030284053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1657288224451203073",
+              "start": 0,
+              "username": "Cialloi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880571828030284053",
+        "in_reply_to_user_id": "1657288224451203073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879940627733119280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cialloi 抱抱您"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879940619508019204"
+          ]
+        },
+        "author_id": "1657288224451203073",
+        "conversation_id": "1879940627733119280",
+        "created_at": "2025-01-16T17:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T18:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879940627733119280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NooeAeEzGt",
+              "end": 45,
+              "expanded_url": "https://x.com/Cialloi/status/1879940627733119280/photo/1",
+              "media_key": "3_1879940619508019204",
+              "start": 22,
+              "url": "https://t.co/NooeAeEzGt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879940627733119280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对对对这就是我但我没小咪那么可爱\noᴗOಣ https://t.co/NooeAeEzGt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 125,
+          "like_count": 910,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 134
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T07:34:48.000Z",
+        "description": "我是傻逼了",
+        "id": "1657288224451203073",
+        "name": "耶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859282885930516482/kVhefJeD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 200,
+          "like_count": 12071,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 3232
+        },
+        "username": "Cialloi",
+        "verified": false
+      }
+    ]
+  }
+}

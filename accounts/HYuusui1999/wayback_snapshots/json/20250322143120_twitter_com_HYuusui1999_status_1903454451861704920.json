@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1903454241433493571",
+    "created_at": "2025-03-22T14:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T15:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903454451861704920"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1903454451861704920",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903454241433493571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不会打台球呃呃呃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1903454230347907072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmptiZ4aAAAquoo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1903454241433493571",
+        "created_at": "2025-03-22T14:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T15:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903454451861704920"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903454451861704920",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903454241433493571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不会打台球呃呃呃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903454230347907072"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1903454241433493571",
+        "created_at": "2025-03-22T14:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T15:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903454241433493571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "764856941151596549",
+              "start": 13,
+              "username": "_AkitaYura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PN4hkji5jB",
+              "end": 52,
+              "expanded_url": "https://x.com/HYuusui1999/status/1903454241433493571/photo/1",
+              "media_key": "3_1903454230347907072",
+              "start": 29,
+              "url": "https://t.co/PN4hkji5jB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903454241433493571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次和别人联机游戏诶！\n@_AkitaYura 谢谢哦 https://t.co/PN4hkji5jB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1903418336572305499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 518,
+          "like_count": 11631,
+          "listed_count": 6,
+          "media_count": 103,
+          "tweet_count": 1717
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1885168570642178438",
+    "created_at": "2025-02-01T00:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T01:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885483638198067466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1665595126687883266",
+          "start": 0,
+          "username": "SS_resta2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885483638198067466",
+    "in_reply_to_user_id": "1665595126687883266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885168570642178438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SS_resta2 気をつけて……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1885168570642178438",
+        "created_at": "2025-02-01T00:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T01:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885483638198067466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1665595126687883266",
+              "start": 0,
+              "username": "SS_resta2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885483638198067466",
+        "in_reply_to_user_id": "1665595126687883266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885168570642178438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SS_resta2 気をつけて……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885168559325917184"
+          ]
+        },
+        "author_id": "1665595126687883266",
+        "conversation_id": "1885168570642178438",
+        "created_at": "2025-01-31T03:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T04:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885168570642178438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nlClXMEFG9",
+              "end": 34,
+              "expanded_url": "https://x.com/SS_resta2/status/1885168570642178438/photo/1",
+              "media_key": "3_1885168559325917184",
+              "start": 11,
+              "url": "https://t.co/nlClXMEFG9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885168570642178438",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 41737,
+          "like_count": 3072,
+          "quote_count": 8,
+          "reply_count": 12,
+          "retweet_count": 236
+        },
+        "reply_settings": "everyone",
+        "text": "最近の血液アートたち https://t.co/nlClXMEFG9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 315,
+          "like_count": 5281,
+          "listed_count": 4,
+          "media_count": 48,
+          "tweet_count": 638
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-05T05:43:38.000Z",
+        "description": "ﾌｧﾝｱｰﾄ🏷#えす太ﾓﾝ 用法用量守って愛してね🥬描いた絵たくさん載せてるの🎀🐰ﾍｯﾀﾞｰ→頂いた素敵なFA‼️ｻﾌﾞ🏷#れす太民と繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 7,
+                "tag": "えす太ﾓﾝ"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "tag": "れす太民と繋がりたい"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "store.line.me/stickershop/pr…",
+                "end": 23,
+                "expanded_url": "https://store.line.me/stickershop/product/27346153/ja",
+                "start": 0,
+                "url": "https://t.co/MXQc03tP5r"
+              }
+            ]
+          }
+        },
+        "id": "1665595126687883266",
+        "location": "⤵️LINEスタンプとアクキー販売してますのだ‼️",
+        "name": "れす太ﾓﾝ",
+        "pinned_tweet_id": "1770075212903571968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751746965061378048/zY78-O91_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3753,
+          "following_count": 335,
+          "like_count": 9574,
+          "listed_count": 22,
+          "media_count": 384,
+          "tweet_count": 655
+        },
+        "url": "https://t.co/MXQc03tP5r",
+        "username": "SS_resta2",
+        "verified": false
+      }
+    ]
+  }
+}

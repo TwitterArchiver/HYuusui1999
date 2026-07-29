@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1881413884885823819",
+    "created_at": "2025-01-20T18:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T19:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881413884885823819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2396906006",
+          "start": 3,
+          "username": "shizunyan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881413884885823819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881413218285023356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shizunyan_: 那些不理解精神疾病的人叫重度抑郁患者出门多跑步来缓解抑郁的\n\n听了这番话的我一个朋友，她出了门后发现更容易自杀，直接站马路去被车撞了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1881413884885823819",
+        "created_at": "2025-01-20T18:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T19:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881413884885823819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2396906006",
+              "start": 3,
+              "username": "shizunyan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881413884885823819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881413218285023356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shizunyan_: 那些不理解精神疾病的人叫重度抑郁患者出门多跑步来缓解抑郁的\n\n听了这番话的我一个朋友，她出了门后发现更容易自杀，直接站马路去被车撞了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2396906006",
+        "conversation_id": "1881413218285023356",
+        "created_at": "2025-01-20T18:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T19:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881413218285023356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881413218285023356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "那些不理解精神疾病的人叫重度抑郁患者出门多跑步来缓解抑郁的\n\n听了这番话的我一个朋友，她出了门后发现更容易自杀，直接站马路去被车撞了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881209979551744301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 187,
+          "like_count": 1637,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 239
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-18T23:23:12.000Z",
+        "description": "shizu, 20↑┊︎自傷 shtwt┊︎edtwt┊︎恋血恋痛┊︎🇯🇵+EN+中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shizunyan",
+                "end": 23,
+                "expanded_url": "https://t.me/shizunyan",
+                "start": 0,
+                "url": "https://t.co/Tgvx7Bf4IF"
+              }
+            ]
+          }
+        },
+        "id": "2396906006",
+        "location": "地獄",
+        "name": "しず",
+        "pinned_tweet_id": "1868889445971472456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853737893241704448/tz8XbgoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 545,
+          "like_count": 31547,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 3788
+        },
+        "url": "https://t.co/Tgvx7Bf4IF",
+        "username": "shizunyan_",
+        "verified": false
+      }
+    ]
+  }
+}

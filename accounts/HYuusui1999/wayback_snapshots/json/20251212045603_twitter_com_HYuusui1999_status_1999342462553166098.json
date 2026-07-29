@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1999340980181565930",
+    "created_at": "2025-12-12T04:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T05:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999342462553166098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1697580552793051136",
+          "start": 0,
+          "username": "yyc20090"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999342462553166098",
+    "in_reply_to_user_id": "1697580552793051136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999340980181565930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyc20090 好惡俗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1999340980181565930",
+        "created_at": "2025-12-12T04:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T05:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999342462553166098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1697580552793051136",
+              "start": 0,
+              "username": "yyc20090"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999342462553166098",
+        "in_reply_to_user_id": "1697580552793051136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999340980181565930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyc20090 好惡俗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697580552793051136",
+        "conversation_id": "1999340980181565930",
+        "created_at": "2025-12-12T04:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T05:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999340980181565930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999340980181565930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我胸罩被同学翻出来了😭 还被整个宿舍展示了 还好说是之前穿六花的时候穿的 否则有点死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfXxgs"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 2642,
+          "like_count": 42142,
+          "listed_count": 6,
+          "media_count": 307,
+          "tweet_count": 10288
+        },
+        "url": "https://t.co/BjaOJfXxgs",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T12:02:04.000Z",
+        "description": "喵",
+        "id": "1697580552793051136",
+        "location": "Southern District, Hong Kong",
+        "name": "yyxx🍥（思念晚安版）",
+        "pinned_tweet_id": "1987238297354306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934155305077919744/xZ_qsmex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2547,
+          "following_count": 836,
+          "like_count": 2767,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 1575
+        },
+        "username": "yyc20090",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1983722146288562261",
+    "created_at": "2025-10-31T09:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T10:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984189880478417405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        },
+        {
+          "end": 25,
+          "id": "1606701895719956482",
+          "start": 11,
+          "username": "LepuzArcticus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984189880478417405",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983845038334660710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay @LepuzArcticus 倒不是说想要这样的局面？\n有点渴望自由的意味在里面（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1983722146288562261",
+        "created_at": "2025-10-31T09:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T10:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984189880478417405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            },
+            {
+              "end": 25,
+              "id": "1606701895719956482",
+              "start": 11,
+              "username": "LepuzArcticus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984189880478417405",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983845038334660710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay @LepuzArcticus 倒不是说想要这样的局面？\n有点渴望自由的意味在里面（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1983722146288562261",
+        "created_at": "2025-10-30T10:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T11:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983845038334660710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1606701895719956482",
+              "start": 0,
+              "username": "LepuzArcticus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983845038334660710",
+        "in_reply_to_user_id": "1606701895719956482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2630,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983844240166940859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LepuzArcticus 他没被抓也可以去国外就医或者去北京上海，反正她有钱，被抓了马上政庇，然后留下一堆底层跨性别没药吃排队上天堂，这就是这群傻逼想要的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n\n暂时退网（不定期）\n偶尔看消息",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 2248,
+          "like_count": 36823,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 9060
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，成都大阪香港随机刷新。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我担保。买电子烟找@weita2024。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11908,
+          "following_count": 997,
+          "like_count": 45007,
+          "listed_count": 41,
+          "media_count": 1494,
+          "tweet_count": 22334
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-24T17:22:52.000Z",
+        "description": "00持证MtF🏳️‍⚧️北极兔🐰\nENTJ-A 8w7 852 sx/sp\nHRT前是INTP-A\n虽然诊断指标有一些异常但大概率没有显著精神疾病。\n疑似ADHD-I\n表观情绪极稳定。\nHRT：2025/2/24\n持证：2025/5/3\nRLE：受限于专业。\n不定期产出奇怪言论。\n她将星夜兼程地前进，至死不渝。",
+        "id": "1606701895719956482",
+        "location": "Sichuan, China mainland.",
+        "name": "Lepuz Arcticus🍥",
+        "pinned_tweet_id": "1980030657289170980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921786320588066816/7F5Xica3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 174,
+          "like_count": 4451,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1413
+        },
+        "username": "LepuzArcticus",
+        "verified": false
+      }
+    ]
+  }
+}

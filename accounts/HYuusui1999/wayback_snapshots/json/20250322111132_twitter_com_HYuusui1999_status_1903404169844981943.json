@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1903157493636927612",
+    "created_at": "2025-03-22T11:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T12:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903404169844981943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1504447727194849290",
+          "start": 0,
+          "username": "qstanm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903404169844981943",
+    "in_reply_to_user_id": "1504447727194849290",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903157493636927612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qstanm 摸摸(´･ω･`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1903157493636927612",
+        "created_at": "2025-03-22T11:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T12:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903404169844981943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1504447727194849290",
+              "start": 0,
+              "username": "qstanm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903404169844981943",
+        "in_reply_to_user_id": "1504447727194849290",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903157493636927612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qstanm 摸摸(´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504447727194849290",
+        "conversation_id": "1903157493636927612",
+        "created_at": "2025-03-21T18:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T19:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903157493636927612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengqing8964/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/mengqing8964/status/1902872353585107208",
+              "start": 16,
+              "url": "https://t.co/UCFK2IsgtZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903157493636927612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902872353585107208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "找不到刀，已经买了，到货了割割 https://t.co/UCFK2IsgtZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1903296770777682232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 516,
+          "like_count": 11579,
+          "listed_count": 6,
+          "media_count": 98,
+          "tweet_count": 1693
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T13:21:14.000Z",
+        "description": "你似乎找到我了",
+        "id": "1504447727194849290",
+        "location": "三叠纪",
+        "name": "qstanm 希梦⌬ Akebono",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903096741332914182/_Tzgq9Rw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 910,
+          "like_count": 19512,
+          "listed_count": 1,
+          "media_count": 1227,
+          "tweet_count": 5401
+        },
+        "username": "qstanm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982468062642110464",
+        "3_1982468062625288192",
+        "3_1982468062616903680"
+      ],
+      "media_source_tweet_id": [
+        "1982468079981637833",
+        "1982468079981637833",
+        "1982468079981637833"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1983509735459500465",
+    "created_at": "2025-10-29T12:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T13:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983509735459500465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1642717433323745281",
+          "start": 3,
+          "username": "MozaikRR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GMcFAgzyn6",
+          "end": 54,
+          "expanded_url": "https://x.com/MozaikRR/status/1982468079981637833/photo/1",
+          "media_key": "3_1982468062642110464",
+          "start": 31,
+          "url": "https://t.co/GMcFAgzyn6"
+        },
+        {
+          "display_url": "pic.x.com/GMcFAgzyn6",
+          "end": 54,
+          "expanded_url": "https://x.com/MozaikRR/status/1982468079981637833/photo/1",
+          "media_key": "3_1982468062625288192",
+          "start": 31,
+          "url": "https://t.co/GMcFAgzyn6"
+        },
+        {
+          "display_url": "pic.x.com/GMcFAgzyn6",
+          "end": 54,
+          "expanded_url": "https://x.com/MozaikRR/status/1982468079981637833/photo/1",
+          "media_key": "3_1982468062616903680",
+          "start": 31,
+          "url": "https://t.co/GMcFAgzyn6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983509735459500465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982468079981637833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MozaikRR: miku的歌声有传达给所有人哦😭 https://t.co/GMcFAgzyn6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982468062642110464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4MkMwxXAAAfKWb.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1982468062625288192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4MkMwtWUAA7kXp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1153,
+        "media_key": "3_1982468062616903680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4MkMwrWYAAEYft.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982468062642110464",
+            "3_1982468062625288192",
+            "3_1982468062616903680"
+          ],
+          "media_source_tweet_id": [
+            "1982468079981637833",
+            "1982468079981637833",
+            "1982468079981637833"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983509735459500465",
+        "created_at": "2025-10-29T12:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983509735459500465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1642717433323745281",
+              "start": 3,
+              "username": "MozaikRR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GMcFAgzyn6",
+              "end": 54,
+              "expanded_url": "https://x.com/MozaikRR/status/1982468079981637833/photo/1",
+              "media_key": "3_1982468062642110464",
+              "start": 31,
+              "url": "https://t.co/GMcFAgzyn6"
+            },
+            {
+              "display_url": "pic.x.com/GMcFAgzyn6",
+              "end": 54,
+              "expanded_url": "https://x.com/MozaikRR/status/1982468079981637833/photo/1",
+              "media_key": "3_1982468062625288192",
+              "start": 31,
+              "url": "https://t.co/GMcFAgzyn6"
+            },
+            {
+              "display_url": "pic.x.com/GMcFAgzyn6",
+              "end": 54,
+              "expanded_url": "https://x.com/MozaikRR/status/1982468079981637833/photo/1",
+              "media_key": "3_1982468062616903680",
+              "start": 31,
+              "url": "https://t.co/GMcFAgzyn6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983509735459500465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982468079981637833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MozaikRR: miku的歌声有传达给所有人哦😭 https://t.co/GMcFAgzyn6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982468062642110464",
+            "3_1982468062625288192",
+            "3_1982468062616903680"
+          ]
+        },
+        "author_id": "1642717433323745281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1982468079981637833",
+        "created_at": "2025-10-26T15:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982468079981637833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GMcFAgzyn6",
+              "end": 40,
+              "expanded_url": "https://x.com/MozaikRR/status/1982468079981637833/photo/1",
+              "media_key": "3_1982468062642110464",
+              "start": 17,
+              "url": "https://t.co/GMcFAgzyn6"
+            },
+            {
+              "display_url": "pic.x.com/GMcFAgzyn6",
+              "end": 40,
+              "expanded_url": "https://x.com/MozaikRR/status/1982468079981637833/photo/1",
+              "media_key": "3_1982468062625288192",
+              "start": 17,
+              "url": "https://t.co/GMcFAgzyn6"
+            },
+            {
+              "display_url": "pic.x.com/GMcFAgzyn6",
+              "end": 40,
+              "expanded_url": "https://x.com/MozaikRR/status/1982468079981637833/photo/1",
+              "media_key": "3_1982468062616903680",
+              "start": 17,
+              "url": "https://t.co/GMcFAgzyn6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982468079981637833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4172,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "miku的歌声有传达给所有人哦😭 https://t.co/GMcFAgzyn6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n\n暂时退网（不定期）\n偶尔看消息",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 2228,
+          "like_count": 36283,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 9005
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-03T02:35:38.000Z",
+        "description": "舞萌舞萌舞萌舞萌舞萌 中二中二中二中二中二 音击音击音击音击音击 烤烤烤烤烤 d5jd5jd5jd5jd5j",
+        "id": "1642717433323745281",
+        "name": "+°♡求愛性少女症候群♡°+",
+        "pinned_tweet_id": "1983417542363492449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980138187793043456/awTN5IqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 335,
+          "like_count": 230,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 401
+        },
+        "username": "MozaikRR",
+        "verified": false
+      }
+    ]
+  }
+}

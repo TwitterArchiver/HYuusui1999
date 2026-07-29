@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2062814026133049698",
+    "created_at": "2026-06-05T08:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062814026133049698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1315706812935487489",
+          "start": 3,
+          "username": "maigo_wakatake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062814026133049698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062781879099568390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maigo_wakatake: 先说一下我和oau没有组织性关联。\n然后参与证明一下：有编辑为了考证一个微小到几乎不值一提的事件细节去专门回溯了某地的某些事物的存在与否。这不是你新建一个库然后往里按string往里加东西一样的脚本式工作，这是在召现历史。\n给Loreho…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2062814026133049698",
+        "created_at": "2026-06-05T08:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062814026133049698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1315706812935487489",
+              "start": 3,
+              "username": "maigo_wakatake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062814026133049698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062781879099568390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maigo_wakatake: 先说一下我和oau没有组织性关联。\n然后参与证明一下：有编辑为了考证一个微小到几乎不值一提的事件细节去专门回溯了某地的某些事物的存在与否。这不是你新建一个库然后往里按string往里加东西一样的脚本式工作，这是在召现历史。\n给Loreho…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1315706812935487489",
+        "conversation_id": "2062781879099568390",
+        "created_at": "2026-06-05T06:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062781879099568390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sauricat/statu…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/sauricat/status/2062768118636683468",
+              "start": 151,
+              "url": "https://t.co/OlRm75KJ3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062781879099568390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062768118636683468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "先说一下我和oau没有组织性关联。\n然后参与证明一下：有编辑为了考证一个微小到几乎不值一提的事件细节去专门回溯了某地的某些事物的存在与否。这不是你新建一个库然后往里按string往里加东西一样的脚本式工作，这是在召现历史。\n给Lorehold一些尊重，真的。01组做的工作不只是你在网站上看到的东西。 https://t.co/OlRm75KJ3u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 3429,
+          "like_count": 45493,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 11821
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T17:32:11.000Z",
+        "description": "以及当然了我需要钱。",
+        "id": "1315706812935487489",
+        "location": "Ará Orún",
+        "name": "⌘",
+        "pinned_tweet_id": "2059613401626620381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870529941026267136/vJ_l7ugO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2351,
+          "following_count": 205,
+          "like_count": 3101,
+          "listed_count": 10,
+          "media_count": 2399,
+          "tweet_count": 21774
+        },
+        "username": "maigo_wakatake",
+        "verified": true
+      }
+    ]
+  }
+}

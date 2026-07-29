@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2012509321125679205",
+    "created_at": "2026-01-17T13:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T14:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012512293112660331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1749569248371023872",
+          "start": 0,
+          "username": "Eureka222323"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012512293112660331",
+    "in_reply_to_user_id": "1749569248371023872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012509321125679205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eureka222323 這什麼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2012509321125679205",
+        "created_at": "2026-01-17T13:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T14:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012512293112660331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1749569248371023872",
+              "start": 0,
+              "username": "Eureka222323"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012512293112660331",
+        "in_reply_to_user_id": "1749569248371023872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012509321125679205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eureka222323 這什麼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749569248371023872",
+        "conversation_id": "2012509321125679205",
+        "created_at": "2026-01-17T12:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T13:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012509321125679205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/berseirk/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/berseirk/status/2012487154287419541",
+              "start": 12,
+              "url": "https://t.co/JbEtEvNJTY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012509321125679205",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012487154287419541",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "礙事梨～～\n礙事梨～～ https://t.co/JbEtEvNJTY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 2924,
+          "like_count": 43684,
+          "listed_count": 6,
+          "media_count": 364,
+          "tweet_count": 10842
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T23:06:35.000Z",
+        "description": "HK 女｜我有一隻可愛的水果貓❤️｜",
+        "id": "1749569248371023872",
+        "location": "小窩",
+        "name": "Eureka 优莱卡 阮玲玉",
+        "pinned_tweet_id": "1996488107483705487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998261690287480832/n95GfSV6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 2075,
+          "like_count": 64827,
+          "listed_count": 3,
+          "media_count": 903,
+          "tweet_count": 12621
+        },
+        "username": "Eureka222323",
+        "verified": false
+      }
+    ]
+  }
+}

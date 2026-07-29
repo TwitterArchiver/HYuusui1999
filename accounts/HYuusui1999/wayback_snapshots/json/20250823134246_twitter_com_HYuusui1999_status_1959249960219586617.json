@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1959145940737999062",
+    "created_at": "2025-08-23T13:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T14:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959249960219586617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1248637653001494529",
+          "start": 0,
+          "username": "Hibi3cus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959249960219586617",
+    "in_reply_to_user_id": "1248637653001494529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959145940737999062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hibi3cus 我得试试（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1959145937739423745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzBI2bIboAEpyqJ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 476,
+        "media_key": "3_1959145938234331136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzBI2c-bUAAPn2j.jpg",
+        "width": 635
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1959145940737999062",
+        "created_at": "2025-08-23T13:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T14:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959249960219586617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Hibi3cus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959249960219586617",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959145940737999062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hibi3cus 我得试试（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959145937739423745",
+            "3_1959145938234331136"
+          ]
+        },
+        "author_id": "1248637653001494529",
+        "conversation_id": "1959145940737999062",
+        "created_at": "2025-08-23T06:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T07:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959145940737999062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OApfU3EILA",
+              "end": 54,
+              "expanded_url": "https://x.com/Hibi3cus/status/1959145940737999062/photo/1",
+              "media_key": "3_1959145937739423745",
+              "start": 31,
+              "url": "https://t.co/OApfU3EILA"
+            },
+            {
+              "display_url": "pic.x.com/OApfU3EILA",
+              "end": 54,
+              "expanded_url": "https://x.com/Hibi3cus/status/1959145940737999062/photo/1",
+              "media_key": "3_1959145938234331136",
+              "start": 31,
+              "url": "https://t.co/OApfU3EILA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959145940737999062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 943,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡前随机抽取一些列表挠一下屁股，早上醒来就可以得到很多消息（ https://t.co/OApfU3EILA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 1606,
+          "like_count": 29471,
+          "listed_count": 5,
+          "media_count": 254,
+          "tweet_count": 7506
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "千年万岁，椒花颂声。\n@Q1ngyi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 11,
+                "username": "Q1ngyi"
+              }
+            ]
+          }
+        },
+        "id": "1248637653001494529",
+        "name": "墨砚斋收破烂の小掌柜清漪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955668384181551104/pykaTPb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 234,
+          "like_count": 176238,
+          "listed_count": 33,
+          "media_count": 56,
+          "tweet_count": 44067
+        },
+        "username": "Hibi3cus",
+        "verified": false
+      }
+    ]
+  }
+}

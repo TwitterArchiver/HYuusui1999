@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988194214497353729"
+      ],
+      "media_source_tweet_id": [
+        "1988194222944800794"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026295477",
+          "name": "Toyota"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026295477",
+          "name": "Toyota"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196845866138533888",
+          "name": "Automobile Brands"
+        }
+      }
+    ],
+    "conversation_id": "1988207815987785777",
+    "created_at": "2025-11-11T11:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T12:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988207815987785777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "921003533218000896",
+          "start": 3,
+          "username": "MoeQike"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wjrxdjGB0Y",
+          "end": 69,
+          "expanded_url": "https://x.com/MoeQike/status/1988194222944800794/photo/1",
+          "media_key": "3_1988194214497353729",
+          "start": 46,
+          "url": "https://t.co/wjrxdjGB0Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988207815987785777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988194222944800794",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MoeQike: TOYOTA Pay的JCB卡一直申请失败\n求问万推如何能申请到 https://t.co/wjrxdjGB0Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988194214497353729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5d8GquaAAEFIwz.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988194214497353729"
+          ],
+          "media_source_tweet_id": [
+            "1988194222944800794"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026295477",
+              "name": "Toyota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026295477",
+              "name": "Toyota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "1988207815987785777",
+        "created_at": "2025-11-11T11:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T12:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988207815987785777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "921003533218000896",
+              "start": 3,
+              "username": "MoeQike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wjrxdjGB0Y",
+              "end": 69,
+              "expanded_url": "https://x.com/MoeQike/status/1988194222944800794/photo/1",
+              "media_key": "3_1988194214497353729",
+              "start": 46,
+              "url": "https://t.co/wjrxdjGB0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988207815987785777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988194222944800794",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MoeQike: TOYOTA Pay的JCB卡一直申请失败\n求问万推如何能申请到 https://t.co/wjrxdjGB0Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988194214497353729"
+          ]
+        },
+        "author_id": "921003533218000896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026295477",
+              "name": "Toyota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026295477",
+              "name": "Toyota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "1988194222944800794",
+        "created_at": "2025-11-11T10:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T11:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988194222944800794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wjrxdjGB0Y",
+              "end": 56,
+              "expanded_url": "https://x.com/MoeQike/status/1988194222944800794/photo/1",
+              "media_key": "3_1988194214497353729",
+              "start": 33,
+              "url": "https://t.co/wjrxdjGB0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988194222944800794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "TOYOTA Pay的JCB卡一直申请失败\n求问万推如何能申请到 https://t.co/wjrxdjGB0Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 2372,
+          "like_count": 39299,
+          "listed_count": 6,
+          "media_count": 296,
+          "tweet_count": 9450
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-19T13:22:08.000Z",
+        "description": "INFJ-T | 双相患者 | 小透明 | 什么都不知道 | 缺爱 | 渴望陪伴 | 记录日常生活 | 摄影 | 旅行 | 想扩列交朋友，交友大欢迎～ ❤️@komacyan_zZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 78,
+                "username": "komacyan_zZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moeqike.com",
+                "end": 23,
+                "expanded_url": "https://moeqike.com",
+                "start": 0,
+                "url": "https://t.co/Nhcj6m3ZOU"
+              }
+            ]
+          }
+        },
+        "id": "921003533218000896",
+        "name": "琪可🫧",
+        "pinned_tweet_id": "1975769910707151023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968014560163663875/aSVjBSmI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 372,
+          "like_count": 1127,
+          "listed_count": 5,
+          "media_count": 468,
+          "tweet_count": 1028
+        },
+        "url": "https://t.co/Nhcj6m3ZOU",
+        "username": "MoeQike",
+        "verified": true
+      }
+    ]
+  }
+}

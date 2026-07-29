@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975078114570149888"
+      ],
+      "media_source_tweet_id": [
+        "1975078119628517866"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1975791287132692813",
+    "created_at": "2025-10-08T05:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T06:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975791287132692813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "752156908988104704",
+          "start": 3,
+          "username": "Angser47"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ghCrUMgFJb",
+          "end": 37,
+          "expanded_url": "https://x.com/Angser47/status/1975078119628517866/photo/1",
+          "media_key": "3_1975078114570149888",
+          "start": 14,
+          "url": "https://t.co/ghCrUMgFJb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975791287132692813",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1884
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975078119628517866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Angser47: https://t.co/ghCrUMgFJb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1472,
+        "media_key": "3_1975078114570149888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2jjFK6aIAAYTXN.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975078114570149888"
+          ],
+          "media_source_tweet_id": [
+            "1975078119628517866"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1975791287132692813",
+        "created_at": "2025-10-08T05:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T06:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975791287132692813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "752156908988104704",
+              "start": 3,
+              "username": "Angser47"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ghCrUMgFJb",
+              "end": 37,
+              "expanded_url": "https://x.com/Angser47/status/1975078119628517866/photo/1",
+              "media_key": "3_1975078114570149888",
+              "start": 14,
+              "url": "https://t.co/ghCrUMgFJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975791287132692813",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1884
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975078119628517866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Angser47: https://t.co/ghCrUMgFJb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975078114570149888"
+          ]
+        },
+        "author_id": "752156908988104704",
+        "conversation_id": "1975078119628517866",
+        "created_at": "2025-10-06T05:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T06:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975078119628517866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ghCrUMgFJb",
+              "end": 23,
+              "expanded_url": "https://x.com/Angser47/status/1975078119628517866/photo/1",
+              "media_key": "3_1975078114570149888",
+              "start": 0,
+              "url": "https://t.co/ghCrUMgFJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975078119628517866",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5493,
+          "impression_count": 629150,
+          "like_count": 42193,
+          "quote_count": 24,
+          "reply_count": 4,
+          "retweet_count": 1884
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ghCrUMgFJb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 2036,
+          "like_count": 34758,
+          "listed_count": 6,
+          "media_count": 279,
+          "tweet_count": 8698
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-10T15:05:56.000Z",
+        "description": "罗械/47，只会中文，别尼玛学得和我一模一样🚫AI（oc和稿子较多，爬很快四处吃饭。现充，大多都是摸鱼，喜欢画漂亮脸蛋，但xp是人外壮实罐头",
+        "id": "752156908988104704",
+        "name": "Ruu47",
+        "pinned_tweet_id": "1952295795077906621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616846915236433921/YrLRPvkV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30868,
+          "following_count": 338,
+          "like_count": 5504,
+          "listed_count": 126,
+          "media_count": 1005,
+          "tweet_count": 2199
+        },
+        "username": "Angser47",
+        "verified": false
+      }
+    ]
+  }
+}

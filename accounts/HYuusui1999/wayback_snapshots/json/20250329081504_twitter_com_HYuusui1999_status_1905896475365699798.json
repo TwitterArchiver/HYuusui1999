@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1905574150233883096",
+    "created_at": "2025-03-29T08:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T09:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905896475365699798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1729027777062641664",
+          "start": 0,
+          "username": "missdozi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905896475365699798",
+    "in_reply_to_user_id": "1729027777062641664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905574150233883096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@missdozi 知道自己喜欢谁也很重要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1905574150233883096",
+        "created_at": "2025-03-29T08:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T09:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905896475365699798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1729027777062641664",
+              "start": 0,
+              "username": "missdozi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905896475365699798",
+        "in_reply_to_user_id": "1729027777062641664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905574150233883096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@missdozi 知道自己喜欢谁也很重要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729027777062641664",
+        "conversation_id": "1905574150233883096",
+        "created_at": "2025-03-28T10:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T11:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905574150233883096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905574150233883096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12767,
+          "like_count": 211,
+          "quote_count": 10,
+          "reply_count": 67,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "性取向有啥用吗？男的女的谁喜欢你？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1903418336572305499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 535,
+          "like_count": 12114,
+          "listed_count": 6,
+          "media_count": 108,
+          "tweet_count": 1834
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T06:42:11.000Z",
+        "description": "无聊就去找缺爱逼 聊两天就把你挂顶置了 还会记住你很久 为你掉眼泪",
+        "id": "1729027777062641664",
+        "location": "🚪188 ",
+        "name": "呆呆豆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901036529595936768/JH9fzE1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 11,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 70
+        },
+        "username": "missdozi",
+        "verified": false
+      }
+    ]
+  }
+}

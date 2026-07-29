@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923688158870327296"
+      ],
+      "media_source_tweet_id": [
+        "1923688171956732056"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1923720332751376769",
+    "created_at": "2025-05-17T12:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T13:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923720332751376769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807107145756008448",
+          "start": 3,
+          "username": "kagurazakaSiri_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ePYdq8LdHr",
+          "end": 63,
+          "expanded_url": "https://x.com/kagurazakaSiri_/status/1923688171956732056/photo/1",
+          "media_key": "3_1923688158870327296",
+          "start": 40,
+          "url": "https://t.co/ePYdq8LdHr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923720332751376769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923688171956732056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kagurazakaSiri_: byd我第一次见盗视频还想夺舍正主的 https://t.co/ePYdq8LdHr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1923688158870327296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrJQMDgXUAAv2Aa.jpg",
+        "width": 1431
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923688158870327296"
+          ],
+          "media_source_tweet_id": [
+            "1923688171956732056"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1923720332751376769",
+        "created_at": "2025-05-17T12:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T13:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923720332751376769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1807107145756008448",
+              "start": 3,
+              "username": "kagurazakaSiri_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ePYdq8LdHr",
+              "end": 63,
+              "expanded_url": "https://x.com/kagurazakaSiri_/status/1923688171956732056/photo/1",
+              "media_key": "3_1923688158870327296",
+              "start": 40,
+              "url": "https://t.co/ePYdq8LdHr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923720332751376769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923688171956732056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kagurazakaSiri_: byd我第一次见盗视频还想夺舍正主的 https://t.co/ePYdq8LdHr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923688158870327296"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1923688171956732056",
+        "created_at": "2025-05-17T10:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T11:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923688171956732056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ePYdq8LdHr",
+              "end": 42,
+              "expanded_url": "https://x.com/kagurazakaSiri_/status/1923688171956732056/photo/1",
+              "media_key": "3_1923688158870327296",
+              "start": 19,
+              "url": "https://t.co/ePYdq8LdHr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923688171956732056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 393,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "byd我第一次见盗视频还想夺舍正主的 https://t.co/ePYdq8LdHr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 987,
+          "like_count": 19619,
+          "listed_count": 6,
+          "media_count": 193,
+          "tweet_count": 4367
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "喜多郁代同志，女，2008年生 神奈川县横滨市人 2022年加入纽带乐队 担任主唱吉他手 玩maimaiでらっくす 2022年乐队登顶日本音乐榜 被授予头衔归去来兮女士 曾列席特朗普与马斯克对谈会，@overspeed_wiki2的控制人之一，是后藤一里同志@minokakay，山田凉同志@juhao0721 的好伙伴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 99,
+                "username": "overspeed_wiki2"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "minokakay"
+              },
+              {
+                "end": 155,
+                "start": 145,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "点一下「查看更多」试试？",
+        "name": "翎.",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921288349119373312/6m5iNDhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6632,
+          "following_count": 884,
+          "like_count": 21402,
+          "listed_count": 7,
+          "media_count": 1286,
+          "tweet_count": 9816
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "kagurazakaSiri_",
+        "verified": true
+      }
+    ]
+  }
+}

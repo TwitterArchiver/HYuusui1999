@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1968651916109295771",
+    "created_at": "2025-09-19T06:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T07:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968918130022859054"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1968918130022859054",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968917332740251766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然后你大概会说ta们冒充者不值得你查"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1968651916109295771",
+        "created_at": "2025-09-19T06:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T07:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968918130022859054"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968918130022859054",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968917332740251766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后你大概会说ta们冒充者不值得你查"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1968651916109295771",
+        "created_at": "2025-09-19T05:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T06:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968917332740251766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811690667720212480",
+              "start": 0,
+              "username": "y0zarashi"
+            },
+            {
+              "end": 27,
+              "id": "1807107145756008448",
+              "start": 11,
+              "username": "kagurazakaAkira"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/y0zarashi/stat…",
+              "end": 66,
+              "expanded_url": "https://x.com/y0zarashi/status/1968212815338147974",
+              "start": 43,
+              "url": "https://t.co/RmBwOmqPYS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968917332740251766",
+        "in_reply_to_user_id": "1811690667720212480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968212815338147974",
+            "type": "quoted"
+          },
+          {
+            "id": "1968915988243468627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y0zarashi @kagurazakaAkira 那你下个单看看ta们死没死？\nhttps://t.co/RmBwOmqPYS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 1680,
+          "like_count": 30492,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 7917
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

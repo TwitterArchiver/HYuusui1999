@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1881032206422065259",
+    "created_at": "2025-01-19T17:44:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T18:44:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881035122427977747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850566498412318720",
+          "start": 0,
+          "username": "luobo4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881035122427977747",
+    "in_reply_to_user_id": "1850566498412318720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881032206422065259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobo4444 ぷっ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1881032206422065259",
+        "created_at": "2025-01-19T17:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T18:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881035122427977747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1850566498412318720",
+              "start": 0,
+              "username": "luobo4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881035122427977747",
+        "in_reply_to_user_id": "1850566498412318720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881032206422065259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobo4444 ぷっ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850566498412318720",
+        "conversation_id": "1881032206422065259",
+        "created_at": "2025-01-19T17:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T18:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881032206422065259"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881032206422065259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日本語食べません🙂‍↕️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 177,
+          "like_count": 1385,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 198
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:54:25.000Z",
+        "description": "7k粉大号被封了｜ig： yanyan_kawa1｜06｜INFP｜ 高中生｜od｜自伤｜裹垢@luobonoai｜不认识的人不通过｜不互转",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "luobonoai"
+              }
+            ]
+          }
+        },
+        "id": "1850566498412318720",
+        "location": "🚪188｜388｜520｜1314",
+        "name": "萝卜哥（上学版）",
+        "pinned_tweet_id": "1850571520382521422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871968126868553728/kaPtEqk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5434,
+          "following_count": 182,
+          "like_count": 868,
+          "listed_count": 4,
+          "media_count": 134,
+          "tweet_count": 757
+        },
+        "username": "luobo4444",
+        "verified": false
+      }
+    ]
+  }
+}

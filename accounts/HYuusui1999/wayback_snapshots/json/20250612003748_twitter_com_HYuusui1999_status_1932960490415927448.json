@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1932948425886302620",
+    "created_at": "2025-06-12T00:37:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T01:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932960490415927448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863821756932472832",
+          "start": 0,
+          "username": "shuo_zi27516"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/BAshirasu_1226…",
+          "end": 37,
+          "expanded_url": "https://x.com/BAshirasu_1226/status/1932784135338434847",
+          "start": 14,
+          "url": "https://t.co/OpREzhTny2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932960490415927448",
+    "in_reply_to_user_id": "1863821756932472832",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932784135338434847",
+        "type": "quoted"
+      },
+      {
+        "id": "1932948425886302620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuo_zi27516 https://t.co/OpREzhTny2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1932784129680289792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtKg7PUbMAAAk8d.jpg",
+        "width": 3072
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1932948423273246720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtM2WYpacAArOLf.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1932948425886302620",
+        "created_at": "2025-06-12T00:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T01:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932960490415927448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863821756932472832",
+              "start": 0,
+              "username": "shuo_zi27516"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/BAshirasu_1226…",
+              "end": 37,
+              "expanded_url": "https://x.com/BAshirasu_1226/status/1932784135338434847",
+              "start": 14,
+              "url": "https://t.co/OpREzhTny2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932960490415927448",
+        "in_reply_to_user_id": "1863821756932472832",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932784135338434847",
+            "type": "quoted"
+          },
+          {
+            "id": "1932948425886302620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuo_zi27516 https://t.co/OpREzhTny2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932784129680289792"
+          ]
+        },
+        "author_id": "1879338554511495168",
+        "conversation_id": "1932784104573186539",
+        "created_at": "2025-06-11T12:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T13:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932784135338434847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/59tyALyC7v",
+              "end": 145,
+              "expanded_url": "https://x.com/BAshirasu_1226/status/1932784135338434847/photo/1",
+              "media_key": "3_1932784129680289792",
+              "start": 122,
+              "url": "https://t.co/59tyALyC7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932784135338434847",
+        "in_reply_to_user_id": "1879338554511495168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 48920,
+          "like_count": 131,
+          "quote_count": 2,
+          "reply_count": 47,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932784113913901489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "⑤最后一点，我没有把自己🥚吃了，我从一开始就说过，我切完打120，叫医生，之前有这样的新闻，会被强制接回去，我油炸只是为了销毁，也别说我败家，这个锅是我自己新买的，我的🥚现在还在，别再传我把自己的🥚吃了，我求你们了，我还没重口到那种地步😭😭😭 https://t.co/59tyALyC7v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932948423273246720"
+          ]
+        },
+        "author_id": "1863821756932472832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1932948425886302620",
+        "created_at": "2025-06-11T23:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T00:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932948425886302620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1uMhIzmPV0",
+              "end": 27,
+              "expanded_url": "https://x.com/shuo_zi27516/status/1932948425886302620/photo/1",
+              "media_key": "3_1932948423273246720",
+              "start": 4,
+              "url": "https://t.co/1uMhIzmPV0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932948425886302620",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是？ https://t.co/1uMhIzmPV0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。 ～公告栏～ @jvhao0721 @tingfeng_TF @noname87525好久前开始从b站盗句号视频， 视频创作者是@juhao0721，请注意 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "jvhao0721"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "tingfeng_TF"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "noname87525"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "juhao0721"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 1134,
+          "like_count": 21575,
+          "listed_count": 6,
+          "media_count": 200,
+          "tweet_count": 4926
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T05:45:42.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wcenpkgoAzFkM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wcenpkgoAzFkMDQ1",
+                "start": 0,
+                "url": "https://t.co/MxkYkW7wMx"
+              }
+            ]
+          }
+        },
+        "id": "1863821756932472832",
+        "location": "遇境",
+        "name": "宫笙 🏳‍⚧️🍥",
+        "pinned_tweet_id": "1917663561666752739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909494365900488705/svO7GLQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 427,
+          "like_count": 84,
+          "listed_count": 4,
+          "media_count": 105,
+          "tweet_count": 1100
+        },
+        "url": "https://t.co/MxkYkW7wMx",
+        "username": "shuo_zi27516",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T01:23:30.000Z",
+        "description": "06年的🍥一只|家长不管党|175cm/70kg（不在乎健康的那种减肥中）|双相|精分|ENFP-T|5.24打赢复活赛|hrt2024.4.22|ba厨小梓，舟厨特蕾西娅，音楽ゲームの楽しんでいます|闲散人员一只|欢迎同类来互fo|🚪80，仅针对不认识的顺男\n（墙内传的自切就是我，欢迎各位来锐评，本人已免疫😇）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/tpzhayase",
+                "end": 23,
+                "expanded_url": "http://t.me/tpzhayase",
+                "start": 0,
+                "url": "https://t.co/9t2xfzpn1m"
+              }
+            ]
+          }
+        },
+        "id": "1879338554511495168",
+        "location": "巴别塔",
+        "name": "Hayase.TPZ🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1932784104573186539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930520629725614080/-on79J_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5281,
+          "following_count": 158,
+          "like_count": 541,
+          "listed_count": 5,
+          "media_count": 56,
+          "tweet_count": 464
+        },
+        "url": "https://t.co/9t2xfzpn1m",
+        "username": "BAshirasu_1226",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2004443417112346761",
+    "created_at": "2025-12-27T08:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T09:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004825236542484572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1652380560550154240",
+          "start": 0,
+          "username": "Shinogi07"
+        },
+        {
+          "end": 18,
+          "id": "1613079089879076864",
+          "start": 11,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004825236542484572",
+    "in_reply_to_user_id": "1652380560550154240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004468193390481885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shinogi07 @Cldeop 你说得对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2004443417112346761",
+        "created_at": "2025-12-27T08:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T09:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004825236542484572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1652380560550154240",
+              "start": 0,
+              "username": "Shinogi07"
+            },
+            {
+              "end": 18,
+              "id": "1613079089879076864",
+              "start": 11,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004825236542484572",
+        "in_reply_to_user_id": "1652380560550154240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004468193390481885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shinogi07 @Cldeop 你说得对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652380560550154240",
+        "conversation_id": "2004443417112346761",
+        "created_at": "2025-12-26T08:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T09:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004468193390481885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004468193390481885",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25858,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004443417112346761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 但我感覺前後兩件事  也沒有邏輯關係吧……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 2855,
+          "like_count": 43709,
+          "listed_count": 6,
+          "media_count": 331,
+          "tweet_count": 10691
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T18:33:42.000Z",
+        "description": "凌棋(しのぎ)です！「しのくん」と呼んでもいいですよ〜 中国語⭕日本語⭕/ 独身 / ミルクプリン好き  海鮮苦手 / Minecraft 第五人格 Arknights / 趣味はカラオケ🎤 / 推しは羅小黑 / 平和主義者🕊️ / 友達になりたい",
+        "id": "1652380560550154240",
+        "name": "凌棋Shinogi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979224052356075529/XbtBam_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 1037,
+          "like_count": 10890,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 2098
+        },
+        "username": "Shinogi07",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2004058310803402778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95491,
+          "following_count": 664,
+          "like_count": 33260,
+          "listed_count": 272,
+          "media_count": 14350,
+          "tweet_count": 20755
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

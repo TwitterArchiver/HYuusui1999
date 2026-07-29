@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1881595979759227263",
+    "created_at": "2025-01-21T06:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T07:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881595979759227263"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "きっとこれは悪い夢/ 凍傷のエト",
+          "probability": 0.6617,
+          "start": 8,
+          "type": "Other"
+        },
+        {
+          "end": 45,
+          "normalized_text": "哔哩哔哩",
+          "probability": 0.4776,
+          "start": 42,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "b23.tv/n6B5OZ1",
+          "end": 71,
+          "expanded_url": "https://b23.tv/n6B5OZ1",
+          "start": 48,
+          "url": "https://t.co/CSUb8Xgy8w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881595979759227263",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "～好歌～\n\n【『きっとこれは悪い夢/ 凍傷のエト 』covered by kaza-哔哩哔哩】 https://t.co/CSUb8Xgy8w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1881595979759227263",
+        "created_at": "2025-01-21T06:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T07:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881595979759227263"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "きっとこれは悪い夢/ 凍傷のエト",
+              "probability": 0.6617,
+              "start": 8,
+              "type": "Other"
+            },
+            {
+              "end": 45,
+              "normalized_text": "哔哩哔哩",
+              "probability": 0.4776,
+              "start": 42,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "b23.tv/n6B5OZ1",
+              "end": 71,
+              "expanded_url": "https://b23.tv/n6B5OZ1",
+              "start": 48,
+              "url": "https://t.co/CSUb8Xgy8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881595979759227263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "～好歌～\n\n【『きっとこれは悪い夢/ 凍傷のエト 』covered by kaza-哔哩哔哩】 https://t.co/CSUb8Xgy8w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881209979551744301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 198,
+          "like_count": 1853,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 242
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1945421813980504067",
+    "created_at": "2025-07-16T09:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T10:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945422311647265074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1831961897899585536",
+          "start": 0,
+          "username": "Kiriyama_hitori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945422311647265074",
+    "in_reply_to_user_id": "1831961897899585536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945421813980504067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiriyama_hitori 别出事好吗(´･ω･`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1945421813980504067",
+        "created_at": "2025-07-16T09:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T10:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945422311647265074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1831961897899585536",
+              "start": 0,
+              "username": "Kiriyama_hitori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945422311647265074",
+        "in_reply_to_user_id": "1831961897899585536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945421813980504067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiriyama_hitori 别出事好吗(´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831961897899585536",
+        "conversation_id": "1945421813980504067",
+        "created_at": "2025-07-16T09:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T10:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945421813980504067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945421813980504067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安呢…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 1382,
+          "like_count": 25774,
+          "listed_count": 5,
+          "media_count": 227,
+          "tweet_count": 6406
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T07:45:44.000Z",
+        "description": "你妈的骨灰盒上",
+        "id": "1831961897899585536",
+        "location": "नमोऽवलोकितेश्वराय",
+        "name": "东北柠姐",
+        "pinned_tweet_id": "1882133223536529426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945071230077292544/nhnG5SIi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 944,
+          "like_count": 80466,
+          "listed_count": 3,
+          "media_count": 2344,
+          "tweet_count": 17876
+        },
+        "username": "Kiriyama_hitori",
+        "verified": false
+      }
+    ]
+  }
+}

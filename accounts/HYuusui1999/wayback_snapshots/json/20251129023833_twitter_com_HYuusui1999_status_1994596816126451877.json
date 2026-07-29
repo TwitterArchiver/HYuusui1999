@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1994488127789174984",
+    "created_at": "2025-11-29T02:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T03:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994596816126451877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1491429513779359745",
+          "start": 0,
+          "username": "mizuchanqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994596816126451877",
+    "in_reply_to_user_id": "1491429513779359745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994488127789174984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuchanqwq 并非赝品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1994488127789174984",
+        "created_at": "2025-11-29T02:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T03:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994596816126451877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1491429513779359745",
+              "start": 0,
+              "username": "mizuchanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994596816126451877",
+        "in_reply_to_user_id": "1491429513779359745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994488127789174984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuchanqwq 并非赝品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491429513779359745",
+        "conversation_id": "1994488127789174984",
+        "created_at": "2025-11-28T19:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T20:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994488127789174984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mizuchanqwq/st…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/mizuchanqwq/status/1994487073244602838",
+              "start": 57,
+              "url": "https://t.co/uky9BPUFvR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994488127789174984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994487073244602838",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "解鈴還須繫鈴人，我既然是在各個方面都四不像的贗品，我就沒理由繼續在這世界受這折磨；而是趕緊跳出這個詛咒我的死循環 https://t.co/uky9BPUFvR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 2484,
+          "like_count": 40698,
+          "listed_count": 6,
+          "media_count": 303,
+          "tweet_count": 9890
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T15:11:30.000Z",
+        "description": "🐱 1歲小貓 | 🫂 Asylum | 🇯🇵 帰国生 | 🚞鉄オタ | 日本語を母語とする言語学習者 | #永住許可の取消しに反対します | 🍬: @yuzuchanqwq 🥺🐱❤️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 53,
+                "tag": "永住許可の取消しに反対します"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "yuzuchanqwq"
+              }
+            ]
+          }
+        },
+        "id": "1491429513779359745",
+        "location": "首都圏",
+        "name": "若水ちゃん︎︎︎︎︎🧂",
+        "pinned_tweet_id": "1992792299940770062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988071679235682304/BRVBNxcl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2546,
+          "following_count": 2241,
+          "like_count": 88107,
+          "listed_count": 8,
+          "media_count": 2046,
+          "tweet_count": 10767
+        },
+        "username": "mizuchanqwq",
+        "verified": false
+      }
+    ]
+  }
+}

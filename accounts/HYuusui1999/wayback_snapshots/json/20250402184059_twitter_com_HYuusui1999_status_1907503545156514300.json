@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1907363867618865241",
+    "created_at": "2025-04-02T18:40:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T19:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907503545156514300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1112738127087427584",
+          "start": 0,
+          "username": "KEwM6iwGoqwnGtw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907503545156514300",
+    "in_reply_to_user_id": "1112738127087427584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907363867618865241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KEwM6iwGoqwnGtw 保重(´･ω･`)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907363857494093824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnhRUp9asAAFTqc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1907363867618865241",
+        "created_at": "2025-04-02T18:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T19:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907503545156514300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1112738127087427584",
+              "start": 0,
+              "username": "KEwM6iwGoqwnGtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907503545156514300",
+        "in_reply_to_user_id": "1112738127087427584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907363867618865241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KEwM6iwGoqwnGtw 保重(´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907363857494093824"
+          ]
+        },
+        "author_id": "1112738127087427584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1907363867618865241",
+        "created_at": "2025-04-02T09:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T10:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907363867618865241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UhXF1QJsyX",
+              "end": 33,
+              "expanded_url": "https://x.com/KEwM6iwGoqwnGtw/status/1907363867618865241/photo/1",
+              "media_key": "3_1907363857494093824",
+              "start": 10,
+              "url": "https://t.co/UhXF1QJsyX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907363867618865241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1069,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁再说我不是地雷？ https://t.co/UhXF1QJsyX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1905989245266972950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 608,
+          "like_count": 13193,
+          "listed_count": 6,
+          "media_count": 114,
+          "tweet_count": 2125
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-01T15:26:57.000Z",
+        "description": "Mygo✌🏻 2024.9.22 井捞爱音氪金1000➕警钟长鸣，永远戒赌。 92年老光棍二次元性格糟糕慎fo",
+        "id": "1112738127087427584",
+        "location": "Toilet",
+        "name": "沟史酱～急征婚可接盘",
+        "pinned_tweet_id": "1904728408334229617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904716338570158083/-7Zq2wmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 682,
+          "like_count": 6710,
+          "listed_count": 4,
+          "media_count": 631,
+          "tweet_count": 11387
+        },
+        "username": "KEwM6iwGoqwnGtw",
+        "verified": false
+      }
+    ]
+  }
+}

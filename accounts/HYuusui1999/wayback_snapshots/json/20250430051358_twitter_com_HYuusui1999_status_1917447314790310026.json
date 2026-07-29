@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1917284645475069972",
+    "created_at": "2025-04-30T05:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T06:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917447314790310026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1836420929611796486",
+          "start": 0,
+          "username": "lingyuanyousa00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917447314790310026",
+    "in_reply_to_user_id": "1836420929611796486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917284645475069972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingyuanyousa00 第二个\n话说怎么锁推了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1917284645475069972].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1917284645475069972",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1917284645475069972"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1917284645475069972",
+        "created_at": "2025-04-30T05:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T06:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917447314790310026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1836420929611796486",
+              "start": 0,
+              "username": "lingyuanyousa00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917447314790310026",
+        "in_reply_to_user_id": "1836420929611796486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917284645475069972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingyuanyousa00 第二个\n话说怎么锁推了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1917405127981371473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 783,
+          "like_count": 17085,
+          "listed_count": 6,
+          "media_count": 159,
+          "tweet_count": 3506
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T15:04:34.000Z",
+        "description": "",
+        "id": "1836420929611796486",
+        "name": "喜欢超压的KANO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917092032973312000/kvDO-uR6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 1706,
+          "like_count": 39900,
+          "listed_count": 3,
+          "media_count": 1194,
+          "tweet_count": 16513
+        },
+        "username": "lingyuanyousa00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1941086728699384010",
+    "created_at": "2025-07-04T11:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T12:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941096746588979685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1837566102723088385",
+          "start": 0,
+          "username": "Cloudier0177"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941096746588979685",
+    "in_reply_to_user_id": "1837566102723088385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941086728699384010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cloudier0177 揉揉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1941086725230694401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvAgF5-aEAEqRUY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1941086728699384010",
+        "created_at": "2025-07-04T11:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T12:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941096746588979685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1837566102723088385",
+              "start": 0,
+              "username": "Cloudier0177"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941096746588979685",
+        "in_reply_to_user_id": "1837566102723088385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941086728699384010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cloudier0177 揉揉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941086725230694401"
+          ]
+        },
+        "author_id": "1837566102723088385",
+        "conversation_id": "1941086728699384010",
+        "created_at": "2025-07-04T10:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T11:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941086728699384010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o35ikUbgE2",
+              "end": 29,
+              "expanded_url": "https://x.com/Cloudier0177/status/1941086728699384010/photo/1",
+              "media_key": "3_1941086725230694401",
+              "start": 6,
+              "url": "https://t.co/o35ikUbgE2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941086728699384010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再见，小咪 https://t.co/o35ikUbgE2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 1334,
+          "like_count": 24335,
+          "listed_count": 5,
+          "media_count": 216,
+          "tweet_count": 5924
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T18:54:44.000Z",
+        "description": "只是个喜欢画画和听歌的精神病而已/叫我雲就行/最大的愿望是开心/犯病内容已分离@cloudier0138569",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "cloudier0138569"
+              }
+            ]
+          }
+        },
+        "id": "1837566102723088385",
+        "location": "sky",
+        "name": "三日月歸雲🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837801262521503744/e9ur8-Us_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 630,
+          "like_count": 1043,
+          "listed_count": 3,
+          "media_count": 622,
+          "tweet_count": 3313
+        },
+        "username": "Cloudier0177",
+        "verified": false
+      }
+    ]
+  }
+}

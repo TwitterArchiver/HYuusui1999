@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Nature",
+          "id": "1103294729079349250",
+          "name": "Nature"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nature",
+          "id": "1103294729079349250",
+          "name": "Nature"
+        }
+      }
+    ],
+    "conversation_id": "1923953379463585888",
+    "created_at": "2025-05-18T04:06:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T05:06:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923953379463585888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "906892094953762816",
+          "start": 3,
+          "username": "yrr0rinblues"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923953379463585888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923952254761275495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yrr0rinblues: 极权是消灭不了反抗的，因为它就是反抗的源头。它既然已经把未来的花朵彻底排向了对立面，那自然就不要指望能未来变成现在的时候那些人还能给他任何好脸色看。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          }
+        ],
+        "conversation_id": "1923953379463585888",
+        "created_at": "2025-05-18T04:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T05:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923953379463585888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "906892094953762816",
+              "start": 3,
+              "username": "yrr0rinblues"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923953379463585888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923952254761275495",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yrr0rinblues: 极权是消灭不了反抗的，因为它就是反抗的源头。它既然已经把未来的花朵彻底排向了对立面，那自然就不要指望能未来变成现在的时候那些人还能给他任何好脸色看。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906892094953762816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          }
+        ],
+        "conversation_id": "1923952254761275495",
+        "created_at": "2025-05-18T04:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T05:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923952254761275495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yaming00742313…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/yaming00742313/status/1923926983358153085",
+              "start": 75,
+              "url": "https://t.co/1acrCJnvOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923952254761275495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923926983358153085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "极权是消灭不了反抗的，因为它就是反抗的源头。它既然已经把未来的花朵彻底排向了对立面，那自然就不要指望能未来变成现在的时候那些人还能给他任何好脸色看。 https://t.co/1acrCJnvOC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n\n～公告栏～\n@TencentRM好久前开始从b站盗句号视频，\n视频创作者是@juhao0721，请注意\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "TencentRM"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "juhao0721"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 1002,
+          "like_count": 19703,
+          "listed_count": 6,
+          "media_count": 197,
+          "tweet_count": 4600
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-10T14:48:19.000Z",
+        "description": "Gender Nihilist 🎸 | 🏳️‍🌈ALLY | RAmen | 是百合厨，也是电灯泡 | 没有生活｜来沪要不到饭了 | birth@367ppm🌎 | 习近平去广告",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yrr0r.net",
+                "end": 23,
+                "expanded_url": "http://blog.yrr0r.net",
+                "start": 0,
+                "url": "https://t.co/nlTQQyVLGW"
+              }
+            ]
+          }
+        },
+        "id": "906892094953762816",
+        "location": "锅炉房",
+        "name": "yrr0r @电灯泡bot",
+        "pinned_tweet_id": "1881304088857784356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856622707829575680/iJCZ4Ctf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 409,
+          "like_count": 221246,
+          "listed_count": 9,
+          "media_count": 458,
+          "tweet_count": 34617
+        },
+        "url": "https://t.co/nlTQQyVLGW",
+        "username": "yrr0rinblues",
+        "verified": false
+      }
+    ]
+  }
+}

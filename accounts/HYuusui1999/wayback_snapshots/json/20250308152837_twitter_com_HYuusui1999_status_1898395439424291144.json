@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1898384542953796066",
+    "created_at": "2025-03-08T15:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T16:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898395439424291144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841801152381558784",
+          "start": 0,
+          "username": "Amemiya_Hasumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898395439424291144",
+    "in_reply_to_user_id": "1841801152381558784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898384542953796066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amemiya_Hasumi 来说说话"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898384540240052225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlhqrmgaAAEFYrp.jpg",
+        "width": 1468
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1898384542953796066",
+        "created_at": "2025-03-08T15:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T16:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898395439424291144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841801152381558784",
+              "start": 0,
+              "username": "Amemiya_Hasumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898395439424291144",
+        "in_reply_to_user_id": "1841801152381558784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898384542953796066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amemiya_Hasumi 来说说话"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898384540240052225"
+          ]
+        },
+        "author_id": "1841801152381558784",
+        "conversation_id": "1898384542953796066",
+        "created_at": "2025-03-08T14:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T15:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898384542953796066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bLiPpA3fCd",
+              "end": 39,
+              "expanded_url": "https://x.com/Amemiya_Hasumi/status/1898384542953796066/photo/1",
+              "media_key": "3_1898384540240052225",
+              "start": 16,
+              "url": "https://t.co/bLiPpA3fCd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898384542953796066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在正在极度内耗\n谁来救我一下 https://t.co/bLiPpA3fCd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 416,
+          "like_count": 9206,
+          "listed_count": 3,
+          "media_count": 84,
+          "tweet_count": 1192
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T11:23:15.000Z",
+        "description": "「Et in Arcadia Ego./我曾在阿卡迪亚。」\ncoser，偶尔是男娘。\n往期照片请见亮点，严禁敏感政治。\n团长：@Liberte_RA \nNGL：https://t.co/kxkm3rX4fc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "Liberte_RA"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hasumi66262",
+                "end": 103,
+                "expanded_url": "https://ngl.link/hasumi66262",
+                "start": 80,
+                "url": "https://t.co/kxkm3rX4fc"
+              }
+            ]
+          }
+        },
+        "id": "1841801152381558784",
+        "location": "永恆之地 翁法羅斯",
+        "name": "雨宮 蓮見",
+        "pinned_tweet_id": "1871596096461713573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879195526870315008/bleIv9uh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3371,
+          "following_count": 1688,
+          "like_count": 23995,
+          "listed_count": 5,
+          "media_count": 729,
+          "tweet_count": 5419
+        },
+        "username": "Amemiya_Hasumi",
+        "verified": true
+      }
+    ]
+  }
+}

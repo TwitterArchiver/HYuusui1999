@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982401031385333760",
+        "3_1982401030038925312",
+        "3_1982401030047375360",
+        "3_1982401030047318016"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1982400991015424218",
+    "created_at": "2025-10-26T10:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T11:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982401181696815561"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8BTK6Yz5vo",
+          "end": 23,
+          "expanded_url": "https://x.com/HYuusui1999/status/1982401181696815561/photo/1",
+          "media_key": "3_1982401031385333760",
+          "start": 0,
+          "url": "https://t.co/8BTK6Yz5vo"
+        },
+        {
+          "display_url": "pic.x.com/8BTK6Yz5vo",
+          "end": 23,
+          "expanded_url": "https://x.com/HYuusui1999/status/1982401181696815561/photo/1",
+          "media_key": "3_1982401030038925312",
+          "start": 0,
+          "url": "https://t.co/8BTK6Yz5vo"
+        },
+        {
+          "display_url": "pic.x.com/8BTK6Yz5vo",
+          "end": 23,
+          "expanded_url": "https://x.com/HYuusui1999/status/1982401181696815561/photo/1",
+          "media_key": "3_1982401030047375360",
+          "start": 0,
+          "url": "https://t.co/8BTK6Yz5vo"
+        },
+        {
+          "display_url": "pic.x.com/8BTK6Yz5vo",
+          "end": 23,
+          "expanded_url": "https://x.com/HYuusui1999/status/1982401181696815561/photo/1",
+          "media_key": "3_1982401030047318016",
+          "start": 0,
+          "url": "https://t.co/8BTK6Yz5vo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982401181696815561",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982400991015424218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/8BTK6Yz5vo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1982401181696815561].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1982401181696815561",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1982401181696815561"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1588,
+        "media_key": "3_1982401031385333760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LnPB4XQAAFpuM.jpg",
+        "width": 1060
+      },
+      {
+        "height": 1580,
+        "media_key": "3_1982401030038925312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LnO83WsAAVKq8.jpg",
+        "width": 1054
+      },
+      {
+        "height": 1582,
+        "media_key": "3_1982401030047375360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LnO85XoAA8ZNZ.jpg",
+        "width": 1052
+      },
+      {
+        "height": 1594,
+        "media_key": "3_1982401030047318016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LnO85WwAAsKAs.jpg",
+        "width": 1052
+      },
+      {
+        "height": 1434,
+        "media_key": "3_1982399955844157440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LmQbLXUAAAKvC.jpg",
+        "width": 1054
+      },
+      {
+        "height": 1578,
+        "media_key": "3_1982399956951445504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LmQfTXMAAcBUp.jpg",
+        "width": 1064
+      },
+      {
+        "height": 1524,
+        "media_key": "3_1982399955831603200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LmQbIXwAAnQ7P.jpg",
+        "width": 1056
+      },
+      {
+        "height": 1588,
+        "media_key": "3_1982399955827310592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LmQbHWQAA93VM.jpg",
+        "width": 1052
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982399955844157440",
+            "3_1982399956951445504",
+            "3_1982399955831603200",
+            "3_1982399955827310592"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1982400991015424218",
+        "created_at": "2025-10-26T10:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T11:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982400991015424218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qorzybl1Rp",
+              "end": 90,
+              "expanded_url": "https://x.com/HYuusui1999/status/1982400991015424218/photo/1",
+              "media_key": "3_1982399955844157440",
+              "start": 67,
+              "url": "https://t.co/Qorzybl1Rp"
+            },
+            {
+              "display_url": "pic.x.com/Qorzybl1Rp",
+              "end": 90,
+              "expanded_url": "https://x.com/HYuusui1999/status/1982400991015424218/photo/1",
+              "media_key": "3_1982399956951445504",
+              "start": 67,
+              "url": "https://t.co/Qorzybl1Rp"
+            },
+            {
+              "display_url": "pic.x.com/Qorzybl1Rp",
+              "end": 90,
+              "expanded_url": "https://x.com/HYuusui1999/status/1982400991015424218/photo/1",
+              "media_key": "3_1982399955831603200",
+              "start": 67,
+              "url": "https://t.co/Qorzybl1Rp"
+            },
+            {
+              "display_url": "pic.x.com/Qorzybl1Rp",
+              "end": 90,
+              "expanded_url": "https://x.com/HYuusui1999/status/1982400991015424218/photo/1",
+              "media_key": "3_1982399955827310592",
+              "start": 67,
+              "url": "https://t.co/Qorzybl1Rp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982400991015424218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于昨天 10月25日的我和猫卷 lumicatroll 的交谈，我的记录放在这里。\n对今天下午我的反驳有想法的人，可依此自行判断。 https://t.co/Qorzybl1Rp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n\n暂时退网（从2025年10月17日起，预计1个月）\n除留言以外的功能全部暂停运作",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 2186,
+          "like_count": 35737,
+          "listed_count": 6,
+          "media_count": 286,
+          "tweet_count": 8939
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

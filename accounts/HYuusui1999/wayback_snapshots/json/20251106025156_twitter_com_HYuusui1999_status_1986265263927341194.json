@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1985970128476094661",
+    "created_at": "2025-11-06T02:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T03:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986265263927341194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900592801005604864",
+          "start": 0,
+          "username": "Mo1HNumjeU45057"
+        },
+        {
+          "end": 28,
+          "id": "1773877435748270080",
+          "start": 17,
+          "username": "manakaao68"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986265263927341194",
+    "in_reply_to_user_id": "1900592801005604864",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985970128476094661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mo1HNumjeU45057 @manakaao68"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985970121681354752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-VTbVbQAASQDI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1985970128476094661",
+        "created_at": "2025-11-06T02:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T03:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986265263927341194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900592801005604864",
+              "start": 0,
+              "username": "Mo1HNumjeU45057"
+            },
+            {
+              "end": 28,
+              "id": "1773877435748270080",
+              "start": 17,
+              "username": "manakaao68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986265263927341194",
+        "in_reply_to_user_id": "1900592801005604864",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985970128476094661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mo1HNumjeU45057 @manakaao68"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985970121681354752"
+          ]
+        },
+        "author_id": "1900592801005604864",
+        "conversation_id": "1985970128476094661",
+        "created_at": "2025-11-05T07:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T08:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985970128476094661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lz5FqPZTWF",
+              "end": 31,
+              "expanded_url": "https://x.com/Mo1HNumjeU45057/status/1985970128476094661/photo/1",
+              "media_key": "3_1985970121681354752",
+              "start": 8,
+              "url": "https://t.co/Lz5FqPZTWF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985970128476094661",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 363,
+          "impression_count": 92815,
+          "like_count": 6241,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 283
+        },
+        "reply_settings": "everyone",
+        "text": "色ペンかわいい https://t.co/Lz5FqPZTWF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。理想乡：@t_subas_a 暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 2352,
+          "like_count": 38942,
+          "listed_count": 6,
+          "media_count": 295,
+          "tweet_count": 9327
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T17:00:19.000Z",
+        "description": "絵描きです。外でスケッチすることが好きです。\n神戸からの往復交通費を負担してくれればどこでもお絵描きする『レンタルお絵描きしかしない人』というサービスをしています。\n 著書→https://t.co/Bn20zGfqvL 中の人（@fuji25_2501) amazonアソシエイト参加中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 115,
+                "username": "fuji25_2501"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "amzn.to/3Ffsx2d",
+                "end": 110,
+                "expanded_url": "https://amzn.to/3Ffsx2d",
+                "start": 87,
+                "url": "https://t.co/Bn20zGfqvL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuji25-2501.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://fuji25-2501.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/C2PbNRnZIY"
+              }
+            ]
+          }
+        },
+        "id": "1900592801005604864",
+        "location": "ちぬのうらわ",
+        "name": "絵を描く人",
+        "pinned_tweet_id": "1982755193445068860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900599675851542528/495sJ7Cs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131556,
+          "following_count": 132,
+          "like_count": 4504,
+          "listed_count": 767,
+          "media_count": 892,
+          "tweet_count": 2492
+        },
+        "url": "https://t.co/C2PbNRnZIY",
+        "username": "Mo1HNumjeU45057",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-30T00:59:05.000Z",
+        "description": "杭州無軌電車愛好者/杭州公交電車公司6-5880 JNP6120BEV1\n@ND5_0179",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "ND5_0179"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hzbus.com.cn",
+                "end": 23,
+                "expanded_url": "https://www.hzbus.com.cn/",
+                "start": 0,
+                "url": "https://t.co/6ccqwCf2di"
+              }
+            ]
+          }
+        },
+        "id": "1773877435748270080",
+        "location": "杭州交通局",
+        "name": "真中あおのWG-120G",
+        "pinned_tweet_id": "1973394350378983832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984534240445530112/XR3u7c-m_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2835,
+          "following_count": 5479,
+          "like_count": 29965,
+          "listed_count": 11,
+          "media_count": 3124,
+          "tweet_count": 42404
+        },
+        "url": "https://t.co/6ccqwCf2di",
+        "username": "manakaao68",
+        "verified": false
+      }
+    ]
+  }
+}

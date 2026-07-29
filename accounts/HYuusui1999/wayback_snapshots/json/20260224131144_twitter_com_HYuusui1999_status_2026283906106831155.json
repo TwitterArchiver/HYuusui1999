@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2024668353189626346",
+    "created_at": "2026-02-24T13:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T14:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026283906106831155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1313677891163414533",
+          "start": 0,
+          "username": "cookiessin1"
+        },
+        {
+          "end": 26,
+          "id": "1692711484474929152",
+          "start": 13,
+          "username": "dongbagel114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026283906106831155",
+    "in_reply_to_user_id": "1313677891163414533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024676340482363634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cookiessin1 @dongbagel114 直接挂大群里（暴论）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2024676340482363634].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2024676340482363634",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2024676340482363634"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2024668353189626346",
+        "created_at": "2026-02-24T13:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026283906106831155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1313677891163414533",
+              "start": 0,
+              "username": "cookiessin1"
+            },
+            {
+              "end": 26,
+              "id": "1692711484474929152",
+              "start": 13,
+              "username": "dongbagel114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026283906106831155",
+        "in_reply_to_user_id": "1313677891163414533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024676340482363634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cookiessin1 @dongbagel114 直接挂大群里（暴论）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1077,
+          "following_count": 3074,
+          "like_count": 44210,
+          "listed_count": 6,
+          "media_count": 364,
+          "tweet_count": 11085
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-07T03:09:56.000Z",
+        "description": "@hannibals4PlZ_r的主人格 #VForVictory 世界和平派",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 21,
+                "tag": "VForVictory"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "hannibals4PlZ_r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vitality.gg/en/",
+                "end": 23,
+                "expanded_url": "https://vitality.gg/en/",
+                "start": 0,
+                "url": "https://t.co/XQjCT48EdL"
+              }
+            ]
+          }
+        },
+        "id": "1313677891163414533",
+        "location": "221B Baker Street",
+        "name": "R号机不是二号机_(。-∀-)",
+        "pinned_tweet_id": "1900442345835028942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021934227671937024/Aad5lwuD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 283,
+          "like_count": 14202,
+          "listed_count": 1,
+          "media_count": 1437,
+          "tweet_count": 8615
+        },
+        "url": "https://t.co/XQjCT48EdL",
+        "username": "cookiessin1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-19T01:34:11.000Z",
+        "description": "曲婉婷资深粉丝，喜欢东北臭脚白袜体育生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dongbabysima.com",
+                "end": 23,
+                "expanded_url": "http://www.dongbabysima.com",
+                "start": 0,
+                "url": "https://t.co/lrqxU0mWz7"
+              }
+            ]
+          }
+        },
+        "id": "1692711484474929152",
+        "location": "安徽 南京",
+        "name": "马鞍山徽嫂家政服务-马阿姨",
+        "pinned_tweet_id": "2006540361896964105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014312792535302144/YKo_gG87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 1156,
+          "like_count": 11123,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 4704
+        },
+        "url": "https://t.co/lrqxU0mWz7",
+        "username": "dongbagel114",
+        "verified": false
+      }
+    ]
+  }
+}

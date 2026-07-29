@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975605109511041024"
+      ],
+      "media_source_tweet_id": [
+        "1975605116201054332"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1975771529490407549",
+    "created_at": "2025-10-08T03:53:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T04:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975771529490407549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1658664482632253441",
+          "start": 3,
+          "username": "jujube8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ySmOTwBOJv",
+          "end": 57,
+          "expanded_url": "https://x.com/jujube8964/status/1975605116201054332/photo/1",
+          "media_key": "3_1975605109511041024",
+          "start": 34,
+          "url": "https://t.co/ySmOTwBOJv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975771529490407549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975605116201054332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jujube8964: 乱几把ky的键政跟他妈粉红一样恶心 https://t.co/ySmOTwBOJv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_1975605109511041024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2rCYUDaMAA1SXj.jpg",
+        "width": 808
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975605109511041024"
+          ],
+          "media_source_tweet_id": [
+            "1975605116201054332"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1975771529490407549",
+        "created_at": "2025-10-08T03:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T04:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975771529490407549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1658664482632253441",
+              "start": 3,
+              "username": "jujube8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ySmOTwBOJv",
+              "end": 57,
+              "expanded_url": "https://x.com/jujube8964/status/1975605116201054332/photo/1",
+              "media_key": "3_1975605109511041024",
+              "start": 34,
+              "url": "https://t.co/ySmOTwBOJv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975771529490407549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975605116201054332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jujube8964: 乱几把ky的键政跟他妈粉红一样恶心 https://t.co/ySmOTwBOJv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975605109511041024"
+          ]
+        },
+        "author_id": "1658664482632253441",
+        "conversation_id": "1975605116201054332",
+        "created_at": "2025-10-07T16:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T17:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975605116201054332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ySmOTwBOJv",
+              "end": 41,
+              "expanded_url": "https://x.com/jujube8964/status/1975605116201054332/photo/1",
+              "media_key": "3_1975605109511041024",
+              "start": 18,
+              "url": "https://t.co/ySmOTwBOJv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975605116201054332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 481,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乱几把ky的键政跟他妈粉红一样恶心 https://t.co/ySmOTwBOJv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 2030,
+          "like_count": 34687,
+          "listed_count": 6,
+          "media_count": 278,
+          "tweet_count": 8689
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T02:43:36.000Z",
+        "description": "深爱着我的爱人，直到永远",
+        "id": "1658664482632253441",
+        "location": "爱人的怀抱",
+        "name": "冬枣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964614874266521600/6X-PARwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 552,
+          "like_count": 1961,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 3135
+        },
+        "username": "jujube8964",
+        "verified": false
+      }
+    ]
+  }
+}

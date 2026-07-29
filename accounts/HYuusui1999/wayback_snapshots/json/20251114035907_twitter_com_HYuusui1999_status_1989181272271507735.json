@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989181245650042880"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1989155256127877528",
+    "created_at": "2025-11-14T03:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T04:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989181272271507735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1882098140087803904",
+          "start": 0,
+          "username": "IN_LIFE_D"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/969dhnQOe3",
+          "end": 34,
+          "expanded_url": "https://x.com/HYuusui1999/status/1989181272271507735/photo/1",
+          "media_key": "3_1989181245650042880",
+          "start": 11,
+          "url": "https://t.co/969dhnQOe3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989181272271507735",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989155256127877528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IN_LIFE_D https://t.co/969dhnQOe3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1989181272271507735].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1989181272271507735",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1989181272271507735"
+    },
+    {
+      "detail": "Could not find user with entities.mentions.username: [IN_LIFE_D].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "IN_LIFE_D",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "IN_LIFE_D"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 322,
+        "media_key": "3_1989181245650042880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5r9zcTXAAAEHzI.jpg",
+        "width": 2050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1989155256127877528",
+        "created_at": "2025-11-14T02:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T03:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989155256127877528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1882098140087803904",
+              "start": 0,
+              "username": "IN_LIFE_D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989155256127877528",
+        "in_reply_to_user_id": "1882098140087803904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@IN_LIFE_D 账号已停用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 2371,
+          "like_count": 39420,
+          "listed_count": 6,
+          "media_count": 300,
+          "tweet_count": 9510
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

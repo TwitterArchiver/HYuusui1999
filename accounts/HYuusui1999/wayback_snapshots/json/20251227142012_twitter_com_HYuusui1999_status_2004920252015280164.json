@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004821813713399808"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2004920252015280164",
+    "created_at": "2025-12-27T14:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T15:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004920252015280164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1771883266796388352",
+          "start": 0,
+          "username": "shuyan0926"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zKreF8X2sN",
+          "end": 43,
+          "expanded_url": "https://x.com/HYuusui1999/status/2004920252015280164/photo/1",
+          "media_key": "3_2004821813713399808",
+          "start": 20,
+          "url": "https://t.co/zKreF8X2sN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004920252015280164",
+    "in_reply_to_user_id": "1771883266796388352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@shuyan0926 書硯帳號已停用 https://t.co/zKreF8X2sN"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004920252015280164].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004920252015280164",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004920252015280164"
+    },
+    {
+      "detail": "Could not find user with entities.mentions.username: [shuyan0926].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "shuyan0926",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "shuyan0926"
+    },
+    {
+      "detail": "Could not find user with in_reply_to_user_id: [1771883266796388352].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "1771883266796388352",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1771883266796388352"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 766,
+        "media_key": "3_2004821813713399808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9KO0UxXcAAdV2R.jpg",
+        "width": 2046
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 2867,
+          "like_count": 43756,
+          "listed_count": 6,
+          "media_count": 333,
+          "tweet_count": 10703
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

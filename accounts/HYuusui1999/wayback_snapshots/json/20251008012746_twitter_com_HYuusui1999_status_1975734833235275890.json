@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975567180575219713"
+      ],
+      "media_source_tweet_id": [
+        "1975567184257786271"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1975734833235275890",
+    "created_at": "2025-10-08T01:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T02:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975734833235275890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1695975046051942400",
+          "start": 3,
+          "username": "mitsuki87613"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g7j2Dq7DgK",
+          "end": 58,
+          "expanded_url": "https://x.com/mitsuki87613/status/1975567184257786271/photo/1",
+          "media_key": "3_1975567180575219713",
+          "start": 35,
+          "url": "https://t.co/g7j2Dq7DgK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975734833235275890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975567184257786271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mitsuki87613: 无穷的远方和无数的人们都与我有关 https://t.co/g7j2Dq7DgK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1421,
+        "media_key": "3_1975567180575219713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qf4jwbIAEUe69.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975567180575219713"
+          ],
+          "media_source_tweet_id": [
+            "1975567184257786271"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1975734833235275890",
+        "created_at": "2025-10-08T01:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T02:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975734833235275890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695975046051942400",
+              "start": 3,
+              "username": "mitsuki87613"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g7j2Dq7DgK",
+              "end": 58,
+              "expanded_url": "https://x.com/mitsuki87613/status/1975567184257786271/photo/1",
+              "media_key": "3_1975567180575219713",
+              "start": 35,
+              "url": "https://t.co/g7j2Dq7DgK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975734833235275890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975567184257786271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mitsuki87613: 无穷的远方和无数的人们都与我有关 https://t.co/g7j2Dq7DgK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975567180575219713"
+          ]
+        },
+        "author_id": "1695975046051942400",
+        "conversation_id": "1975567184257786271",
+        "created_at": "2025-10-07T14:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T15:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975567184257786271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g7j2Dq7DgK",
+              "end": 40,
+              "expanded_url": "https://x.com/mitsuki87613/status/1975567184257786271/photo/1",
+              "media_key": "3_1975567180575219713",
+              "start": 17,
+              "url": "https://t.co/g7j2Dq7DgK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975567184257786271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 217,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "无穷的远方和无数的人们都与我有关 https://t.co/g7j2Dq7DgK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 2013,
+          "like_count": 34500,
+          "listed_count": 6,
+          "media_count": 278,
+          "tweet_count": 8667
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T01:42:26.000Z",
+        "description": "免费树洞/跨女同/まんこ175cm/社会主义女权/反资反修/术力口/愿人类彻底解放，愿人类真正自由/想和大家交朋友，同类会回fo(◍˃̶ᗜ˂̶◍)/为世界上所有的美好而战/\nWe shall meet in the place where there is no darkness",
+        "id": "1695975046051942400",
+        "location": "亚细亚苏维埃社会主义人民联盟（PASSU）-上海公社",
+        "name": "はなな 🇵🇸🏳️‍🌈🏳️‍⚧️（湧井 香織子 わくい かおりこ）",
+        "pinned_tweet_id": "1975504536325521876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968381948201680898/B4ZKLQ_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 1045,
+          "like_count": 22342,
+          "listed_count": 3,
+          "media_count": 872,
+          "tweet_count": 7388
+        },
+        "username": "mitsuki87613",
+        "verified": false
+      }
+    ]
+  }
+}

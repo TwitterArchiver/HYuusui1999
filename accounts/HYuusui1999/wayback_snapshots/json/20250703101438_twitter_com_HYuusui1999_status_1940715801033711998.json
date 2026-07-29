@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1940370003519578356",
+    "created_at": "2025-07-03T10:14:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T11:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940715801033711998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1077035952655163392",
+          "start": 0,
+          "username": "sacrificeQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940715801033711998",
+    "in_reply_to_user_id": "1077035952655163392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940370003519578356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sacrificeQAQ 所以死和活着是怎么比较的🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1940370003519578356",
+        "created_at": "2025-07-03T10:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T11:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940715801033711998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1077035952655163392",
+              "start": 0,
+              "username": "sacrificeQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940715801033711998",
+        "in_reply_to_user_id": "1077035952655163392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940370003519578356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sacrificeQAQ 所以死和活着是怎么比较的🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1077035952655163392",
+        "conversation_id": "1940370003519578356",
+        "created_at": "2025-07-02T11:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T12:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940370003519578356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940370003519578356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很可怕，我又活了十多天，在这十多天里决定是否安全和幸福的几个重要指标，净资产、外貌、能力和资源、社会认可度，和过去8年一样没有增长，还随时间流逝下降了。\n这似乎又证实了“活着会更差”的判断。\n所以很恐惧会继续活下去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 1314,
+          "like_count": 24076,
+          "listed_count": 5,
+          "media_count": 216,
+          "tweet_count": 5817
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-24T02:59:16.000Z",
+        "description": "太晚了",
+        "id": "1077035952655163392",
+        "name": "lastwidecat𓃠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572636674668261378/Q2jPPA7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 1313,
+          "like_count": 154552,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 6133
+        },
+        "username": "sacrificeQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

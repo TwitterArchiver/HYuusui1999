@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975138712502841345"
+      ],
+      "media_source_tweet_id": [
+        "1975138739090534425"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1975784454129123740",
+    "created_at": "2025-10-08T04:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T05:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975784454129123740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1647876442401693698",
+          "start": 3,
+          "username": "Yakumokon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w2nvhtJGlR",
+          "end": 38,
+          "expanded_url": "https://x.com/Yakumokon/status/1975138739090534425/photo/1",
+          "media_key": "3_1975138712502841345",
+          "start": 15,
+          "url": "https://t.co/w2nvhtJGlR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975784454129123740",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1234
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975138739090534425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yakumokon: https://t.co/w2nvhtJGlR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 570,
+        "media_key": "3_1975138712502841345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2kaMbzasAEJnki.png",
+        "width": 838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975138712502841345"
+          ],
+          "media_source_tweet_id": [
+            "1975138739090534425"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1975784454129123740",
+        "created_at": "2025-10-08T04:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T05:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975784454129123740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1647876442401693698",
+              "start": 3,
+              "username": "Yakumokon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w2nvhtJGlR",
+              "end": 38,
+              "expanded_url": "https://x.com/Yakumokon/status/1975138739090534425/photo/1",
+              "media_key": "3_1975138712502841345",
+              "start": 15,
+              "url": "https://t.co/w2nvhtJGlR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975784454129123740",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1234
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975138739090534425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yakumokon: https://t.co/w2nvhtJGlR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975138712502841345"
+          ]
+        },
+        "author_id": "1647876442401693698",
+        "conversation_id": "1975138739090534425",
+        "created_at": "2025-10-06T09:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T10:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975138739090534425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w2nvhtJGlR",
+              "end": 23,
+              "expanded_url": "https://x.com/Yakumokon/status/1975138739090534425/photo/1",
+              "media_key": "3_1975138712502841345",
+              "start": 0,
+              "url": "https://t.co/w2nvhtJGlR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975138739090534425",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 730,
+          "impression_count": 64059,
+          "like_count": 8093,
+          "quote_count": 21,
+          "reply_count": 3,
+          "retweet_count": 1234
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/w2nvhtJGlR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 2033,
+          "like_count": 34723,
+          "listed_count": 6,
+          "media_count": 278,
+          "tweet_count": 8694
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T08:15:45.000Z",
+        "description": "不常看私信，请从小红书联系我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaohongshu.com/user/profile/6…",
+                "end": 23,
+                "expanded_url": "https://www.xiaohongshu.com/user/profile/632327d6000000002303d4b2",
+                "start": 0,
+                "url": "https://t.co/srO1n6s1TZ"
+              }
+            ]
+          }
+        },
+        "id": "1647876442401693698",
+        "name": "纯雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965911647136227328/WlAbA_Vr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8389,
+          "following_count": 97,
+          "like_count": 500,
+          "listed_count": 35,
+          "media_count": 143,
+          "tweet_count": 228
+        },
+        "url": "https://t.co/srO1n6s1TZ",
+        "username": "Yakumokon",
+        "verified": false
+      }
+    ]
+  }
+}

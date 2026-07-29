@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978432356449910784"
+      ],
+      "media_source_tweet_id": [
+        "1978432395138244915"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1978432540512862672",
+    "created_at": "2025-10-15T12:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T13:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978432540512862672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878681729407356928",
+          "start": 3,
+          "username": "HYuusui1999"
+        },
+        {
+          "end": 26,
+          "id": "1502325767522652160",
+          "start": 17,
+          "username": "ANOXIACX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IhwCg56TFy",
+          "end": 56,
+          "expanded_url": "https://x.com/HYuusui1999/status/1978432395138244915/photo/1",
+          "media_key": "3_1978432356449910784",
+          "start": 33,
+          "url": "https://t.co/IhwCg56TFy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978432540512862672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978432395138244915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HYuusui1999: @ANOXIACX 账号已停用 https://t.co/IhwCg56TFy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1978432540512862672].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1978432540512862672",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1978432540512862672"
+    },
+    {
+      "detail": "Could not find user with entities.mentions.username: [ANOXIACX].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "ANOXIACX",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "ANOXIACX"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1978432356449910784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3TNvvpWAAAdnqv.jpg",
+        "width": 2044
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978432356449910784"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1978432395138244915",
+        "created_at": "2025-10-15T12:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T13:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978432395138244915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1502325767522652160",
+              "start": 0,
+              "username": "ANOXIACX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IhwCg56TFy",
+              "end": 39,
+              "expanded_url": "https://x.com/HYuusui1999/status/1978432395138244915/photo/1",
+              "media_key": "3_1978432356449910784",
+              "start": 16,
+              "url": "https://t.co/IhwCg56TFy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978432395138244915",
+        "in_reply_to_user_id": "1502325767522652160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@ANOXIACX 账号已停用 https://t.co/IhwCg56TFy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 2105,
+          "like_count": 35528,
+          "listed_count": 6,
+          "media_count": 285,
+          "tweet_count": 8803
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

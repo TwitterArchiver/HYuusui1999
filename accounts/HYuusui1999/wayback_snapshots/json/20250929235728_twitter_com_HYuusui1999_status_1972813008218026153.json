@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1972684438028025892",
+    "created_at": "2025-09-29T23:57:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T00:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972813008218026153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1738214881109921792",
+          "start": 0,
+          "username": "TTernary90624"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972813008218026153",
+    "in_reply_to_user_id": "1738214881109921792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972684438028025892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTernary90624 可以说说您遇到什么困难了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1972684438028025892",
+        "created_at": "2025-09-29T23:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T00:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972813008218026153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1738214881109921792",
+              "start": 0,
+              "username": "TTernary90624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972813008218026153",
+        "in_reply_to_user_id": "1738214881109921792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972684438028025892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTernary90624 可以说说您遇到什么困难了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738214881109921792",
+        "conversation_id": "1972684438028025892",
+        "created_at": "2025-09-29T15:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T16:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972684438028025892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972684438028025892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一天我终于吞下了所有负面情绪。最后我死了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 1954,
+          "like_count": 33584,
+          "listed_count": 6,
+          "media_count": 271,
+          "tweet_count": 8379
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T15:08:34.000Z",
+        "description": "Eri Neko | 2008 | OIer | VOCALOID | majsoul id: 67471265 | avatar bg: expressing stance only",
+        "id": "1738214881109921792",
+        "name": "絵理 音子",
+        "pinned_tweet_id": "1919426133310705699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903695391197216768/PxeVvnO4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 325,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 229
+        },
+        "username": "TTernary90624",
+        "verified": false
+      }
+    ]
+  }
+}

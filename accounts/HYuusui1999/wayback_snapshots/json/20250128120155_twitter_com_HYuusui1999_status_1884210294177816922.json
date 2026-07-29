@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1884026135920697845",
+    "created_at": "2025-01-28T12:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T13:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884210294177816922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1622758113349898241",
+          "start": 0,
+          "username": "fdsa753159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884210294177816922",
+    "in_reply_to_user_id": "1622758113349898241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884026135920697845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fdsa753159 都去死算了，人类补完"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1884026135920697845",
+        "created_at": "2025-01-28T12:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T13:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884210294177816922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1622758113349898241",
+              "start": 0,
+              "username": "fdsa753159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884210294177816922",
+        "in_reply_to_user_id": "1622758113349898241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884026135920697845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fdsa753159 都去死算了，人类补完"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1883454852983898112"
+          ],
+          "media_source_tweet_id": [
+            "1883454930838855914"
+          ]
+        },
+        "author_id": "1622758113349898241",
+        "conversation_id": "1884026135920697845",
+        "created_at": "2025-01-27T23:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T00:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884026135920697845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bFFfFgih9s",
+              "end": 106,
+              "expanded_url": "https://x.com/EYakoby/status/1883454930838855914/video/1",
+              "media_key": "7_1883454852983898112",
+              "start": 83,
+              "url": "https://t.co/bFFfFgih9s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884026135920697845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 98435,
+          "like_count": 1323,
+          "quote_count": 22,
+          "reply_count": 229,
+          "retweet_count": 283
+        },
+        "reply_settings": "everyone",
+        "text": "在澳洲举行的巴勒斯坦集会上，他们高呼“澳大利亚去死”。\n\n在加拿大，他们高呼‘加拿大去死’。\n\n在德国，人们高呼‘德国去死’。\n\n在美国，他们高呼‘美国去死’。\n\n https://t.co/bFFfFgih9s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 273,
+          "like_count": 4197,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 531
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-07T00:44:51.000Z",
+        "description": "世界反对上帝，我就反对世界。",
+        "id": "1622758113349898241",
+        "name": "Cantonese.📜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878083135386386432/ZCe5YVsD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8495,
+          "following_count": 465,
+          "like_count": 37210,
+          "listed_count": 44,
+          "media_count": 1815,
+          "tweet_count": 10923
+        },
+        "username": "fdsa753159",
+        "verified": false
+      }
+    ]
+  }
+}

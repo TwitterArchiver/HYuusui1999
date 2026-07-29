@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1952253583136796981",
+    "created_at": "2025-08-04T10:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T11:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952308792965640540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952308792965640540",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952253583136796981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoim02 这么说我可得试试了（\n音游苦手怎么办🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1952253583136796981",
+        "created_at": "2025-08-04T10:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T11:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952308792965640540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952308792965640540",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952253583136796981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim02 这么说我可得试试了（\n音游苦手怎么办🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Cycling",
+              "id": "847900751321997312",
+              "name": "Cycling"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cycling",
+              "id": "847900751321997312",
+              "name": "Cycling"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Working Out",
+              "id": "920390208708788225",
+              "name": "Working Out"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1952253583136796981",
+        "created_at": "2025-08-04T06:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T07:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952253583136796981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/T2UDFSTpiRw7D4…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/T2UDFSTpiRw7D49/status/1952252673790472580",
+              "start": 53,
+              "url": "https://t.co/b0MS5iirQN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952253583136796981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 214,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952252673790472580",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "だからmaimaiをすると両方で役に立てる\n\n所以打 mai 可以同时缓解 ASD 和 ADHD 的症状 https://t.co/b0MS5iirQN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 1495,
+          "like_count": 28044,
+          "listed_count": 5,
+          "media_count": 239,
+          "tweet_count": 6930
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD 発達障害 / 人間観察 言語学 撮影 花畑 罠 音ゲー 白猫 Arcaea PTT 10.57 maimai 13,143 hoyoverse / CN EN JP KR / 無言フォロー失礼と、相互フォロー大歓迎 / Telegram group ⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A9vj_WSFaT1iN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A9vj_WSFaT1iNWU1",
+                "start": 0,
+                "url": "https://t.co/p1hcclps2c"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "Shangcheng HZH ZJ & SHA CN",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950069662638886912/p4gVxjZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 386,
+          "like_count": 2980,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 725
+        },
+        "url": "https://t.co/p1hcclps2c",
+        "username": "aoim02",
+        "verified": true
+      }
+    ]
+  }
+}

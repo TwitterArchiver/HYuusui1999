@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1901430767890415843",
+    "created_at": "2025-03-17T06:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T07:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901517402929541191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1819042830549204992",
+          "start": 0,
+          "username": "ss3996418"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901517402929541191",
+    "in_reply_to_user_id": "1819042830549204992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901511566652256511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ss3996418 客观地说，友情注定消耗掉一些东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1901430767890415843",
+        "created_at": "2025-03-17T06:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T07:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901517402929541191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1819042830549204992",
+              "start": 0,
+              "username": "ss3996418"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901517402929541191",
+        "in_reply_to_user_id": "1819042830549204992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901511566652256511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ss3996418 客观地说，友情注定消耗掉一些东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819042830549204992",
+        "conversation_id": "1901430767890415843",
+        "created_at": "2025-03-17T05:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T06:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901511566652256511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901511566652256511",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901511237403328925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 你猜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 484,
+          "like_count": 10969,
+          "listed_count": 6,
+          "media_count": 94,
+          "tweet_count": 1495
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T16:10:08.000Z",
+        "description": "偶尔说话会过脑//纯爱万岁//妄图成为顶天立地的人",
+        "id": "1819042830549204992",
+        "location": "星球博物馆–东亚区–525号废物展示厅",
+        "name": "祀萨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879823697638477824/pdA-k_Wl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 62,
+          "like_count": 2808,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 1527
+        },
+        "username": "ss3996418",
+        "verified": false
+      }
+    ]
+  }
+}

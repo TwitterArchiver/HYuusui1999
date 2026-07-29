@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2002629580503593344",
+    "created_at": "2025-12-21T06:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T07:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002629580503593344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1866825572372058115",
+          "start": 0,
+          "username": "Zero158Sub"
+        },
+        {
+          "end": 47,
+          "id": "1999862284500488192",
+          "start": 34,
+          "username": "Yume33550336"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002629580503593344",
+    "in_reply_to_user_id": "1866825572372058115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Zero158Sub Sub Account帳號已停用\n 新帳號 @Yume33550336"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [Zero158Sub].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Zero158Sub",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Zero158Sub"
+    },
+    {
+      "detail": "Could not find user with in_reply_to_user_id: [1866825572372058115].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "1866825572372058115",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1866825572372058115"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2002629580503593344",
+        "created_at": "2025-12-21T06:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T07:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002629580503593344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1866825572372058115",
+              "start": 0,
+              "username": "Zero158Sub"
+            },
+            {
+              "end": 47,
+              "id": "1999862284500488192",
+              "start": 34,
+              "username": "Yume33550336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002629580503593344",
+        "in_reply_to_user_id": "1866825572372058115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Zero158Sub Sub Account帳號已停用\n 新帳號 @Yume33550336"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 2849,
+          "like_count": 43664,
+          "listed_count": 6,
+          "media_count": 312,
+          "tweet_count": 10627
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T15:21:50.000Z",
+        "description": "伙伴，要前进呀 *上一世：@YK9701",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 13,
+                "username": "YK9701"
+              }
+            ]
+          }
+        },
+        "id": "1999862284500488192",
+        "name": "Yume（再创世寻找推友喵）",
+        "pinned_tweet_id": "1999863319218589754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999862441472307200/9D4vd80U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 95,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 201
+        },
+        "username": "Yume33550336",
+        "verified": false
+      }
+    ]
+  }
+}

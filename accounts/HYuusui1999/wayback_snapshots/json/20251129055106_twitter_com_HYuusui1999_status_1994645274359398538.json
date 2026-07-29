@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994345796863655936"
+      ],
+      "media_source_tweet_id": [
+        "1994345811166044324"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1994645274359398538",
+    "created_at": "2025-11-29T05:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T06:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994645274359398538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1622066090074607616",
+          "start": 3,
+          "username": "hoshinofujivy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7KaWi3Cdic",
+          "end": 53,
+          "expanded_url": "https://x.com/hoshinofujivy/status/1994345811166044324/photo/1",
+          "media_key": "3_1994345796863655936",
+          "start": 30,
+          "url": "https://t.co/7KaWi3Cdic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994645274359398538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994345811166044324",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinofujivy: 外婆出车祸了.... https://t.co/7KaWi3Cdic"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994345796863655936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61W741aAAAadpW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994345796863655936"
+          ],
+          "media_source_tweet_id": [
+            "1994345811166044324"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994645274359398538",
+        "created_at": "2025-11-29T05:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994645274359398538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1622066090074607616",
+              "start": 3,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7KaWi3Cdic",
+              "end": 53,
+              "expanded_url": "https://x.com/hoshinofujivy/status/1994345811166044324/photo/1",
+              "media_key": "3_1994345796863655936",
+              "start": 30,
+              "url": "https://t.co/7KaWi3Cdic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994645274359398538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994345811166044324",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinofujivy: 外婆出车祸了.... https://t.co/7KaWi3Cdic"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994345796863655936"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994345811166044324",
+        "created_at": "2025-11-28T10:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994345811166044324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7KaWi3Cdic",
+              "end": 34,
+              "expanded_url": "https://x.com/hoshinofujivy/status/1994345811166044324/photo/1",
+              "media_key": "3_1994345796863655936",
+              "start": 11,
+              "url": "https://t.co/7KaWi3Cdic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994345811166044324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 105883,
+          "like_count": 330,
+          "quote_count": 1,
+          "reply_count": 124,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "外婆出车祸了.... https://t.co/7KaWi3Cdic"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 2486,
+          "like_count": 40728,
+          "listed_count": 6,
+          "media_count": 303,
+          "tweet_count": 9907
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 永恒之心@NationalpureVF4｜君为我影 @qiuylove｜与君共生@k1_6r @huahuojiang_ @vicoOci_olvidar|日本語學習者｜世界和平萬歲｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "username": "k1_6r"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 106,
+                "start": 90,
+                "username": "vicoOci_olvidar"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1965297883357610340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2033,
+          "following_count": 2641,
+          "like_count": 29103,
+          "listed_count": 4,
+          "media_count": 618,
+          "tweet_count": 6536
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1931977965166051367",
+    "created_at": "2025-06-09T09:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T10:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932006711713284528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932006711713284528",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931977965166051367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 先泡泡再吃吧(´･ω･`)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7284,
+        "height": 1280,
+        "media_key": "7_1931977911659372545",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1931977911659372545/pu/img/-NIT725OdEZFoaxn.jpg",
+        "public_metrics": {
+          "view_count": 63
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931977911659372545/pu/vid/avc1/320x568/RFh_3HDw6WPdOEGw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931977911659372545/pu/vid/avc1/480x852/AgYbsouR8Mxeb-L1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931977911659372545/pu/vid/avc1/720x1280/0QYU4vTuYX3Lv97y.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1931977911659372545/pu/pl/V-IAgHMggP9wj3oP.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1931977965166051367",
+        "created_at": "2025-06-09T09:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T10:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932006711713284528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932006711713284528",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931977965166051367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 先泡泡再吃吧(´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1931977911659372545"
+          ]
+        },
+        "author_id": "1845491203124441093",
+        "conversation_id": "1931977965166051367",
+        "created_at": "2025-06-09T07:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T08:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931977965166051367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U4ut5NZaeE",
+              "end": 23,
+              "expanded_url": "https://x.com/yu_huacs/status/1931977965166051367/video/1",
+              "media_key": "7_1931977911659372545",
+              "start": 0,
+              "url": "https://t.co/U4ut5NZaeE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931977965166051367",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/U4ut5NZaeE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。 ～公告栏～ @jvhao0721 @tingfeng_TF @noname87525好久前开始从b站盗句号视频， 视频创作者是@juhao0721，请注意 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "jvhao0721"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "tingfeng_TF"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "noname87525"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "juhao0721"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 1118,
+          "like_count": 21193,
+          "listed_count": 6,
+          "media_count": 203,
+          "tweet_count": 4831
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "余华 单车佬 宅 双 抽象 我的世界 Allez sprint tfsa jhf06 \nOCR5500 Lain od 双相 精神max 公路车 二次元 09 原产于shanghai 叠加状态 \n第二人格 @yuhuacs5570",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 103,
+                "username": "yuhuacs5570"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdoNl"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "shanghai",
+        "name": "余華成霜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922978167616143360/O6HKnIve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 969,
+          "like_count": 71905,
+          "listed_count": 10,
+          "media_count": 1467,
+          "tweet_count": 12350
+        },
+        "url": "https://t.co/fGARwmdoNl",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1938931189592793596",
+    "created_at": "2025-06-28T13:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T14:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938946580851138728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596652915959078913",
+          "start": 0,
+          "username": "nanami5513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938946580851138728",
+    "in_reply_to_user_id": "1596652915959078913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938931189592793596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami5513 不要(´･ω･`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1938931189592793596",
+        "created_at": "2025-06-28T13:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T14:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938946580851138728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596652915959078913",
+              "start": 0,
+              "username": "nanami5513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938946580851138728",
+        "in_reply_to_user_id": "1596652915959078913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938931189592793596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami5513 不要(´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596652915959078913",
+        "conversation_id": "1938931189592793596",
+        "created_at": "2025-06-28T12:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T13:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938931189592793596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nanami5513/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/nanami5513/status/1938927317973373185",
+              "start": 13,
+              "url": "https://t.co/YiiRHGd09j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938931189592793596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938927317973373185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "差不多我也快该试试了吧？ https://t.co/YiiRHGd09j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yvjue0189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yvjue0189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 1230,
+          "like_count": 23086,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 5508
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T23:51:38.000Z",
+        "description": "",
+        "id": "1596652915959078913",
+        "name": "海",
+        "pinned_tweet_id": "1938259214578885005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935972529165758464/phocjsfB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 413,
+          "like_count": 26615,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 2894
+        },
+        "username": "nanami5513",
+        "verified": true
+      }
+    ]
+  }
+}

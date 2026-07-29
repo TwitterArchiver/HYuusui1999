@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1950730864964350189",
+    "created_at": "2025-07-31T01:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T02:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950730864964350189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1803639221556748289",
+          "start": 3,
+          "username": "Haruhi_LAP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950730864964350189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950567075497570690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Haruhi_LAP: 对不起，我好像把QQ的所有好友全都删了，发病了\n有需要的请把我的好友加回来\n谢谢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1950730864964350189",
+        "created_at": "2025-07-31T01:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T02:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950730864964350189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1803639221556748289",
+              "start": 3,
+              "username": "Haruhi_LAP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950730864964350189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950567075497570690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Haruhi_LAP: 对不起，我好像把QQ的所有好友全都删了，发病了\n有需要的请把我的好友加回来\n谢谢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803639221556748289",
+        "conversation_id": "1950567075497570690",
+        "created_at": "2025-07-30T14:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T15:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950567075497570690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950567075497570690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起，我好像把QQ的所有好友全都删了，发病了\n有需要的请把我的好友加回来\n谢谢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 1424,
+          "like_count": 26571,
+          "listed_count": 5,
+          "media_count": 233,
+          "tweet_count": 6615
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T04:02:57.000Z",
+        "description": "非常欢迎\n所以，请移步置顶帖，谢谢啦\n还有就是，求求了，K牌代打\n价格看置顶帖，联系方式\nQQ3330173282",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/haruhi_lap1/",
+                "end": 23,
+                "expanded_url": "http://ngl.link/haruhi_lap1/",
+                "start": 0,
+                "url": "https://t.co/qzzl69shOO"
+              }
+            ]
+          }
+        },
+        "id": "1803639221556748289",
+        "location": "神々が恋した幻想郷",
+        "name": "Haruhi🏳️‍⚧️",
+        "pinned_tweet_id": "1947399429251584063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941496750449000448/Oa6fJxWi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 330,
+          "like_count": 4858,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 1998
+        },
+        "url": "https://t.co/qzzl69shOO",
+        "username": "Haruhi_LAP",
+        "verified": false
+      }
+    ]
+  }
+}

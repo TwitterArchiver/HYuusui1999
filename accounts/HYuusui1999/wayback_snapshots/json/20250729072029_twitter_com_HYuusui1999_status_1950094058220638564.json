@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1950092658082283679",
+    "created_at": "2025-07-29T07:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T08:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950094058220638564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1919296206381170688",
+          "start": 0,
+          "username": "juhao0721"
+        },
+        {
+          "end": 27,
+          "id": "1807107145756008448",
+          "start": 11,
+          "username": "KagurazakaAzure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950094058220638564",
+    "in_reply_to_user_id": "1919296206381170688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950093734852415500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juhao0721 @KagurazakaAzure 句号老师也小心哦(´･ω･`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1950092658082283679",
+        "created_at": "2025-07-29T07:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T08:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950094058220638564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1919296206381170688",
+              "start": 0,
+              "username": "juhao0721"
+            },
+            {
+              "end": 27,
+              "id": "1807107145756008448",
+              "start": 11,
+              "username": "KagurazakaAzure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950094058220638564",
+        "in_reply_to_user_id": "1919296206381170688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950093734852415500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juhao0721 @KagurazakaAzure 句号老师也小心哦(´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919296206381170688",
+        "conversation_id": "1950092658082283679",
+        "created_at": "2025-07-29T07:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T08:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950093734852415500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazakaAzure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950093734852415500",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950092658082283679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaAzure 还在可承受范围内\n不用担心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 1400,
+          "like_count": 26171,
+          "listed_count": 5,
+          "media_count": 229,
+          "tweet_count": 6552
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T07:42:19.000Z",
+        "description": "这里是可爱小句号~\n有可爱，有实力，更有整活（）\n灌注句号喵，灌注句号蟹蟹喵\nBilibili主页：https://t.co/gkIkiiDUIM  juhao_句号\n摩耶@KagurazakaAzure❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 86,
+                "username": "KagurazakaAzure"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b23.tv/sjWmIxU",
+                "end": 73,
+                "expanded_url": "http://b23.tv/sjWmIxU",
+                "start": 50,
+                "url": "https://t.co/gkIkiiDUIM"
+              }
+            ]
+          }
+        },
+        "id": "1919296206381170688",
+        "location": "重庆",
+        "name": "juhao_我是可爱小句号",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941547287982862336/73-KtESb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 66,
+          "like_count": 1374,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 498
+        },
+        "username": "juhao0721",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "⛩️🌊🪼“洞烛の摩耶” | 是薛定谔态的男娘｜避雷概率掉落R18｜墙外弱智吧管理&梗图bot｜líng ｜MtX｜hrt24.4.20｜持证ADHD&ASD｜179cm55kg｜08｜川渝｜Arcaea&maimaiでらっくす&Phigros｜推荐雌二醇药商@minokakay｜对象@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "minokakay"
+              },
+              {
+                "end": 152,
+                "start": 142,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "爱我的人的怀里",
+        "name": "🪼かめりあ⛩️「翎」-RESURRECTION-",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941707843977261056/0OzLQ_0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7942,
+          "following_count": 1228,
+          "like_count": 40358,
+          "listed_count": 10,
+          "media_count": 2861,
+          "tweet_count": 23141
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

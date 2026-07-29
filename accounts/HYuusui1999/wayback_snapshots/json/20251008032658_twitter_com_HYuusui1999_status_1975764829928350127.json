@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975132605277425664"
+      ],
+      "media_source_tweet_id": [
+        "1975133079909102026"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1975764829928350127",
+    "created_at": "2025-10-08T03:26:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T04:26:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975764829928350127"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "霊夢さん",
+          "probability": 0.7719,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "989169537877594112",
+          "start": 3,
+          "username": "Uwata_h"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zv1zWxriCq",
+          "end": 41,
+          "expanded_url": "https://x.com/Uwata_h/status/1975133079909102026/photo/1",
+          "media_key": "3_1975132605277425664",
+          "start": 18,
+          "url": "https://t.co/zv1zWxriCq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975764829928350127",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2314
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975133079909102026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uwata_h: 霊夢さん https://t.co/zv1zWxriCq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3253,
+        "media_key": "3_1975132605277425664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2kUo8naUAAtuSi.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975132605277425664"
+          ],
+          "media_source_tweet_id": [
+            "1975133079909102026"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1975764829928350127",
+        "created_at": "2025-10-08T03:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T04:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975764829928350127"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "霊夢さん",
+              "probability": 0.7719,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "989169537877594112",
+              "start": 3,
+              "username": "Uwata_h"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zv1zWxriCq",
+              "end": 41,
+              "expanded_url": "https://x.com/Uwata_h/status/1975133079909102026/photo/1",
+              "media_key": "3_1975132605277425664",
+              "start": 18,
+              "url": "https://t.co/zv1zWxriCq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975764829928350127",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2314
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975133079909102026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uwata_h: 霊夢さん https://t.co/zv1zWxriCq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975132605277425664"
+          ]
+        },
+        "author_id": "989169537877594112",
+        "conversation_id": "1975133079909102026",
+        "created_at": "2025-10-06T09:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T10:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975133079909102026"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "霊夢さん",
+              "probability": 0.7789,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zv1zWxriCq",
+              "end": 28,
+              "expanded_url": "https://x.com/Uwata_h/status/1975133079909102026/photo/1",
+              "media_key": "3_1975132605277425664",
+              "start": 5,
+              "url": "https://t.co/zv1zWxriCq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975133079909102026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3070,
+          "impression_count": 340878,
+          "like_count": 31228,
+          "quote_count": 13,
+          "reply_count": 22,
+          "retweet_count": 2314
+        },
+        "reply_settings": "everyone",
+        "text": "霊夢さん https://t.co/zv1zWxriCq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 2028,
+          "like_count": 34641,
+          "listed_count": 6,
+          "media_count": 278,
+          "tweet_count": 8684
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-25T15:49:30.000Z",
+        "description": "東方がすき。イラストレーター skeb▶https://t.co/qm41mLhWEU グッズ通販▶https://t.co/0l4oe3tpqh PixivFANBOX▶https://t.co/nIjqZypIH8 お題箱▶https://t.co/j2fgPQ7k2T",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Uwata_h",
+                "end": 43,
+                "expanded_url": "http://skeb.jp/@Uwata_h",
+                "start": 20,
+                "url": "https://t.co/qm41mLhWEU"
+              },
+              {
+                "display_url": "hisha.booth.pm",
+                "end": 73,
+                "expanded_url": "https://hisha.booth.pm",
+                "start": 50,
+                "url": "https://t.co/0l4oe3tpqh"
+              },
+              {
+                "display_url": "hisha.fanbox.cc",
+                "end": 109,
+                "expanded_url": "http://hisha.fanbox.cc",
+                "start": 86,
+                "url": "https://t.co/nIjqZypIH8"
+              },
+              {
+                "display_url": "odaibako.net/u/Hlsha_",
+                "end": 137,
+                "expanded_url": "https://odaibako.net/u/Hlsha_",
+                "start": 114,
+                "url": "https://t.co/j2fgPQ7k2T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "melonbooks.co.jp/circle/index.p…",
+                "end": 23,
+                "expanded_url": "https://www.melonbooks.co.jp/circle/index.php?circle_id=112486",
+                "start": 0,
+                "url": "https://t.co/uihd4BzeVx"
+              }
+            ]
+          }
+        },
+        "id": "989169537877594112",
+        "location": "お仕事▶︎yatsuhashi18@gmail.com",
+        "name": "飛者@秋例あ03ab",
+        "pinned_tweet_id": "1965697254922330545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496068311536500746/Qo-o1MGN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87784,
+          "following_count": 474,
+          "like_count": 4176,
+          "listed_count": 496,
+          "media_count": 981,
+          "tweet_count": 9402
+        },
+        "url": "https://t.co/uihd4BzeVx",
+        "username": "Uwata_h",
+        "verified": true
+      }
+    ]
+  }
+}

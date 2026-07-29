@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1951314401409245219",
+    "created_at": "2025-08-04T00:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T01:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952171637522006117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1565981667746914304",
+          "start": 0,
+          "username": "Chinese_114514"
+        },
+        {
+          "end": 23,
+          "id": "1867244970853466112",
+          "start": 16,
+          "username": "hyc945"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952171637522006117",
+    "in_reply_to_user_id": "1565981667746914304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951314401409245219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chinese_114514 @hyc945 快递盒上有相关信息吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_1951314287487569921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxR2AYbXUAEhS2M.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1951314401409245219",
+        "created_at": "2025-08-04T00:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T01:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952171637522006117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "Chinese_114514"
+            },
+            {
+              "end": 23,
+              "id": "1867244970853466112",
+              "start": 16,
+              "username": "hyc945"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952171637522006117",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951314401409245219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chinese_114514 @hyc945 快递盒上有相关信息吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951314287487569921"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1951314401409245219",
+        "created_at": "2025-08-01T16:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T17:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951314401409245219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1867244970853466112",
+              "start": 9,
+              "username": "hyc945"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AVE7YsmVqs",
+              "end": 40,
+              "expanded_url": "https://x.com/Chinese_114514/status/1951314401409245219/photo/1",
+              "media_key": "3_1951314287487569921",
+              "start": 17,
+              "url": "https://t.co/AVE7YsmVqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951314401409245219",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 574,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第二支凝胶😋😋😋\n@hyc945 https://t.co/AVE7YsmVqs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 1493,
+          "like_count": 27964,
+          "listed_count": 5,
+          "media_count": 239,
+          "tweet_count": 6903
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "面对真相，其实谁都一样，那些你愿意信的，是被你筛选过的 ——-《网络锚定效应》",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "🏳️‍⚧️寄老师不是姬老师🍥",
+        "pinned_tweet_id": "1945543638341357716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945442779284340736/Pa29ayQ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 653,
+          "like_count": 36864,
+          "listed_count": 0,
+          "media_count": 362,
+          "tweet_count": 4015
+        },
+        "username": "Chinese_114514",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T16:28:55.000Z",
+        "description": "年龄17/身高178/体重124/社恐/孤独阴暗b/不擅长交流/主人 \n@Tang_1019/qq3997247387需要买凝胶，请加这个，是小号，可能有点新qq群305549628",
+        "id": "1867244970853466112",
+        "name": "怀愚痴🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1912073014117798032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949557459997323265/YWQSRJXM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 43,
+          "like_count": 9,
+          "listed_count": 3,
+          "media_count": 42,
+          "tweet_count": 157
+        },
+        "username": "hyc945",
+        "verified": false
+      }
+    ]
+  }
+}

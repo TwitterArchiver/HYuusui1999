@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1905987973880938847",
+    "created_at": "2025-03-29T14:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T15:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905987973880938847"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ryq59/status/1…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/ryq59/status/1905918914745516039",
+          "start": 6,
+          "url": "https://t.co/vMS0ZGpIc5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905987973880938847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905918914745516039",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请关注一下 https://t.co/vMS0ZGpIc5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1905987973880938847",
+        "created_at": "2025-03-29T14:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T15:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905987973880938847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ryq59/status/1…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ryq59/status/1905918914745516039",
+              "start": 6,
+              "url": "https://t.co/vMS0ZGpIc5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905987973880938847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905918914745516039",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请关注一下 https://t.co/vMS0ZGpIc5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243945571796295681",
+        "conversation_id": "1905918914745516039",
+        "created_at": "2025-03-29T09:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T10:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905918914745516039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1829411930458718208",
+              "start": 12,
+              "username": "Natsuki_Akko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905918914745516039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3747,
+          "like_count": 71,
+          "quote_count": 5,
+          "reply_count": 23,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "对不起大家……\n在今天与@Natsuki_Akko 的会面途中\n发生了一些不可抗力的家暴因素\n\n我可能没有几天能活下去了 接下来可能会失联一段时间\n也许……\n\n我讨厌这个家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1903418336572305499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 549,
+          "like_count": 12212,
+          "listed_count": 6,
+          "media_count": 111,
+          "tweet_count": 1863
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "17｜MtX🏳️‍⚧️｜Retired Pro PUBG MOBILE Player｜互fo请私信｜Contact with me in https://t.co/vL9QVAaVSM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 92,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 69,
+                "url": "https://t.co/vL9QVAaVSM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUM0f"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "Tianjin",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "1905561099053007270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16391,
+          "following_count": 4643,
+          "like_count": 174537,
+          "listed_count": 68,
+          "media_count": 4781,
+          "tweet_count": 22008
+        },
+        "url": "https://t.co/6W3mmCUM0f",
+        "username": "ryq59",
+        "verified": true
+      }
+    ]
+  }
+}

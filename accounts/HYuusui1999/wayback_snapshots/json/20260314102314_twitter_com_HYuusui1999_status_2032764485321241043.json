@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2032286440063700994",
+    "created_at": "2026-03-14T10:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T11:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032764485321241043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1808933044545630208",
+          "start": 0,
+          "username": "TauCeti_10700"
+        },
+        {
+          "end": 31,
+          "id": "1498354035854053377",
+          "start": 15,
+          "username": "lijunyi87429205"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032764485321241043",
+    "in_reply_to_user_id": "1808933044545630208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032330369396080836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TauCeti_10700 @lijunyi87429205 一定是可以的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2032330369396080836].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2032330369396080836",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2032330369396080836"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2032286440063700994",
+        "created_at": "2026-03-14T10:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032764485321241043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1808933044545630208",
+              "start": 0,
+              "username": "TauCeti_10700"
+            },
+            {
+              "end": 31,
+              "id": "1498354035854053377",
+              "start": 15,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032764485321241043",
+        "in_reply_to_user_id": "1808933044545630208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032330369396080836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TauCeti_10700 @lijunyi87429205 一定是可以的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 3141,
+          "like_count": 44771,
+          "listed_count": 6,
+          "media_count": 368,
+          "tweet_count": 11386
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T18:37:10.000Z",
+        "description": "穿越语言的壳，任思维溢出容器——请听，离群者无法永恒的悲歌。炽在水洼中的倒影，因为星光获得了生命 /Per aspera ad astra.",
+        "id": "1808933044545630208",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "Pale Fire",
+        "pinned_tweet_id": "1821931308840325602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853163363142115328/S5o_Yawf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 62,
+          "like_count": 528,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 463
+        },
+        "username": "TauCeti_10700",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 371,
+          "like_count": 55603,
+          "listed_count": 8,
+          "media_count": 31,
+          "tweet_count": 1195
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ]
+  }
+}

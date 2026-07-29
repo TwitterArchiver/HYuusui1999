@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1945880452461707485",
+    "created_at": "2025-07-17T16:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T17:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945880452461707485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1652673033423962112",
+          "start": 0,
+          "username": "yuki2010Fe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945880452461707485",
+    "in_reply_to_user_id": "1652673033423962112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 1,
+      "impression_count": 294,
+      "like_count": 7,
+      "quote_count": 2,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "reply_settings": "everyone",
+    "text": "@yuki2010Fe 服用了20t氟西汀自杀\n请有信息的朋友提供给成都警方，区号028"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1945880452461707485",
+        "created_at": "2025-07-17T16:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T17:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945880452461707485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1652673033423962112",
+              "start": 0,
+              "username": "yuki2010Fe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945880452461707485",
+        "in_reply_to_user_id": "1652673033423962112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 294,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "@yuki2010Fe 服用了20t氟西汀自杀\n请有信息的朋友提供给成都警方，区号028"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 1387,
+          "like_count": 25994,
+          "listed_count": 5,
+          "media_count": 228,
+          "tweet_count": 6453
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T13:55:40.000Z",
+        "description": "这里是小渝～｜生日：2010.2.20｜持证含糖中｜INFP｜📍四川成都｜hrt：2024/9｜ 欢迎可爱的xnn和xyn扩列喵",
+        "id": "1652673033423962112",
+        "location": "距你520m",
+        "name": "小小渝🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932194754802102273/HGGPq0Xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 52,
+          "like_count": 2081,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 22
+        },
+        "username": "yuki2010Fe",
+        "verified": false
+      }
+    ]
+  }
+}

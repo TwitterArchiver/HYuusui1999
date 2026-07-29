@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907027518781272064"
+      ],
+      "media_source_tweet_id": [
+        "1907027531251003531"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1907353004937764986",
+    "created_at": "2025-04-02T08:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T09:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907353004937764986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1444716723978981380",
+          "start": 3,
+          "username": "EleanorAnatidae"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3aW2657YaT",
+          "end": 104,
+          "expanded_url": "https://x.com/EleanorAnatidae/status/1907027531251003531/photo/1",
+          "media_key": "3_1907027518781272064",
+          "start": 81,
+          "url": "https://t.co/3aW2657YaT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907353004937764986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907027531251003531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EleanorAnatidae: 安定医院的梵高\n梵高是一名艺术家，但他同时也是一名双相障碍的患者。\n祝自己，以及同样被精神疾病困扰的同伴们，早日康复。 https://t.co/3aW2657YaT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907027518781272064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GncfbKnaMAADIgK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907027518781272064"
+          ],
+          "media_source_tweet_id": [
+            "1907027531251003531"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1907353004937764986",
+        "created_at": "2025-04-02T08:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T09:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907353004937764986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1444716723978981380",
+              "start": 3,
+              "username": "EleanorAnatidae"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3aW2657YaT",
+              "end": 104,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/1907027531251003531/photo/1",
+              "media_key": "3_1907027518781272064",
+              "start": 81,
+              "url": "https://t.co/3aW2657YaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907353004937764986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907027531251003531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EleanorAnatidae: 安定医院的梵高\n梵高是一名艺术家，但他同时也是一名双相障碍的患者。\n祝自己，以及同样被精神疾病困扰的同伴们，早日康复。 https://t.co/3aW2657YaT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907027518781272064"
+          ]
+        },
+        "author_id": "1444716723978981380",
+        "conversation_id": "1907027531251003531",
+        "created_at": "2025-04-01T11:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T12:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907027531251003531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3aW2657YaT",
+              "end": 83,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/1907027531251003531/photo/1",
+              "media_key": "3_1907027518781272064",
+              "start": 60,
+              "url": "https://t.co/3aW2657YaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907027531251003531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3909,
+          "like_count": 75,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "安定医院的梵高\n梵高是一名艺术家，但他同时也是一名双相障碍的患者。\n祝自己，以及同样被精神疾病困扰的同伴们，早日康复。 https://t.co/3aW2657YaT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1905989245266972950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 594,
+          "like_count": 12859,
+          "listed_count": 6,
+          "media_count": 113,
+          "tweet_count": 2060
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "要勇敢地好好活着",
+        "id": "1444716723978981380",
+        "name": "雪雁✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772859713987960832/7mLglH_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 1302,
+          "like_count": 15948,
+          "listed_count": 6,
+          "media_count": 101,
+          "tweet_count": 4050
+        },
+        "username": "EleanorAnatidae",
+        "verified": false
+      }
+    ]
+  }
+}

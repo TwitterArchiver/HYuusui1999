@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1907482360310018533",
+    "created_at": "2025-04-02T17:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T18:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907482360310018533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1348244970029813761",
+          "start": 3,
+          "username": "ariovista_su"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907482360310018533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907370134584664278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ariovista_su: 你是最近拍到的吗，这不是玩笑…她至少在一年前甚至更早就被不同人看到并且把照片发到网上，穿中学校服，疑似流浪且精神状态很差，完全不知道具体是什么情况…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1907482360310018533",
+        "created_at": "2025-04-02T17:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T18:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907482360310018533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1348244970029813761",
+              "start": 3,
+              "username": "ariovista_su"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907482360310018533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907370134584664278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ariovista_su: 你是最近拍到的吗，这不是玩笑…她至少在一年前甚至更早就被不同人看到并且把照片发到网上，穿中学校服，疑似流浪且精神状态很差，完全不知道具体是什么情况…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1348244970029813761",
+        "conversation_id": "1907370134584664278",
+        "created_at": "2025-04-02T09:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T10:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907370134584664278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ggdxfulan/stat…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/ggdxfulan/status/1907255803532472435",
+              "start": 75,
+              "url": "https://t.co/75wH583PXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907370134584664278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4176,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907255803532472435",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你是最近拍到的吗，这不是玩笑…她至少在一年前甚至更早就被不同人看到并且把照片发到网上，穿中学校服，疑似流浪且精神状态很差，完全不知道具体是什么情况… https://t.co/75wH583PXE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1905989245266972950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 607,
+          "like_count": 13077,
+          "listed_count": 6,
+          "media_count": 114,
+          "tweet_count": 2101
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-10T12:27:12.000Z",
+        "description": "姱姛媌/non-Marxist left/不知道能不能再爱人/准备终末旅行",
+        "id": "1348244970029813761",
+        "location": "Trans-la-Forêt, France",
+        "name": "燃烧女子的遗像🏳️‍⚧️",
+        "pinned_tweet_id": "1762428960737300717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667507704309399554/rI0eOLlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 272,
+          "like_count": 3062,
+          "listed_count": 4,
+          "media_count": 86,
+          "tweet_count": 1936
+        },
+        "username": "ariovista_su",
+        "verified": false
+      }
+    ]
+  }
+}

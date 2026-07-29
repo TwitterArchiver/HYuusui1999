@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1880485616108073262",
+    "created_at": "2025-01-18T06:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T07:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880501916104552947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1562409695616241664",
+          "start": 0,
+          "username": "MIcedblacktea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880501916104552947",
+    "in_reply_to_user_id": "1562409695616241664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880485616108073262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MIcedblacktea 好耶！加油哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1880485616108073262",
+        "created_at": "2025-01-18T06:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T07:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880501916104552947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1562409695616241664",
+              "start": 0,
+              "username": "MIcedblacktea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880501916104552947",
+        "in_reply_to_user_id": "1562409695616241664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880485616108073262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MIcedblacktea 好耶！加油哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562409695616241664",
+        "conversation_id": "1880485616108073262",
+        "created_at": "2025-01-18T05:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T06:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880485616108073262"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880485616108073262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我决定了，今晚继续编写我的游戏剧情，整完了给大家看看～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 124,
+          "like_count": 880,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 133
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-24T12:02:10.000Z",
+        "description": "游戏/历史/军事/动漫，躺平大王，死亡倒计时中（不确定 /求关注啊///////我什么都会做的！//////////一定会回fo的！！！ （如果没回记得私信）",
+        "id": "1562409695616241664",
+        "location": "朝鲜，平壤",
+        "name": "Misaki🍥金正恩🏳️‍⚧️",
+        "pinned_tweet_id": "1877374657680048141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877253406903119872/jevszz_2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 351,
+          "like_count": 1967,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 746
+        },
+        "username": "MIcedblacktea",
+        "verified": false
+      }
+    ]
+  }
+}

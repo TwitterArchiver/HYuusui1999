@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1921082195474514196",
+    "created_at": "2025-05-10T09:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T10:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921129096500617596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "794053202597449728",
+          "start": 0,
+          "username": "mizusawa_esashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921129096500617596",
+    "in_reply_to_user_id": "794053202597449728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921082195474514196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizusawa_esashi お疲れ様でした"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1921082180937113600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqkOELMW4AAqHiw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1921082195474514196",
+        "created_at": "2025-05-10T09:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T10:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921129096500617596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "794053202597449728",
+              "start": 0,
+              "username": "mizusawa_esashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921129096500617596",
+        "in_reply_to_user_id": "794053202597449728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921082195474514196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizusawa_esashi お疲れ様でした"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921082180937113600"
+          ]
+        },
+        "author_id": "794053202597449728",
+        "conversation_id": "1921082195474514196",
+        "created_at": "2025-05-10T05:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T06:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921082195474514196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BsKykZN3LD",
+              "end": 40,
+              "expanded_url": "https://x.com/mizusawa_esashi/status/1921082195474514196/photo/1",
+              "media_key": "3_1921082180937113600",
+              "start": 17,
+              "url": "https://t.co/BsKykZN3LD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921082195474514196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1755,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本当にふざけんなよマジでさぁ…… https://t.co/BsKykZN3LD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1920000163336028430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 878,
+          "like_count": 17948,
+          "listed_count": 6,
+          "media_count": 169,
+          "tweet_count": 3866
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-03T05:46:51.000Z",
+        "description": "本物です",
+        "id": "794053202597449728",
+        "location": "ꂮꑴꍿꆈꑤ，ꌩꁐꈬꉘ，ꌧꍧꌜ，ꍏꉸꏓꂱꇭꉼꇩ",
+        "name": "不知火カヤ",
+        "pinned_tweet_id": "1917197859809841614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757084943346454529/FdaogvIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2430,
+          "following_count": 89,
+          "like_count": 2844,
+          "listed_count": 16,
+          "media_count": 728,
+          "tweet_count": 2376
+        },
+        "username": "mizusawa_esashi",
+        "verified": false
+      }
+    ]
+  }
+}

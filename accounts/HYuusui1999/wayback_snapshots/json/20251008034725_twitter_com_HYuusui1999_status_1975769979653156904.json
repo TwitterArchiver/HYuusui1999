@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1975537390833025024"
+      ],
+      "media_source_tweet_id": [
+        "1975537973463818378"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1975769979653156904",
+    "created_at": "2025-10-08T03:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T04:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975769979653156904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1658355089084678144",
+          "start": 3,
+          "username": "daxiongmao1234"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bY3i3NZfKp",
+          "end": 75,
+          "expanded_url": "https://x.com/daxiongmao1234/status/1975537973463818378/video/1",
+          "media_key": "13_1975537390833025024",
+          "start": 52,
+          "url": "https://t.co/bY3i3NZfKp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975769979653156904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975537973463818378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daxiongmao1234: 一起思考不是一件坏事！医学就是这样：你会犯错，但是会害死别人。 https://t.co/bY3i3NZfKp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 108204,
+        "height": 1280,
+        "media_key": "13_1975537390833025024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1975537390833025024/img/PyQ32tv9QitT1BVI.jpg",
+        "public_metrics": {
+          "view_count": 138683
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975537390833025024/vid/avc1/320x568/uSw0udpKCt6GARyV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975537390833025024/vid/avc1/480x852/A49ltw4UzZLpAlgR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975537390833025024/vid/avc1/720x1280/OpypsXKX8-Qc4uDn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1975537390833025024/pl/hjH_nSAdwJNF4h5e.m3u8?v=9bd"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1975537390833025024"
+          ],
+          "media_source_tweet_id": [
+            "1975537973463818378"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1975769979653156904",
+        "created_at": "2025-10-08T03:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T04:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975769979653156904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1658355089084678144",
+              "start": 3,
+              "username": "daxiongmao1234"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bY3i3NZfKp",
+              "end": 75,
+              "expanded_url": "https://x.com/daxiongmao1234/status/1975537973463818378/video/1",
+              "media_key": "13_1975537390833025024",
+              "start": 52,
+              "url": "https://t.co/bY3i3NZfKp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975769979653156904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975537973463818378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daxiongmao1234: 一起思考不是一件坏事！医学就是这样：你会犯错，但是会害死别人。 https://t.co/bY3i3NZfKp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1975537390833025024"
+          ]
+        },
+        "author_id": "1658355089084678144",
+        "conversation_id": "1975537973463818378",
+        "created_at": "2025-10-07T12:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T13:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975537973463818378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bY3i3NZfKp",
+              "end": 55,
+              "expanded_url": "https://x.com/daxiongmao1234/status/1975537973463818378/video/1",
+              "media_key": "13_1975537390833025024",
+              "start": 32,
+              "url": "https://t.co/bY3i3NZfKp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975537973463818378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 260,
+          "impression_count": 154148,
+          "like_count": 580,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "一起思考不是一件坏事！医学就是这样：你会犯错，但是会害死别人。 https://t.co/bY3i3NZfKp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 2029,
+          "like_count": 34677,
+          "listed_count": 6,
+          "media_count": 278,
+          "tweet_count": 8688
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-16T06:14:13.000Z",
+        "description": "越是形势不好越要坚定战略定力，不要跟着别人去抱怨，别人在抱怨的时候脑袋已经出问题了。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/happywangheyi",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/happywangheyi",
+                "start": 0,
+                "url": "https://t.co/NZdc0h0Jn4"
+              }
+            ]
+          }
+        },
+        "id": "1658355089084678144",
+        "name": "行进中的二诸葛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787995761617354752/2Ex-P2cQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27733,
+          "following_count": 1422,
+          "like_count": 52017,
+          "listed_count": 71,
+          "media_count": 5915,
+          "tweet_count": 12425
+        },
+        "url": "https://t.co/NZdc0h0Jn4",
+        "username": "daxiongmao1234",
+        "verified": true
+      }
+    ]
+  }
+}

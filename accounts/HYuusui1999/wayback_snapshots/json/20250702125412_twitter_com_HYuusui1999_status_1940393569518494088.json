@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1940393337212874977",
+    "created_at": "2025-07-02T12:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T13:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940393569518494088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596473224711151618",
+          "start": 0,
+          "username": "a823149315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940393569518494088",
+    "in_reply_to_user_id": "1596473224711151618",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940393337212874977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a823149315 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1940393313208586240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2pcA5XUAArCEv.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1940392882801647616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2pC9gWoAAF1uW.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1940393337212874977",
+        "created_at": "2025-07-02T12:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T13:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940393569518494088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596473224711151618",
+              "start": 0,
+              "username": "a823149315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940393569518494088",
+        "in_reply_to_user_id": "1596473224711151618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940393337212874977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a823149315 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940393313208586240",
+            "3_1940392882801647616"
+          ]
+        },
+        "author_id": "1596473224711151618",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1940393337212874977",
+        "created_at": "2025-07-02T12:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T13:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940393337212874977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eex8nGbpCv",
+              "end": 48,
+              "expanded_url": "https://x.com/a823149315/status/1940393337212874977/photo/1",
+              "media_key": "3_1940393313208586240",
+              "start": 25,
+              "url": "https://t.co/eex8nGbpCv"
+            },
+            {
+              "display_url": "pic.x.com/eex8nGbpCv",
+              "end": 48,
+              "expanded_url": "https://x.com/a823149315/status/1940393337212874977/photo/1",
+              "media_key": "3_1940392882801647616",
+              "start": 25,
+              "url": "https://t.co/eex8nGbpCv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940393337212874977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太大了，两个人拼尽全力只吃了三分之二\n三斤的羊腿 https://t.co/eex8nGbpCv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yvjue0189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yvjue0189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 1279,
+          "like_count": 23870,
+          "listed_count": 5,
+          "media_count": 216,
+          "tweet_count": 5767
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T11:57:39.000Z",
+        "description": "曾用笔名苦樱/术后三度返厂mtf/12年经验的百合推理作者/小说置顶可看/持证助理社工师/社工本科毕业/4年机构社工经验/前机构司法社工项目主管",
+        "id": "1596473224711151618",
+        "name": "王安黛（跨性别危机干预主题小说《社会垃圾收容所历险记》pixiv已完本欢迎点击置顶阅读）",
+        "pinned_tweet_id": "1901570044670132564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900070459242094592/LQCckHRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36000,
+          "following_count": 167,
+          "like_count": 2587,
+          "listed_count": 99,
+          "media_count": 1687,
+          "tweet_count": 9516
+        },
+        "username": "a823149315",
+        "verified": false
+      }
+    ]
+  }
+}

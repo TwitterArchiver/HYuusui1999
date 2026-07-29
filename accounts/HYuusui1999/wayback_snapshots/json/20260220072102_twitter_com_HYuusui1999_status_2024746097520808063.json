@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024718412166160384"
+      ],
+      "media_source_tweet_id": [
+        "2024718424283508820"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2024746097520808063",
+    "created_at": "2026-02-20T07:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T08:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024746097520808063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FXTI2LchSP",
+          "end": 104,
+          "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2024718424283508820/photo/1",
+          "media_key": "3_2024718412166160384",
+          "start": 81,
+          "url": "https://t.co/FXTI2LchSP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024746097520808063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024718424283508820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: BYD上次走访调查曝光这所机构从里面救人\n盒子直接被他们住校警察拿警务通开出来威胁我了😁😁😁\n大手子\n这次还能上春晚? https://t.co/FXTI2LchSP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2024746097520808063].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2024746097520808063",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2024746097520808063"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024718412166160384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBk-qx9bYAAsmhT.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024718412166160384"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2024718424283508820",
+        "created_at": "2026-02-20T05:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T06:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024718424283508820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FXTI2LchSP",
+              "end": 83,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2024718424283508820/photo/1",
+              "media_key": "3_2024718412166160384",
+              "start": 60,
+              "url": "https://t.co/FXTI2LchSP"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2024716277764542683",
+              "start": 84,
+              "url": "https://t.co/RiFsSEO5T3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024718424283508820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1041,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024716277764542683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "BYD上次走访调查曝光这所机构从里面救人\n盒子直接被他们住校警察拿警务通开出来威胁我了😁😁😁\n大手子\n这次还能上春晚? https://t.co/FXTI2LchSP https://t.co/RiFsSEO5T3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 2978,
+          "like_count": 43521,
+          "listed_count": 6,
+          "media_count": 364,
+          "tweet_count": 10908
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3097,
+          "following_count": 1877,
+          "like_count": 1687,
+          "listed_count": 12,
+          "media_count": 343,
+          "tweet_count": 2197
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

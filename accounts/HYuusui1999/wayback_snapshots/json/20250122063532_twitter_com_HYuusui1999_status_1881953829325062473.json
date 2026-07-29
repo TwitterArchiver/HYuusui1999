@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1881953829325062473",
+    "created_at": "2025-01-22T06:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T07:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881953829325062473"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/misakixyg/stat…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/misakixyg/status/1881950601380278483",
+          "start": 22,
+          "url": "https://t.co/H8WGeuA99D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881953829325062473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881950601380278483",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这时我如果表示支持寒，那将是绝杀（狗头保命 https://t.co/H8WGeuA99D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1881953829325062473",
+        "created_at": "2025-01-22T06:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T07:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881953829325062473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/misakixyg/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/misakixyg/status/1881950601380278483",
+              "start": 22,
+              "url": "https://t.co/H8WGeuA99D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881953829325062473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881950601380278483",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这时我如果表示支持寒，那将是绝杀（狗头保命 https://t.co/H8WGeuA99D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870442976377503744",
+        "conversation_id": "1881950601380278483",
+        "created_at": "2025-01-22T06:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T07:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881950601380278483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1878681729407356928",
+              "start": 6,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881950601380278483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "超级感谢祐穗@HYuusui1999 老师帮我画的头像！好喜欢，宝宝爱你！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 207,
+          "like_count": 2023,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 264
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T12:15:41.000Z",
+        "description": "三崎在极度奔溃中创建的第三个账号，大半夜把自己笑活",
+        "id": "1870442976377503744",
+        "name": "三崎三世（",
+        "pinned_tweet_id": "1872886111066046714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881949844493025281/hyY27X43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 562,
+          "like_count": 2618,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 888
+        },
+        "username": "misakixyg",
+        "verified": false
+      }
+    ]
+  }
+}

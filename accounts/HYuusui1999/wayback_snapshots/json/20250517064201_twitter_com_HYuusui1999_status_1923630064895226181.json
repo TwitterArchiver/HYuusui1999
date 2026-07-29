@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1923587093596602813",
+    "created_at": "2025-05-17T06:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T07:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923630064895226181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1766129619474993152",
+          "start": 0,
+          "username": "AcetateFrag"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923630064895226181",
+    "in_reply_to_user_id": "1766129619474993152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923587093596602813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcetateFrag 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1923587093596602813",
+        "created_at": "2025-05-17T06:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T07:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923630064895226181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1766129619474993152",
+              "start": 0,
+              "username": "AcetateFrag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923630064895226181",
+        "in_reply_to_user_id": "1766129619474993152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923587093596602813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcetateFrag 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766129619474993152",
+        "conversation_id": "1923587093596602813",
+        "created_at": "2025-05-17T03:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T04:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923587093596602813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923587093596602813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请大家离屏幕远一点！\n小a感冒了(＞﹏＜) 会传染的..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 973,
+          "like_count": 19386,
+          "listed_count": 6,
+          "media_count": 189,
+          "tweet_count": 4232
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T15:52:00.000Z",
+        "description": "你好～ 请叫我小a就好。小a独处好久，变成了笨蛋。请多陪小a说话(很可爱的)。青石姐姐@qingshixiang258/超可爱的j酱@kkblm_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "qingshixiang258"
+              },
+              {
+                "end": 73,
+                "start": 66,
+                "username": "kkblm_"
+              }
+            ]
+          }
+        },
+        "id": "1766129619474993152",
+        "name": "Acetate🍰",
+        "pinned_tweet_id": "1881722587975479448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919249348539633664/Mt1vI-Oz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 171,
+          "like_count": 1389,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 769
+        },
+        "username": "AcetateFrag",
+        "verified": false
+      }
+    ]
+  }
+}

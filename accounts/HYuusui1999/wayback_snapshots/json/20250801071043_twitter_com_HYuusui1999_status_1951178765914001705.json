@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1950882583174324224"
+      ],
+      "media_source_tweet_id": [
+        "1950882639025774765"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1951178765914001705",
+    "created_at": "2025-08-01T07:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T08:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951178765914001705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703327595327307776",
+          "start": 3,
+          "username": "samokasu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NAHHBNNMx6",
+          "end": 50,
+          "expanded_url": "https://x.com/samokasu/status/1950882639025774765/video/1",
+          "media_key": "13_1950882583174324224",
+          "start": 27,
+          "url": "https://t.co/NAHHBNNMx6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951178765914001705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8142
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950882639025774765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @samokasu: 花火撮ってたら奇跡起きた https://t.co/NAHHBNNMx6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6331,
+        "height": 570,
+        "media_key": "13_1950882583174324224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1950882583174324224/img/7Z1-QGeltlFCro2y.jpg",
+        "public_metrics": {
+          "view_count": 826716
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950882583174324224/vid/avc1/376x270/vTyWS_COaGlNf1ao.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950882583174324224/vid/avc1/500x360/k6ph9ouWwYe79jLj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950882583174324224/vid/avc1/794x570/Rb60LbuQ6-Psy0T1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1950882583174324224/pl/Jn3zZWa6WFl7Nk7W.m3u8"
+          }
+        ],
+        "width": 794
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1950882583174324224"
+          ],
+          "media_source_tweet_id": [
+            "1950882639025774765"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1951178765914001705",
+        "created_at": "2025-08-01T07:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T08:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951178765914001705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703327595327307776",
+              "start": 3,
+              "username": "samokasu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NAHHBNNMx6",
+              "end": 50,
+              "expanded_url": "https://x.com/samokasu/status/1950882639025774765/video/1",
+              "media_key": "13_1950882583174324224",
+              "start": 27,
+              "url": "https://t.co/NAHHBNNMx6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951178765914001705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8142
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950882639025774765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @samokasu: 花火撮ってたら奇跡起きた https://t.co/NAHHBNNMx6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1950882583174324224"
+          ]
+        },
+        "author_id": "1703327595327307776",
+        "conversation_id": "1950882639025774765",
+        "created_at": "2025-07-31T11:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T12:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950882639025774765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NAHHBNNMx6",
+              "end": 36,
+              "expanded_url": "https://x.com/samokasu/status/1950882639025774765/video/1",
+              "media_key": "13_1950882583174324224",
+              "start": 13,
+              "url": "https://t.co/NAHHBNNMx6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950882639025774765",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10190,
+          "impression_count": 2128922,
+          "like_count": 92873,
+          "quote_count": 248,
+          "reply_count": 148,
+          "retweet_count": 8142
+        },
+        "reply_settings": "everyone",
+        "text": "花火撮ってたら奇跡起きた https://t.co/NAHHBNNMx6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 1451,
+          "like_count": 27173,
+          "listed_count": 5,
+          "media_count": 235,
+          "tweet_count": 6710
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-17T08:38:48.000Z",
+        "description": "ツイ廃界隈｜サブ @samokasu2・鍵 @samoyuru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "samokasu2"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "samoyuru"
+              }
+            ]
+          }
+        },
+        "id": "1703327595327307776",
+        "name": "さもカス",
+        "pinned_tweet_id": "1936389066549051559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947592828735131648/u8SUlvZg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25594,
+          "following_count": 344,
+          "like_count": 10462,
+          "listed_count": 28,
+          "media_count": 854,
+          "tweet_count": 6051
+        },
+        "username": "samokasu",
+        "verified": false
+      }
+    ]
+  }
+}

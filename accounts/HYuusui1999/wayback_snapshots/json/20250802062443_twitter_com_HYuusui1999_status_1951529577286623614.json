@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1951497319972561369",
+    "created_at": "2025-08-02T06:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T07:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951529577286623614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/misamaru_kimon…",
+          "end": 37,
+          "expanded_url": "https://x.com/misamaru_kimono/status/1891424484625612857",
+          "start": 14,
+          "url": "https://t.co/bRJAsaexUB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951529577286623614",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891424484625612857",
+        "type": "quoted"
+      },
+      {
+        "id": "1951497319972561369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu 试试（\nhttps://t.co/bRJAsaexUB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1891424480616226816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gj-wiz6boAAJmmg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1951497299202547712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxUcdEMaIAAIgXi.jpg",
+        "width": 1593
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1951497319972561369",
+        "created_at": "2025-08-02T06:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T07:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951529577286623614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/misamaru_kimon…",
+              "end": 37,
+              "expanded_url": "https://x.com/misamaru_kimono/status/1891424484625612857",
+              "start": 14,
+              "url": "https://t.co/bRJAsaexUB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951529577286623614",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891424484625612857",
+            "type": "quoted"
+          },
+          {
+            "id": "1951497319972561369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 试试（\nhttps://t.co/bRJAsaexUB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891424480616226816"
+          ]
+        },
+        "author_id": "1796608342858792961",
+        "conversation_id": "1891424484625612857",
+        "created_at": "2025-02-17T09:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T10:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891424484625612857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j4GsepLvHV",
+              "end": 137,
+              "expanded_url": "https://x.com/misamaru_kimono/status/1891424484625612857/photo/1",
+              "media_key": "3_1891424480616226816",
+              "start": 114,
+              "url": "https://t.co/j4GsepLvHV"
+            },
+            {
+              "display_url": "x.com/misamaru_kimon…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/misamaru_kimono/status/1891094506457481688",
+              "start": 138,
+              "url": "https://t.co/pbUQStgvoA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891424484625612857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16536,
+          "impression_count": 4303285,
+          "like_count": 47959,
+          "quote_count": 788,
+          "reply_count": 32,
+          "retweet_count": 7665
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891094506457481688",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突然フォロワー様が増えたり凄い勢いで商品が売れるようになって驚いています…！\nいつも本当に本当にありがとうございます。\n今後も皆様に喜んでいただけるようなかっこいい製品作りに努めてまいります。\nどうぞよろしくお願いいたします。 https://t.co/j4GsepLvHV https://t.co/pbUQStgvoA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951497299202547712"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "conversation_id": "1951497319972561369",
+        "created_at": "2025-08-02T04:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T05:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951497319972561369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ntkoNzB5K0",
+              "end": 72,
+              "expanded_url": "https://x.com/AcboxLiu/status/1951497319972561369/photo/1",
+              "media_key": "3_1951497299202547712",
+              "start": 49,
+              "url": "https://t.co/ntkoNzB5K0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951497319972561369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1139,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "优衣库薅了件连衣裙回来\n外面套淡黄衣服\n我发现我好多穿搭都是对比度鲜明的淡彩色\n好想换个风格（x https://t.co/ntkoNzB5K0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 1474,
+          "like_count": 27548,
+          "listed_count": 5,
+          "media_count": 239,
+          "tweet_count": 6787
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "💻开源开发/全栈&LLM&UI&UX/EN: @acbox_lol/写代码的小女孩🍥/想要成为人类的小阿斯/大湾区移民/Building EchoAI/Founder of @bijon_ai/🐱Github: sheepbox8646/🚇轨道交通/🧭@sciuxkit @bugduckteam",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "acbox_lol"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "bijon_ai"
+              },
+              {
+                "end": 135,
+                "start": 126,
+                "username": "sciuxkit"
+              },
+              {
+                "end": 148,
+                "start": 136,
+                "username": "bugduckteam"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvKAZ"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳-廣州-香港",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1948992558572433831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926469991936733184/Y4W4X94i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5299,
+          "following_count": 3107,
+          "like_count": 2500,
+          "listed_count": 17,
+          "media_count": 833,
+          "tweet_count": 4292
+        },
+        "url": "https://t.co/mRP5RDvKAZ",
+        "username": "AcboxLiu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T18:23:36.000Z",
+        "description": "和装に更なる「可能性」と「選択」をーー。着付けや帯結びができなくても着れるイージーケアなファッションとしての和装の提案。全品送料無料（沖縄・離島・国外除く）。Direction→みさまる （@misamaru_boc） #MISAMARU 衣装協力他問い合わせはboc.boc.kimono@gmail.comまで。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 119,
+                "start": 110,
+                "tag": "MISAMARU"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 108,
+                "start": 95,
+                "username": "misamaru_boc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "misamaru04.base.shop",
+                "end": 23,
+                "expanded_url": "https://misamaru04.base.shop",
+                "start": 0,
+                "url": "https://t.co/TjeSoSSLPt"
+              }
+            ]
+          }
+        },
+        "id": "1796608342858792961",
+        "location": "株式会社ＭＩＳＡＭＡＲＵ",
+        "name": "MISAMARU",
+        "pinned_tweet_id": "1891424484625612857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796608782598094848/5I10zKzO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58341,
+          "following_count": 669,
+          "like_count": 12896,
+          "listed_count": 292,
+          "media_count": 710,
+          "tweet_count": 2960
+        },
+        "url": "https://t.co/TjeSoSSLPt",
+        "username": "misamaru_kimono",
+        "verified": true
+      }
+    ]
+  }
+}

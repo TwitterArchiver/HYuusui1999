@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1878104959193141732",
+    "created_at": "2025-01-15T05:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T06:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879399456355008560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1681716872415440896",
+          "start": 0,
+          "username": "Kirayoumiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879399456355008560",
+    "in_reply_to_user_id": "1681716872415440896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879380642838053368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirayoumiya 谢谢哦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1878104959193141732",
+        "created_at": "2025-01-15T05:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T06:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879399456355008560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1681716872415440896",
+              "start": 0,
+              "username": "Kirayoumiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879399456355008560",
+        "in_reply_to_user_id": "1681716872415440896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879380642838053368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirayoumiya 谢谢哦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681716872415440896",
+        "conversation_id": "1878104959193141732",
+        "created_at": "2025-01-15T04:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T05:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879380642838053368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879380642838053368",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879377604983263357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 宝宝我身边好像没有这样的人诶，不过有因为抑郁休学的。我的感觉是尽可能陪在TA身边和TA多说说话，他们非常需要沟通的渠道，说什么都行。然后对医学和用药的建议保持绝对谨慎，自己不确定的话不要随便告诉他们。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "",
+        "id": "1878681729407356928",
+        "name": "祐穂・H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 51,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 30
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-19T17:25:30.000Z",
+        "description": "可以把这里当树洞哦",
+        "id": "1681716872415440896",
+        "name": "Kirayoumiya",
+        "pinned_tweet_id": "1878104959193141732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828404677039554561/SUV17_Q__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 499,
+          "like_count": 1661,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1001
+        },
+        "username": "Kirayoumiya",
+        "verified": false
+      }
+    ]
+  }
+}

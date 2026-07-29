@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993610742298288128",
+        "3_1993610742822555648"
+      ],
+      "media_source_tweet_id": [
+        "1993610753983861069",
+        "1993610753983861069"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1993623561949577503",
+    "created_at": "2025-11-26T10:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T11:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993623561949577503"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 13,
+          "tag": "N552AA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1512976991976402949",
+          "start": 3,
+          "username": "bghtnya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v92QOB6fQW",
+          "end": 135,
+          "expanded_url": "https://x.com/bghtnya/status/1993610753983861069/photo/1",
+          "media_key": "3_1993610742298288128",
+          "start": 112,
+          "url": "https://t.co/v92QOB6fQW"
+        },
+        {
+          "display_url": "pic.x.com/v92QOB6fQW",
+          "end": 135,
+          "expanded_url": "https://x.com/bghtnya/status/1993610753983861069/photo/1",
+          "media_key": "3_1993610742822555648",
+          "start": 112,
+          "url": "https://t.co/v92QOB6fQW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993623561949577503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993610753983861069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bghtnya: #N552AA 事件后续\n她本人女朋友（wx名：妍）说了自己根本没去icu，而是被家长强制抓去洗胃\n进一步证明了我的推测完全合理，那点药量不可能进icu\n而ill账号被控制 发的内容严重脱离实际喵 https://t.co/v92QOB6fQW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993610742298288128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6q6aFMXoAAc1yx.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993610742822555648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6q6aHJXUAAc9gD.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993610742298288128",
+            "3_1993610742822555648"
+          ],
+          "media_source_tweet_id": [
+            "1993610753983861069",
+            "1993610753983861069"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1993623561949577503",
+        "created_at": "2025-11-26T10:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T11:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993623561949577503"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "N552AA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1512976991976402949",
+              "start": 3,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v92QOB6fQW",
+              "end": 135,
+              "expanded_url": "https://x.com/bghtnya/status/1993610753983861069/photo/1",
+              "media_key": "3_1993610742298288128",
+              "start": 112,
+              "url": "https://t.co/v92QOB6fQW"
+            },
+            {
+              "display_url": "pic.x.com/v92QOB6fQW",
+              "end": 135,
+              "expanded_url": "https://x.com/bghtnya/status/1993610753983861069/photo/1",
+              "media_key": "3_1993610742822555648",
+              "start": 112,
+              "url": "https://t.co/v92QOB6fQW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993623561949577503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993610753983861069",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bghtnya: #N552AA 事件后续\n她本人女朋友（wx名：妍）说了自己根本没去icu，而是被家长强制抓去洗胃\n进一步证明了我的推测完全合理，那点药量不可能进icu\n而ill账号被控制 发的内容严重脱离实际喵 https://t.co/v92QOB6fQW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993610742298288128",
+            "3_1993610742822555648"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1993610753983861069",
+        "created_at": "2025-11-26T09:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T10:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993610753983861069"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "N552AA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v92QOB6fQW",
+              "end": 122,
+              "expanded_url": "https://x.com/bghtnya/status/1993610753983861069/photo/1",
+              "media_key": "3_1993610742298288128",
+              "start": 99,
+              "url": "https://t.co/v92QOB6fQW"
+            },
+            {
+              "display_url": "pic.x.com/v92QOB6fQW",
+              "end": 122,
+              "expanded_url": "https://x.com/bghtnya/status/1993610753983861069/photo/1",
+              "media_key": "3_1993610742822555648",
+              "start": 99,
+              "url": "https://t.co/v92QOB6fQW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993610753983861069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 327,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "#N552AA 事件后续\n她本人女朋友（wx名：妍）说了自己根本没去icu，而是被家长强制抓去洗胃\n进一步证明了我的推测完全合理，那点药量不可能进icu\n而ill账号被控制 发的内容严重脱离实际喵 https://t.co/v92QOB6fQW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 2452,
+          "like_count": 40414,
+          "listed_count": 5,
+          "media_count": 302,
+          "tweet_count": 9819
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8230,
+          "following_count": 2112,
+          "like_count": 169946,
+          "listed_count": 20,
+          "media_count": 3487,
+          "tweet_count": 43099
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

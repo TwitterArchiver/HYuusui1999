@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1939613484502954204",
+    "created_at": "2025-06-30T11:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T12:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939648484392734875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682428492078788608",
+          "start": 0,
+          "username": "shiroko486318"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939648484392734875",
+    "in_reply_to_user_id": "1682428492078788608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939613484502954204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiroko486318 我也"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1939613484502954204",
+        "created_at": "2025-06-30T11:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T12:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939648484392734875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682428492078788608",
+              "start": 0,
+              "username": "shiroko486318"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939648484392734875",
+        "in_reply_to_user_id": "1682428492078788608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939613484502954204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiroko486318 我也"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682428492078788608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1939613484502954204",
+        "created_at": "2025-06-30T09:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T10:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939613484502954204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/avogado6/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/avogado6/status/1939613243791811021",
+              "start": 4,
+              "url": "https://t.co/acN0U6fiju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939613484502954204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939613243791811021",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "窝想买 https://t.co/acN0U6fiju"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yvjue0189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yvjue0189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 1246,
+          "like_count": 23377,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 5619
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T16:33:21.000Z",
+        "description": "08|Wuhan|类人生物|EnOK|MtF|HRT240714|炸柜|小号@ARIAS114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "ARIAS114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioko11451419…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioko1145141919810",
+                "start": 0,
+                "url": "https://t.co/XGIERxMtx3"
+              }
+            ]
+          }
+        },
+        "id": "1682428492078788608",
+        "location": "OM70##",
+        "name": "和摇滚的你说拜拜",
+        "pinned_tweet_id": "1938795641771302991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848445710074576897/3b6_fS1U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 700,
+          "like_count": 1447,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 2244
+        },
+        "url": "https://t.co/XGIERxMtx3",
+        "username": "shiroko486318",
+        "verified": false
+      }
+    ]
+  }
+}

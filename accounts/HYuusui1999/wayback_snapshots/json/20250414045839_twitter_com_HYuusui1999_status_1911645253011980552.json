@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1911645253011980552",
+    "created_at": "2025-04-14T04:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T05:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911645253011980552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1620322708994068481",
+          "start": 3,
+          "username": "jinsenala"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911645253011980552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911609243507314707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jinsenala: 昨天被家暴了，手指被掰肿，拿输液器针头扎指甲缝，手机和药都没收了（今天早上把手机偷偷拿回来了），只剩下一周量的色和垫底的凝胶了，全身上下只剩800金币（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1911645253011980552",
+        "created_at": "2025-04-14T04:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T05:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911645253011980552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1620322708994068481",
+              "start": 3,
+              "username": "jinsenala"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911645253011980552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911609243507314707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jinsenala: 昨天被家暴了，手指被掰肿，拿输液器针头扎指甲缝，手机和药都没收了（今天早上把手机偷偷拿回来了），只剩下一周量的色和垫底的凝胶了，全身上下只剩800金币（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620322708994068481",
+        "conversation_id": "1911609243507314707",
+        "created_at": "2025-04-14T02:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T03:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911609243507314707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jinsenala/stat…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/jinsenala/status/1911591723752632675",
+              "start": 77,
+              "url": "https://t.co/5gk7JMwlZE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911609243507314707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911591723752632675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天被家暴了，手指被掰肿，拿输液器针头扎指甲缝，手机和药都没收了（今天早上把手机偷偷拿回来了），只剩下一周量的色和垫底的凝胶了，全身上下只剩800金币（ https://t.co/5gk7JMwlZE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1910694220186476904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 722,
+          "like_count": 15241,
+          "listed_count": 6,
+          "media_count": 133,
+          "tweet_count": 2932
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T07:27:34.000Z",
+        "description": "时间流逝吧，你是多么的残酷｜\n对那菈最好最好超级好的姐姐！@Puddingbs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "Puddingbs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jinsenala",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jinsenala",
+                "start": 0,
+                "url": "https://t.co/hD2vn4klWw"
+              }
+            ]
+          }
+        },
+        "id": "1620322708994068481",
+        "location": "终之空",
+        "name": "金色那菈🏳️‍⚧️",
+        "pinned_tweet_id": "1908974040947331153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819587398030053378/F0OxzlKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 490,
+          "like_count": 1430,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 935
+        },
+        "url": "https://t.co/hD2vn4klWw",
+        "username": "jinsenala",
+        "verified": false
+      }
+    ]
+  }
+}

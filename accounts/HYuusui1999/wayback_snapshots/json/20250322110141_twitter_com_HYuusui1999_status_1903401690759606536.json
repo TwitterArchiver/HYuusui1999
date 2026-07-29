@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1903391875542962618",
+    "created_at": "2025-03-22T11:01:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T12:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903401690759606536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1372184630753853444",
+          "start": 0,
+          "username": "2temisinin"
+        },
+        {
+          "end": 24,
+          "id": "1383329877588250628",
+          "start": 12,
+          "username": "donggua7021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903401690759606536",
+    "in_reply_to_user_id": "1372184630753853444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903401515332854220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2temisinin @donggua7021 是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1903391875542962618",
+        "created_at": "2025-03-22T11:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T12:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903401690759606536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1372184630753853444",
+              "start": 0,
+              "username": "2temisinin"
+            },
+            {
+              "end": 24,
+              "id": "1383329877588250628",
+              "start": 12,
+              "username": "donggua7021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903401690759606536",
+        "in_reply_to_user_id": "1372184630753853444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903401515332854220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2temisinin @donggua7021 是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372184630753853444",
+        "conversation_id": "1903391875542962618",
+        "created_at": "2025-03-22T11:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T12:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903401515332854220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            },
+            {
+              "end": 25,
+              "id": "1383329877588250628",
+              "start": 13,
+              "username": "donggua7021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903401515332854220",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903400960585822592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 @donggua7021 是，所以确实是很能理解bot为什么会这么说。不过我还是倾向于言论的发表和bot转发本身相对的隔离，不然有的时候bot的言论让一些人反感屏蔽什么的，转发扩散作用反而就没了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1903296770777682232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 514,
+          "like_count": 11564,
+          "listed_count": 6,
+          "media_count": 97,
+          "tweet_count": 1688
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T13:54:56.000Z",
+        "description": "最爱@haku_dabai｜可以叫我鸮｜ 家长党小证MtF🏳️‍⚧️｜ Wuhan生科大一休学 ，业余药理学习中｜PCB、尼康用户、电台呼号BH6RQG｜彩虹六号、Noita、MC｜代为めんま保存追悼账号🕯️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "haku_dabai"
+              }
+            ]
+          }
+        },
+        "id": "1372184630753853444",
+        "location": "罗德岛",
+        "name": "氯鸮西泮",
+        "pinned_tweet_id": "1894930997873127616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894978786338222080/ksYWNZSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2394,
+          "following_count": 1514,
+          "like_count": 27035,
+          "listed_count": 3,
+          "media_count": 208,
+          "tweet_count": 2324
+        },
+        "username": "2temisinin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T08:02:07.000Z",
+        "description": "od抑郁焦虑失眠割手阴暗文艺自慰骑公路车拍交通工具钓台钓的失败做题蛆，男的，不准骂我，骂我紫砂｜ 更多戳链接/me@dgtea.site https://t.co/qtrap3LUQh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "keys.openpgp.org",
+                "end": 92,
+                "expanded_url": "http://keys.openpgp.org",
+                "start": 69,
+                "url": "https://t.co/qtrap3LUQh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dgtea.site/about",
+                "end": 23,
+                "expanded_url": "https://dgtea.site/about",
+                "start": 0,
+                "url": "https://t.co/7HEmI9i6yo"
+              }
+            ]
+          }
+        },
+        "id": "1383329877588250628",
+        "location": "OL63",
+        "name": "星云冬瓜",
+        "pinned_tweet_id": "1901171986107428967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902953567172100096/XFll-_KU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 741,
+          "like_count": 20140,
+          "listed_count": 2,
+          "media_count": 1012,
+          "tweet_count": 7680
+        },
+        "url": "https://t.co/7HEmI9i6yo",
+        "username": "donggua7021",
+        "verified": false
+      }
+    ]
+  }
+}

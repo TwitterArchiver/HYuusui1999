@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2021907285531144673",
+    "created_at": "2026-02-12T11:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021907285531144673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1927618351733657600",
+          "start": 3,
+          "username": "BaiChuan202505"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021907285531144673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021877312044900630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BaiChuan202505: 我想我需要帮助，问题一个一个叠加，交完房租就受伤住院，又因有伤无法工作被辞退，被迫离开这个城市，想退房押金不给退，还浪费一个月的房租，\n过年计划在住院后，到现在什么到现在什么都没有，工作也没有了，只有吃不完的安眠药，我需要逃离西格玛高原，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1052,
+        "media_key": "3_2021877308840456194",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8mszTbsAIlf5e.jpg",
+        "width": 1052
+      },
+      {
+        "height": 1338,
+        "media_key": "3_2021877308798423040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8mszJaUAAx6sE.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2021907285531144673",
+        "created_at": "2026-02-12T11:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021907285531144673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1927618351733657600",
+              "start": 3,
+              "username": "BaiChuan202505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021907285531144673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021877312044900630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BaiChuan202505: 我想我需要帮助，问题一个一个叠加，交完房租就受伤住院，又因有伤无法工作被辞退，被迫离开这个城市，想退房押金不给退，还浪费一个月的房租，\n过年计划在住院后，到现在什么到现在什么都没有，工作也没有了，只有吃不完的安眠药，我需要逃离西格玛高原，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021877308840456194",
+            "3_2021877308798423040"
+          ]
+        },
+        "author_id": "1927618351733657600",
+        "conversation_id": "2021877312044900630",
+        "created_at": "2026-02-12T09:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021877312044900630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WMXIXHCAdV",
+              "end": 143,
+              "expanded_url": "https://x.com/BaiChuan202505/status/2021877312044900630/photo/1",
+              "media_key": "3_2021877308840456194",
+              "start": 120,
+              "url": "https://t.co/WMXIXHCAdV"
+            },
+            {
+              "display_url": "pic.x.com/WMXIXHCAdV",
+              "end": 143,
+              "expanded_url": "https://x.com/BaiChuan202505/status/2021877312044900630/photo/1",
+              "media_key": "3_2021877308798423040",
+              "start": 120,
+              "url": "https://t.co/WMXIXHCAdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021877312044900630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想我需要帮助，问题一个一个叠加，交完房租就受伤住院，又因有伤无法工作被辞退，被迫离开这个城市，想退房押金不给退，还浪费一个月的房租，\n过年计划在住院后，到现在什么到现在什么都没有，工作也没有了，只有吃不完的安眠药，我需要逃离西格玛高原， https://t.co/WMXIXHCAdV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 2948,
+          "like_count": 43308,
+          "listed_count": 6,
+          "media_count": 364,
+          "tweet_count": 10856
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T06:50:22.000Z",
+        "description": "长的凶，说话刻薄，xp奇怪",
+        "id": "1927618351733657600",
+        "name": "不善言辞",
+        "pinned_tweet_id": "2021877312044900630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927665929279967232/LYNDsqkz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 2686,
+          "like_count": 306,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 398
+        },
+        "username": "BaiChuan202505",
+        "verified": false
+      }
+    ]
+  }
+}

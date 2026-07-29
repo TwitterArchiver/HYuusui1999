@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1988829018200613206",
+    "created_at": "2025-11-13T04:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T05:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988829018200613206"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/y0zarashi/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/y0zarashi/status/1988798523547205905",
+          "start": 17,
+          "url": "https://t.co/LeLGu6mUGF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988829018200613206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988798523547205905",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "yozarashi仍然保持其特性 https://t.co/LeLGu6mUGF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1988829018200613206",
+        "created_at": "2025-11-13T04:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T05:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988829018200613206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/y0zarashi/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/y0zarashi/status/1988798523547205905",
+              "start": 17,
+              "url": "https://t.co/LeLGu6mUGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988829018200613206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988798523547205905",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "yozarashi仍然保持其特性 https://t.co/LeLGu6mUGF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811690667720212480",
+        "conversation_id": "1988637964037951578",
+        "created_at": "2025-11-13T02:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T03:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988798523547205905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778696847563104256",
+              "start": 0,
+              "username": "gold_bihu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988798523547205905",
+        "in_reply_to_user_id": "1778696847563104256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988777650819932662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gold_bihu 没有呀，你要问柏树啊，为什么我只是简单跟他父母讲一下你女儿在背后蛐蛐？自己全家就要拉黑我了呢\n没吃上饭喊饿，吃完饭骂娘，我比较好奇为什么他会认为自己是一个天生的骚逼，我让他们父母来管教一下自己的女儿，有什么问题？这叫打小报告吗？这也不是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 2372,
+          "like_count": 39310,
+          "listed_count": 6,
+          "media_count": 296,
+          "tweet_count": 9465
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "不术无糖 mtf  不是很喜欢顺女  厌女  女的滚！我是跨男，已做手术是术后党，不要在我的帖子下面谈论政治。不玩网，已退网，我要重新开始我的新生活 ，谢谢！ 不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深。",
+        "id": "1811690667720212480",
+        "location": "我被吴思嫣绿了",
+        "name": "yozarashi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1987869272740421724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980652601982029824/9-ar12mL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 107,
+          "like_count": 26,
+          "listed_count": 6,
+          "media_count": 490,
+          "tweet_count": 2982
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

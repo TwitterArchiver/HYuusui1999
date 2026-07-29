@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1890622653397909569",
+    "created_at": "2025-02-15T08:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T09:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890676348751876567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1875932119274541056",
+          "start": 0,
+          "username": "tuanyuehuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890676348751876567",
+    "in_reply_to_user_id": "1875932119274541056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890676062851416558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuanyuehuan 谢谢哦(￣▽￣)\n您也加油o(｀ω´ )o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1890622653397909569",
+        "created_at": "2025-02-15T08:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T09:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890676348751876567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1875932119274541056",
+              "start": 0,
+              "username": "tuanyuehuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890676348751876567",
+        "in_reply_to_user_id": "1875932119274541056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890676062851416558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuanyuehuan 谢谢哦(￣▽￣)\n您也加油o(｀ω´ )o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890676052701442048"
+          ]
+        },
+        "author_id": "1875932119274541056",
+        "conversation_id": "1890622653397909569",
+        "created_at": "2025-02-15T08:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T09:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890676062851416558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b4rlRmTTUT",
+              "end": 36,
+              "expanded_url": "https://x.com/tuanyuehuan/status/1890676062851416558/photo/1",
+              "media_key": "3_1890676052701442048",
+              "start": 13,
+              "url": "https://t.co/b4rlRmTTUT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890676062851416558",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890671898050072760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 https://t.co/b4rlRmTTUT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1885940576446808416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 346,
+          "like_count": 6889,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 843
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T15:47:54.000Z",
+        "description": "［說明書］\n\n簡稱：湍月幻\n\n主要成分：電波系/二次元/東方project/寒蝉/sayo教/vocaloid/化学 (?)/诗词（也许）\n\n使用方法及注意事項：恋爱中私信勿扰（正常聊天和互关可）｜偶尔会瑟瑟｜回避依恋｜不加vx｜不线下｜精神有问题\n\n(๑╹ヮ╹๑)ﾉ",
+        "id": "1875932119274541056",
+        "location": "愛と妄想の天国の最上階",
+        "name": "=湍月鏡像虛幻天使×",
+        "pinned_tweet_id": "1886212606375211279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877565006734307328/Wm-PnaWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 59,
+          "like_count": 223,
+          "listed_count": 7,
+          "media_count": 56,
+          "tweet_count": 264
+        },
+        "username": "tuanyuehuan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1939715552794259936",
+    "created_at": "2025-07-01T08:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T09:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939963625118011442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1647563424996442114",
+          "start": 0,
+          "username": "isaac_eins"
+        },
+        {
+          "end": 26,
+          "id": "1352236267124129796",
+          "start": 12,
+          "username": "Ubrxkdfklvdnl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939963625118011442",
+    "in_reply_to_user_id": "1647563424996442114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939732817661108247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isaac_eins @Ubrxkdfklvdnl 所以是谁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1939715552794259936",
+        "created_at": "2025-07-01T08:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T09:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939963625118011442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1647563424996442114",
+              "start": 0,
+              "username": "isaac_eins"
+            },
+            {
+              "end": 26,
+              "id": "1352236267124129796",
+              "start": 12,
+              "username": "Ubrxkdfklvdnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939963625118011442",
+        "in_reply_to_user_id": "1647563424996442114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939732817661108247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isaac_eins @Ubrxkdfklvdnl 所以是谁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647563424996442114",
+        "conversation_id": "1939715552794259936",
+        "created_at": "2025-06-30T17:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T18:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939732817661108247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1352236267124129796",
+              "start": 0,
+              "username": "Ubrxkdfklvdnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939732817661108247",
+        "in_reply_to_user_id": "1352236267124129796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 702,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939715552794259936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ubrxkdfklvdnl 幸好和老师有私信记录（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yvjue0189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yvjue0189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 1269,
+          "like_count": 23598,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 5683
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T11:32:03.000Z",
+        "description": "Filled on 29.5.2023 | Find someone to gossip with after 16:00 UTC | Alternative: @isaac_dreis | Bad mood: @isaac_nul",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "isaac_dreis"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "isaac_nul"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ian51592",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ian51592",
+                "start": 0,
+                "url": "https://t.co/OqTGhA318o"
+              }
+            ]
+          }
+        },
+        "id": "1647563424996442114",
+        "name": "我宣布Isaac Einstein是古希腊赶得上车的掌管优惠券的神！！！",
+        "pinned_tweet_id": "1799475286083530889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647564411576496129/hz65Frlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2882,
+          "following_count": 1721,
+          "like_count": 56377,
+          "listed_count": 5,
+          "media_count": 1859,
+          "tweet_count": 39291
+        },
+        "url": "https://t.co/OqTGhA318o",
+        "username": "isaac_eins",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-21T12:47:17.000Z",
+        "description": "U2FsdGVkX1/WAEL6vL8ZgdUPKlYQSWrwP2/xPgkjhu1aT86/74YZml1a8wIRIhC4\nE/P3v6KAMnDtNDsGrTJWq0QLGYCjI4yNSOZkiYudTJJE+5kMYzAX8lt11f9gpk70\nxm1v/J1Fi4L2GI4wewyp0g==",
+        "id": "1352236267124129796",
+        "location": "UTF-8/DES",
+        "name": "???亙嚗?",
+        "pinned_tweet_id": "1893253658776617140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939540850725515264/t6fdP8TR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2683,
+          "following_count": 1500,
+          "like_count": 50146,
+          "listed_count": 5,
+          "media_count": 484,
+          "tweet_count": 10307
+        },
+        "username": "Ubrxkdfklvdnl",
+        "verified": false
+      }
+    ]
+  }
+}

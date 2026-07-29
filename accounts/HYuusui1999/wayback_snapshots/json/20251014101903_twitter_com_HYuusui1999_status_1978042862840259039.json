@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977323716431544320"
+      ],
+      "media_source_tweet_id": [
+        "1977323719120093420"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1978042862840259039",
+    "created_at": "2025-10-14T10:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T11:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978042862840259039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1813191847264854019",
+          "start": 3,
+          "username": "hhngki7292924"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z1QM7ZPRHV",
+          "end": 47,
+          "expanded_url": "https://x.com/hhngki7292924/status/1977323719120093420/photo/1",
+          "media_key": "3_1977323716431544320",
+          "start": 24,
+          "url": "https://t.co/z1QM7ZPRHV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978042862840259039",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977323719120093420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hhngki7292924: 笑死我了 https://t.co/z1QM7ZPRHV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977323716431544320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3DdcZvbgAAkhLu.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977323716431544320"
+          ],
+          "media_source_tweet_id": [
+            "1977323719120093420"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1978042862840259039",
+        "created_at": "2025-10-14T10:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T11:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978042862840259039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1813191847264854019",
+              "start": 3,
+              "username": "hhngki7292924"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z1QM7ZPRHV",
+              "end": 47,
+              "expanded_url": "https://x.com/hhngki7292924/status/1977323719120093420/photo/1",
+              "media_key": "3_1977323716431544320",
+              "start": 24,
+              "url": "https://t.co/z1QM7ZPRHV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978042862840259039",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977323719120093420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hhngki7292924: 笑死我了 https://t.co/z1QM7ZPRHV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977323716431544320"
+          ]
+        },
+        "author_id": "1813191847264854019",
+        "conversation_id": "1977323719120093420",
+        "created_at": "2025-10-12T10:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T11:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977323719120093420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z1QM7ZPRHV",
+              "end": 28,
+              "expanded_url": "https://x.com/hhngki7292924/status/1977323719120093420/photo/1",
+              "media_key": "3_1977323716431544320",
+              "start": 5,
+              "url": "https://t.co/z1QM7ZPRHV"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "3b77caf94bfc81fe"
+        },
+        "id": "1977323719120093420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 137782,
+          "like_count": 1429,
+          "quote_count": 6,
+          "reply_count": 100,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "笑死我了 https://t.co/z1QM7ZPRHV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 2098,
+          "like_count": 35509,
+          "listed_count": 6,
+          "media_count": 284,
+          "tweet_count": 8780
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T12:40:39.000Z",
+        "description": "先活着吧，剩下的我再想办法。。。（戒od中。。。）对37很好很好的妈咪@qingshixiang258宝宝1ka酱@ElP15_🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 35,
+                "username": "qingshixiang258"
+              },
+              {
+                "end": 64,
+                "start": 57,
+                "username": "ElP15_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhngki7262624",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hhngki7262624",
+                "start": 0,
+                "url": "https://t.co/eTZfSf7jUs"
+              }
+            ]
+          }
+        },
+        "id": "1813191847264854019",
+        "location": "圣洛夫基金会",
+        "name": "37（😇）",
+        "pinned_tweet_id": "1975070210504958054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960006568197672961/LAGLusSI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 1121,
+          "like_count": 2481,
+          "listed_count": 6,
+          "media_count": 375,
+          "tweet_count": 4961
+        },
+        "url": "https://t.co/eTZfSf7jUs",
+        "username": "hhngki7292924",
+        "verified": false
+      }
+    ]
+  }
+}

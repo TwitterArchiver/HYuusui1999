@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1884818893144805567",
+    "created_at": "2025-01-30T10:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T11:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884907217582981157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874342758896304129",
+          "start": 0,
+          "username": "shinystarswave"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884907217582981157",
+    "in_reply_to_user_id": "1874342758896304129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884818893144805567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinystarswave 应当设计透气的战斗服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1884818893144805567",
+        "created_at": "2025-01-30T10:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T11:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884907217582981157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874342758896304129",
+              "start": 0,
+              "username": "shinystarswave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884907217582981157",
+        "in_reply_to_user_id": "1874342758896304129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884818893144805567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinystarswave 应当设计透气的战斗服"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884818884307386368"
+          ]
+        },
+        "author_id": "1874342758896304129",
+        "conversation_id": "1884818893144805567",
+        "created_at": "2025-01-30T04:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T05:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884818893144805567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uu2dXHTKwY",
+              "end": 23,
+              "expanded_url": "https://x.com/shinystarswave/status/1884818893144805567/photo/1",
+              "media_key": "3_1884818884307386368",
+              "start": 0,
+              "url": "https://t.co/Uu2dXHTKwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884818893144805567",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 76273,
+          "like_count": 1041,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Uu2dXHTKwY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 294,
+          "like_count": 4718,
+          "listed_count": 3,
+          "media_count": 41,
+          "tweet_count": 575
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T06:32:24.000Z",
+        "description": "如果我要告訴你，我是一個什麼樣的人, 我會用「一無是處」這個詞來形容。若能改變一切將化為黑暗，這樣的自己擁有未來嗎? 在這樣的世界我存在著嗎? 現在感到悲衝嗎? 自身之事也仍不了解，他人之事也不去了解，若是這樣的我也能夠改變。若是會感到悲傷，假如感到悲傷。我的心，是否能夠變得潔白？",
+        "id": "1874342758896304129",
+        "name": "星闪如潮",
+        "pinned_tweet_id": "1874351031733412033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874346972020133889/ueVR9qYB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 32,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 31
+        },
+        "username": "shinystarswave",
+        "verified": false
+      }
+    ]
+  }
+}

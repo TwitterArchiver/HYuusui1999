@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1912118859529871767",
+    "created_at": "2025-04-15T12:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T13:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912118859529871767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1814654715369816064",
+          "start": 3,
+          "username": "RosaritaCisner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912118859529871767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912117924438941800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RosaritaCisner: 一个牙有问题半边脸都好疼.. 有推荐的止痛吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1912118859529871767",
+        "created_at": "2025-04-15T12:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T13:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912118859529871767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1814654715369816064",
+              "start": 3,
+              "username": "RosaritaCisner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912118859529871767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912117924438941800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RosaritaCisner: 一个牙有问题半边脸都好疼.. 有推荐的止痛吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814654715369816064",
+        "conversation_id": "1912117924438941800",
+        "created_at": "2025-04-15T12:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T13:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912117924438941800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912117924438941800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一个牙有问题半边脸都好疼.. 有推荐的止痛吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1910694220186476904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 730,
+          "like_count": 15472,
+          "listed_count": 6,
+          "media_count": 135,
+          "tweet_count": 2998
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T13:33:15.000Z",
+        "description": "都是负能，反感拉黑",
+        "id": "1814654715369816064",
+        "name": "Yameii",
+        "pinned_tweet_id": "1912116917831114879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908060706609704963/3F3w2n0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 144,
+          "like_count": 1128,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 314
+        },
+        "username": "RosaritaCisner",
+        "verified": false
+      }
+    ]
+  }
+}

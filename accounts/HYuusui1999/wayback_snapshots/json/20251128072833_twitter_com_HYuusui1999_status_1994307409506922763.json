@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1993883619107168597",
+    "created_at": "2025-11-28T07:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T08:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994307409506922763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1515555922843738112",
+          "start": 0,
+          "username": "tara23369"
+        },
+        {
+          "end": 25,
+          "id": "1252001992328622080",
+          "start": 11,
+          "username": "osakasenshoku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/osakasenshoku/…",
+          "end": 49,
+          "expanded_url": "https://x.com/osakasenshoku/status/1718113393427747029?s=20",
+          "start": 26,
+          "url": "https://t.co/RcexFrSchx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994307409506922763",
+    "in_reply_to_user_id": "1515555922843738112",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1718113393427747029",
+        "type": "quoted"
+      },
+      {
+        "id": "1993970748738949145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tara23369 @osakasenshoku https://t.co/RcexFrSchx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38950,
+        "height": 1920,
+        "media_key": "13_1718112882024689664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1718112882024689664/img/bx-zctuHMyFD8PKE.jpg",
+        "public_metrics": {
+          "view_count": 1430
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1718112882024689664/vid/avc1/320x568/rcuj62jyR5psME-3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1718112882024689664/vid/avc1/480x852/60tqrSxkwVV5NTCJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1718112882024689664/vid/avc1/720x1280/69_juaCcexGTg81j.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1718112882024689664/pl/xdkw8B5dhXpvjI42.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1993883619107168597",
+        "created_at": "2025-11-28T07:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T08:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994307409506922763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1515555922843738112",
+              "start": 0,
+              "username": "tara23369"
+            },
+            {
+              "end": 25,
+              "id": "1252001992328622080",
+              "start": 11,
+              "username": "osakasenshoku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/osakasenshoku/…",
+              "end": 49,
+              "expanded_url": "https://x.com/osakasenshoku/status/1718113393427747029?s=20",
+              "start": 26,
+              "url": "https://t.co/RcexFrSchx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994307409506922763",
+        "in_reply_to_user_id": "1515555922843738112",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1718113393427747029",
+            "type": "quoted"
+          },
+          {
+            "id": "1993970748738949145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tara23369 @osakasenshoku https://t.co/RcexFrSchx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1718112882024689664"
+          ]
+        },
+        "author_id": "1252001992328622080",
+        "conversation_id": "1717810604931735962",
+        "created_at": "2023-10-28T03:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2023-10-28T04:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1718113393427747029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "709001325019684865",
+              "start": 0,
+              "username": "AoyagiSoushi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gz0RWtFFMU",
+              "end": 47,
+              "expanded_url": "https://x.com/osakasenshoku/status/1718113393427747029/video/1",
+              "media_key": "13_1718112882024689664",
+              "start": 24,
+              "url": "https://t.co/gz0RWtFFMU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1718113393427747029",
+        "in_reply_to_user_id": "709001325019684865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2669,
+          "like_count": 11,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1718105728794436034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AoyagiSoushi このようになります https://t.co/gz0RWtFFMU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515555922843738112",
+        "conversation_id": "1993883619107168597",
+        "created_at": "2025-11-27T09:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993970748738949145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1252001992328622080",
+              "start": 0,
+              "username": "osakasenshoku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993970748738949145",
+        "in_reply_to_user_id": "1252001992328622080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3444,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993883619107168597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@osakasenshoku 因为火是往上烧的。它不大会主动往下燃。如果把铁球放竹子下面，就符合事实了，当然也就会燃很快。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 2482,
+          "like_count": 40617,
+          "listed_count": 6,
+          "media_count": 302,
+          "tweet_count": 9879
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-17T05:01:14.000Z",
+        "description": "胜人者有力，自胜者强。",
+        "id": "1515555922843738112",
+        "location": "Shanghai China",
+        "name": "玉泉_tara",
+        "pinned_tweet_id": "1924850170644078788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888423084866101248/wq-kb5iS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 706,
+          "like_count": 29363,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 7635
+        },
+        "username": "tara23369",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-19T22:32:06.000Z",
+        "description": "SNS総再生3億回の「鉄球おじさん」こと4代目アトツギです。本業はエキスパンダーロールを造る超真面目な技術屋。その歴史を知る最後の企業です。エンタメと日本のガチ技術が混在するアカウントへようこそ。#エキスパンダーロール #鉄球おじさん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 98,
+                "tag": "エキスパンダーロール"
+              },
+              {
+                "end": 117,
+                "start": 110,
+                "tag": "鉄球おじさん"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "osm.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.osm.co.jp",
+                "start": 0,
+                "url": "https://t.co/I3TzOnUeMC"
+              }
+            ]
+          }
+        },
+        "id": "1252001992328622080",
+        "location": "大阪市西淀川区佃5-8-14",
+        "name": "大阪染織機械株式会社【公式】",
+        "pinned_tweet_id": "1639460392752791552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983444780593098752/z_2mILrO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42729,
+          "following_count": 1077,
+          "like_count": 11204,
+          "listed_count": 159,
+          "media_count": 2037,
+          "tweet_count": 6417
+        },
+        "url": "https://t.co/I3TzOnUeMC",
+        "username": "osakasenshoku",
+        "verified": true
+      }
+    ]
+  }
+}

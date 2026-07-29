@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1939711885198446816",
+    "created_at": "2025-07-01T02:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T03:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939880595615535217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867639848569372672",
+          "start": 0,
+          "username": "overdose_day"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939880595615535217",
+    "in_reply_to_user_id": "1867639848569372672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939711885198446816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_day well，治不好就禁\n看起来和你圈药物管制一个思路🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1826,
+        "media_key": "3_1939711882178482176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gus9rgfaUAA7tsR.jpg",
+        "width": 1069
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1939711885198446816",
+        "created_at": "2025-07-01T02:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T03:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939880595615535217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867639848569372672",
+              "start": 0,
+              "username": "overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939880595615535217",
+        "in_reply_to_user_id": "1867639848569372672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939711885198446816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_day well，治不好就禁\n看起来和你圈药物管制一个思路🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939711882178482176"
+          ]
+        },
+        "author_id": "1867639848569372672",
+        "conversation_id": "1939711885198446816",
+        "created_at": "2025-06-30T15:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T16:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939711885198446816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tn2zlABkpS",
+              "end": 36,
+              "expanded_url": "https://x.com/overdose_day/status/1939711885198446816/photo/1",
+              "media_key": "3_1939711882178482176",
+              "start": 13,
+              "url": "https://t.co/tn2zlABkpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939711885198446816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2222,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如何看待地雷系被你国整治 https://t.co/tn2zlABkpS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yvjue0189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yvjue0189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 1264,
+          "like_count": 23531,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 5670
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T18:37:15.000Z",
+        "description": "无偿分享精神活性化工原料，欢迎访问:https://t.co/bwfCFLxN8g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 41,
+                "expanded_url": "https://overdose.day",
+                "start": 18,
+                "url": "https://t.co/bwfCFLxN8g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/W009AsBfUr"
+              }
+            ]
+          }
+        },
+        "id": "1867639848569372672",
+        "name": "✝️药物百科✝️",
+        "pinned_tweet_id": "1921444982461718757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909493731260289024/ezggnfUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4239,
+          "following_count": 1844,
+          "like_count": 1144,
+          "listed_count": 4,
+          "media_count": 173,
+          "tweet_count": 1665
+        },
+        "url": "https://t.co/W009AsBfUr",
+        "username": "overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

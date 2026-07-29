@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975966321981653000"
+      ],
+      "media_source_tweet_id": [
+        "1975966404752113739"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1976134958403014924",
+    "created_at": "2025-10-09T03:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T04:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976134958403014924"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "ミク",
+          "probability": 0.5228,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "949165284966899713",
+          "start": 3,
+          "username": "Weidudoveop503"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L9a8Bdvu5N",
+          "end": 46,
+          "expanded_url": "https://x.com/Weidudoveop503/status/1975966404752113739/photo/1",
+          "media_key": "3_1975966321981653000",
+          "start": 23,
+          "url": "https://t.co/L9a8Bdvu5N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976134958403014924",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 424
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975966404752113739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Weidudoveop503: ミク https://t.co/L9a8Bdvu5N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1179,
+        "media_key": "3_1975966321981653000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2wK5pXaAAgKDfx.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975966321981653000"
+          ],
+          "media_source_tweet_id": [
+            "1975966404752113739"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1976134958403014924",
+        "created_at": "2025-10-09T03:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T04:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976134958403014924"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "ミク",
+              "probability": 0.5228,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "949165284966899713",
+              "start": 3,
+              "username": "Weidudoveop503"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L9a8Bdvu5N",
+              "end": 46,
+              "expanded_url": "https://x.com/Weidudoveop503/status/1975966404752113739/photo/1",
+              "media_key": "3_1975966321981653000",
+              "start": 23,
+              "url": "https://t.co/L9a8Bdvu5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976134958403014924",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 424
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975966404752113739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Weidudoveop503: ミク https://t.co/L9a8Bdvu5N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975966321981653000"
+          ]
+        },
+        "author_id": "949165284966899713",
+        "conversation_id": "1975966404752113739",
+        "created_at": "2025-10-08T16:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T17:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975966404752113739"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "ミク",
+              "probability": 0.4897,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L9a8Bdvu5N",
+              "end": 26,
+              "expanded_url": "https://x.com/Weidudoveop503/status/1975966404752113739/photo/1",
+              "media_key": "3_1975966321981653000",
+              "start": 3,
+              "url": "https://t.co/L9a8Bdvu5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975966404752113739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 788,
+          "impression_count": 65535,
+          "like_count": 5775,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 424
+        },
+        "reply_settings": "everyone",
+        "text": "ミク https://t.co/L9a8Bdvu5N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 2054,
+          "like_count": 34905,
+          "listed_count": 6,
+          "media_count": 280,
+          "tweet_count": 8717
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-05T06:26:53.000Z",
+        "description": "illustrator ▪︎ CN/EN/JP —— 「描き生まれて、すみません」\nE-mail：Doveop@163.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/15887127",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/15887127",
+                "start": 0,
+                "url": "https://t.co/niopwR9IMN"
+              }
+            ]
+          }
+        },
+        "id": "949165284966899713",
+        "location": "α Cassiopeiae",
+        "name": "Doveop",
+        "pinned_tweet_id": "1941128005289648510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974180761025822720/WQMfFnTH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5795,
+          "following_count": 91,
+          "like_count": 55,
+          "listed_count": 52,
+          "media_count": 63,
+          "tweet_count": 76
+        },
+        "url": "https://t.co/niopwR9IMN",
+        "username": "Weidudoveop503",
+        "verified": false
+      }
+    ]
+  }
+}

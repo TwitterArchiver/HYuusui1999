@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1975189310942122404",
+    "created_at": "2025-10-08T02:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T03:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975752845547753686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2697277723",
+          "start": 0,
+          "username": "LeiterStosszahn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975752845547753686",
+    "in_reply_to_user_id": "2697277723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975189310942122404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeiterStosszahn 我之前坐在窗边的位置"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1975189295611916288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2lIMwkaMAA2df0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1975189295637151744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2lIMwqbQAA3b7D.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1975189295632965632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2lIMwpbYAAiOXU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1975189295611908096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2lIMwkaEAAI4LO.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1975189310942122404",
+        "created_at": "2025-10-08T02:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T03:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975752845547753686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2697277723",
+              "start": 0,
+              "username": "LeiterStosszahn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975752845547753686",
+        "in_reply_to_user_id": "2697277723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975189310942122404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeiterStosszahn 我之前坐在窗边的位置"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975189295611916288",
+            "3_1975189295637151744",
+            "3_1975189295632965632",
+            "3_1975189295611908096"
+          ]
+        },
+        "author_id": "2697277723",
+        "conversation_id": "1975189310942122404",
+        "created_at": "2025-10-06T13:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T14:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975189310942122404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LfyM5XkPSQ",
+              "end": 49,
+              "expanded_url": "https://x.com/LeiterStosszahn/status/1975189310942122404/photo/1",
+              "media_key": "3_1975189295611916288",
+              "start": 26,
+              "url": "https://t.co/LfyM5XkPSQ"
+            },
+            {
+              "display_url": "pic.x.com/LfyM5XkPSQ",
+              "end": 49,
+              "expanded_url": "https://x.com/LeiterStosszahn/status/1975189310942122404/photo/1",
+              "media_key": "3_1975189295637151744",
+              "start": 26,
+              "url": "https://t.co/LfyM5XkPSQ"
+            },
+            {
+              "display_url": "pic.x.com/LfyM5XkPSQ",
+              "end": 49,
+              "expanded_url": "https://x.com/LeiterStosszahn/status/1975189310942122404/photo/1",
+              "media_key": "3_1975189295632965632",
+              "start": 26,
+              "url": "https://t.co/LfyM5XkPSQ"
+            },
+            {
+              "display_url": "pic.x.com/LfyM5XkPSQ",
+              "end": 49,
+              "expanded_url": "https://x.com/LeiterStosszahn/status/1975189310942122404/photo/1",
+              "media_key": "3_1975189295611908096",
+              "start": 26,
+              "url": "https://t.co/LfyM5XkPSQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975189310942122404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 20326,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这环境，在加上这小票的格式，你不说我还以为是在美国 https://t.co/LfyM5XkPSQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 2020,
+          "like_count": 34567,
+          "listed_count": 6,
+          "media_count": 278,
+          "tweet_count": 8674
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-01T03:55:06.000Z",
+        "description": "My destiny @FederStosszahn | Major in GIS | Fragment and nonsense thoughts at most time | Sometimes🔞, sometimes naïve | DM welcome",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "FederStosszahn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "furaffinity.net/user/leiter-st…",
+                "end": 23,
+                "expanded_url": "https://www.furaffinity.net/user/leiter-stosszahn/",
+                "start": 0,
+                "url": "https://t.co/6CFCA0aeta"
+              }
+            ]
+          }
+        },
+        "id": "2697277723",
+        "location": "Stosszahn Tribe",
+        "name": "獠魁",
+        "pinned_tweet_id": "1962172308120015280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596082935429402626/lA-dlKl8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 444,
+          "like_count": 11985,
+          "listed_count": 4,
+          "media_count": 227,
+          "tweet_count": 2402
+        },
+        "url": "https://t.co/6CFCA0aeta",
+        "username": "LeiterStosszahn",
+        "verified": false
+      }
+    ]
+  }
+}

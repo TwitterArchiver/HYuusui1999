@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1991689237532741686",
+    "created_at": "2025-11-21T14:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T15:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991870393381265642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688385343580680192",
+          "start": 0,
+          "username": "heiwawomamore"
+        },
+        {
+          "end": 29,
+          "id": "2459061450",
+          "start": 15,
+          "username": "ChnEmbassy_jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991870393381265642",
+    "in_reply_to_user_id": "1688385343580680192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991821243105030644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heiwawomamore @ChnEmbassy_jp 我不行了刷了好多怪（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1991689237532741686",
+        "created_at": "2025-11-21T14:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T15:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991870393381265642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688385343580680192",
+              "start": 0,
+              "username": "heiwawomamore"
+            },
+            {
+              "end": 29,
+              "id": "2459061450",
+              "start": 15,
+              "username": "ChnEmbassy_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991870393381265642",
+        "in_reply_to_user_id": "1688385343580680192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991821243105030644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heiwawomamore @ChnEmbassy_jp 我不行了刷了好多怪（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688385343580680192",
+        "conversation_id": "1991689237532741686",
+        "created_at": "2025-11-21T10:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T11:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991821243105030644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2459061450",
+              "start": 0,
+              "username": "ChnEmbassy_jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991821243105030644",
+        "in_reply_to_user_id": "2459061450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2204,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991689237532741686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChnEmbassy_jp 选择性的引用联合国文件区别对待很正义吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 2425,
+          "like_count": 40109,
+          "listed_count": 6,
+          "media_count": 302,
+          "tweet_count": 9710
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:03:51.000Z",
+        "description": "泛左派(或许） MtX🍥\n \n无法停下键政的激进分子\n         \n發發生活和一些奇怪的想\n\n常聽朮曲 史政相關歌曲 左翼歌曲 日語英語歌曲 純音樂 交響樂 民歌 老歌 ACG音樂和其他平均律的音樂 歡迎給我推歌？\n\nima ingenting more alles\n\n願你們平安順遂幸福快樂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/heiwawomamore",
+                "end": 23,
+                "expanded_url": "https://ngl.link/heiwawomamore",
+                "start": 0,
+                "url": "https://t.co/NkYsnsHmYz"
+              }
+            ]
+          }
+        },
+        "id": "1688385343580680192",
+        "location": "Singin' In The Rain",
+        "name": "Lav Mer Sam Ћın",
+        "pinned_tweet_id": "1989671242782416933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988628519782612992/dm0fTcfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1877,
+          "following_count": 2554,
+          "like_count": 147523,
+          "listed_count": 17,
+          "media_count": 2233,
+          "tweet_count": 81451
+        },
+        "url": "https://t.co/NkYsnsHmYz",
+        "username": "heiwawomamore",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-23T02:45:07.000Z",
+        "description": "中華人民共和国駐日本国大使館の公式Twitterです。 中日関係、国民交流、また中国経済・文化・社会及び大使館行事などを皆様にご紹介させていただきます。大使館HPはこちらへhttps://t.co/z6AjpxEDjk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "china-embassy.or.jp/jpn/",
+                "end": 109,
+                "expanded_url": "http://china-embassy.or.jp/jpn/",
+                "start": 86,
+                "url": "https://t.co/z6AjpxEDjk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china-embassy.or.jp/jpn/",
+                "end": 23,
+                "expanded_url": "http://www.china-embassy.or.jp/jpn/",
+                "start": 0,
+                "url": "https://t.co/jGw04z9RfY"
+              }
+            ]
+          }
+        },
+        "id": "2459061450",
+        "location": "Japan",
+        "name": "中華人民共和国駐日本国大使館",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1246448063079563270/qEePxpv0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136016,
+          "following_count": 808,
+          "like_count": 101,
+          "listed_count": 1514,
+          "media_count": 4224,
+          "tweet_count": 11406
+        },
+        "url": "https://t.co/jGw04z9RfY",
+        "username": "ChnEmbassy_jp",
+        "verified": true
+      }
+    ]
+  }
+}

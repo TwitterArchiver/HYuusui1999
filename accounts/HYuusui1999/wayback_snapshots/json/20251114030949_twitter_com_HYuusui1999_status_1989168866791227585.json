@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1989049480998732198",
+    "created_at": "2025-11-14T03:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T04:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989168866791227585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "948745897764179969",
+          "start": 0,
+          "username": "wulandetao"
+        },
+        {
+          "end": 26,
+          "id": "1947564512984567808",
+          "start": 12,
+          "username": "LINKINGMadoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989168866791227585",
+    "in_reply_to_user_id": "948745897764179969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989165957995196927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wulandetao @LINKINGMadoka 吵死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1989049480998732198",
+        "created_at": "2025-11-14T03:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T04:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989168866791227585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "948745897764179969",
+              "start": 0,
+              "username": "wulandetao"
+            },
+            {
+              "end": 26,
+              "id": "1947564512984567808",
+              "start": 12,
+              "username": "LINKINGMadoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989168866791227585",
+        "in_reply_to_user_id": "948745897764179969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989165957995196927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wulandetao @LINKINGMadoka 吵死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "948745897764179969",
+        "conversation_id": "1989049480998732198",
+        "created_at": "2025-11-14T02:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T03:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989165957995196927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1947564512984567808",
+              "start": 0,
+              "username": "LINKINGMadoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989165957995196927",
+        "in_reply_to_user_id": "1947564512984567808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989130476267925736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LINKINGMadoka 你爸关心网友的程度比关心你还多，要不死了算了。😃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 2370,
+          "like_count": 39415,
+          "listed_count": 6,
+          "media_count": 297,
+          "tweet_count": 9504
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-04T02:40:23.000Z",
+        "description": "一个喜欢美食崇尚自由且活不明白的老酒鬼",
+        "id": "948745897764179969",
+        "name": "史蒂芬戴维五",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507220635780407296/uWbeyg3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 349,
+          "like_count": 248,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 1240
+        },
+        "username": "wulandetao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T07:49:16.000Z",
+        "description": "VTuber预备中｜废萌诗人｜笨蛋｜overdose｜ADHD｜渴望社交｜同类互fo｜渴望成为小天使👼🏻",
+        "id": "1947564512984567808",
+        "location": "天国",
+        "name": "Linking阿圆🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984197385401368576/nM0gB57M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 333,
+          "like_count": 301,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 286
+        },
+        "username": "LINKINGMadoka",
+        "verified": false
+      }
+    ]
+  }
+}

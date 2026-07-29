@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2000493154437648810",
+    "created_at": "2025-12-16T10:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T11:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000878771638034860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1971006655430262784",
+          "start": 0,
+          "username": "FxxkApexLegend"
+        },
+        {
+          "end": 26,
+          "id": "1844926832967286785",
+          "start": 16,
+          "username": "orisam123"
+        },
+        {
+          "end": 40,
+          "id": "1767161673566359552",
+          "start": 27,
+          "username": "willa_citrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000878771638034860",
+    "in_reply_to_user_id": "1971006655430262784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000868602678009995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FxxkApexLegend @orisam123 @willa_citrus 關於這點我持異議\n畢竟真的善良是什麼樣的 還沒有定論吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2000493154437648810",
+        "created_at": "2025-12-16T10:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T11:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000878771638034860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1971006655430262784",
+              "start": 0,
+              "username": "FxxkApexLegend"
+            },
+            {
+              "end": 26,
+              "id": "1844926832967286785",
+              "start": 16,
+              "username": "orisam123"
+            },
+            {
+              "end": 40,
+              "id": "1767161673566359552",
+              "start": 27,
+              "username": "willa_citrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000878771638034860",
+        "in_reply_to_user_id": "1971006655430262784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000868602678009995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FxxkApexLegend @orisam123 @willa_citrus 關於這點我持異議\n畢竟真的善良是什麼樣的 還沒有定論吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971006655430262784",
+        "conversation_id": "2000493154437648810",
+        "created_at": "2025-12-16T10:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T11:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000868602678009995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "orisam123"
+            },
+            {
+              "end": 24,
+              "id": "1767161673566359552",
+              "start": 11,
+              "username": "willa_citrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000868602678009995",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000842923202764874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orisam123 @willa_citrus 原来你承认你内心是恶的，因为只有恶人才会伪善"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 2746,
+          "like_count": 42999,
+          "listed_count": 6,
+          "media_count": 308,
+          "tweet_count": 10457
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "17岁，是翎，舞萌吃，🇲🇴  MtX💜🖤💛🤍 蓝标是@goldwater8964 送的😁 对象❤️@juhao0721 ☮️ 🇺🇦 我不关心政治 我只关心活生生的人 看黄粉红五毛轮子请滚 \n 买💊雌二醇补佳乐色谱龙减肥/促智药物💊找@chosekinoraneko @minokakay作担保😁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "goldwater8964"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "juhao0721"
+              },
+              {
+                "end": 132,
+                "start": 116,
+                "username": "chosekinoraneko"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "minokakay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEbyHV"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "location": "🇲🇴",
+        "name": "🍁🍥翎🍥🍁",
+        "pinned_tweet_id": "1990388232681361811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998809777317773312/MBndSsMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3116,
+          "following_count": 416,
+          "like_count": 7621,
+          "listed_count": 11,
+          "media_count": 594,
+          "tweet_count": 5469
+        },
+        "url": "https://t.co/BKhBrEbyHV",
+        "username": "FxxkApexLegend",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "疯婆 取向异性微双 有点怕疼的sub |  \n从2024年七月初开始的饭桶（减肥中)\n   |     \n闺蜜&姐姐&引路人:  \n@zihou1968025650\n\ntg群组:\nhttps://t.co/ZsnfeGPdkA\n频道:\nhttps://t.co/S9Nk0R1gFs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "zihou1968025650"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/orisam123group",
+                "end": 113,
+                "expanded_url": "https://t.me/orisam123group",
+                "start": 90,
+                "url": "https://t.co/ZsnfeGPdkA"
+              },
+              {
+                "display_url": "t.me/orisam123catsl…",
+                "end": 141,
+                "expanded_url": "http://t.me/orisam123catsleeping",
+                "start": 118,
+                "url": "https://t.co/S9Nk0R1gFs"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "-0.15m",
+        "name": "折筱orisam🏳️‍⚧️（少女秃头中）",
+        "pinned_tweet_id": "1889966215923466584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972221628097708032/LU2zOJtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3286,
+          "following_count": 1325,
+          "like_count": 60194,
+          "listed_count": 2,
+          "media_count": 837,
+          "tweet_count": 16732
+        },
+        "username": "orisam123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "想当个可爱的孩子 / 杭州三本工科PhD在读 / 怪猎&魂 / 漫宿研习者 / 彻夜飞旋，直至甜美的生诞 / 多给我点赞啊！/ 碰到漂亮或者说话好玩的孩子就会试图交朋友 / 如果空下来一定要做个播客节目 / 甜甜同居五年啦 @rat_miyari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "rat_miyari"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978691032192782336/2rH_jGCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11729,
+          "following_count": 199,
+          "like_count": 4708,
+          "listed_count": 31,
+          "media_count": 266,
+          "tweet_count": 6202
+        },
+        "username": "willa_citrus",
+        "verified": false
+      }
+    ]
+  }
+}

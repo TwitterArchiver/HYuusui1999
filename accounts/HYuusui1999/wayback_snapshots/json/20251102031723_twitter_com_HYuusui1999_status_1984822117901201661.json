@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984822085743497216"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1984821245737590996",
+    "created_at": "2025-11-02T03:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T04:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984822117901201661"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fgr0eGKmRu",
+          "end": 23,
+          "expanded_url": "https://x.com/HYuusui1999/status/1984822117901201661/photo/1",
+          "media_key": "3_1984822085743497216",
+          "start": 0,
+          "url": "https://t.co/fgr0eGKmRu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984822117901201661",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984821245737590996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/fgr0eGKmRu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1984822117901201661].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1984822117901201661",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1984822117901201661"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_1984822085743497216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4uBK8MXUAAzxgT.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1984821245737590996",
+        "created_at": "2025-11-02T03:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T04:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984821245737590996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amemiya_hasumi…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/amemiya_hasumi/status/1984234260941914260",
+              "start": 8,
+              "url": "https://t.co/zwYxL7oaTG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984821245737590996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984234260941914260",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么言峰绮礼） https://t.co/zwYxL7oaTG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n\n暂时退网（不定期）\n偶尔看消息",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 2259,
+          "like_count": 37025,
+          "listed_count": 6,
+          "media_count": 290,
+          "tweet_count": 9099
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

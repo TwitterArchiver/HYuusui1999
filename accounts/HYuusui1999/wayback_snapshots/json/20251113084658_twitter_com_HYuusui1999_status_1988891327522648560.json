@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1988882771004047808",
+    "created_at": "2025-11-13T08:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T09:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988891327522648560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1749569248371023872",
+          "start": 0,
+          "username": "Eureka222323"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988891327522648560",
+    "in_reply_to_user_id": "1749569248371023872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988882771004047808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eureka222323 高剂量倒是有一些损害了\n我按下不表"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1988882771004047808",
+        "created_at": "2025-11-13T08:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T09:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988891327522648560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1749569248371023872",
+              "start": 0,
+              "username": "Eureka222323"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988891327522648560",
+        "in_reply_to_user_id": "1749569248371023872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988882771004047808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eureka222323 高剂量倒是有一些损害了\n我按下不表"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749569248371023872",
+        "conversation_id": "1988882771004047808",
+        "created_at": "2025-11-13T08:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T09:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988882771004047808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988882771004047808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我牙都要笑掉了，有人说雌二醇是危险物质🤣\n\n怎么，你买的雌二醇能爆炸能点燃能侵蚀能吃了没多久就吐泡泡倒地上不治身亡？吃了重伤？🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 2376,
+          "like_count": 39409,
+          "listed_count": 6,
+          "media_count": 296,
+          "tweet_count": 9478
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T23:06:35.000Z",
+        "description": "HK 18｜孤独｜没有希望｜",
+        "id": "1749569248371023872",
+        "location": "空洞",
+        "name": "优莱卡Eureka 阮玲玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749569308483878912/IAnVW-uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 1922,
+          "like_count": 59706,
+          "listed_count": 3,
+          "media_count": 842,
+          "tweet_count": 11226
+        },
+        "username": "Eureka222323",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1921184866390974928",
+    "created_at": "2025-05-10T12:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T13:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921187166694125695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741091789879308288",
+          "start": 0,
+          "username": "zixinmiao2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921187166694125695",
+    "in_reply_to_user_id": "1741091789879308288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921184866390974928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zixinmiao2 为何做出选择"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1921184866390974928].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1921184866390974928",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1921184866390974928"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1921184866390974928",
+        "created_at": "2025-05-10T12:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T13:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921187166694125695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741091789879308288",
+              "start": 0,
+              "username": "zixinmiao2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921187166694125695",
+        "in_reply_to_user_id": "1741091789879308288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921184866390974928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zixinmiao2 为何做出选择"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921147082301145395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 889,
+          "like_count": 18013,
+          "listed_count": 6,
+          "media_count": 170,
+          "tweet_count": 3896
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T13:40:15.000Z",
+        "description": "友跨顺女",
+        "id": "1741091789879308288",
+        "name": "鷔莎西泮🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920393103225114624/F7ANLELh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3485,
+          "following_count": 1680,
+          "like_count": 9534,
+          "listed_count": 7,
+          "media_count": 207,
+          "tweet_count": 2132
+        },
+        "username": "zixinmiao2",
+        "verified": false
+      }
+    ]
+  }
+}

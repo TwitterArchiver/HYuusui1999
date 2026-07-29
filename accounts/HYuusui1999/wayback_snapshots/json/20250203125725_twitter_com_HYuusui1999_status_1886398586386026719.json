@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1886397672359170132",
+    "created_at": "2025-02-03T12:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T13:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886398586386026719"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1886398586386026719",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886397672359170132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下午的时候因为他说七说八，所以吵了起来。\n太生气了，于是学小孩姐对他竖中指。后来因为打了他的手挨了一耳光。给我干出鼻血了。当时还没注意到。然后他就出门了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1886397672359170132",
+        "created_at": "2025-02-03T12:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T13:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886398586386026719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886398586386026719",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886397672359170132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下午的时候因为他说七说八，所以吵了起来。\n太生气了，于是学小孩姐对他竖中指。后来因为打了他的手挨了一耳光。给我干出鼻血了。当时还没注意到。然后他就出门了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1886397672359170132",
+        "created_at": "2025-02-03T12:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T13:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886397672359170132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886397672359170132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚跟我爸吵了一架……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1886317348082119135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 332,
+          "like_count": 6260,
+          "listed_count": 4,
+          "media_count": 54,
+          "tweet_count": 736
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1889292760752247028",
+    "created_at": "2025-02-11T13:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T14:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889310356738359714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1735700650472955904",
+          "start": 0,
+          "username": "ErQiu8013"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/kirakiradove/s…",
+          "end": 34,
+          "expanded_url": "https://x.com/kirakiradove/status/1879934287220470173?s=46",
+          "start": 11,
+          "url": "https://t.co/b6GJ8fjLdG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889310356738359714",
+    "in_reply_to_user_id": "1735700650472955904",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879934287220470173",
+        "type": "quoted"
+      },
+      {
+        "id": "1889292760752247028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ErQiu8013 https://t.co/b6GJ8fjLdG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1889292760752247028",
+        "created_at": "2025-02-11T13:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T14:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889310356738359714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1735700650472955904",
+              "start": 0,
+              "username": "ErQiu8013"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kirakiradove/s…",
+              "end": 34,
+              "expanded_url": "https://x.com/kirakiradove/status/1879934287220470173?s=46",
+              "start": 11,
+              "url": "https://t.co/b6GJ8fjLdG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889310356738359714",
+        "in_reply_to_user_id": "1735700650472955904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879934287220470173",
+            "type": "quoted"
+          },
+          {
+            "id": "1889292760752247028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ErQiu8013 https://t.co/b6GJ8fjLdG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879934277590409216"
+          ]
+        },
+        "author_id": "1082600293475397634",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1879934287220470173",
+        "created_at": "2025-01-16T16:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T17:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879934287220470173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/92dvppwSnX",
+              "end": 164,
+              "expanded_url": "https://x.com/Kirakiradove/status/1879934287220470173/photo/1",
+              "media_key": "3_1879934277590409216",
+              "start": 141,
+              "url": "https://t.co/92dvppwSnX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879934287220470173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 171754,
+          "like_count": 844,
+          "quote_count": 15,
+          "reply_count": 200,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "我们就在小县城结婚吧，出租车七块，一碗面九块，五六十万的房子，七八万的车，没有早晚高峰，夜市也很热闹，灯光也很明亮，我想要的日子只要和你在一起，能和喜欢的人度过一生，就已经很幸福了，但是这样的日子我只能奢望，我连想都不敢想，这样的话只能由女孩子说，如果是男孩子说大概会让人瞧不起吧 https://t.co/92dvppwSnX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889292747821228032"
+          ]
+        },
+        "author_id": "1735700650472955904",
+        "conversation_id": "1889292760752247028",
+        "created_at": "2025-02-11T12:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T13:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889292760752247028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3q1Rcz1COR",
+              "end": 67,
+              "expanded_url": "https://x.com/ErQiu8013/status/1889292760752247028/photo/1",
+              "media_key": "3_1889292747821228032",
+              "start": 44,
+              "url": "https://t.co/3q1Rcz1COR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889292760752247028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小县城是这样的，透露着落后的现代化，心里面总觉得这样子的城市很空……是缺少了什么呢…… https://t.co/3q1Rcz1COR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1886317348082119135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 341,
+          "like_count": 6704,
+          "listed_count": 4,
+          "media_count": 59,
+          "tweet_count": 800
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T16:37:52.000Z",
+        "description": "在意义通胀的时代，无目的性本身就是抵抗\n           去tm的奥氮平   是点赞，关注bot\n 无偏向日常，o多了会癫，难受了会死。\n米家，Cytoid音游，赛博朋克拥护者，要是都不是默认睡死了/-—-/打算在自己有生之年爬雪山，互fo，没被fo请私信，会被吞，会fo有内容的    发推 不瑟瑟",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/erqiu80131",
+                "end": 23,
+                "expanded_url": "https://ngl.link/erqiu80131",
+                "start": 0,
+                "url": "https://t.co/rQbp7InDUv"
+              }
+            ]
+          }
+        },
+        "id": "1735700650472955904",
+        "location": "精神卫生中心",
+        "name": "𝓦𝓪𝓷𝓰 𝓠𝓲𝓾𝓮𝓻（秋儿）降临派",
+        "pinned_tweet_id": "1889239050705682713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866537587122515968/8WVcBKAk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 1228,
+          "like_count": 12124,
+          "listed_count": 2,
+          "media_count": 248,
+          "tweet_count": 1774
+        },
+        "url": "https://t.co/rQbp7InDUv",
+        "username": "ErQiu8013",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-08T11:29:58.000Z",
+        "description": "看到这句话的人会永远幸福♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Per.aspera.ad.astra.com",
+                "end": 23,
+                "expanded_url": "http://Per.aspera.ad.astra.com",
+                "start": 0,
+                "url": "https://t.co/kmvaJybPCp"
+              }
+            ]
+          }
+        },
+        "id": "1082600293475397634",
+        "location": "1 億円欲しい🍥",
+        "name": "うさココ",
+        "pinned_tweet_id": "1859467840635748539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514216529138696193/5YBbERgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19856,
+          "following_count": 0,
+          "like_count": 19967,
+          "listed_count": 33,
+          "media_count": 379,
+          "tweet_count": 12609
+        },
+        "url": "https://t.co/kmvaJybPCp",
+        "username": "Kirakiradove",
+        "verified": false
+      }
+    ]
+  }
+}

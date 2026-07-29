@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1906050080056168924",
+    "created_at": "2025-03-29T23:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T00:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906129712679907472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1248637653001494529",
+          "start": 0,
+          "username": "Fomalhautawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906129712679907472",
+    "in_reply_to_user_id": "1248637653001494529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906050080056168924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fomalhautawa 但其实不是这样，我想"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_1906050077820583937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnOmcnSaAAEGWrT.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1906050080056168924",
+        "created_at": "2025-03-29T23:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T00:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906129712679907472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Fomalhautawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906129712679907472",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906050080056168924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fomalhautawa 但其实不是这样，我想"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906050077820583937"
+          ]
+        },
+        "author_id": "1248637653001494529",
+        "conversation_id": "1906050080056168924",
+        "created_at": "2025-03-29T18:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T19:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906050080056168924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SePaZxYhuB",
+              "end": 157,
+              "expanded_url": "https://x.com/Fomalhautawa/status/1906050080056168924/photo/1",
+              "media_key": "3_1906050077820583937",
+              "start": 134,
+              "url": "https://t.co/SePaZxYhuB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906050080056168924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 428,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咪，人完全不适合在任何关系里当任何角色。和我任何关系都没有好下场，都会被我切割掉，时间长短罢了。我没有任何维系关系的能力。除非用链子把我捆在你身边把我关起来，物理意义的维系。或者相反的没有任何哪怕一丁点的占有欲，把我就这么扔在那里想到了来看看我。只有这两种方法，嗯。 https://t.co/SePaZxYhuB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1905989245266972950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 570,
+          "like_count": 12351,
+          "listed_count": 6,
+          "media_count": 111,
+          "tweet_count": 1907
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "你好哦，這裡是師師。\n謝謝你來。\n@Ning0809pepsi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "Ning0809pepsi"
+              }
+            ]
+          }
+        },
+        "id": "1248637653001494529",
+        "location": "萱華軒",
+        "name": "師霂澪。",
+        "pinned_tweet_id": "1900761409329524973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906039986765582336/BKiGnW4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1614,
+          "following_count": 277,
+          "like_count": 123392,
+          "listed_count": 20,
+          "media_count": 49,
+          "tweet_count": 27031
+        },
+        "username": "Fomalhautawa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1895812191909265789",
+    "created_at": "2025-03-01T12:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T13:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895812191909265789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1786565196913541120",
+          "start": 3,
+          "username": "dimangmu8964"
+        },
+        {
+          "end": 33,
+          "id": "1753348784573001728",
+          "start": 18,
+          "username": "Cheshire_kwine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895812191909265789",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895811930553794956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dimangmu8964: @Cheshire_kwine 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1895812191909265789",
+        "created_at": "2025-03-01T12:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T13:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895812191909265789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1786565196913541120",
+              "start": 3,
+              "username": "dimangmu8964"
+            },
+            {
+              "end": 33,
+              "id": "1753348784573001728",
+              "start": 18,
+              "username": "Cheshire_kwine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895812191909265789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895811930553794956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dimangmu8964: @Cheshire_kwine 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786565196913541120",
+        "conversation_id": "1895808379089735888",
+        "created_at": "2025-03-01T12:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T13:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895811930553794956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753348784573001728",
+              "start": 0,
+              "username": "Cheshire_kwine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895811930553794956",
+        "in_reply_to_user_id": "1753348784573001728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895808379089735888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheshire_kwine 晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 386,
+          "like_count": 8336,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 1207
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T01:15:24.000Z",
+        "description": "中国人都是神！最喜欢的推友@6thCuteK1tten 最安详的推友@5thCuteKitten",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "6thCuteK1tten"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "5thCuteKitten"
+              }
+            ]
+          }
+        },
+        "id": "1786565196913541120",
+        "location": "距离7公里",
+        "name": "迅鸽🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888808700875509760/Myhp0mOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943,
+          "following_count": 1126,
+          "like_count": 76791,
+          "listed_count": 18,
+          "media_count": 1236,
+          "tweet_count": 20958
+        },
+        "username": "dimangmu8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:25:33.000Z",
+        "description": "",
+        "id": "1753348784573001728",
+        "name": "大猫猫归来，中间忘了后面也忘了",
+        "pinned_tweet_id": "1895622136271945763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878339168545411072/_roBeqHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2912,
+          "following_count": 1348,
+          "like_count": 80609,
+          "listed_count": 13,
+          "media_count": 824,
+          "tweet_count": 12201
+        },
+        "username": "Cheshire_kwine",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975547357073944576",
+        "3_1975547357183025155"
+      ],
+      "media_source_tweet_id": [
+        "1975547363654836359",
+        "1975547363654836359"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1975783220177502695",
+    "created_at": "2025-10-08T04:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T05:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975783220177502695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1951527779201318912",
+          "start": 3,
+          "username": "fgolz7l"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nHaKiloNDD",
+          "end": 36,
+          "expanded_url": "https://x.com/fgolz7l/status/1975547363654836359/photo/1",
+          "media_key": "3_1975547357073944576",
+          "start": 13,
+          "url": "https://t.co/nHaKiloNDD"
+        },
+        {
+          "display_url": "pic.x.com/nHaKiloNDD",
+          "end": 36,
+          "expanded_url": "https://x.com/fgolz7l/status/1975547363654836359/photo/1",
+          "media_key": "3_1975547357183025155",
+          "start": 13,
+          "url": "https://t.co/nHaKiloNDD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975783220177502695",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1032
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975547363654836359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fgolz7l: https://t.co/nHaKiloNDD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1870,
+        "media_key": "3_1975547357073944576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qN2rdasAA_gWS.jpg",
+        "width": 1361
+      },
+      {
+        "height": 1870,
+        "media_key": "3_1975547357183025155",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2qN2r3bIAMAMP4.jpg",
+        "width": 1312
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975547357073944576",
+            "3_1975547357183025155"
+          ],
+          "media_source_tweet_id": [
+            "1975547363654836359",
+            "1975547363654836359"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1975783220177502695",
+        "created_at": "2025-10-08T04:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T05:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975783220177502695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1951527779201318912",
+              "start": 3,
+              "username": "fgolz7l"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nHaKiloNDD",
+              "end": 36,
+              "expanded_url": "https://x.com/fgolz7l/status/1975547363654836359/photo/1",
+              "media_key": "3_1975547357073944576",
+              "start": 13,
+              "url": "https://t.co/nHaKiloNDD"
+            },
+            {
+              "display_url": "pic.x.com/nHaKiloNDD",
+              "end": 36,
+              "expanded_url": "https://x.com/fgolz7l/status/1975547363654836359/photo/1",
+              "media_key": "3_1975547357183025155",
+              "start": 13,
+              "url": "https://t.co/nHaKiloNDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975783220177502695",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1032
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975547363654836359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fgolz7l: https://t.co/nHaKiloNDD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975547357073944576",
+            "3_1975547357183025155"
+          ]
+        },
+        "author_id": "1951527779201318912",
+        "conversation_id": "1975547363654836359",
+        "created_at": "2025-10-07T13:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T14:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975547363654836359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nHaKiloNDD",
+              "end": 23,
+              "expanded_url": "https://x.com/fgolz7l/status/1975547363654836359/photo/1",
+              "media_key": "3_1975547357073944576",
+              "start": 0,
+              "url": "https://t.co/nHaKiloNDD"
+            },
+            {
+              "display_url": "pic.x.com/nHaKiloNDD",
+              "end": 23,
+              "expanded_url": "https://x.com/fgolz7l/status/1975547363654836359/photo/1",
+              "media_key": "3_1975547357183025155",
+              "start": 0,
+              "url": "https://t.co/nHaKiloNDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975547363654836359",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 592,
+          "impression_count": 85164,
+          "like_count": 5442,
+          "quote_count": 18,
+          "reply_count": 3,
+          "retweet_count": 1032
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nHaKiloNDD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 2033,
+          "like_count": 34719,
+          "listed_count": 6,
+          "media_count": 278,
+          "tweet_count": 8693
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T06:17:43.000Z",
+        "description": "fgo 구독",
+        "id": "1951527779201318912",
+        "name": "우주인",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970546748272541697/sKJhBUPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1216,
+          "following_count": 38,
+          "like_count": 745,
+          "listed_count": 5,
+          "media_count": 25,
+          "tweet_count": 470
+        },
+        "username": "fgolz7l",
+        "verified": false
+      }
+    ]
+  }
+}

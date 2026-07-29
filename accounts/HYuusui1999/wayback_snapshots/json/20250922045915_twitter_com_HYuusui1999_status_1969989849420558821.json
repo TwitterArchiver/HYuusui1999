@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957421202840154112"
+      ],
+      "media_source_tweet_id": [
+        "1957421205901939005"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1969989849420558821",
+    "created_at": "2025-09-22T04:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T05:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969989849420558821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894364220151783424",
+          "start": 3,
+          "username": "sakura19864"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w9RS2lcsjL",
+          "end": 52,
+          "expanded_url": "https://x.com/sakura19864/status/1957421205901939005/photo/1",
+          "media_key": "3_1957421202840154112",
+          "start": 29,
+          "url": "https://t.co/w9RS2lcsjL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969989849420558821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957421205901939005",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakura19864: 我们只是一群年轻的智人 https://t.co/w9RS2lcsjL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 516,
+        "media_key": "3_1957421202840154112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyooNo8a8AAH7JI.jpg",
+        "width": 446
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957421202840154112"
+          ],
+          "media_source_tweet_id": [
+            "1957421205901939005"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1969989849420558821",
+        "created_at": "2025-09-22T04:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T05:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969989849420558821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894364220151783424",
+              "start": 3,
+              "username": "sakura19864"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w9RS2lcsjL",
+              "end": 52,
+              "expanded_url": "https://x.com/sakura19864/status/1957421205901939005/photo/1",
+              "media_key": "3_1957421202840154112",
+              "start": 29,
+              "url": "https://t.co/w9RS2lcsjL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969989849420558821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957421205901939005",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakura19864: 我们只是一群年轻的智人 https://t.co/w9RS2lcsjL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957421202840154112"
+          ]
+        },
+        "author_id": "1894364220151783424",
+        "conversation_id": "1957421205901939005",
+        "created_at": "2025-08-18T12:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T13:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957421205901939005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w9RS2lcsjL",
+              "end": 35,
+              "expanded_url": "https://x.com/sakura19864/status/1957421205901939005/photo/1",
+              "media_key": "3_1957421202840154112",
+              "start": 12,
+              "url": "https://t.co/w9RS2lcsjL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957421205901939005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 45563,
+          "like_count": 558,
+          "quote_count": 9,
+          "reply_count": 19,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "我们只是一群年轻的智人 https://t.co/w9RS2lcsjL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 1764,
+          "like_count": 31105,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 8009
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T12:30:12.000Z",
+        "description": "噫吁嚱，危乎高哉。慎终如始，则无败事/可互fo",
+        "id": "1894364220151783424",
+        "location": "上海再教育集中营",
+        "name": "高夫☭⃠",
+        "pinned_tweet_id": "1957421205901939005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964510877086076929/khopm6lD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 524,
+          "like_count": 260,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 185
+        },
+        "username": "sakura19864",
+        "verified": false
+      }
+    ]
+  }
+}

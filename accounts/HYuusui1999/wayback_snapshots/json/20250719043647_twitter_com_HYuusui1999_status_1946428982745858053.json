@@ -1,0 +1,698 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1946311462126752202",
+    "created_at": "2025-07-19T04:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T05:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946428982745858053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946428982745858053",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 12,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946428618449830372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok 谁问你了\n别再来找我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1946311462126752202",
+        "created_at": "2025-07-19T04:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T05:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946428982745858053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946428982745858053",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946428618449830372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 谁问你了\n别再来找我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "1946311462126752202",
+        "created_at": "2025-07-19T04:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T05:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946428618449830372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            },
+            {
+              "end": 26,
+              "id": "1749569248371023872",
+              "start": 13,
+              "username": "Eureka222323"
+            },
+            {
+              "end": 40,
+              "id": "1697913281816432640",
+              "start": 27,
+              "username": "kiligulyanov"
+            },
+            {
+              "end": 56,
+              "id": "1897310645655326720",
+              "start": 41,
+              "username": "RobertoC_cr03x"
+            },
+            {
+              "end": 73,
+              "id": "1826871427972362240",
+              "start": 57,
+              "username": "misaka__network"
+            },
+            {
+              "end": 83,
+              "id": "1690570637499154432",
+              "start": 74,
+              "username": "saonanaa"
+            },
+            {
+              "end": 92,
+              "id": "1821167929662304263",
+              "start": 84,
+              "username": "kz152cx"
+            },
+            {
+              "end": 101,
+              "id": "1744674064994873344",
+              "start": 93,
+              "username": "sCuSO_4"
+            },
+            {
+              "end": 111,
+              "id": "1749480657880014849",
+              "start": 102,
+              "username": "ggccsxhn"
+            },
+            {
+              "end": 123,
+              "id": "1253165636210978817",
+              "start": 112,
+              "username": "Exusiai159"
+            },
+            {
+              "end": 135,
+              "id": "1647563424996442114",
+              "start": 124,
+              "username": "isaac_eins"
+            },
+            {
+              "end": 145,
+              "id": "1792732643966304256",
+              "start": 136,
+              "username": "aqCuSO_4"
+            },
+            {
+              "end": 156,
+              "id": "1674833364564725760",
+              "start": 146,
+              "username": "InfectQWQ"
+            },
+            {
+              "end": 170,
+              "id": "1589451050767224833",
+              "start": 157,
+              "username": "ChinTAT_2008"
+            },
+            {
+              "end": 183,
+              "id": "1719985606326104064",
+              "start": 171,
+              "username": "vanto156607"
+            },
+            {
+              "end": 198,
+              "id": "1888908122947010560",
+              "start": 184,
+              "username": "AFeiSigniFy__"
+            },
+            {
+              "end": 207,
+              "id": "1512976991976402949",
+              "start": 199,
+              "username": "bghtnya"
+            },
+            {
+              "end": 214,
+              "id": "1545277694325116928",
+              "start": 208,
+              "username": "yqua_"
+            },
+            {
+              "end": 226,
+              "id": "1804154448215969795",
+              "start": 215,
+              "username": "bushi_8964"
+            },
+            {
+              "end": 241,
+              "id": "1748763011140169729",
+              "start": 227,
+              "username": "sxshuishuimao"
+            },
+            {
+              "end": 258,
+              "id": "1700935161301655552",
+              "start": 242,
+              "username": "qingshixiang258"
+            },
+            {
+              "end": 268,
+              "id": "1921426104763682816",
+              "start": 259,
+              "username": "hiner233"
+            },
+            {
+              "end": 280,
+              "id": "1904873292366036992",
+              "start": 269,
+              "username": "Chiyuyu520"
+            },
+            {
+              "end": 293,
+              "id": "2663274068",
+              "start": 281,
+              "username": "Miisago_han"
+            },
+            {
+              "end": 310,
+              "id": "1795144598517579776",
+              "start": 294,
+              "username": "8LSunhXEAr22247"
+            },
+            {
+              "end": 322,
+              "id": "1867090453226721280",
+              "start": 311,
+              "username": "xiaoyieQAQ"
+            },
+            {
+              "end": 331,
+              "id": "1868205822511288320",
+              "start": 323,
+              "username": "VicoOci"
+            },
+            {
+              "end": 345,
+              "id": "1695975046051942400",
+              "start": 332,
+              "username": "mitsuki87613"
+            },
+            {
+              "end": 357,
+              "id": "1890783678370029568",
+              "start": 346,
+              "username": "yunliu2005"
+            },
+            {
+              "end": 370,
+              "id": "1836420929611796486",
+              "start": 358,
+              "username": "All12240519"
+            },
+            {
+              "end": 382,
+              "id": "1774017839726276608",
+              "start": 371,
+              "username": "jiangkedou"
+            },
+            {
+              "end": 394,
+              "id": "1600287222183661568",
+              "start": 383,
+              "username": "ilkos_sdvx"
+            },
+            {
+              "end": 405,
+              "id": "1538088308827656193",
+              "start": 395,
+              "username": "Luckin030"
+            },
+            {
+              "end": 421,
+              "id": "779405903305011200",
+              "start": 406,
+              "username": "Nickel_Schwarz"
+            },
+            {
+              "end": 435,
+              "id": "1786565196913541120",
+              "start": 422,
+              "username": "dimangmu8964"
+            },
+            {
+              "end": 448,
+              "id": "1714894056986460160",
+              "start": 436,
+              "username": "89JinPing64"
+            },
+            {
+              "end": 464,
+              "id": "1865419581206208512",
+              "start": 449,
+              "username": "DDzhanshou5150"
+            },
+            {
+              "end": 478,
+              "id": "1781308864438345728",
+              "start": 465,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 501,
+              "id": "1878681729407356928",
+              "start": 489,
+              "username": "HYuusui1999"
+            },
+            {
+              "end": 569,
+              "id": "1924965014831824896",
+              "start": 559,
+              "username": "Tang_1019"
+            },
+            {
+              "end": 588,
+              "id": "1807107145756008448",
+              "start": 572,
+              "username": "KagurazakaAzure"
+            },
+            {
+              "end": 605,
+              "id": "1688385343580680192",
+              "start": 591,
+              "username": "heiwawomamore"
+            },
+            {
+              "end": 621,
+              "id": "1801071158055280640",
+              "start": 608,
+              "username": "moonyore0318"
+            },
+            {
+              "end": 635,
+              "id": "1741091789879308288",
+              "start": 624,
+              "username": "zixinmiao2"
+            },
+            {
+              "end": 649,
+              "id": "1904873292366036992",
+              "start": 638,
+              "username": "Chiyuyu520"
+            },
+            {
+              "end": 666,
+              "id": "1766452473840173056",
+              "start": 652,
+              "username": "mikotossd0106"
+            },
+            {
+              "end": 683,
+              "id": "1865831426303897600",
+              "start": 669,
+              "username": "Zero_158_Kana"
+            },
+            {
+              "end": 700,
+              "id": "3186322153",
+              "start": 686,
+              "username": "aa123429181tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946428618449830372",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 22,
+                "id": "1878681729407356928",
+                "start": 10,
+                "username": "HYuusui1999"
+              },
+              {
+                "end": 90,
+                "id": "1924965014831824896",
+                "start": 80,
+                "username": "Tang_1019"
+              },
+              {
+                "end": 109,
+                "id": "1807107145756008448",
+                "start": 93,
+                "username": "KagurazakaAzure"
+              },
+              {
+                "end": 126,
+                "id": "1688385343580680192",
+                "start": 112,
+                "username": "heiwawomamore"
+              },
+              {
+                "end": 142,
+                "id": "1801071158055280640",
+                "start": 129,
+                "username": "moonyore0318"
+              },
+              {
+                "end": 156,
+                "id": "1741091789879308288",
+                "start": 145,
+                "username": "zixinmiao2"
+              },
+              {
+                "end": 170,
+                "id": "1904873292366036992",
+                "start": 159,
+                "username": "Chiyuyu520"
+              },
+              {
+                "end": 187,
+                "id": "1766452473840173056",
+                "start": 173,
+                "username": "mikotossd0106"
+              },
+              {
+                "end": 204,
+                "id": "1865831426303897600",
+                "start": 190,
+                "username": "Zero_158_Kana"
+              },
+              {
+                "end": 221,
+                "id": "3186322153",
+                "start": 207,
+                "username": "aa123429181tw"
+              },
+              {
+                "end": 239,
+                "id": "1562409695616241664",
+                "start": 225,
+                "username": "MIcedblacktea"
+              },
+              {
+                "end": 259,
+                "id": "1680834021377593344",
+                "start": 243,
+                "username": "HyotoChandesuyo"
+              },
+              {
+                "end": 279,
+                "id": "1843201902550634496",
+                "start": 263,
+                "username": "LwrDHYyuxR22499"
+              },
+              {
+                "end": 298,
+                "id": "1159803509065150464",
+                "start": 283,
+                "username": "winter_rainawa"
+              },
+              {
+                "end": 318,
+                "id": "1679788677583765505",
+                "start": 302,
+                "username": "YlYpBKkt3257198"
+              },
+              {
+                "end": 335,
+                "id": "1680247071608303616",
+                "start": 322,
+                "username": "AsdQWD358224"
+              },
+              {
+                "end": 354,
+                "id": "1870022570353012736",
+                "start": 339,
+                "username": "kukudejiaxibei"
+              },
+              {
+                "end": 368,
+                "id": "1896175390005342208",
+                "start": 358,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 385,
+                "id": "1749569248371023872",
+                "start": 372,
+                "username": "Eureka222323"
+              },
+              {
+                "end": 405,
+                "id": "1831961897899585536",
+                "start": 389,
+                "username": "Kiriyama_hitori"
+              },
+              {
+                "end": 418,
+                "id": "1847025525610762240",
+                "start": 409,
+                "username": "ALCheng_"
+              },
+              {
+                "end": 433,
+                "id": "1773877435748270080",
+                "start": 422,
+                "username": "manakaao68"
+              },
+              {
+                "end": 449,
+                "id": "1779149099084009472",
+                "start": 437,
+                "username": "MikuLoverr_"
+              },
+              {
+                "end": 461,
+                "id": "1532663208393117696",
+                "start": 453,
+                "username": "Ziverk2"
+              },
+              {
+                "end": 479,
+                "id": "1891772865747562496",
+                "start": 465,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 498,
+                "id": "1845454917236031495",
+                "start": 483,
+                "username": "Dontbesadforit"
+              }
+            ]
+          },
+          "text": "看到自己上榜惊讶吗，@HYuusui1999？基于你的X互动和共同关注者，这里有一个有趣的25个“敌人”列表（在希望、积极生活和社区氛围中的友好对手）：\n\n1.@Tang_1019 2.@KagurazakaAzure 3.@heiwawomamore 4.@moonyore0318 5.@zixinmiao2 6.@Chiyuyu520 7.@mikotossd0106 8.@Zero_158_Kana 9.@aa123429181tw 10.@MIcedblacktea 11.@HyotoChandesuyo 12.@LwrDHYyuxR22499 13.@winter_rainawa 14.@YlYpBKkt3257198 15.@AsdQWD358224 16.@kukudejiaxibei 17.@Chufeinya 18.@Eureka222323 19.@Kiriyama_hitori 20.@ALCheng_ 21.@manakaao68 22.@MikuLoverr_ 23.@Ziverk2 24.@Caroline_9870 25.@Dontbesadforit\n\n保持希望！🚀"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946428341436756044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 @Eureka222323 @kiligulyanov @RobertoC_cr03x @misaka__network @saonanaa @kz152cx @sCuSO_4 @ggccsxhn @Exusiai159 @isaac_eins @aqCuSO_4 @InfectQWQ @ChinTAT_2008 @vanto156607 @AFeiSigniFy__ @bghtnya @yqua_ @bushi_8964 @sxshuishuimao @qingshixiang258 @hiner233 @Chiyuyu520 @Miisago_han @8LSunhXEAr22247 @xiaoyieQAQ @VicoOci @mitsuki87613 @yunliu2005 @All12240519 @jiangkedou @ilkos_sdvx @Luckin030 @Nickel_Schwarz @dimangmu8964 @89JinPing64 @DDzhanshou5150 @FoxRed695449 看到自己上榜惊讶吗，@HYuusui1999？基于你的X互动和共同关注者，这里有一个有趣的25个“敌人”列表（在希望、积极生活和社区氛围中的友好对手）：\n\n1.@Tang_1019 2.@KagurazakaAzure 3.@heiwawomamore 4.@moonyore0318 5.@zixinmiao2 6.@Chiyuyu520 7.@mikotossd0106 8.@Zero_158_Kana 9.@aa123429181tw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 1389,
+          "like_count": 26081,
+          "listed_count": 5,
+          "media_count": 228,
+          "tweet_count": 6480
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5176389,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4294,
+          "media_count": 2376577,
+          "tweet_count": 19401485
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1951449795043926167",
+    "created_at": "2025-08-02T04:44:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T05:44:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951504414381859230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903701047589343232",
+          "start": 0,
+          "username": "ceobrus"
+        },
+        {
+          "end": 21,
+          "id": "1505851491734720515",
+          "start": 9,
+          "username": "momo_yu_333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951504414381859230",
+    "in_reply_to_user_id": "1903701047589343232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951503975746076761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceobrus @momo_yu_333 并不只是泡沫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1951449795043926167",
+        "created_at": "2025-08-02T04:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T05:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951504414381859230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903701047589343232",
+              "start": 0,
+              "username": "ceobrus"
+            },
+            {
+              "end": 21,
+              "id": "1505851491734720515",
+              "start": 9,
+              "username": "momo_yu_333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951504414381859230",
+        "in_reply_to_user_id": "1903701047589343232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951503975746076761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceobrus @momo_yu_333 并不只是泡沫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903701047589343232",
+        "conversation_id": "1951449795043926167",
+        "created_at": "2025-08-02T04:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T05:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951503975746076761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1505851491734720515",
+              "start": 0,
+              "username": "momo_yu_333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951503975746076761",
+        "in_reply_to_user_id": "1505851491734720515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951503618483560896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momo_yu_333 见你的鬼，不要点破我的泡沫🫧好不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 1467,
+          "like_count": 27503,
+          "listed_count": 5,
+          "media_count": 239,
+          "tweet_count": 6779
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "they🏳‍⚧丨00年丨hrt2025/1/8丨这是个药娘丨长得不好看丨无业单身丨180cm/60kg丨🍥同类互fo丨欢迎扩列丨ISFP-T丨玩绝区零、鸣潮、崩铁丨内向i人丨我好喜欢散步欢迎找我逛街压马路口牙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ceobrus",
+                "end": 23,
+                "expanded_url": "https://t.me/ceobrus",
+                "start": 0,
+                "url": "https://t.co/jjy2nziSM9"
+              }
+            ]
+          }
+        },
+        "id": "1903701047589343232",
+        "name": "小方🏳‍⚧🍥",
+        "pinned_tweet_id": "1928308948953678241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939212280874299392/CfqB9_ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 839,
+          "like_count": 4766,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 1285
+        },
+        "url": "https://t.co/jjy2nziSM9",
+        "username": "ceobrus",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T10:19:23.000Z",
+        "description": "04年大龄｜hrt3年生活无助天残党｜是家里全职女儿（逃｜ 门槛80接线下｜想要做文媛！会出原味！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yumm86474",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yumm86474",
+                "start": 0,
+                "url": "https://t.co/V2G2a8h0oH"
+              }
+            ]
+          }
+        },
+        "id": "1505851491734720515",
+        "location": "ApplePark",
+        "name": "雨茉茉 🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593281701626748929/bju9heh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 264,
+          "like_count": 400,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 902
+        },
+        "url": "https://t.co/V2G2a8h0oH",
+        "username": "momo_yu_333",
+        "verified": false
+      }
+    ]
+  }
+}

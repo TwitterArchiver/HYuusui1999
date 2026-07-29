@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921874766656679936"
+      ],
+      "media_source_tweet_id": [
+        "1921874770032808239"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1922229374662660424",
+    "created_at": "2025-05-13T09:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T10:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922229374662660424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880841005022470144",
+          "start": 3,
+          "username": "take_ni9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IOxTVn1YE4",
+          "end": 39,
+          "expanded_url": "https://x.com/take_ni9/status/1921874770032808239/photo/1",
+          "media_key": "3_1921874766656679936",
+          "start": 16,
+          "url": "https://t.co/IOxTVn1YE4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922229374662660424",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 486
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921874770032808239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @take_ni9: 💙 https://t.co/IOxTVn1YE4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1921874766656679936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqve6vFbsAAvRBp.jpg",
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921874766656679936"
+          ],
+          "media_source_tweet_id": [
+            "1921874770032808239"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1922229374662660424",
+        "created_at": "2025-05-13T09:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T10:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922229374662660424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880841005022470144",
+              "start": 3,
+              "username": "take_ni9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IOxTVn1YE4",
+              "end": 39,
+              "expanded_url": "https://x.com/take_ni9/status/1921874770032808239/photo/1",
+              "media_key": "3_1921874766656679936",
+              "start": 16,
+              "url": "https://t.co/IOxTVn1YE4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922229374662660424",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 486
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921874770032808239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @take_ni9: 💙 https://t.co/IOxTVn1YE4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921874766656679936"
+          ]
+        },
+        "author_id": "1880841005022470144",
+        "conversation_id": "1921874770032808239",
+        "created_at": "2025-05-12T10:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T11:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921874770032808239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IOxTVn1YE4",
+              "end": 25,
+              "expanded_url": "https://x.com/take_ni9/status/1921874770032808239/photo/1",
+              "media_key": "3_1921874766656679936",
+              "start": 2,
+              "url": "https://t.co/IOxTVn1YE4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921874770032808239",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 863,
+          "impression_count": 120269,
+          "like_count": 10503,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 486
+        },
+        "reply_settings": "everyone",
+        "text": "💙 https://t.co/IOxTVn1YE4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 922,
+          "like_count": 18611,
+          "listed_count": 6,
+          "media_count": 183,
+          "tweet_count": 4049
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T04:53:56.000Z",
+        "description": "創作と版権 / https://t.co/Sgb4LXwU9O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@take_ni9",
+                "end": 31,
+                "expanded_url": "https://skeb.jp/@take_ni9",
+                "start": 8,
+                "url": "https://t.co/Sgb4LXwU9O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/9ebdu7qblttdpe…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/9ebdu7qblttdpec?utm_medium=mail&utm_source=registration",
+                "start": 0,
+                "url": "https://t.co/9Akirxq6aj"
+              }
+            ]
+          }
+        },
+        "id": "1880841005022470144",
+        "location": "⬇ ﾏｼｭﾏﾛ",
+        "name": "ｿﾞﾝ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888622652342059008/29gNI7gm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 33,
+          "like_count": 705,
+          "listed_count": 8,
+          "media_count": 23,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/9Akirxq6aj",
+        "username": "take_ni9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1886317348082119135",
+    "created_at": "2025-02-11T07:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T08:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889219955046162759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1571079656291565572",
+          "start": 0,
+          "username": "AXL09191119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889219955046162759",
+    "in_reply_to_user_id": "1571079656291565572",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888147692158857688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AXL09191119 ありがとうございます😊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1886317348082119135",
+        "created_at": "2025-02-11T07:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T08:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889219955046162759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1571079656291565572",
+              "start": 0,
+              "username": "AXL09191119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889219955046162759",
+        "in_reply_to_user_id": "1571079656291565572",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888147692158857688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AXL09191119 ありがとうございます😊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571079656291565572",
+        "conversation_id": "1886317348082119135",
+        "created_at": "2025-02-08T08:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T09:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888147692158857688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888147692158857688",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886317669084725289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 勉強頑張ってくださいね！☺️\n私も学生に戻りたい💦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1886317348082119135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 336,
+          "like_count": 6394,
+          "listed_count": 4,
+          "media_count": 56,
+          "tweet_count": 763
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-17T10:12:59.000Z",
+        "description": "遅ればせながら、【目覚めた日本人】です。「ガキ使」5人のファン。目指すは、「好きな人がいることの幸せ」です。📺を観るより本を読もう。趣味で小説書いてるので、それ専用のポストもします。無言フォロー失礼します！\n✳️DMは親しい人のみ。副収入系、エロ系などはブロックします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kakuyomu.jp/users/yuuhaya",
+                "end": 23,
+                "expanded_url": "https://kakuyomu.jp/users/yuuhaya",
+                "start": 0,
+                "url": "https://t.co/Bt52w0LgJX"
+              }
+            ]
+          }
+        },
+        "id": "1571079656291565572",
+        "location": "日本 東京",
+        "name": "Choco 🌻🇯🇵@春が待ち遠しい",
+        "pinned_tweet_id": "1885230738985095673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874410335396118528/MiDyJUU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 928,
+          "like_count": 50672,
+          "listed_count": 1,
+          "media_count": 263,
+          "tweet_count": 11554
+        },
+        "url": "https://t.co/Bt52w0LgJX",
+        "username": "AXL09191119",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1994045327624864208",
+    "created_at": "2025-11-27T14:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T15:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994055820842045778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1768682351603896320",
+          "start": 0,
+          "username": "SnowFoxSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994055820842045778",
+    "in_reply_to_user_id": "1768682351603896320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994045327624864208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnowFoxSama 泡脚看看\n穿着厚衣服\n出几次汗就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1994045327624864208",
+        "created_at": "2025-11-27T14:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994055820842045778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1768682351603896320",
+              "start": 0,
+              "username": "SnowFoxSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994055820842045778",
+        "in_reply_to_user_id": "1768682351603896320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994045327624864208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowFoxSama 泡脚看看\n穿着厚衣服\n出几次汗就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768682351603896320",
+        "conversation_id": "1994045327624864208",
+        "created_at": "2025-11-27T14:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994045327624864208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994045327624864208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经连续感冒半个月了，要死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 2475,
+          "like_count": 40536,
+          "listed_count": 6,
+          "media_count": 302,
+          "tweet_count": 9859
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T16:55:16.000Z",
+        "description": "超喜欢的人 @Astdeitee 好妹妹@yanzhenzhen21\n学习ing ，勿打扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Astdeitee"
+              },
+              {
+                "end": 34,
+                "start": 20,
+                "username": "yanzhenzhen21"
+              }
+            ]
+          }
+        },
+        "id": "1768682351603896320",
+        "name": "狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898830249280098304/rkZEztIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 208,
+          "like_count": 1507,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 617
+        },
+        "username": "SnowFoxSama",
+        "verified": false
+      }
+    ]
+  }
+}

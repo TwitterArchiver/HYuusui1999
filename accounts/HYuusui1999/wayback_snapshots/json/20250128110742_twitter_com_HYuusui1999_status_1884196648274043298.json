@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1883873980106604675",
+    "created_at": "2025-01-28T11:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T12:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884196648274043298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868261594305585152",
+          "start": 0,
+          "username": "Av69696991"
+        },
+        {
+          "end": 19,
+          "id": "1613079089879076864",
+          "start": 12,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884196648274043298",
+    "in_reply_to_user_id": "1868261594305585152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884187735851950116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Av69696991 @Cldeop 是匿名聊天网页"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1883873980106604675",
+        "created_at": "2025-01-28T11:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T12:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884196648274043298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868261594305585152",
+              "start": 0,
+              "username": "Av69696991"
+            },
+            {
+              "end": 19,
+              "id": "1613079089879076864",
+              "start": 12,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884196648274043298",
+        "in_reply_to_user_id": "1868261594305585152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884187735851950116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Av69696991 @Cldeop 是匿名聊天网页"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868261594305585152",
+        "conversation_id": "1883873980106604675",
+        "created_at": "2025-01-28T10:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T11:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884187735851950116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884187735851950116",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883873980106604675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop 这到底什么软件"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 273,
+          "like_count": 4156,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 522
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T11:47:43.000Z",
+        "description": "没人认识的地方瞎发发      我就是色批!我就是想搞黄色!",
+        "id": "1868261594305585152",
+        "location": "shanghai",
+        "name": "•᷄ࡇ•᷅",
+        "pinned_tweet_id": "1868285692687819132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880714667707727872/dW-A7SvY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 32,
+          "like_count": 1719,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 121
+        },
+        "username": "Av69696991",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū\n推特见证每一种生物\n生活号@ACldJP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 22,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1874123551281991887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696802554318061568/M4Tec_5U_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53015,
+          "following_count": 538,
+          "like_count": 24112,
+          "listed_count": 183,
+          "media_count": 7342,
+          "tweet_count": 10501
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

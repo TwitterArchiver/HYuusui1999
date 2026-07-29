@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1976569326715940864"
+      ],
+      "media_source_tweet_id": [
+        "1976569437940863140"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      }
+    ],
+    "conversation_id": "1977219775576023373",
+    "created_at": "2025-10-12T03:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T04:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977219775576023373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1362702574407716864",
+          "start": 3,
+          "username": "tintinpapa1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5NjQSnBiAA",
+          "end": 113,
+          "expanded_url": "https://x.com/i/status/1976569437940863140/video/1",
+          "media_key": "13_1976569326715940864",
+          "start": 90,
+          "url": "https://t.co/5NjQSnBiAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977219775576023373",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 781
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977018143303422434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tintinpapa1: 父親とは\n\nどんな凶暴な猛獣が現れても\n\n子供たちを守り　先に逃して\n\n自分が囮になって助ける\n\n愛に溢れた生き物です😭\n\n（サウンドオン推奨）\nhttps://t.co/5NjQSnBiAA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18300,
+        "height": 536,
+        "media_key": "13_1976569326715940864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1976569326715940864/img/0NGpcxcPIMG-FpiW.jpg",
+        "public_metrics": {
+          "view_count": 5077582
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976569326715940864/vid/avc1/290x270/zr5dDuViWoxx5nSj.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976569326715940864/vid/avc1/386x360/2NrSwOXBaq--edoA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976569326715940864/vid/avc1/576x536/47mcvT3rnECevDS4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1976569326715940864/pl/hT58fx6QQwhKvwFx.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1976569326715940864"
+          ],
+          "media_source_tweet_id": [
+            "1976569437940863140"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "1977219775576023373",
+        "created_at": "2025-10-12T03:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T04:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977219775576023373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1362702574407716864",
+              "start": 3,
+              "username": "tintinpapa1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5NjQSnBiAA",
+              "end": 113,
+              "expanded_url": "https://x.com/i/status/1976569437940863140/video/1",
+              "media_key": "13_1976569326715940864",
+              "start": 90,
+              "url": "https://t.co/5NjQSnBiAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977219775576023373",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 781
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977018143303422434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tintinpapa1: 父親とは\n\nどんな凶暴な猛獣が現れても\n\n子供たちを守り　先に逃して\n\n自分が囮になって助ける\n\n愛に溢れた生き物です😭\n\n（サウンドオン推奨）\nhttps://t.co/5NjQSnBiAA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1976569326715940864"
+          ],
+          "media_source_tweet_id": [
+            "1976569437940863140"
+          ]
+        },
+        "author_id": "1362702574407716864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "1977018143303422434",
+        "created_at": "2025-10-11T14:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T15:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977018143303422434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5NjQSnBiAA",
+              "end": 96,
+              "expanded_url": "https://x.com/i/status/1976569437940863140/video/1",
+              "media_key": "13_1976569326715940864",
+              "start": 73,
+              "url": "https://t.co/5NjQSnBiAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977018143303422434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/19765…",
+                "end": 96,
+                "expanded_url": "https://twitter.com/i/status/1976569437940863140/video/1",
+                "start": 73,
+                "url": "https://t.co/dUpZCFsnwt"
+              }
+            ]
+          },
+          "text": "父親とは\n\nどんな凶暴な猛獣が現れても\n\n子供たちを守り　先に逃して\n\n自分が囮になって助ける\n\n愛に溢れた生き物です😭\n\n（サウンドオン推奨）\nhttps://t.co/dUpZCFsnwt"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1583,
+          "impression_count": 6702869,
+          "like_count": 16303,
+          "quote_count": 96,
+          "reply_count": 175,
+          "retweet_count": 781
+        },
+        "reply_settings": "everyone",
+        "text": "父親とは\n\nどんな凶暴な猛獣が現れても\n\n子供たちを守り　先に逃して\n\n自分が囮になって助ける\n\n愛に溢れた生き物です😭\n\n（サウンドオン推奨）\nhttps://t.co/5NjQSnBiAA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 2095,
+          "like_count": 35497,
+          "listed_count": 6,
+          "media_count": 284,
+          "tweet_count": 8775
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-19T09:56:50.000Z",
+        "description": "ﾜｲﾔｰﾌｫｯｸｽﾃﾘｱ タンタン2025.3月永眠🌈のパパです。 開業はしていませんがドッグトレーナーの資格をもっています。 主に動物に感情移入してもらうための動画と 最新の犬の知識を発信しています。 SNS上での議論は不毛なのでしません。嫌なコメントはサクッと非表示＆ブロックします。無言フォローOKですしします",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ameblo.jp/tintinpapa/",
+                "end": 23,
+                "expanded_url": "https://ameblo.jp/tintinpapa/",
+                "start": 0,
+                "url": "https://t.co/EnUybJzGSW"
+              }
+            ]
+          }
+        },
+        "id": "1362702574407716864",
+        "location": "日本 東京",
+        "name": "タンタンパパ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609726358577610756/AeAseYfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66087,
+          "following_count": 1367,
+          "like_count": 291395,
+          "listed_count": 272,
+          "media_count": 15391,
+          "tweet_count": 55897
+        },
+        "url": "https://t.co/EnUybJzGSW",
+        "username": "tintinpapa1",
+        "verified": true
+      }
+    ]
+  }
+}

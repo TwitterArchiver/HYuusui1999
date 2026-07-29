@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997890845933256704"
+      ],
+      "media_source_tweet_id": [
+        "1997892643179954370"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1997979750678049027",
+    "created_at": "2025-12-08T10:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T11:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997979750678049027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1938210111992074240",
+          "start": 3,
+          "username": "FJUNNNN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vuPFwUutVh",
+          "end": 100,
+          "expanded_url": "https://x.com/FJUNNNN/status/1997892643179954370/photo/1",
+          "media_key": "3_1997890845933256704",
+          "start": 77,
+          "url": "https://t.co/vuPFwUutVh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997979750678049027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997892643179954370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FJUNNNN: 这是我在拼多多上买到的临期比卡鲁胺\n\n还有一个月过期，50mg*28片，到手价99元\n\n刚好卡着过期的极限吃完_(:з)∠)_ https://t.co/vuPFwUutVh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1997890845933256704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7nvI5vbQAA-B03.jpg",
+        "width": 2733
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997890845933256704"
+          ],
+          "media_source_tweet_id": [
+            "1997892643179954370"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1997979750678049027",
+        "created_at": "2025-12-08T10:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T11:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997979750678049027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938210111992074240",
+              "start": 3,
+              "username": "FJUNNNN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vuPFwUutVh",
+              "end": 100,
+              "expanded_url": "https://x.com/FJUNNNN/status/1997892643179954370/photo/1",
+              "media_key": "3_1997890845933256704",
+              "start": 77,
+              "url": "https://t.co/vuPFwUutVh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997979750678049027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997892643179954370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FJUNNNN: 这是我在拼多多上买到的临期比卡鲁胺\n\n还有一个月过期，50mg*28片，到手价99元\n\n刚好卡着过期的极限吃完_(:з)∠)_ https://t.co/vuPFwUutVh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997890845933256704"
+          ]
+        },
+        "author_id": "1938210111992074240",
+        "conversation_id": "1997892643179954370",
+        "created_at": "2025-12-08T04:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T05:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997892643179954370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vuPFwUutVh",
+              "end": 87,
+              "expanded_url": "https://x.com/FJUNNNN/status/1997892643179954370/photo/1",
+              "media_key": "3_1997890845933256704",
+              "start": 64,
+              "url": "https://t.co/vuPFwUutVh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997892643179954370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1855,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这是我在拼多多上买到的临期比卡鲁胺\n\n还有一个月过期，50mg*28片，到手价99元\n\n刚好卡着过期的极限吃完_(:з)∠)_ https://t.co/vuPFwUutVh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 2574,
+          "like_count": 41439,
+          "listed_count": 6,
+          "media_count": 303,
+          "tweet_count": 10120
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T12:18:21.000Z",
+        "description": "「这里是二号机，一号机炸了」大龄MTF，可以叫我米糊或者芙芙（fufu）哦，宝宝们快回来和我互fo吧~",
+        "id": "1938210111992074240",
+        "name": "F菌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938242264343744512/EocErPc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 623,
+          "like_count": 1113,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 430
+        },
+        "username": "FJUNNNN",
+        "verified": true
+      }
+    ]
+  }
+}

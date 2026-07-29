@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1994556492784308306",
+    "created_at": "2025-11-29T05:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T06:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994639069117386880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1490976522362302465",
+          "start": 0,
+          "username": "whyuounot"
+        },
+        {
+          "end": 23,
+          "id": "1870313420807163904",
+          "start": 11,
+          "username": "IzayoiMarin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994639069117386880",
+    "in_reply_to_user_id": "1490976522362302465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994625808825291073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyuounot @IzayoiMarin 串得不像（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1994556492784308306",
+        "created_at": "2025-11-29T05:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994639069117386880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1490976522362302465",
+              "start": 0,
+              "username": "whyuounot"
+            },
+            {
+              "end": 23,
+              "id": "1870313420807163904",
+              "start": 11,
+              "username": "IzayoiMarin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994639069117386880",
+        "in_reply_to_user_id": "1490976522362302465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994625808825291073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyuounot @IzayoiMarin 串得不像（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490976522362302465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1994556492784308306",
+        "created_at": "2025-11-29T04:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T05:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994625808825291073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870313420807163904",
+              "start": 0,
+              "username": "IzayoiMarin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994625808825291073",
+        "in_reply_to_user_id": "1870313420807163904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 218,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994556492784308306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzayoiMarin 支持咱妈，咱妈这波做的非常霸气，打出了属于中国的态度，以后把日本av 漫画全部ban了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 2486,
+          "like_count": 40722,
+          "listed_count": 6,
+          "media_count": 303,
+          "tweet_count": 9901
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T09:11:27.000Z",
+        "description": "私信可以加好友，喜欢画画和音乐\n推广自辩",
+        "id": "1490976522362302465",
+        "location": "🚪52/188/288/520",
+        "name": "蛋炒饭",
+        "pinned_tweet_id": "1994367703063413065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988830070451105792/fx45ox9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9644,
+          "following_count": 1219,
+          "like_count": 7936,
+          "listed_count": 24,
+          "media_count": 2131,
+          "tweet_count": 14500
+        },
+        "username": "whyuounot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "09/高二（上学白天不在）/物化生/生理性别女/互fo/フォロバ99%/🇨🇳人/🇯🇵好き/不是很爱看DM/挂： @soyorin_chihaya @quasoawa @Sirataka287 @satochocolat17 @Baixiaoming2952 @NovaBabelo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 56,
+                "username": "soyorin_chihaya"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "quasoawa"
+              },
+              {
+                "end": 95,
+                "start": 83,
+                "username": "Sirataka287"
+              },
+              {
+                "end": 111,
+                "start": 96,
+                "username": "satochocolat17"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "Baixiaoming2952"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "NovaBabelo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQroFMf"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "马口头喜欢喜欢喜欢",
+        "name": "まりん",
+        "pinned_tweet_id": "1994556492784308306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979839146601426944/LBpfTPIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1719,
+          "following_count": 1995,
+          "like_count": 29408,
+          "listed_count": 5,
+          "media_count": 1040,
+          "tweet_count": 13378
+        },
+        "url": "https://t.co/BABPQroFMf",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

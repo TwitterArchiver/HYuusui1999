@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1913921062728839421",
+    "created_at": "2025-04-20T11:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T12:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913921785424236595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1562409695616241664",
+          "start": 0,
+          "username": "MIcedblacktea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913921785424236595",
+    "in_reply_to_user_id": "1562409695616241664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913921062728839421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MIcedblacktea 评论被隐藏了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1913921054013059073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go-dDuiW8AEqG9T.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1913921062728839421",
+        "created_at": "2025-04-20T11:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T12:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913921785424236595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1562409695616241664",
+              "start": 0,
+              "username": "MIcedblacktea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913921785424236595",
+        "in_reply_to_user_id": "1562409695616241664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913921062728839421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MIcedblacktea 评论被隐藏了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913921054013059073"
+          ]
+        },
+        "author_id": "1562409695616241664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1913921062728839421",
+        "created_at": "2025-04-20T11:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T12:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913921062728839421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uh3Cn75hdp",
+              "end": 43,
+              "expanded_url": "https://x.com/MIcedblacktea/status/1913921062728839421/photo/1",
+              "media_key": "3_1913921054013059073",
+              "start": 20,
+              "url": "https://t.co/uh3Cn75hdp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913921062728839421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈哈哈哈哈，我被习近平拉清单了 https://t.co/uh3Cn75hdp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1912415808413647168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 754,
+          "like_count": 16263,
+          "listed_count": 5,
+          "media_count": 146,
+          "tweet_count": 3233
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-24T12:02:10.000Z",
+        "description": "Когда-то злоупотребляла препаратами, теперь — нет. / Girls' Frontline / милитаризм / игры / история / психические болезни / тьма и безысходность / взаимка",
+        "id": "1562409695616241664",
+        "location": "Дальний Восток",
+        "name": "Мисаки",
+        "pinned_tweet_id": "1891803121459904546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888754180665577472/A8N2nbto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 611,
+          "like_count": 7425,
+          "listed_count": 7,
+          "media_count": 211,
+          "tweet_count": 2059
+        },
+        "username": "MIcedblacktea",
+        "verified": false
+      }
+    ]
+  }
+}

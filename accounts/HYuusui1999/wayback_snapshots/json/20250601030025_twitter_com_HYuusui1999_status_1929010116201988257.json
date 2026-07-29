@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1928634762618372321",
+    "created_at": "2025-06-01T03:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T04:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929010116201988257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753419726582345728",
+          "start": 0,
+          "username": "GravitySwiss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/ixxa00/status/…",
+          "end": 37,
+          "expanded_url": "https://x.com/ixxa00/status/1928956317802311684?s=46",
+          "start": 14,
+          "url": "https://t.co/07ivxXfZw1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929010116201988257",
+    "in_reply_to_user_id": "1753419726582345728",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928956317802311684",
+        "type": "quoted"
+      },
+      {
+        "id": "1928634762618372321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GravitySwiss https://t.co/07ivxXfZw1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 130,
+        "media_key": "3_1928632619828408320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsPhJj8acAAbYZu.png",
+        "width": 605
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1928634762618372321",
+        "created_at": "2025-06-01T03:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T04:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929010116201988257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753419726582345728",
+              "start": 0,
+              "username": "GravitySwiss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ixxa00/status/…",
+              "end": 37,
+              "expanded_url": "https://x.com/ixxa00/status/1928956317802311684?s=46",
+              "start": 14,
+              "url": "https://t.co/07ivxXfZw1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929010116201988257",
+        "in_reply_to_user_id": "1753419726582345728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928956317802311684",
+            "type": "quoted"
+          },
+          {
+            "id": "1928634762618372321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GravitySwiss https://t.co/07ivxXfZw1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1928916954145857642",
+        "created_at": "2025-05-31T23:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T00:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928956317802311684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886278115955273728",
+              "start": 0,
+              "username": "Y0JATlyoJA46934"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928956317802311684",
+        "in_reply_to_user_id": "1886278115955273728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928916954145857642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y0JATlyoJA46934 老师和我做"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928632619828408320"
+          ]
+        },
+        "author_id": "1753419726582345728",
+        "conversation_id": "1928634762618372321",
+        "created_at": "2025-05-31T02:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T03:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928634762618372321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YT84BacuaG",
+              "end": 112,
+              "expanded_url": "https://x.com/GravitySwiss/status/1928634762618372321/photo/1",
+              "media_key": "3_1928632619828408320",
+              "start": 89,
+              "url": "https://t.co/YT84BacuaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928634762618372321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8433,
+          "like_count": 169,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一 我不是男娘，别虚空索敌👋\n二 不喜欢可以直接和我说，下次会注意，，，\n\n我确实无法保证不冒犯到每一个人，但自己先屏蔽我又背后蛐蛐除了满足你的精神胜利外对实际问题有作用吗☔️ https://t.co/YT84BacuaG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。    ～公告栏～ @jvhao0721好久前开始从b站盗句号视频， 视频创作者是@juhao0721，请注意 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "jvhao0721"
+              },
+              {
+                "end": 98,
+                "start": 88,
+                "username": "juhao0721"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 1065,
+          "like_count": 20651,
+          "listed_count": 6,
+          "media_count": 195,
+          "tweet_count": 4656
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T14:07:38.000Z",
+        "description": "open your eyes for the next ∅'s",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "otomad.wiki",
+                "end": 23,
+                "expanded_url": "https://otomad.wiki/",
+                "start": 0,
+                "url": "https://t.co/eEO2O5kmpg"
+              }
+            ]
+          }
+        },
+        "id": "1753419726582345728",
+        "location": "Κωνσταντινούπολις",
+        "name": "GravitySwiss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753431245357543424/KxUIQ4O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242,
+          "following_count": 2755,
+          "like_count": 111777,
+          "listed_count": 17,
+          "media_count": 1482,
+          "tweet_count": 33261
+        },
+        "url": "https://t.co/eEO2O5kmpg",
+        "username": "GravitySwiss",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "日常推。",
+        "id": "1739391734491086848",
+        "location": "你不知道的地方",
+        "name": "isla🧸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121621870690304/CRs2ot3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3691,
+          "following_count": 3027,
+          "like_count": 22493,
+          "listed_count": 0,
+          "media_count": 1624,
+          "tweet_count": 21964
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

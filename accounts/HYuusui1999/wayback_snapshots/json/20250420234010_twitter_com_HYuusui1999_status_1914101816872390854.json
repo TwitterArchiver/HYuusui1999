@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1914101816872390854",
+    "created_at": "2025-04-20T23:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T00:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914101816872390854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1893688350076542976",
+          "start": 3,
+          "username": "drug_artist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914101816872390854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913560632302903666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @drug_artist: 药物滥用者们，我想告诉你们的是，一切药物都不会是真正的救赎，可以使用药物，但如果有爱到来，请不要拒绝爱，爱才是可治疗百病的药物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1914101816872390854",
+        "created_at": "2025-04-20T23:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T00:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914101816872390854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1893688350076542976",
+              "start": 3,
+              "username": "drug_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914101816872390854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913560632302903666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @drug_artist: 药物滥用者们，我想告诉你们的是，一切药物都不会是真正的救赎，可以使用药物，但如果有爱到来，请不要拒绝爱，爱才是可治疗百病的药物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893688350076542976",
+        "conversation_id": "1913560632302903666",
+        "created_at": "2025-04-19T11:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T12:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913560632302903666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913560632302903666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 10833,
+          "like_count": 205,
+          "quote_count": 7,
+          "reply_count": 21,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "药物滥用者们，我想告诉你们的是，一切药物都不会是真正的救赎，可以使用药物，但如果有爱到来，请不要拒绝爱，爱才是可治疗百病的药物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1912415808413647168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 758,
+          "like_count": 16503,
+          "listed_count": 6,
+          "media_count": 155,
+          "tweet_count": 3291
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T15:44:29.000Z",
+        "description": "overdose百科wiki主\n愿每一位药物滥用的人都能脱离深渊\n提供 od 咨询",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/hLxQwrcSWN"
+              }
+            ]
+          }
+        },
+        "id": "1893688350076542976",
+        "name": "💕🎀沐雨ソース💞✝️",
+        "pinned_tweet_id": "1901290151500005462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893688536513040384/B_JIysQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 130,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 302
+        },
+        "url": "https://t.co/hLxQwrcSWN",
+        "username": "drug_artist",
+        "verified": false
+      }
+    ]
+  }
+}

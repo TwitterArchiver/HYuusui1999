@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969284642466643969"
+      ],
+      "media_source_tweet_id": [
+        "1969284660350910696"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1969294564377735586",
+    "created_at": "2025-09-20T06:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T07:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969294564377735586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1814986653838299136",
+          "start": 3,
+          "username": "WuYueMeow"
+        }
+      ],
+      "urls": [
+        {
+          "description": "百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端。注册使用百度网盘即可享受免费存储空间",
+          "display_url": "pan.baidu.com/s/19spUk6ytiSL…",
+          "end": 87,
+          "expanded_url": "https://pan.baidu.com/s/19spUk6ytiSLMdvf8pQAIzA?pwd=6g03",
+          "start": 64,
+          "status": 200,
+          "title": "百度网盘 请输入提取码",
+          "unwound_url": "https://pan.baidu.com/share/init?surl=9spUk6ytiSLMdvf8pQAIzA&pwd=6g03",
+          "url": "https://t.co/1E5NRaKPIz"
+        },
+        {
+          "display_url": "pic.x.com/smkcbcyz8B",
+          "end": 136,
+          "expanded_url": "https://x.com/WuYueMeow/status/1969284660350910696/photo/1",
+          "media_key": "3_1969284642466643969",
+          "start": 113,
+          "url": "https://t.co/smkcbcyz8B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969294564377735586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969284660350910696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WuYueMeow: 整理了一下过去在各个社群收集到的资料，涉及精神诊疗、心理疗愈、危机干预、跨性别相关、多意识体相关\nhttps://t.co/1E5NRaKPIz \n提取码:6g03\n（资料较少QAQ，持续更新） https://t.co/smkcbcyz8B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1969284642466643969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1RN8tfbQAEn9mk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969284642466643969"
+          ],
+          "media_source_tweet_id": [
+            "1969284660350910696"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1969294564377735586",
+        "created_at": "2025-09-20T06:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T07:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969294564377735586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1814986653838299136",
+              "start": 3,
+              "username": "WuYueMeow"
+            }
+          ],
+          "urls": [
+            {
+              "description": "百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端。注册使用百度网盘即可享受免费存储空间",
+              "display_url": "pan.baidu.com/s/19spUk6ytiSL…",
+              "end": 87,
+              "expanded_url": "https://pan.baidu.com/s/19spUk6ytiSLMdvf8pQAIzA?pwd=6g03",
+              "start": 64,
+              "status": 200,
+              "title": "百度网盘 请输入提取码",
+              "unwound_url": "https://pan.baidu.com/share/init?surl=9spUk6ytiSLMdvf8pQAIzA&pwd=6g03",
+              "url": "https://t.co/1E5NRaKPIz"
+            },
+            {
+              "display_url": "pic.x.com/smkcbcyz8B",
+              "end": 136,
+              "expanded_url": "https://x.com/WuYueMeow/status/1969284660350910696/photo/1",
+              "media_key": "3_1969284642466643969",
+              "start": 113,
+              "url": "https://t.co/smkcbcyz8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969294564377735586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969284660350910696",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WuYueMeow: 整理了一下过去在各个社群收集到的资料，涉及精神诊疗、心理疗愈、危机干预、跨性别相关、多意识体相关\nhttps://t.co/1E5NRaKPIz \n提取码:6g03\n（资料较少QAQ，持续更新） https://t.co/smkcbcyz8B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969284642466643969"
+          ]
+        },
+        "author_id": "1814986653838299136",
+        "conversation_id": "1969284660350910696",
+        "created_at": "2025-09-20T06:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T07:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969284660350910696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端。注册使用百度网盘即可享受免费存储空间",
+              "display_url": "pan.baidu.com/s/19spUk6ytiSL…",
+              "end": 72,
+              "expanded_url": "https://pan.baidu.com/s/19spUk6ytiSLMdvf8pQAIzA?pwd=6g03",
+              "start": 49,
+              "status": 200,
+              "title": "百度网盘 请输入提取码",
+              "unwound_url": "https://pan.baidu.com/share/init?surl=9spUk6ytiSLMdvf8pQAIzA&pwd=6g03",
+              "url": "https://t.co/1E5NRaKPIz"
+            },
+            {
+              "display_url": "pic.x.com/smkcbcyz8B",
+              "end": 121,
+              "expanded_url": "https://x.com/WuYueMeow/status/1969284660350910696/photo/1",
+              "media_key": "3_1969284642466643969",
+              "start": 98,
+              "url": "https://t.co/smkcbcyz8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969284660350910696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "整理了一下过去在各个社群收集到的资料，涉及精神诊疗、心理疗愈、危机干预、跨性别相关、多意识体相关\nhttps://t.co/1E5NRaKPIz \n提取码:6g03\n（资料较少QAQ，持续更新） https://t.co/smkcbcyz8B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 1722,
+          "like_count": 30736,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 7950
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T11:32:01.000Z",
+        "description": "",
+        "id": "1814986653838299136",
+        "name": "雾月",
+        "pinned_tweet_id": "1935624530317516921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952962438443454464/ESArdLUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 270,
+          "like_count": 2952,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "username": "WuYueMeow",
+        "verified": false
+      }
+    ]
+  }
+}

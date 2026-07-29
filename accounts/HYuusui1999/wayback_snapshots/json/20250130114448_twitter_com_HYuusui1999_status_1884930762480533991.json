@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1884850696681607520",
+    "created_at": "2025-01-30T11:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T12:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884930762480533991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1766129619474993152",
+          "start": 0,
+          "username": "AcetateFrag"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884930762480533991",
+    "in_reply_to_user_id": "1766129619474993152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884850696681607520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcetateFrag 嘿嘿(￣▽￣)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1884850696681607520",
+        "created_at": "2025-01-30T11:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T12:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884930762480533991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1766129619474993152",
+              "start": 0,
+              "username": "AcetateFrag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884930762480533991",
+        "in_reply_to_user_id": "1766129619474993152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884850696681607520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcetateFrag 嘿嘿(￣▽￣)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766129619474993152",
+        "conversation_id": "1884850696681607520",
+        "created_at": "2025-01-30T06:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T07:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884850696681607520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AcetateFrag/st…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/AcetateFrag/status/1884833686937583763",
+              "start": 41,
+              "url": "https://t.co/DppEYHLXTd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884850696681607520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884833686937583763",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比起虚伪的成年人\n小a想做个单纯的傻孩子\n一直傻笑下去\n\n嘿嘿...( ´∀｀) https://t.co/DppEYHLXTd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 294,
+          "like_count": 4758,
+          "listed_count": 3,
+          "media_count": 41,
+          "tweet_count": 583
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T15:52:00.000Z",
+        "description": "你好～ 请叫我小a就好。小a独处好久，变成了笨蛋。请多陪小a说话(很可爱的)。最爱青石姐姐(´▽｀) @qingshixiang258",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "qingshixiang258"
+              }
+            ]
+          }
+        },
+        "id": "1766129619474993152",
+        "name": "Acetate🍰",
+        "pinned_tweet_id": "1881722587975479448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881691568710754304/h2au2NAL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 95,
+          "like_count": 390,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 232
+        },
+        "username": "AcetateFrag",
+        "verified": false
+      }
+    ]
+  }
+}

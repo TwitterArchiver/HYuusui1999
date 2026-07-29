@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1976361094320189509",
+    "created_at": "2025-10-10T09:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T10:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976581643134796125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746050438666002432",
+          "start": 0,
+          "username": "mitsuki072527"
+        },
+        {
+          "end": 27,
+          "id": "1866050038088024064",
+          "start": 15,
+          "username": "123456wwerr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976581643134796125",
+    "in_reply_to_user_id": "1746050438666002432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976580998944236010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mitsuki072527 @123456wwerr 感觉玩ff14成本好高🧐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1976361094320189509",
+        "created_at": "2025-10-10T09:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T10:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976581643134796125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746050438666002432",
+              "start": 0,
+              "username": "mitsuki072527"
+            },
+            {
+              "end": 27,
+              "id": "1866050038088024064",
+              "start": 15,
+              "username": "123456wwerr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976581643134796125",
+        "in_reply_to_user_id": "1746050438666002432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976580998944236010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mitsuki072527 @123456wwerr 感觉玩ff14成本好高🧐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746050438666002432",
+        "conversation_id": "1976361094320189509",
+        "created_at": "2025-10-10T09:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T10:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976580998944236010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866050038088024064",
+              "start": 0,
+              "username": "123456wwerr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976580998944236010",
+        "in_reply_to_user_id": "1866050038088024064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976575478166360351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123456wwerr 嗯。。其实我不是想要这个小团体我想要ff14的小团体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 2075,
+          "like_count": 35255,
+          "listed_count": 6,
+          "media_count": 284,
+          "tweet_count": 8755
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T06:04:14.000Z",
+        "description": "病み垢 shtwt  https://t.co/y1n2cS5Voz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsumugi0227",
+                "end": 34,
+                "expanded_url": "https://ngl.link/tsumugi0227",
+                "start": 11,
+                "url": "https://t.co/y1n2cS5Voz"
+              }
+            ]
+          }
+        },
+        "id": "1746050438666002432",
+        "location": "天国",
+        "name": "死ぬまで",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935589769829888000/PfWseuMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 126,
+          "like_count": 2291,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 4139
+        },
+        "username": "mitsuki072527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "悲观主义者，重度抑郁（非常严重），自闭症，中度焦虑，没有逻辑，没有情商和口才，高强度玩游戏看动漫小说脱离社会太久",
+        "id": "1866050038088024064",
+        "location": "Hokkaidō, Japan",
+        "name": "荻原沙优",
+        "pinned_tweet_id": "1973350393934651704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873386768524836864/dTJUI6I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 307,
+          "like_count": 93105,
+          "listed_count": 3,
+          "media_count": 427,
+          "tweet_count": 12835
+        },
+        "username": "123456wwerr",
+        "verified": false
+      }
+    ]
+  }
+}

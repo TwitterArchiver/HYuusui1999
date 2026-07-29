@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1876134716921057361",
+    "created_at": "2025-01-17T19:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T20:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880334989549793694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2396906006",
+          "start": 0,
+          "username": "shizunyan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880334989549793694",
+    "in_reply_to_user_id": "2396906006",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876134716921057361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shizunyan_ Actually, not “by everyone”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1876134716921057361",
+        "created_at": "2025-01-17T19:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T20:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880334989549793694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2396906006",
+              "start": 0,
+              "username": "shizunyan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880334989549793694",
+        "in_reply_to_user_id": "2396906006",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876134716921057361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shizunyan_ Actually, not “by everyone”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2396906006",
+        "conversation_id": "1876134716921057361",
+        "created_at": "2025-01-06T05:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T06:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876134716921057361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876134716921057361",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 903,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "fuck this shit istg why am I feeling like I need to beat the shit outta ppl the entire day\nI'm so fucking tilted at everything fuck I can't even do shit right and being hated by everyone at the same time, with all these shit I feel like I should fucking end me"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边境",
+        "name": "祐穂・H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 122,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 129
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-18T23:23:12.000Z",
+        "description": "shizu, 20↑┊︎自傷 shtwt┊︎edtwt┊︎恋血恋痛┊︎🇯🇵+EN+中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shizunyan",
+                "end": 23,
+                "expanded_url": "https://t.me/shizunyan",
+                "start": 0,
+                "url": "https://t.co/Tgvx7Bf4IF"
+              }
+            ]
+          }
+        },
+        "id": "2396906006",
+        "location": "地獄",
+        "name": "しず",
+        "pinned_tweet_id": "1868889445971472456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853737893241704448/tz8XbgoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2183,
+          "following_count": 546,
+          "like_count": 31306,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 3783
+        },
+        "url": "https://t.co/Tgvx7Bf4IF",
+        "username": "shizunyan_",
+        "verified": false
+      }
+    ]
+  }
+}

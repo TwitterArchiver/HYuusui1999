@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1982371319959470564",
+    "created_at": "2025-10-26T08:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T09:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982371319959470564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878681729407356928",
+          "start": 3,
+          "username": "HYuusui1999"
+        },
+        {
+          "end": 29,
+          "id": "1552918719440924672",
+          "start": 17,
+          "username": "LumiCatRoll"
+        },
+        {
+          "end": 42,
+          "id": "1965393379224944645",
+          "start": 30,
+          "username": "hagishigure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982371319959470564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982371303140266488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HYuusui1999: @LumiCatRoll @hagishigure 上面那条的意思是你的成都兄弟的操作把你自己的计划打乱了；\n对于你发的这句，昨天我是和你说过她的情况的，你自说让家长带走后协商还钱（下图）；\n莫不是后来我下线了，你就直接把人挂了？ https:…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1982371319959470564].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1982371319959470564",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1982371319959470564"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1504,
+        "media_key": "3_1982370704117874688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LLpwAWQAAJnvh.jpg",
+        "width": 1166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982370704117874688"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1981996884316299287",
+        "created_at": "2025-10-26T08:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T09:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982371303140266488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "LumiCatRoll"
+            },
+            {
+              "end": 25,
+              "id": "1965393379224944645",
+              "start": 13,
+              "username": "hagishigure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c2tNa8lFU3",
+              "end": 139,
+              "expanded_url": "https://x.com/HYuusui1999/status/1982371303140266488/photo/1",
+              "media_key": "3_1982370704117874688",
+              "start": 116,
+              "url": "https://t.co/c2tNa8lFU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982371303140266488",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982370075614286203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumiCatRoll @hagishigure 上面那条的意思是你的成都兄弟的操作把你自己的计划打乱了；\n对于你发的这句，昨天我是和你说过她的情况的，你自说让家长带走后协商还钱（下图）；\n莫不是后来我下线了，你就直接把人挂了？ https://t.co/c2tNa8lFU3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n\n暂时退网（从2025年10月17日起，预计1个月）\n除留言以外的功能全部暂停运作",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 2187,
+          "like_count": 35724,
+          "listed_count": 6,
+          "media_count": 283,
+          "tweet_count": 8930
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "传送门 @Chiyuyu520 如果能在百忙之中抽空看一眼你的老朋友发给你的推文，我想必会受宠若惊。总有人在卖着惨 总有人想利用善 殊不知 天在看 祸根找上门 惨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "Chiyuyu520"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "Lumi & 猫卷 Co. (日雌泰补诺",
+        "pinned_tweet_id": "1982121107500175769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981599824827838464/S98pBSrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 747,
+          "like_count": 584,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 1509
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 99,
+          "like_count": 5751,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 1151
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1943656627846148561",
+    "created_at": "2025-07-12T17:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T18:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944086415815356498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882563916632666112",
+          "start": 0,
+          "username": "hhjnjkoguyunmo"
+        },
+        {
+          "end": 23,
+          "id": "1617523246144053251",
+          "start": 16,
+          "username": "s1nyvu"
+        },
+        {
+          "end": 35,
+          "id": "1760890372585037824",
+          "start": 24,
+          "username": "puddings00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944086415815356498",
+    "in_reply_to_user_id": "1882563916632666112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943902578892583413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhjnjkoguyunmo @s1nyvu @puddings00 有待观察这点好歹写到文里头啊(￣◇￣;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1943656627846148561",
+        "created_at": "2025-07-12T17:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T18:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944086415815356498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882563916632666112",
+              "start": 0,
+              "username": "hhjnjkoguyunmo"
+            },
+            {
+              "end": 23,
+              "id": "1617523246144053251",
+              "start": 16,
+              "username": "s1nyvu"
+            },
+            {
+              "end": 35,
+              "id": "1760890372585037824",
+              "start": 24,
+              "username": "puddings00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944086415815356498",
+        "in_reply_to_user_id": "1882563916632666112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943902578892583413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhjnjkoguyunmo @s1nyvu @puddings00 有待观察这点好歹写到文里头啊(￣◇￣;)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882563916632666112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1943656627846148561",
+        "created_at": "2025-07-12T05:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T06:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943902578892583413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1617523246144053251",
+              "start": 0,
+              "username": "s1nyvu"
+            },
+            {
+              "end": 19,
+              "id": "1760890372585037824",
+              "start": 8,
+              "username": "puddings00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943902578892583413",
+        "in_reply_to_user_id": "1617523246144053251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943902145109274951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s1nyvu @puddings00 还有待观察🍵😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 1360,
+          "like_count": 25173,
+          "listed_count": 5,
+          "media_count": 221,
+          "tweet_count": 6224
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "大家好呀，我会尽量包容所有人的，请多多指教哦~🥰",
+        "id": "1882563916632666112",
+        "name": "变成阿良河的顾云沫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909435314600644608/kr_0pOtE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 460,
+          "like_count": 159389,
+          "listed_count": 8,
+          "media_count": 110,
+          "tweet_count": 17178
+        },
+        "username": "hhjnjkoguyunmo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T14:02:59.000Z",
+        "description": "一般友🏳️‍⚧️女装爱好弯弯男（？）没吃过🍥|07老年人|与山东老保撕逼辍学离家无业穷困ing|ENFJ+表演型人格+双相（？）|文学研究型爱好者，偶尔写写诗歌、小说|CS、mc双推人|门🚪0.1￥（是的就是一毛钱）赞赏自愿|同类可互fo扩列喵|（祝我好似喵）",
+        "id": "1617523246144053251",
+        "location": "Goose Town",
+        "name": "❄️雪梦歆屿🦖",
+        "pinned_tweet_id": "1928345532537114825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939286425934921728/nchzB8iB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 37,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 953
+        },
+        "username": "s1nyvu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T04:52:48.000Z",
+        "description": "希望你可以喜欢我哦🍬/zh-CN&en-US/可爱的mtf一只~🏳️‍⚧️/Lesbian/she or her🩷/158cm＆40kg/HRT•8.30.23🍥/infp-t/喜欢贴贴🌟/不玩游戏/🚪128/🏳️‍⚧️同类互fo喵",
+        "id": "1760890372585037824",
+        "location": "Hong Kong",
+        "name": "布丁喵呜🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1912727183027564721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760890511252955136/x0DpoxWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2922,
+          "following_count": 620,
+          "like_count": 8375,
+          "listed_count": 5,
+          "media_count": 631,
+          "tweet_count": 5006
+        },
+        "username": "puddings00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2010197968130044056",
+    "created_at": "2026-01-12T10:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T11:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010667715300864070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1523537773143236608",
+          "start": 0,
+          "username": "Homulilly_Alter"
+        },
+        {
+          "end": 29,
+          "id": "1587653801305153538",
+          "start": 17,
+          "username": "XiaoHuiHuiH"
+        },
+        {
+          "end": 44,
+          "id": "1390652924481527810",
+          "start": 30,
+          "username": "zqtlovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010667715300864070",
+    "in_reply_to_user_id": "1523537773143236608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010297811305378096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Homulilly_Alter @XiaoHuiHuiH @zqtlovekris99 我不行了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2010297811305378096].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2010297811305378096",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2010297811305378096"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2010197968130044056",
+        "created_at": "2026-01-12T10:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010667715300864070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1523537773143236608",
+              "start": 0,
+              "username": "Homulilly_Alter"
+            },
+            {
+              "end": 29,
+              "id": "1587653801305153538",
+              "start": 17,
+              "username": "XiaoHuiHuiH"
+            },
+            {
+              "end": 44,
+              "id": "1390652924481527810",
+              "start": 30,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010667715300864070",
+        "in_reply_to_user_id": "1523537773143236608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010297811305378096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Homulilly_Alter @XiaoHuiHuiH @zqtlovekris99 我不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 2885,
+          "like_count": 43592,
+          "listed_count": 6,
+          "media_count": 342,
+          "tweet_count": 10768
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T05:38:12.000Z",
+        "description": "显示ip所在地的斯克你没马了",
+        "id": "1523537773143236608",
+        "name": "胡桃老师不是狐老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1528707266664357888/jgMgNWsO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 253,
+          "like_count": 3089,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 2600
+        },
+        "username": "Homulilly_Alter",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西曾在咱主页的“亮点”里🥹\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🏳️‍🌈/含糖🍥2023.12.7/不堪风流往事🩷💜/？？岁/上岸啦，不再约炮和援交/❤️\n@Mirro_zinuo\n/多伦多🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/地雷嗑学家💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Mirro_zinuo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1973169992570118470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11857,
+          "following_count": 1435,
+          "like_count": 158110,
+          "listed_count": 25,
+          "media_count": 4980,
+          "tweet_count": 66944
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 回fo请私信 | 日常推，记录生活 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZYQaw"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 11010,
+          "following_count": 1100,
+          "like_count": 23611,
+          "listed_count": 13,
+          "media_count": 4144,
+          "tweet_count": 25192
+        },
+        "url": "https://t.co/osSiOZYQaw",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

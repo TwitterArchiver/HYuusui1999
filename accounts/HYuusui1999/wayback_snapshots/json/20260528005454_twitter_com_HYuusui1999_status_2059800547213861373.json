@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033934347787460608"
+      ],
+      "media_source_tweet_id": [
+        "2033934677384257687"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2059800547213861373",
+    "created_at": "2026-05-28T00:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T01:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059800547213861373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1309391459250876416",
+          "start": 3,
+          "username": "CshOriana"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/14jyYhdWYT",
+          "end": 80,
+          "expanded_url": "https://x.com/CshOriana/status/2033934677384257687/photo/1",
+          "media_key": "3_2033934347787460608",
+          "start": 57,
+          "url": "https://t.co/14jyYhdWYT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059800547213861373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033934677384257687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CshOriana: 事实证明，湖南这地方比山东捞翔还夸张，戒网瘾机构数量全国第一，这地方指定有啥说法。 https://t.co/14jyYhdWYT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2033934347787460608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDn8g1hWYAALzVv.jpg",
+        "width": 2690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033934347787460608"
+          ],
+          "media_source_tweet_id": [
+            "2033934677384257687"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "2059800547213861373",
+        "created_at": "2026-05-28T00:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T01:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059800547213861373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1309391459250876416",
+              "start": 3,
+              "username": "CshOriana"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/14jyYhdWYT",
+              "end": 80,
+              "expanded_url": "https://x.com/CshOriana/status/2033934677384257687/photo/1",
+              "media_key": "3_2033934347787460608",
+              "start": 57,
+              "url": "https://t.co/14jyYhdWYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059800547213861373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033934677384257687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CshOriana: 事实证明，湖南这地方比山东捞翔还夸张，戒网瘾机构数量全国第一，这地方指定有啥说法。 https://t.co/14jyYhdWYT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033934347787460608"
+          ]
+        },
+        "author_id": "1309391459250876416",
+        "conversation_id": "2033934677384257687",
+        "created_at": "2026-03-17T15:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033934677384257687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/14jyYhdWYT",
+              "end": 65,
+              "expanded_url": "https://x.com/CshOriana/status/2033934677384257687/photo/1",
+              "media_key": "3_2033934347787460608",
+              "start": 42,
+              "url": "https://t.co/14jyYhdWYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033934677384257687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2315,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "事实证明，湖南这地方比山东捞翔还夸张，戒网瘾机构数量全国第一，这地方指定有啥说法。 https://t.co/14jyYhdWYT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 3320,
+          "like_count": 45000,
+          "listed_count": 5,
+          "media_count": 369,
+          "tweet_count": 11739
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-25T07:17:21.000Z",
+        "description": "She/Her/🌹社民Social Democrat/Français 流向永不枯竭的海",
+        "id": "1309391459250876416",
+        "location": "North Utopia",
+        "name": "🍥Oriana🇨🇦",
+        "pinned_tweet_id": "2033934677384257687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743283091375087616/Y1_C8eBr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 498,
+          "like_count": 35265,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 1072
+        },
+        "username": "CshOriana",
+        "verified": true
+      }
+    ]
+  }
+}

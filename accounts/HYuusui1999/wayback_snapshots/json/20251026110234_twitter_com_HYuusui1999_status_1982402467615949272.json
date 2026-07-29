@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982401801669279744",
+        "3_1982401801673388032",
+        "3_1982401801673428992",
+        "3_1982401801673441280"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1982400991015424218",
+    "created_at": "2025-10-26T11:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T12:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982402467615949272"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WxGxuKY6Q3",
+          "end": 23,
+          "expanded_url": "https://x.com/HYuusui1999/status/1982402467615949272/photo/1",
+          "media_key": "3_1982401801669279744",
+          "start": 0,
+          "url": "https://t.co/WxGxuKY6Q3"
+        },
+        {
+          "display_url": "pic.x.com/WxGxuKY6Q3",
+          "end": 23,
+          "expanded_url": "https://x.com/HYuusui1999/status/1982402467615949272/photo/1",
+          "media_key": "3_1982401801673388032",
+          "start": 0,
+          "url": "https://t.co/WxGxuKY6Q3"
+        },
+        {
+          "display_url": "pic.x.com/WxGxuKY6Q3",
+          "end": 23,
+          "expanded_url": "https://x.com/HYuusui1999/status/1982402467615949272/photo/1",
+          "media_key": "3_1982401801673428992",
+          "start": 0,
+          "url": "https://t.co/WxGxuKY6Q3"
+        },
+        {
+          "display_url": "pic.x.com/WxGxuKY6Q3",
+          "end": 23,
+          "expanded_url": "https://x.com/HYuusui1999/status/1982402467615949272/photo/1",
+          "media_key": "3_1982401801673441280",
+          "start": 0,
+          "url": "https://t.co/WxGxuKY6Q3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982402467615949272",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982401419367133684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/WxGxuKY6Q3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1982402467615949272].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1982402467615949272",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1982402467615949272"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1602,
+        "media_key": "3_1982401801669279744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Ln73aXgAALGMt.jpg",
+        "width": 1060
+      },
+      {
+        "height": 1588,
+        "media_key": "3_1982401801673388032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Ln73bWMAA1gOs.jpg",
+        "width": 1022
+      },
+      {
+        "height": 1578,
+        "media_key": "3_1982401801673428992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Ln73bW0AA7QtE.jpg",
+        "width": 1054
+      },
+      {
+        "height": 1588,
+        "media_key": "3_1982401801673441280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Ln73bXAAA_06W.jpg",
+        "width": 1058
+      },
+      {
+        "height": 1576,
+        "media_key": "3_1982401257068244992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LncKnXMAA44K4.jpg",
+        "width": 1048
+      },
+      {
+        "height": 1582,
+        "media_key": "3_1982401257101795328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LncKvXIAAv9l1.jpg",
+        "width": 1054
+      },
+      {
+        "height": 1582,
+        "media_key": "3_1982401257068261376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LncKnXcAAA8DI.jpg",
+        "width": 1054
+      },
+      {
+        "height": 1590,
+        "media_key": "3_1982401258251030528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LncPBXEAA-_kA.jpg",
+        "width": 1052
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982401257068244992",
+            "3_1982401257101795328",
+            "3_1982401257068261376",
+            "3_1982401258251030528"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1982400991015424218",
+        "created_at": "2025-10-26T10:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T11:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982401419367133684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKsocrmww4",
+              "end": 23,
+              "expanded_url": "https://x.com/HYuusui1999/status/1982401419367133684/photo/1",
+              "media_key": "3_1982401257068244992",
+              "start": 0,
+              "url": "https://t.co/GKsocrmww4"
+            },
+            {
+              "display_url": "pic.x.com/GKsocrmww4",
+              "end": 23,
+              "expanded_url": "https://x.com/HYuusui1999/status/1982401419367133684/photo/1",
+              "media_key": "3_1982401257101795328",
+              "start": 0,
+              "url": "https://t.co/GKsocrmww4"
+            },
+            {
+              "display_url": "pic.x.com/GKsocrmww4",
+              "end": 23,
+              "expanded_url": "https://x.com/HYuusui1999/status/1982401419367133684/photo/1",
+              "media_key": "3_1982401257068261376",
+              "start": 0,
+              "url": "https://t.co/GKsocrmww4"
+            },
+            {
+              "display_url": "pic.x.com/GKsocrmww4",
+              "end": 23,
+              "expanded_url": "https://x.com/HYuusui1999/status/1982401419367133684/photo/1",
+              "media_key": "3_1982401258251030528",
+              "start": 0,
+              "url": "https://t.co/GKsocrmww4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982401419367133684",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982401181696815561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/GKsocrmww4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n\n暂时退网（从2025年10月17日起，预计1个月）\n除留言以外的功能全部暂停运作",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 2186,
+          "like_count": 35737,
+          "listed_count": 6,
+          "media_count": 288,
+          "tweet_count": 8941
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

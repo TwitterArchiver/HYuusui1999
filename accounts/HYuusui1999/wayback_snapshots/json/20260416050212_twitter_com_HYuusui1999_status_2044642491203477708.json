@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044288780845363201",
+        "3_2044288780933447681",
+        "3_2044288781113798656",
+        "3_2044288781050839040"
+      ],
+      "media_source_tweet_id": [
+        "2044288783470997911",
+        "2044288783470997911",
+        "2044288783470997911",
+        "2044288783470997911"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2044642491203477708",
+    "created_at": "2026-04-16T05:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T06:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044642491203477708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2007036056068399104",
+          "start": 3,
+          "username": "huhu1585758"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pC5p78neZG",
+          "end": 82,
+          "expanded_url": "https://x.com/huhu1585758/status/2044288783470997911/photo/1",
+          "media_key": "3_2044288780845363201",
+          "start": 59,
+          "url": "https://t.co/pC5p78neZG"
+        },
+        {
+          "display_url": "pic.x.com/pC5p78neZG",
+          "end": 82,
+          "expanded_url": "https://x.com/huhu1585758/status/2044288783470997911/photo/1",
+          "media_key": "3_2044288780933447681",
+          "start": 59,
+          "url": "https://t.co/pC5p78neZG"
+        },
+        {
+          "display_url": "pic.x.com/pC5p78neZG",
+          "end": 82,
+          "expanded_url": "https://x.com/huhu1585758/status/2044288783470997911/photo/1",
+          "media_key": "3_2044288781113798656",
+          "start": 59,
+          "url": "https://t.co/pC5p78neZG"
+        },
+        {
+          "display_url": "pic.x.com/pC5p78neZG",
+          "end": 82,
+          "expanded_url": "https://x.com/huhu1585758/status/2044288783470997911/photo/1",
+          "media_key": "3_2044288781050839040",
+          "start": 59,
+          "url": "https://t.co/pC5p78neZG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044642491203477708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044288783470997911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huhu1585758: 有需要五倍雌二醇凝胶的吗？一瓶30邮费10块，内含300毫克雌二醇500毫克烟酰胺 https://t.co/pC5p78neZG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1088,
+        "media_key": "3_2044288780845363201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7F0KiasAEiw5b.jpg",
+        "width": 1042
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044288780933447681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7F0K3awAEOnhp.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044288781113798656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7F0LiasAAW57d.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2044288781050839040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7F0LTaAAAxln_.jpg",
+        "width": 1390
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044288780845363201",
+            "3_2044288780933447681",
+            "3_2044288781113798656",
+            "3_2044288781050839040"
+          ],
+          "media_source_tweet_id": [
+            "2044288783470997911",
+            "2044288783470997911",
+            "2044288783470997911",
+            "2044288783470997911"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "2044642491203477708",
+        "created_at": "2026-04-16T05:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T06:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044642491203477708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2007036056068399104",
+              "start": 3,
+              "username": "huhu1585758"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pC5p78neZG",
+              "end": 82,
+              "expanded_url": "https://x.com/huhu1585758/status/2044288783470997911/photo/1",
+              "media_key": "3_2044288780845363201",
+              "start": 59,
+              "url": "https://t.co/pC5p78neZG"
+            },
+            {
+              "display_url": "pic.x.com/pC5p78neZG",
+              "end": 82,
+              "expanded_url": "https://x.com/huhu1585758/status/2044288783470997911/photo/1",
+              "media_key": "3_2044288780933447681",
+              "start": 59,
+              "url": "https://t.co/pC5p78neZG"
+            },
+            {
+              "display_url": "pic.x.com/pC5p78neZG",
+              "end": 82,
+              "expanded_url": "https://x.com/huhu1585758/status/2044288783470997911/photo/1",
+              "media_key": "3_2044288781113798656",
+              "start": 59,
+              "url": "https://t.co/pC5p78neZG"
+            },
+            {
+              "display_url": "pic.x.com/pC5p78neZG",
+              "end": 82,
+              "expanded_url": "https://x.com/huhu1585758/status/2044288783470997911/photo/1",
+              "media_key": "3_2044288781050839040",
+              "start": 59,
+              "url": "https://t.co/pC5p78neZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044642491203477708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044288783470997911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huhu1585758: 有需要五倍雌二醇凝胶的吗？一瓶30邮费10块，内含300毫克雌二醇500毫克烟酰胺 https://t.co/pC5p78neZG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044288780845363201",
+            "3_2044288780933447681",
+            "3_2044288781113798656",
+            "3_2044288781050839040"
+          ]
+        },
+        "author_id": "2007036056068399104",
+        "conversation_id": "2044288783470997911",
+        "created_at": "2026-04-15T05:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T06:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044288783470997911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pC5p78neZG",
+              "end": 65,
+              "expanded_url": "https://x.com/huhu1585758/status/2044288783470997911/photo/1",
+              "media_key": "3_2044288780845363201",
+              "start": 42,
+              "url": "https://t.co/pC5p78neZG"
+            },
+            {
+              "display_url": "pic.x.com/pC5p78neZG",
+              "end": 65,
+              "expanded_url": "https://x.com/huhu1585758/status/2044288783470997911/photo/1",
+              "media_key": "3_2044288780933447681",
+              "start": 42,
+              "url": "https://t.co/pC5p78neZG"
+            },
+            {
+              "display_url": "pic.x.com/pC5p78neZG",
+              "end": 65,
+              "expanded_url": "https://x.com/huhu1585758/status/2044288783470997911/photo/1",
+              "media_key": "3_2044288781113798656",
+              "start": 42,
+              "url": "https://t.co/pC5p78neZG"
+            },
+            {
+              "display_url": "pic.x.com/pC5p78neZG",
+              "end": 65,
+              "expanded_url": "https://x.com/huhu1585758/status/2044288783470997911/photo/1",
+              "media_key": "3_2044288781050839040",
+              "start": 42,
+              "url": "https://t.co/pC5p78neZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044288783470997911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有需要五倍雌二醇凝胶的吗？一瓶30邮费10块，内含300毫克雌二醇500毫克烟酰胺 https://t.co/pC5p78neZG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 3213,
+          "like_count": 44977,
+          "listed_count": 5,
+          "media_count": 369,
+          "tweet_count": 11609
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T10:28:19.000Z",
+        "description": "需要买凝胶，请加这个qq3675508183, qq群1030745939，tg https://t.co/eAksH1Uv18因为加的人太多了，显示有风险，了解详情之后再加无，可出原味，可树洞陪聊，",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+aKFMia07_VE0O…",
+                "end": 64,
+                "expanded_url": "https://t.me/+aKFMia07_VE0OTll",
+                "start": 41,
+                "url": "https://t.co/eAksH1Uv18"
+              }
+            ]
+          }
+        },
+        "id": "2007036056068399104",
+        "name": "怀愚痴卖五倍雌二醇凝胶",
+        "pinned_tweet_id": "2038939070160887833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007356537191428096/O6vmXPKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 48,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 161
+        },
+        "username": "huhu1585758",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1882664993793196034",
+    "created_at": "2025-01-24T13:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T14:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882786806963519558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1479730386431545346",
+          "start": 0,
+          "username": "YuKi52037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882786806963519558",
+    "in_reply_to_user_id": "1479730386431545346",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882664993793196034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuKi52037 嗯，大家都逆天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1882664993793196034",
+        "created_at": "2025-01-24T13:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T14:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882786806963519558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi52037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882786806963519558",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882664993793196034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi52037 嗯，大家都逆天"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882664982581841920"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1882664993793196034",
+        "created_at": "2025-01-24T05:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T06:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882664993793196034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UdSXNvrsrB",
+              "end": 117,
+              "expanded_url": "https://x.com/YuKi52037/status/1882664993793196034/photo/1",
+              "media_key": "3_1882664982581841920",
+              "start": 94,
+              "url": "https://t.co/UdSXNvrsrB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882664993793196034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5863,
+          "like_count": 40,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "三崎你也是个逆天人，你让我好好的拥有一次幸福不好吗？你和我在一起那段时间你伤了我多少次，我是纯爱党，你天天出去乱搞，甚至和别人发生关系。你不是想熬吗，我就告诉你，我一定要和小雨一起走下去 https://t.co/UdSXNvrsrB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 234,
+          "like_count": 2765,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 363
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘/🚪28-58-108/日本語は勉強します、いま会話は無理です、ごめんなさい！/及腰长发/二次元/美食/可爱的事物/同类互fo/最爱的人@xiaoyu_lanjiang/妹妹@misakixyg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 70,
+                "username": "xiaoyu_lanjiang"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "misakixyg"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "北京",
+        "name": "千雪🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1879767470371926215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863733519547240450/0GkPaYQ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8519,
+          "following_count": 1013,
+          "like_count": 14349,
+          "listed_count": 15,
+          "media_count": 180,
+          "tweet_count": 1436
+        },
+        "username": "YuKi52037",
+        "verified": false
+      }
+    ]
+  }
+}

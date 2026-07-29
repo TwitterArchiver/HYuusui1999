@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1938577746374082568",
+    "created_at": "2025-06-27T12:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T13:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938579546678432119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1801382796436639745",
+          "start": 0,
+          "username": "_Snow0717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938579546678432119",
+    "in_reply_to_user_id": "1801382796436639745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938577746374082568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Snow0717 等我明天给您转"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 777,
+        "media_key": "3_1938577743945621504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guc2L-VbYAAx1Es.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1938577746374082568",
+        "created_at": "2025-06-27T12:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T13:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938579546678432119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1801382796436639745",
+              "start": 0,
+              "username": "_Snow0717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938579546678432119",
+        "in_reply_to_user_id": "1801382796436639745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938577746374082568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Snow0717 等我明天给您转"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938577743945621504"
+          ]
+        },
+        "author_id": "1801382796436639745",
+        "conversation_id": "1938577746374082568",
+        "created_at": "2025-06-27T12:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T13:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938577746374082568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/31PnhHiHF6",
+              "end": 34,
+              "expanded_url": "https://x.com/_Snow0717/status/1938577746374082568/photo/1",
+              "media_key": "3_1938577743945621504",
+              "start": 11,
+              "url": "https://t.co/31PnhHiHF6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938577746374082568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢！(シ_ _)シ https://t.co/31PnhHiHF6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yvjue0189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yvjue0189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 1225,
+          "like_count": 23095,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 5430
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T22:35:19.000Z",
+        "description": "║生日 2008.07.17 / 坐标台湾 / 高一休学\n║INFP / 猫\n║MtF / 家长党 / 无证含糖 2025.02.11\n║躁郁 /双相二型 / ADHD / BPD / ASD / PTSD\n║家里蹲 / 音游人 / 渴望温暖\n║最爱的人@Kinaiyurun0128 / 里推@_SnowUra0717",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kinaiyurun0128"
+              },
+              {
+                "end": 160,
+                "start": 147,
+                "username": "_SnowUra0717"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_snow07171",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_snow07171",
+                "start": 0,
+                "url": "https://t.co/3L4Ktfepse"
+              }
+            ]
+          }
+        },
+        "id": "1801382796436639745",
+        "location": "互联网",
+        "name": "洛雪🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1938508830033240340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896118220400271360/kFN6DTx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1656,
+          "following_count": 1601,
+          "like_count": 5754,
+          "listed_count": 3,
+          "media_count": 203,
+          "tweet_count": 1957
+        },
+        "url": "https://t.co/3L4Ktfepse",
+        "username": "_Snow0717",
+        "verified": false
+      }
+    ]
+  }
+}

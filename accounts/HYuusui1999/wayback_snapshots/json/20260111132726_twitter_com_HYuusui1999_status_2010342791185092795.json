@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010339362710368256"
+      ],
+      "media_source_tweet_id": [
+        "2010339793524154451"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2010342791185092795",
+    "created_at": "2026-01-11T13:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T14:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010342791185092795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878681729407356928",
+          "start": 3,
+          "username": "HYuusui1999"
+        },
+        {
+          "end": 27,
+          "id": "1943704460813041665",
+          "start": 17,
+          "username": "misakixyg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/20A5Bo81Pe",
+          "end": 66,
+          "expanded_url": "https://x.com/HYuusui1999/status/2010339793524154451/photo/1",
+          "media_key": "3_2010339362710368256",
+          "start": 43,
+          "url": "https://t.co/20A5Bo81Pe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010342791185092795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010339793524154451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HYuusui1999: @misakixyg 三崎（前前前前世）帳號已凍結 https://t.co/20A5Bo81Pe"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2010342791185092795].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2010342791185092795",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2010342791185092795"
+    },
+    {
+      "detail": "User has been suspended: [misakixyg].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "misakixyg",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "misakixyg"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 766,
+        "media_key": "3_2010339362710368256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Yo_8hWMAAA2rj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010339362710368256"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "2010339793524154451",
+        "created_at": "2026-01-11T13:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T14:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010339793524154451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1943704460813041665",
+              "start": 0,
+              "username": "misakixyg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/20A5Bo81Pe",
+              "end": 49,
+              "expanded_url": "https://x.com/HYuusui1999/status/2010339793524154451/photo/1",
+              "media_key": "3_2010339362710368256",
+              "start": 26,
+              "url": "https://t.co/20A5Bo81Pe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010339793524154451",
+        "in_reply_to_user_id": "1943704460813041665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@misakixyg 三崎（前前前前世）帳號已凍結 https://t.co/20A5Bo81Pe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 2867,
+          "like_count": 43563,
+          "listed_count": 6,
+          "media_count": 341,
+          "tweet_count": 10754
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

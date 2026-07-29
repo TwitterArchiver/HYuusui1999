@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2001324096714596378",
+    "created_at": "2025-12-18T10:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T11:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001594451626426684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1771754880052715520",
+          "start": 0,
+          "username": "FoolsChasinger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001594451626426684",
+    "in_reply_to_user_id": "1771754880052715520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001324096714596378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoolsChasinger 但愿他有足够的时间尽可能做自己想做的事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1337,
+        "media_key": "3_2001324093430448128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8YhqNVaQAA0B-8.jpg",
+        "width": 915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2001324096714596378",
+        "created_at": "2025-12-18T10:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T11:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001594451626426684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1771754880052715520",
+              "start": 0,
+              "username": "FoolsChasinger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001594451626426684",
+        "in_reply_to_user_id": "1771754880052715520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001324096714596378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoolsChasinger 但愿他有足够的时间尽可能做自己想做的事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001324093430448128"
+          ]
+        },
+        "author_id": "1771754880052715520",
+        "conversation_id": "2001324096714596378",
+        "created_at": "2025-12-17T16:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T17:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001324096714596378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gy2NJ5pRPv",
+              "end": 82,
+              "expanded_url": "https://x.com/FoolsChasinger/status/2001324096714596378/photo/1",
+              "media_key": "3_2001324093430448128",
+              "start": 59,
+              "url": "https://t.co/Gy2NJ5pRPv"
+            },
+            {
+              "display_url": "x.com/FoolsChasinger…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/FoolsChasinger/status/1885889921262776391",
+              "start": 83,
+              "url": "https://t.co/J1i2CDQqet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001324096714596378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 13871,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885889921262776391",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "命运还是没放过他，再得知他的消息，是他写给我的一封长信和一段感谢。\n还有一个令人悲痛的消息。\n起码，暂时，先撑住吧。 https://t.co/Gy2NJ5pRPv https://t.co/J1i2CDQqet"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 2774,
+          "like_count": 43151,
+          "listed_count": 6,
+          "media_count": 310,
+          "tweet_count": 10511
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T04:24:37.000Z",
+        "description": "热血元气奋斗逼/一般通过社会人/学习吃饭中 | 烙铁:@PainissimoVae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "PainissimoVae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dl.acm.org",
+                "end": 23,
+                "expanded_url": "https://dl.acm.org/",
+                "start": 0,
+                "url": "https://t.co/6mOYC9pMEA"
+              }
+            ]
+          }
+        },
+        "id": "1771754880052715520",
+        "location": "No such information",
+        "name": "果壳里的君王",
+        "pinned_tweet_id": "1923242028747403595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884181886760804356/ycOyoMJG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 575,
+          "like_count": 53780,
+          "listed_count": 13,
+          "media_count": 2657,
+          "tweet_count": 19160
+        },
+        "url": "https://t.co/6mOYC9pMEA",
+        "username": "FoolsChasinger",
+        "verified": false
+      }
+    ]
+  }
+}

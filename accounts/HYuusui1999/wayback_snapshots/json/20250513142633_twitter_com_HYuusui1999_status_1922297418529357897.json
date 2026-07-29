@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1922291357256712308",
+    "created_at": "2025-05-13T14:26:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T15:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922297418529357897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1802674143030374400",
+          "start": 0,
+          "username": "Mikhail_712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922297418529357897",
+    "in_reply_to_user_id": "1802674143030374400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922291357256712308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mikhail_712 抱抱\n想哦"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1922291357256712308].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1922291357256712308",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1922291357256712308"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1922291357256712308",
+        "created_at": "2025-05-13T14:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T15:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922297418529357897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1802674143030374400",
+              "start": 0,
+              "username": "Mikhail_712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922297418529357897",
+        "in_reply_to_user_id": "1802674143030374400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922291357256712308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mikhail_712 抱抱\n想哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 935,
+          "like_count": 18733,
+          "listed_count": 6,
+          "media_count": 184,
+          "tweet_count": 4073
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T12:06:44.000Z",
+        "description": "米沙好，世界坏！\n@misa2333qwq|可以叫「米沙」的啦～\n中文|日本語|拒极端壬、粉红、支黑|\n欢迎好友友——！qwq\n性奴@baojiangdilei @enosima_asahi @hotcat9269_ 可爱主人@qHanTinp|互fo联系我！\n可爱|详见置顶和《米沙公约》",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "misa2333qwq"
+              },
+              {
+                "end": 80,
+                "start": 66,
+                "username": "baojiangdilei"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "enosima_asahi"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "hotcat9269_"
+              },
+              {
+                "end": 122,
+                "start": 113,
+                "username": "qHanTinp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikhail_7121",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikhail_7121",
+                "start": 0,
+                "url": "https://t.co/VW9vsBPqMf"
+              }
+            ]
+          }
+        },
+        "id": "1802674143030374400",
+        "location": "米哈伊尔无限逃避责任很有限公司，中华可爱共和国",
+        "name": "【已退推】Mikhailのパイプオルガン🎏🏁🏳️",
+        "pinned_tweet_id": "1901260705141334286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922075021255589888/XexbZrno_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 1021,
+          "like_count": 10541,
+          "listed_count": 4,
+          "media_count": 384,
+          "tweet_count": 3356
+        },
+        "url": "https://t.co/VW9vsBPqMf",
+        "username": "Mikhail_712",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1984115540416459098",
+    "created_at": "2025-10-31T04:29:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T05:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984115540416459098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1601893417549967360",
+          "start": 3,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984115540416459098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983725790316654654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AcboxLiu: 是这样的，我大概是不敢用国产系统了，今年五月份，我在我的HyperOS上装了Airwallex，然后被派出所打电话以反诈的名义要求删除，我的手机上并没有安装反诈中心等软件，但是他们却能越权读取我的app列表，真的有点烦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1984115540416459098",
+        "created_at": "2025-10-31T04:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T05:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984115540416459098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1601893417549967360",
+              "start": 3,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984115540416459098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983725790316654654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AcboxLiu: 是这样的，我大概是不敢用国产系统了，今年五月份，我在我的HyperOS上装了Airwallex，然后被派出所打电话以反诈的名义要求删除，我的手机上并没有安装反诈中心等软件，但是他们却能越权读取我的app列表，真的有点烦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "1983725790316654654",
+        "created_at": "2025-10-30T02:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T03:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983725790316654654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SarkazWisadel/…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/SarkazWisadel/status/1983719564019114210",
+              "start": 111,
+              "url": "https://t.co/W8dPoR2IJM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983725790316654654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 107990,
+          "like_count": 305,
+          "quote_count": 6,
+          "reply_count": 64,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983719564019114210",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是这样的，我大概是不敢用国产系统了，今年五月份，我在我的HyperOS上装了Airwallex，然后被派出所打电话以反诈的名义要求删除，我的手机上并没有安装反诈中心等软件，但是他们却能越权读取我的app列表，真的有点烦了 https://t.co/W8dPoR2IJM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n\n暂时退网（不定期）\n偶尔看消息",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 2245,
+          "like_count": 36544,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 9035
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/💻开源开发/🎨平面设计/🚇轨道交通/全栈&LLM&UI&UX/🟦TypeScript重度依赖/🐱Github: sheepbox8646/💼日常远程工作/Building ChalkAI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvcLr"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳·西乡",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1964617558675611999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959456533550649344/-FieohZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8118,
+          "following_count": 2979,
+          "like_count": 2836,
+          "listed_count": 32,
+          "media_count": 1085,
+          "tweet_count": 5498
+        },
+        "url": "https://t.co/mRP5RDvcLr",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

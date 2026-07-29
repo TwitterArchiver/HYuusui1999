@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1906134802631479602",
+    "created_at": "2025-03-30T00:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T01:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906134802631479602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1781359832270057472",
+          "start": 3,
+          "username": "sakurafk521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906134802631479602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905964845444538404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakurafk521: 地震时间为28日，我原计划27日晚上到达曼德勒，但因为按摩spa耽误行程，因此在仰光睡下，28日看到新闻地震，于是去机场回国，但在过关期间，缅甸政府军用枪顶着我的头，并强行没收我的护照，在我交了小费后才将护照还我，现在我已安全返回国内，无须担心…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1906134802631479602",
+        "created_at": "2025-03-30T00:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T01:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906134802631479602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1781359832270057472",
+              "start": 3,
+              "username": "sakurafk521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906134802631479602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905964845444538404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakurafk521: 地震时间为28日，我原计划27日晚上到达曼德勒，但因为按摩spa耽误行程，因此在仰光睡下，28日看到新闻地震，于是去机场回国，但在过关期间，缅甸政府军用枪顶着我的头，并强行没收我的护照，在我交了小费后才将护照还我，现在我已安全返回国内，无须担心…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781359832270057472",
+        "conversation_id": "1905964845444538404",
+        "created_at": "2025-03-29T12:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T13:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905964845444538404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KagurazakaSiri…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/KagurazakaSiri/status/1905941763879018971",
+              "start": 133,
+              "url": "https://t.co/7liCkW42BZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905964845444538404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3515,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905941763879018971",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "地震时间为28日，我原计划27日晚上到达曼德勒，但因为按摩spa耽误行程，因此在仰光睡下，28日看到新闻地震，于是去机场回国，但在过关期间，缅甸政府军用枪顶着我的头，并强行没收我的护照，在我交了小费后才将护照还我，现在我已安全返回国内，无须担心，我命很硬，运气很好 https://t.co/7liCkW42BZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1905989245266972950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 574,
+          "like_count": 12377,
+          "listed_count": 6,
+          "media_count": 111,
+          "tweet_count": 1912
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T16:31:07.000Z",
+        "description": "娼年正太/萝莉♡，身高158，接线下【全国✈️，常驻深圳or上海】在可爱与帅之间选择摆烂，🚪52，药娘，最好的姐姐@AkiHaneQvQ 遵守X规则，正太控，对象@dashabi69420",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "AkiHaneQvQ"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "dashabi69420"
+              }
+            ]
+          }
+        },
+        "id": "1781359832270057472",
+        "name": "芙卡",
+        "pinned_tweet_id": "1905805688863158707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874109492880924672/hWCXvC1x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15851,
+          "following_count": 463,
+          "like_count": 970,
+          "listed_count": 74,
+          "media_count": 151,
+          "tweet_count": 739
+        },
+        "username": "sakurafk521",
+        "verified": false
+      }
+    ]
+  }
+}

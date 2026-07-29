@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2026895681139409283",
+    "created_at": "2026-02-26T08:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T09:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026941657694745025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1165713500104212481",
+          "start": 0,
+          "username": "Jacob43817149"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026941657694745025",
+    "in_reply_to_user_id": "1165713500104212481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026899368444407877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jacob43817149 無聊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2026895681139409283",
+        "created_at": "2026-02-26T08:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026941657694745025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1165713500104212481",
+              "start": 0,
+              "username": "Jacob43817149"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026941657694745025",
+        "in_reply_to_user_id": "1165713500104212481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026899368444407877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jacob43817149 無聊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165713500104212481",
+        "conversation_id": "2026895681139409283",
+        "created_at": "2026-02-26T05:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026899368444407877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026899368444407877",
+        "in_reply_to_user_id": "1165713500104212481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 670,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026895681139409283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "眉不盖棱，发重耳反 · 额突睛深眼多泪 · 鼻梁露骨，两腮枯陷，口大齿乱 · 双颧塌陷、腮下无肉，飞扬跋扈，心肠狠毒。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 3127,
+          "like_count": 44619,
+          "listed_count": 6,
+          "media_count": 364,
+          "tweet_count": 11207
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-25T19:52:23.000Z",
+        "description": "Jesus Follower，Conservative，Unacceptable Fringe Minority！ #Trudeaumustgo，#Trump2024, #51stState. 轻度内容创作者。 防失联，加我小号：@Jacob_Exudos",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 58,
+                "tag": "Trudeaumustgo"
+              },
+              {
+                "end": 83,
+                "start": 73,
+                "tag": "Trump2024"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "tag": "51stState"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 128,
+                "start": 115,
+                "username": "Jacob_Exudos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCZSiy…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCZSiylFYwW-z-hUhzeq5axw",
+                "start": 0,
+                "url": "https://t.co/A5WPoSwE5W"
+              }
+            ]
+          }
+        },
+        "id": "1165713500104212481",
+        "location": "Québec, Canada",
+        "name": "Jacob🇨🇦🇺🇸",
+        "pinned_tweet_id": "1621501861604823043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1165724456003743744/VmLD9SWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56435,
+          "following_count": 2225,
+          "like_count": 249798,
+          "listed_count": 238,
+          "media_count": 26597,
+          "tweet_count": 151969
+        },
+        "url": "https://t.co/A5WPoSwE5W",
+        "username": "Jacob43817149",
+        "verified": false
+      }
+    ]
+  }
+}

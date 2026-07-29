@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1917772417457414341",
+    "created_at": "2025-05-01T06:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T07:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917829913115054101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1823898821673541633",
+          "start": 0,
+          "username": "BengBengChuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917829913115054101",
+    "in_reply_to_user_id": "1823898821673541633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917772417457414341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BengBengChuang 什么剧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 890,
+        "media_key": "3_1917772414563373056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp1L2aoX0AACtKR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1917772417457414341",
+        "created_at": "2025-05-01T06:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T07:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917829913115054101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1823898821673541633",
+              "start": 0,
+              "username": "BengBengChuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917829913115054101",
+        "in_reply_to_user_id": "1823898821673541633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917772417457414341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BengBengChuang 什么剧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917772414563373056"
+          ]
+        },
+        "author_id": "1823898821673541633",
+        "conversation_id": "1917772417457414341",
+        "created_at": "2025-05-01T02:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T03:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917772417457414341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aYwqQGOMoL",
+              "end": 79,
+              "expanded_url": "https://x.com/BengBengChuang/status/1917772417457414341/photo/1",
+              "media_key": "3_1917772414563373056",
+              "start": 56,
+              "url": "https://t.co/aYwqQGOMoL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917772417457414341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么是悲剧，这样不好吗\n完全被否定又怎么样呢？我不懂\n悄无声息的消失不好吗\n有一个更厉害的人代替自己活下去啊 https://t.co/aYwqQGOMoL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1917405127981371473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 789,
+          "like_count": 17194,
+          "listed_count": 6,
+          "media_count": 163,
+          "tweet_count": 3583
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T01:45:46.000Z",
+        "description": "重生之我在X写日记/infp-t/记录向碎碎念/自言自语胡言乱语/牢骚吐槽/私信挑着回/不互fo/可能会单取/我是弱智/\n我要散发负面情绪啊啊啊（话多慎关\n我要发很多很多的牢骚，（可以叫我骨头🦴评论椰子汁回",
+        "id": "1823898821673541633",
+        "location": "自由岛",
+        "name": "蹦蹦床🦴",
+        "pinned_tweet_id": "1910144273401684062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823933164466921474/W7eJZZGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 100,
+          "like_count": 733,
+          "listed_count": 2,
+          "media_count": 169,
+          "tweet_count": 2045
+        },
+        "username": "BengBengChuang",
+        "verified": false
+      }
+    ]
+  }
+}

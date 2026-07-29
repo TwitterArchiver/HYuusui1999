@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1905948971304120350",
+    "created_at": "2025-03-30T01:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T02:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906162483582165484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1855524891744944128",
+          "start": 0,
+          "username": "LoveYezi8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906162483582165484",
+    "in_reply_to_user_id": "1855524891744944128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905948971304120350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveYezi8964 活下来了\n以后还要活下来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1019,
+        "media_key": "3_1905948964379410432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnNKfCXbwAAatiF.jpg",
+        "width": 1012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1905948971304120350",
+        "created_at": "2025-03-30T01:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T02:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906162483582165484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1855524891744944128",
+              "start": 0,
+              "username": "LoveYezi8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906162483582165484",
+        "in_reply_to_user_id": "1855524891744944128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905948971304120350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveYezi8964 活下来了\n以后还要活下来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905948964379410432"
+          ]
+        },
+        "author_id": "1855524891744944128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1905948971304120350",
+        "created_at": "2025-03-29T11:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T12:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905948971304120350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ynrt3WduAC",
+              "end": 34,
+              "expanded_url": "https://x.com/LoveYezi8964/status/1905948971304120350/photo/1",
+              "media_key": "3_1905948964379410432",
+              "start": 11,
+              "url": "https://t.co/Ynrt3WduAC"
+            },
+            {
+              "display_url": "x.com/JIZHI0_0/statu…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/JIZHI0_0/status/1905945330408997326",
+              "start": 35,
+              "url": "https://t.co/GaFzr34pgG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905948971304120350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 415,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905945330408997326",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么一个个都要去死 https://t.co/Ynrt3WduAC https://t.co/GaFzr34pgG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1905989245266972950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 580,
+          "like_count": 12484,
+          "listed_count": 6,
+          "media_count": 111,
+          "tweet_count": 1940
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T08:16:32.000Z",
+        "description": "流苏的里推\n发言不攻击任何人\n不喜欢我可以直接ban我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k94158",
+                "end": 23,
+                "expanded_url": "https://ngl.link/k94158",
+                "start": 0,
+                "url": "https://t.co/jOmbGkY9aU"
+              }
+            ]
+          }
+        },
+        "id": "1855524891744944128",
+        "name": "𝓛𝓲𝓾𝓼𝓾𝓚🐱🐱",
+        "pinned_tweet_id": "1902983220351648160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903023471577403393/usqOiP9q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 4,
+          "like_count": 503,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 402
+        },
+        "url": "https://t.co/jOmbGkY9aU",
+        "username": "LoveYezi8964",
+        "verified": false
+      }
+    ]
+  }
+}

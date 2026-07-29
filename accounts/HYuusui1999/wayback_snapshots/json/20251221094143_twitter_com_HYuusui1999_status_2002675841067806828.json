@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2002473082548523171",
+    "created_at": "2025-12-21T09:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T10:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002675841067806828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1430776330744864771",
+          "start": 0,
+          "username": "tomoto233"
+        },
+        {
+          "end": 22,
+          "id": "1772308958495260672",
+          "start": 11,
+          "username": "Rushsharkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002675841067806828",
+    "in_reply_to_user_id": "1430776330744864771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002595910270976356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tomoto233 @Rushsharkk 浣熊可愛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2002473082548523171",
+        "created_at": "2025-12-21T09:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T10:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002675841067806828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1430776330744864771",
+              "start": 0,
+              "username": "tomoto233"
+            },
+            {
+              "end": 22,
+              "id": "1772308958495260672",
+              "start": 11,
+              "username": "Rushsharkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002675841067806828",
+        "in_reply_to_user_id": "1430776330744864771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002595910270976356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tomoto233 @Rushsharkk 浣熊可愛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430776330744864771",
+        "conversation_id": "2002473082548523171",
+        "created_at": "2025-12-21T04:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T05:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002595910270976356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1772308958495260672",
+              "start": 0,
+              "username": "Rushsharkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002595910270976356",
+        "in_reply_to_user_id": "1772308958495260672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002473082548523171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rushsharkk 我很想回到我的野外🍂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 2857,
+          "like_count": 43721,
+          "listed_count": 6,
+          "media_count": 317,
+          "tweet_count": 10646
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-26T06:18:05.000Z",
+        "description": "風來ㄌ！抓住衣角往上飛——",
+        "id": "1430776330744864771",
+        "name": "月光超载",
+        "pinned_tweet_id": "1909207564992250247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999430836173832199/w2it6Ez3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 401,
+          "like_count": 11529,
+          "listed_count": 1,
+          "media_count": 436,
+          "tweet_count": 6286
+        },
+        "username": "tomoto233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T17:06:18.000Z",
+        "description": "女Female/2004/ACGN/🎮Splatoon3/日常废话daily yapping/假文艺真傻逼/小提手🎻",
+        "id": "1772308958495260672",
+        "location": "Canada",
+        "name": "Rushshark猛鯊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908586697920577536/P-PC1WEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 970,
+          "like_count": 46981,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 2666
+        },
+        "username": "Rushsharkk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983424809464692736"
+      ],
+      "media_source_tweet_id": [
+        "1983424818906313193"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1983461548661305735",
+    "created_at": "2025-10-29T09:10:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T10:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983461548661305735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1587653801305153538",
+          "start": 3,
+          "username": "XiaoHuiHuiH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0IhQVFkKbY",
+          "end": 77,
+          "expanded_url": "https://x.com/XiaoHuiHuiH/status/1983424818906313193/photo/1",
+          "media_key": "3_1983424809464692736",
+          "start": 54,
+          "url": "https://t.co/0IhQVFkKbY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983461548661305735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983424818906313193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaoHuiHuiH: 宣传一下🥺\n不过我那天满课，还没想好怎么安排出时间去😭可能请假之类的（？ https://t.co/0IhQVFkKbY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983424809464692736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4aKWwbXAAAx3fs.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983424809464692736"
+          ],
+          "media_source_tweet_id": [
+            "1983424818906313193"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1983461548661305735",
+        "created_at": "2025-10-29T09:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T10:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983461548661305735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1587653801305153538",
+              "start": 3,
+              "username": "XiaoHuiHuiH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0IhQVFkKbY",
+              "end": 77,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1983424818906313193/photo/1",
+              "media_key": "3_1983424809464692736",
+              "start": 54,
+              "url": "https://t.co/0IhQVFkKbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983461548661305735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983424818906313193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiaoHuiHuiH: 宣传一下🥺\n不过我那天满课，还没想好怎么安排出时间去😭可能请假之类的（？ https://t.co/0IhQVFkKbY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983424809464692736"
+          ]
+        },
+        "author_id": "1587653801305153538",
+        "conversation_id": "1983424818906313193",
+        "created_at": "2025-10-29T06:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T07:12:46.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983416703125205399",
+          "1983424818906313193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0IhQVFkKbY",
+              "end": 60,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1983424818906313193/photo/1",
+              "media_key": "3_1983424809464692736",
+              "start": 37,
+              "url": "https://t.co/0IhQVFkKbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983424818906313193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 390,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "宣传一下🥺\n不过我那天满课，还没想好怎么安排出时间去😭可能请假之类的（？ https://t.co/0IhQVFkKbY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n\n暂时退网（不定期）\n偶尔看消息",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 2219,
+          "like_count": 36129,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 8995
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西曾在咱主页的“亮点”里🥹\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🏳️‍🌈/含糖🍥2023.12.7/不堪风流往事🩷💜/21岁/上岸啦，不再约炮和援交/❤️\n@Mirro_zinuo\n/多伦多🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/地雷嗑学家💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Mirro_zinuo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1973169992570118470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11792,
+          "following_count": 1362,
+          "like_count": 148093,
+          "listed_count": 23,
+          "media_count": 4754,
+          "tweet_count": 64358
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

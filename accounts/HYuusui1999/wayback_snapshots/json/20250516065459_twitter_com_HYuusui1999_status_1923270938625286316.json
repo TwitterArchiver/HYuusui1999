@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1923249506952384566",
+    "created_at": "2025-05-16T06:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T07:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923270938625286316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1639203203890970624",
+          "start": 0,
+          "username": "xckim392538"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923270938625286316",
+    "in_reply_to_user_id": "1639203203890970624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923249506952384566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xckim392538 豪赤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1923249499813838850",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrDBOvLaAAItvuu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1923249506952384566",
+        "created_at": "2025-05-16T06:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T07:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923270938625286316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1639203203890970624",
+              "start": 0,
+              "username": "xckim392538"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923270938625286316",
+        "in_reply_to_user_id": "1639203203890970624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923249506952384566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xckim392538 豪赤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923249499813838850"
+          ]
+        },
+        "author_id": "1639203203890970624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1923249506952384566",
+        "created_at": "2025-05-16T05:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T06:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923249506952384566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4HW3BH3c38",
+              "end": 32,
+              "expanded_url": "https://x.com/xckim392538/status/1923249506952384566/photo/1",
+              "media_key": "3_1923249499813838850",
+              "start": 9,
+              "url": "https://t.co/4HW3BH3c38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923249506952384566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "面对火焰的无力感 https://t.co/4HW3BH3c38"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 961,
+          "like_count": 19176,
+          "listed_count": 6,
+          "media_count": 188,
+          "tweet_count": 4176
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-24T09:52:07.000Z",
+        "description": "El recuerdo de una espada",
+        "id": "1639203203890970624",
+        "location": "🗡️",
+        "name": "φ",
+        "pinned_tweet_id": "1920093744684294193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900579565518602240/oCVdKfzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 255,
+          "like_count": 5008,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 1125
+        },
+        "username": "xckim392538",
+        "verified": false
+      }
+    ]
+  }
+}

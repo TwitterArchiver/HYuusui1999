@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1884798391760326936",
+    "created_at": "2025-01-30T04:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T05:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884818508128960696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882901619601461248",
+          "start": 0,
+          "username": "Coldly_wind"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884818508128960696",
+    "in_reply_to_user_id": "1882901619601461248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884798391760326936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coldly_wind 我的感觉是，一切都牵涉了利益。初心是否美好，要靠此事/物给予他人利益的量来判断。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1884798391760326936].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1884798391760326936",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1884798391760326936"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1884798391760326936",
+        "created_at": "2025-01-30T04:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T05:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884818508128960696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882901619601461248",
+              "start": 0,
+              "username": "Coldly_wind"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884818508128960696",
+        "in_reply_to_user_id": "1882901619601461248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884798391760326936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coldly_wind 我的感觉是，一切都牵涉了利益。初心是否美好，要靠此事/物给予他人利益的量来判断。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 289,
+          "like_count": 4692,
+          "listed_count": 3,
+          "media_count": 41,
+          "tweet_count": 574
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T21:21:56.000Z",
+        "description": "這裡是風風，一個立誓不對任何人暖言相向的冷漠機器人ෆ╹ _ ╹ෆ/不想去像暖言貓貓一樣用語言溫暖身邊所有人的人(◍• _ •◍)✧*/會排斥任何觀點立場也會歧視任何人（ ◜ _ ◝ )♡/在深淵中沉睡過所以盡力去忽略身邊處於痛苦和迷茫的人♡ ᒪ∅ᐯᕮ ♡/有煩惱不要來和我說哦，自己去解決(´∩｡• _ •｡∩`)",
+        "id": "1882901619601461248",
+        "location": "異世界，王國都城，下城區",
+        "name": "寒冷的風穿堂過",
+        "pinned_tweet_id": "1883349688977617040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883507546151145472/g84JpsTg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 54,
+          "like_count": 341,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 67
+        },
+        "username": "Coldly_wind",
+        "verified": false
+      }
+    ]
+  }
+}

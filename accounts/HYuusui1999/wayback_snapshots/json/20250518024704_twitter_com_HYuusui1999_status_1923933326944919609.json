@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1923734816492749287",
+    "created_at": "2025-05-18T02:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T03:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923933326944919609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1819042830549204992",
+          "start": 0,
+          "username": "ss3996418"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923933326944919609",
+    "in_reply_to_user_id": "1819042830549204992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923734816492749287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ss3996418 不要od呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1923734816492749287",
+        "created_at": "2025-05-18T02:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T03:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923933326944919609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1819042830549204992",
+              "start": 0,
+              "username": "ss3996418"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923933326944919609",
+        "in_reply_to_user_id": "1819042830549204992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923734816492749287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ss3996418 不要od呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819042830549204992",
+        "conversation_id": "1923734816492749287",
+        "created_at": "2025-05-17T13:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T14:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923734816492749287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923734816492749287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也得磕点药了，好难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n\n～公告栏～\n@juhaoO721是仿冒账号（好久前开始从b站盗句号视频，1k余fo），\n正主是@juhao0721，请注意甄别\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "juhaoO721"
+              },
+              {
+                "end": 106,
+                "start": 96,
+                "username": "juhao0721"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 1003,
+          "like_count": 19690,
+          "listed_count": 6,
+          "media_count": 195,
+          "tweet_count": 4533
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T16:10:08.000Z",
+        "description": "最好的朋友@gxdnkj//偶尔说话会过脑//纯爱万岁//成为顶天立地的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "gxdnkj"
+              }
+            ]
+          }
+        },
+        "id": "1819042830549204992",
+        "location": "星球博物馆–东亚区–525号废物展示厅",
+        "name": "祀萨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908363979711537152/IlK6RIW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 68,
+          "like_count": 3397,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 1658
+        },
+        "username": "ss3996418",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1895810866710528210",
+    "created_at": "2025-03-01T12:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T13:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895810866710528210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1854755467601584128",
+          "start": 3,
+          "username": "QqW574548374179"
+        },
+        {
+          "end": 36,
+          "id": "1753348784573001728",
+          "start": 21,
+          "username": "Cheshire_kwine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895810866710528210",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895808884193050858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QqW574548374179: @Cheshire_kwine ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1895810866710528210",
+        "created_at": "2025-03-01T12:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T13:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895810866710528210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1854755467601584128",
+              "start": 3,
+              "username": "QqW574548374179"
+            },
+            {
+              "end": 36,
+              "id": "1753348784573001728",
+              "start": 21,
+              "username": "Cheshire_kwine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895810866710528210",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895808884193050858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QqW574548374179: @Cheshire_kwine ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854755467601584128",
+        "conversation_id": "1895808379089735888",
+        "created_at": "2025-03-01T12:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T13:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895808884193050858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753348784573001728",
+              "start": 0,
+              "username": "Cheshire_kwine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895808884193050858",
+        "in_reply_to_user_id": "1753348784573001728",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895808379089735888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheshire_kwine ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 386,
+          "like_count": 8336,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 1200
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T05:19:06.000Z",
+        "description": "",
+        "id": "1854755467601584128",
+        "name": "QqW",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871966763711434752/4QjfhQ1-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 823,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 194
+        },
+        "username": "QqW574548374179",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:25:33.000Z",
+        "description": "",
+        "id": "1753348784573001728",
+        "name": "大猫猫归来，中间忘了后面也忘了",
+        "pinned_tweet_id": "1895622136271945763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878339168545411072/_roBeqHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2906,
+          "following_count": 1348,
+          "like_count": 80609,
+          "listed_count": 13,
+          "media_count": 824,
+          "tweet_count": 12201
+        },
+        "username": "Cheshire_kwine",
+        "verified": false
+      }
+    ]
+  }
+}

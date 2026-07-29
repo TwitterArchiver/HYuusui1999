@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2056658393189032386",
+    "created_at": "2026-05-19T08:49:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T09:49:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056658393189032386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2029061443568713731",
+          "start": 3,
+          "username": "maoxianACT"
+        },
+        {
+          "end": 33,
+          "id": "1929416262989557760",
+          "start": 21,
+          "username": "maoxian1527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056658393189032386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056568862133424388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @maoxianACT: 我是猫弦\n@maoxian1527 \n我的号没有被发布任何邮件，我不知道我为什么突然被停用了，也有可能是网络，也有可能是关于性方面的，总之很多，我的蓝标也没了，但是有希望的，我还可以一直申诉\n我会回来的，等我\n\n哦对了，fo友巡回\n可以给我转帖吗…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [maoxian1527].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "maoxian1527",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "maoxian1527"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2056658393189032386",
+        "created_at": "2026-05-19T08:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056658393189032386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2029061443568713731",
+              "start": 3,
+              "username": "maoxianACT"
+            },
+            {
+              "end": 33,
+              "id": "1929416262989557760",
+              "start": 21,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056658393189032386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056568862133424388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @maoxianACT: 我是猫弦\n@maoxian1527 \n我的号没有被发布任何邮件，我不知道我为什么突然被停用了，也有可能是网络，也有可能是关于性方面的，总之很多，我的蓝标也没了，但是有希望的，我还可以一直申诉\n我会回来的，等我\n\n哦对了，fo友巡回\n可以给我转帖吗…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2056568862133424388",
+        "created_at": "2026-05-19T02:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T03:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056568862133424388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1929416262989557760",
+              "start": 5,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056568862133424388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2235,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 14
+        },
+        "reply_settings": "other",
+        "text": "我是猫弦\n@maoxian1527 \n我的号没有被发布任何邮件，我不知道我为什么突然被停用了，也有可能是网络，也有可能是关于性方面的，总之很多，我的蓝标也没了，但是有希望的，我还可以一直申诉\n我会回来的，等我\n\n哦对了，fo友巡回\n可以给我转帖吗，感谢大家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 3285,
+          "like_count": 44938,
+          "listed_count": 5,
+          "media_count": 369,
+          "tweet_count": 11695
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 碎碎念| 看心情互fo | 我很刻薄，觉得我恶心的就把我b了 | 学习平面设计中 | 摄影© | 墙内外同名 | 姐姐@OuO_QwQg | 对象@Meph4786 | 閨蜜@tangeorange @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 120,
+                "start": 111,
+                "username": "Meph4786"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "tangeorange"
+              },
+              {
+                "end": 147,
+                "start": 138,
+                "username": "Wilf_Lin"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km",
+        "name": "猫弦ACT🍥🍣🍧🥛🍜",
+        "pinned_tweet_id": "2056568862133424388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029061783508652032/3ACAbPrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 41,
+          "like_count": 93,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 141
+        },
+        "username": "maoxianACT",
+        "verified": false
+      }
+    ]
+  }
+}

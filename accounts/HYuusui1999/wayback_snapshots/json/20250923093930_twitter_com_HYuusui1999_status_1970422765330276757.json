@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970348101354561539"
+      ],
+      "media_source_tweet_id": [
+        "1970348108820463717"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1970422765330276757",
+    "created_at": "2025-09-23T09:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T10:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970422765330276757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807107145756008448",
+          "start": 3,
+          "username": "kagurazakaAkira"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GtOoG9IwpJ",
+          "end": 57,
+          "expanded_url": "https://x.com/kagurazakaAkira/status/1970348108820463717/photo/1",
+          "media_key": "3_1970348101354561539",
+          "start": 34,
+          "url": "https://t.co/GtOoG9IwpJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970422765330276757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970348108820463717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kagurazakaAkira: 你们快看这个我要笑死了！ https://t.co/GtOoG9IwpJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1970422765330276757].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1970422765330276757",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1970422765330276757"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1189,
+        "media_key": "3_1970348101354561539",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1gVKKkaoAMz3Ym.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970348101354561539"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "1970348108820463717",
+        "created_at": "2025-09-23T04:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T05:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970348108820463717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GtOoG9IwpJ",
+              "end": 36,
+              "expanded_url": "https://x.com/kagurazakaAkira/status/1970348108820463717/photo/1",
+              "media_key": "3_1970348101354561539",
+              "start": 13,
+              "url": "https://t.co/GtOoG9IwpJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970348108820463717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 593,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们快看这个我要笑死了！ https://t.co/GtOoG9IwpJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 1782,
+          "like_count": 31270,
+          "listed_count": 6,
+          "media_count": 266,
+          "tweet_count": 8060
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "愿我们都能达到理想的彼岸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重庆市渝北区红锦大道60号",
+        "name": "游戳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967836914817597440/NxMReEln_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7862,
+          "following_count": 855,
+          "like_count": 46215,
+          "listed_count": 11,
+          "media_count": 3450,
+          "tweet_count": 27955
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "kagurazakaAkira",
+        "verified": true
+      }
+    ]
+  }
+}

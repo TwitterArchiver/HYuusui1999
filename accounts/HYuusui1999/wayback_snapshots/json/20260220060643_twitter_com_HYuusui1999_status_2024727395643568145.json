@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2024483527715410332",
+    "created_at": "2026-02-20T06:06:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T07:06:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024727395643568145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024727395643568145",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024483527715410332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsCatRoll 咋又这样(´･ω･`)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6136,
+        "height": 1920,
+        "media_key": "13_2024483469854928897",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024483469854928897/img/cUzobdbRVn86snES.jpg",
+        "public_metrics": {
+          "view_count": 129
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024483469854928897/vid/avc1/480x852/_Ne8j9j5KSVr402W.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024483469854928897/vid/avc1/320x568/Lok-tAtq5D83wVl8.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024483469854928897/vid/avc1/1080x1920/cyUlNCiGoK20GBKK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024483469854928897/pl/5lxzhZUdA_Q7EkHM.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024483469854928897/vid/avc1/720x1280/aadg2hIym4P4u2vi.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2024483527715410332",
+        "created_at": "2026-02-20T06:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024727395643568145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024727395643568145",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024483527715410332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsCatRoll 咋又这样(´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024483469854928897"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2024483527715410332",
+        "created_at": "2026-02-19T13:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024483527715410332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V9hsqaWpDB",
+              "end": 142,
+              "expanded_url": "https://x.com/itsCatRoll/status/2024483527715410332/video/1",
+              "media_key": "13_2024483469854928897",
+              "start": 119,
+              "url": "https://t.co/V9hsqaWpDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024483527715410332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 433,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Holy s why is it raining so heavily recently in singapore that there are streams on the ground\n我的脚踩到水流里全湿了，就这么湿着上了两节课😭 https://t.co/V9hsqaWpDB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 2971,
+          "like_count": 43462,
+          "listed_count": 6,
+          "media_count": 364,
+          "tweet_count": 10900
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "💌 @hobartr6 | 猪 @dontbesadforit | 猫 @_furryfur_ | @WanN916_ | 好姐姐 @hoshi_Asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "hobartr6"
+              },
+              {
+                "end": 31,
+                "start": 16,
+                "username": "dontbesadforit"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "WanN916_"
+              },
+              {
+                "end": 82,
+                "start": 66,
+                "username": "hoshi_Asuka0089"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "💫✨猫卷🍥🍫🍵🍣🏳️‍🌈🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019893963415851008/GaYGREEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3311,
+          "following_count": 867,
+          "like_count": 2367,
+          "listed_count": 7,
+          "media_count": 26,
+          "tweet_count": 273
+        },
+        "username": "itsCatRoll",
+        "verified": false
+      }
+    ]
+  }
+}

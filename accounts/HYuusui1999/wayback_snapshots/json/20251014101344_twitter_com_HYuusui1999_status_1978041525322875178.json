@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1978041525322875178",
+    "created_at": "2025-10-14T10:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T11:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978041525322875178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "944612556970356737",
+          "start": 0,
+          "username": "sleepmihuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978041525322875178",
+    "in_reply_to_user_id": "944612556970356737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@sleepmihuan 账号已被停用"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [sleepmihuan].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "sleepmihuan",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "sleepmihuan"
+    },
+    {
+      "detail": "User has been suspended: [944612556970356737].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "944612556970356737",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "944612556970356737"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1978041525322875178",
+        "created_at": "2025-10-14T10:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T11:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978041525322875178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "944612556970356737",
+              "start": 0,
+              "username": "sleepmihuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978041525322875178",
+        "in_reply_to_user_id": "944612556970356737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@sleepmihuan 账号已被停用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 2096,
+          "like_count": 35503,
+          "listed_count": 6,
+          "media_count": 284,
+          "tweet_count": 8778
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1999652113526456322"
+      ],
+      "media_source_tweet_id": [
+        "1999652187270709558"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1999815643315490989",
+    "created_at": "2025-12-13T12:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T13:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999815643315490989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "493600670",
+          "start": 3,
+          "username": "sweetchen1207"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LoMAvw1a9u",
+          "end": 51,
+          "expanded_url": "https://x.com/sweetchen1207/status/1999652187270709558/video/1",
+          "media_key": "13_1999652113526456322",
+          "start": 28,
+          "url": "https://t.co/LoMAvw1a9u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999815643315490989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999652187270709558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sweetchen1207: 阿公獸要進化了😂 https://t.co/LoMAvw1a9u"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14939,
+        "height": 2164,
+        "media_key": "13_1999652113526456322",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1999652113526456322/img/-PP0nRsGPIF1-24Q.jpg",
+        "public_metrics": {
+          "view_count": 17184
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999652113526456322/vid/avc1/320x586/FGGuL9w_GERRwGd5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999652113526456322/vid/avc1/480x880/6FOcIWdfi_0flGEi.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999652113526456322/vid/avc1/1180x2164/X7Awjh1kSSuvheRV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1999652113526456322/pl/HXs1k2hjjwwk3opp.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999652113526456322/vid/avc1/720x1320/Y3Za30sBAQgnsQuI.mp4"
+          }
+        ],
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1999652113526456322"
+          ],
+          "media_source_tweet_id": [
+            "1999652187270709558"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1999815643315490989",
+        "created_at": "2025-12-13T12:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T13:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999815643315490989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "493600670",
+              "start": 3,
+              "username": "sweetchen1207"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LoMAvw1a9u",
+              "end": 51,
+              "expanded_url": "https://x.com/sweetchen1207/status/1999652187270709558/video/1",
+              "media_key": "13_1999652113526456322",
+              "start": 28,
+              "url": "https://t.co/LoMAvw1a9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999815643315490989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999652187270709558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sweetchen1207: 阿公獸要進化了😂 https://t.co/LoMAvw1a9u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1999652113526456322"
+          ]
+        },
+        "author_id": "493600670",
+        "conversation_id": "1999652187270709558",
+        "created_at": "2025-12-13T01:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T02:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999652187270709558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LoMAvw1a9u",
+              "end": 32,
+              "expanded_url": "https://x.com/sweetchen1207/status/1999652187270709558/video/1",
+              "media_key": "13_1999652113526456322",
+              "start": 9,
+              "url": "https://t.co/LoMAvw1a9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999652187270709558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 37849,
+          "like_count": 1156,
+          "quote_count": 12,
+          "reply_count": 45,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "阿公獸要進化了😂 https://t.co/LoMAvw1a9u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 2682,
+          "like_count": 42418,
+          "listed_count": 6,
+          "media_count": 307,
+          "tweet_count": 10352
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-15T23:58:41.000Z",
+        "description": "愛自由的射手座！ 夜行動物🦇 這個很重要→傳訊無照不回(私訊時請附一下臉照，不要再問我大頭貼有照片可以嗎？我的答案一律是不可以！)☺️ 不看簡介的人還真多😮‍💨 #8964中共吃屎",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 81,
+                "tag": "8964中共吃屎"
+              }
+            ]
+          }
+        },
+        "id": "493600670",
+        "location": "Taiwan",
+        "name": "微微甜",
+        "pinned_tweet_id": "1567845919617609728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613350194153926656/FdH_satm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59896,
+          "following_count": 286,
+          "like_count": 97478,
+          "listed_count": 42,
+          "media_count": 1547,
+          "tweet_count": 3430
+        },
+        "username": "sweetchen1207",
+        "verified": true
+      }
+    ]
+  }
+}

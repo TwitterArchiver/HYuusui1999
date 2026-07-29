@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1996529593340326158",
+    "created_at": "2025-12-04T23:04:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T00:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996717375371010388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688892925646929920",
+          "start": 0,
+          "username": "oxxxX_x_Xxxxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996717375371010388",
+    "in_reply_to_user_id": "1688892925646929920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996605558884008034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oxxxX_x_Xxxxo 你啥意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1996529593340326158",
+        "created_at": "2025-12-04T23:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T00:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996717375371010388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688892925646929920",
+              "start": 0,
+              "username": "oxxxX_x_Xxxxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996717375371010388",
+        "in_reply_to_user_id": "1688892925646929920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996605558884008034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxxxX_x_Xxxxo 你啥意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688892925646929920",
+        "conversation_id": "1996529593340326158",
+        "created_at": "2025-12-04T15:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T16:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996605558884008034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 26,
+              "id": "1971006655430262784",
+              "start": 11,
+              "username": "FxxkApexLegend"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996605558884008034",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996599018940744050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka @FxxkApexLegend 嗑到了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 2531,
+          "like_count": 40944,
+          "listed_count": 6,
+          "media_count": 303,
+          "tweet_count": 9990
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T12:40:44.000Z",
+        "description": "",
+        "id": "1688892925646929920",
+        "name": "中立守序的石墩子",
+        "pinned_tweet_id": "1889227364565200974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985975481779564544/0u03xQaV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 1343,
+          "like_count": 62872,
+          "listed_count": 2,
+          "media_count": 2245,
+          "tweet_count": 23286
+        },
+        "username": "oxxxX_x_Xxxxo",
+        "verified": false
+      }
+    ]
+  }
+}

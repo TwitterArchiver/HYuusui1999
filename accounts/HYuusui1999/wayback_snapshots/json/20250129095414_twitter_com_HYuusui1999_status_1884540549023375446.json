@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1884252232855785966",
+    "created_at": "2025-01-29T09:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T10:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884540549023375446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841801152381558784",
+          "start": 0,
+          "username": "Amemiya_Hasumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884540549023375446",
+    "in_reply_to_user_id": "1841801152381558784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884252232855785966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amemiya_Hasumi 要小心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1884252232855785966",
+        "created_at": "2025-01-29T09:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T10:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884540549023375446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841801152381558784",
+              "start": 0,
+              "username": "Amemiya_Hasumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884540549023375446",
+        "in_reply_to_user_id": "1841801152381558784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884252232855785966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amemiya_Hasumi 要小心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884252230729228288"
+          ]
+        },
+        "author_id": "1841801152381558784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1884252232855785966",
+        "created_at": "2025-01-28T14:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T15:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884252232855785966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QIsRLnLHZf",
+              "end": 38,
+              "expanded_url": "https://x.com/Amemiya_Hasumi/status/1884252232855785966/photo/1",
+              "media_key": "3_1884252230729228288",
+              "start": 15,
+              "url": "https://t.co/QIsRLnLHZf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884252232855785966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9975,
+          "like_count": 156,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "疑似肺炎\n明天去医院看看吧… https://t.co/QIsRLnLHZf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 275,
+          "like_count": 4351,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 556
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T11:23:15.000Z",
+        "description": "「从前种种，譬如昨日死；从后种种，譬如今日生。」\n偶尔是男娘。\nNGL：https://t.co/g6LzpRM0K2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasumi57321",
+                "end": 59,
+                "expanded_url": "https://ngl.link/hasumi57321",
+                "start": 36,
+                "url": "https://t.co/g6LzpRM0K2"
+              }
+            ]
+          }
+        },
+        "id": "1841801152381558784",
+        "name": "雨宮 蓮見",
+        "pinned_tweet_id": "1871596096461713573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879195526870315008/bleIv9uh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 1211,
+          "like_count": 13504,
+          "listed_count": 3,
+          "media_count": 481,
+          "tweet_count": 2890
+        },
+        "username": "Amemiya_Hasumi",
+        "verified": false
+      }
+    ]
+  }
+}

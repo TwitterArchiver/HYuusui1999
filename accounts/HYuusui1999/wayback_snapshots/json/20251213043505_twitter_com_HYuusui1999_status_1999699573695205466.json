@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1989606238188179921",
+    "created_at": "2025-12-13T04:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T05:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999699573695205466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1967080764119678976",
+          "start": 0,
+          "username": "rccn2501"
+        },
+        {
+          "end": 17,
+          "id": "1824818634809806848",
+          "start": 10,
+          "username": "hsgmxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999699573695205466",
+    "in_reply_to_user_id": "1967080764119678976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999694156801978863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rccn2501 @hsgmxz 細說"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1989606238188179921",
+        "created_at": "2025-12-13T04:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T05:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999699573695205466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1967080764119678976",
+              "start": 0,
+              "username": "rccn2501"
+            },
+            {
+              "end": 17,
+              "id": "1824818634809806848",
+              "start": 10,
+              "username": "hsgmxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999699573695205466",
+        "in_reply_to_user_id": "1967080764119678976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999694156801978863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rccn2501 @hsgmxz 細說"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967080764119678976",
+        "conversation_id": "1989606238188179921",
+        "created_at": "2025-12-13T04:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T05:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999694156801978863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1824818634809806848",
+              "start": 0,
+              "username": "hsgmxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999694156801978863",
+        "in_reply_to_user_id": "1824818634809806848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999693685852897331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsgmxz 快死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 2673,
+          "like_count": 42335,
+          "listed_count": 6,
+          "media_count": 307,
+          "tweet_count": 10338
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T04:19:50.000Z",
+        "description": "红十字运动/ 医疗急救  / MTF🏳‍⚧🍥 / RCS of the ROC /❤️妹妹:@xiaolianmm4/姐姐🥰@qianjindawalis1民国99年-2010年出廠99.10.19/中華民國台灣派/不涉政/有證含糖/hrt:民国114年-25年 10.10 /关注会回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "xiaolianmm4"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "qianjindawalis1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "redcross.org.tw",
+                "end": 23,
+                "expanded_url": "https://www.redcross.org.tw",
+                "start": 0,
+                "url": "https://t.co/9rfNWvRyfQ"
+              }
+            ]
+          }
+        },
+        "id": "1967080764119678976",
+        "location": "朝鮮民主主義人民共和國-平安北道-新義州特別行政區",
+        "name": "安卡睡不醒 RCROC🏳‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981696562259443712/Fi-g1yUO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 310,
+          "like_count": 558,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 832
+        },
+        "url": "https://t.co/9rfNWvRyfQ",
+        "username": "rccn2501",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T14:40:51.000Z",
+        "description": "「この世には息もできない人が沢山いるんですよ。」可以叫咱honoka。|14岁mtf🏳️‍⚧️|🍥2025.7.26|初音ミク大好き。🥰|2011.1.24|同类互fo|极度社恐|重焦重郁|intp-t||匿名提问箱https://t.co/eJ9r7NqD38|❤️@hrklovehonoka|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 134,
+                "username": "hrklovehonoka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hsgmxz1",
+                "end": 131,
+                "expanded_url": "http://ngl.link/hsgmxz1",
+                "start": 108,
+                "url": "https://t.co/eJ9r7NqD38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mx_honoka",
+                "end": 23,
+                "expanded_url": "http://t.me/mx_honoka",
+                "start": 0,
+                "url": "https://t.co/Xrx6CgHM4p"
+              }
+            ]
+          }
+        },
+        "id": "1824818634809806848",
+        "location": "誰もいないセカイ",
+        "name": "萌新 honoka🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1993272266411651370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984291521521455104/IO0ryWj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 1237,
+          "like_count": 9723,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 1519
+        },
+        "url": "https://t.co/Xrx6CgHM4p",
+        "username": "hsgmxz",
+        "verified": false
+      }
+    ]
+  }
+}

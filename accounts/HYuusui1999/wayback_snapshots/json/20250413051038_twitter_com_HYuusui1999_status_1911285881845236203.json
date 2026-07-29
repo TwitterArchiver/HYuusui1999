@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911194318594863104"
+      ],
+      "media_source_tweet_id": [
+        "1911194329378685436"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1911285881845236203",
+    "created_at": "2025-04-13T05:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T06:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911285881845236203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1479730386431545346",
+          "start": 3,
+          "username": "YuKi520521"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oUy2RGmRVU",
+          "end": 112,
+          "expanded_url": "https://x.com/YuKi520521/status/1911194329378685436/photo/1",
+          "media_key": "3_1911194318594863104",
+          "start": 89,
+          "url": "https://t.co/oUy2RGmRVU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911285881845236203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911194329378685436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuKi520521: 求助帖！十点落日本，求求来个人接我，我没手机卡没有网，外币也没换，救命，当地十点打我手机号16710143704就行，如果有人愿意来接我非常感谢 https://t.co/oUy2RGmRVU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1911194318594863104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoXtG1iXcAAKsHl.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911194318594863104"
+          ],
+          "media_source_tweet_id": [
+            "1911194329378685436"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1911285881845236203",
+        "created_at": "2025-04-13T05:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T06:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911285881845236203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1479730386431545346",
+              "start": 3,
+              "username": "YuKi520521"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oUy2RGmRVU",
+              "end": 112,
+              "expanded_url": "https://x.com/YuKi520521/status/1911194329378685436/photo/1",
+              "media_key": "3_1911194318594863104",
+              "start": 89,
+              "url": "https://t.co/oUy2RGmRVU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911285881845236203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911194329378685436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuKi520521: 求助帖！十点落日本，求求来个人接我，我没手机卡没有网，外币也没换，救命，当地十点打我手机号16710143704就行，如果有人愿意来接我非常感谢 https://t.co/oUy2RGmRVU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911194318594863104"
+          ]
+        },
+        "author_id": "1479730386431545346",
+        "conversation_id": "1911194329378685436",
+        "created_at": "2025-04-12T23:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T00:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911194329378685436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oUy2RGmRVU",
+              "end": 96,
+              "expanded_url": "https://x.com/YuKi520521/status/1911194329378685436/photo/1",
+              "media_key": "3_1911194318594863104",
+              "start": 73,
+              "url": "https://t.co/oUy2RGmRVU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911194329378685436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2136,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "求助帖！十点落日本，求求来个人接我，我没手机卡没有网，外币也没换，救命，当地十点打我手机号16710143704就行，如果有人愿意来接我非常感谢 https://t.co/oUy2RGmRVU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1910694220186476904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 722,
+          "like_count": 15144,
+          "listed_count": 6,
+          "media_count": 132,
+          "tweet_count": 2910
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は無理です、ごめんなさい！/及腰长发/二次元/美食/可爱的事物/maimaidx/ENTP/雪が好きです",
+        "id": "1479730386431545346",
+        "location": "上海/北京/日本",
+        "name": "Prismプリズム🏳️‍⚧️",
+        "pinned_tweet_id": "1895447722544755028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902094831989747713/NtBA8rno_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8363,
+          "following_count": 1055,
+          "like_count": 14652,
+          "listed_count": 14,
+          "media_count": 223,
+          "tweet_count": 1614
+        },
+        "username": "YuKi520521",
+        "verified": false
+      }
+    ]
+  }
+}

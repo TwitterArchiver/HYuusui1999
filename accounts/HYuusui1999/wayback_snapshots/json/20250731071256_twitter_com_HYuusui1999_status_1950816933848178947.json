@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950816822070059008"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1950816933848178947",
+    "created_at": "2025-07-31T07:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T08:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950816933848178947"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 10,
+          "normalized_text": "凛音",
+          "probability": 0.4406,
+          "start": 9,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dY7fGpRjLv",
+          "end": 35,
+          "expanded_url": "https://x.com/HYuusui1999/status/1950816933848178947/photo/1",
+          "media_key": "3_1950816822070059008",
+          "start": 12,
+          "url": "https://t.co/dY7fGpRjLv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950816933848178947",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "あなたは天才か？（凛音 https://t.co/dY7fGpRjLv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1380,
+        "media_key": "3_1950816822070059008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxKxkFVXoAAAegg.jpg",
+        "width": 1202
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950816822070059008"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1950816933848178947",
+        "created_at": "2025-07-31T07:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T08:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950816933848178947"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "凛音",
+              "probability": 0.4406,
+              "start": 9,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dY7fGpRjLv",
+              "end": 35,
+              "expanded_url": "https://x.com/HYuusui1999/status/1950816933848178947/photo/1",
+              "media_key": "3_1950816822070059008",
+              "start": 12,
+              "url": "https://t.co/dY7fGpRjLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950816933848178947",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "あなたは天才か？（凛音 https://t.co/dY7fGpRjLv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 1444,
+          "like_count": 26908,
+          "listed_count": 5,
+          "media_count": 235,
+          "tweet_count": 6653
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

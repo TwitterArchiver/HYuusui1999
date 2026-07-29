@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999619171781378049"
+      ],
+      "media_source_tweet_id": [
+        "1999619184213524855"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1999787542468874538",
+    "created_at": "2025-12-13T10:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T11:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999787542468874538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1346799420709294081",
+          "start": 3,
+          "username": "erchenlu1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CouCgmqlgZ",
+          "end": 119,
+          "expanded_url": "https://x.com/erchenlu1/status/1999619184213524855/photo/1",
+          "media_key": "3_1999619171781378049",
+          "start": 96,
+          "url": "https://t.co/CouCgmqlgZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999787542468874538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999619184213524855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @erchenlu1: 为什么孤独的人更容易抑郁和焦虑？\n\nNature 上刊登的一个研究显示，孤独的人更容易反复沉湎于关于自己及其状态的思考，即 rumination（反刍思维）。… https://t.co/CouCgmqlgZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1115,
+        "media_key": "3_1999619171781378049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ATCtQXAAES-BE.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999619171781378049"
+          ],
+          "media_source_tweet_id": [
+            "1999619184213524855"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1999787542468874538",
+        "created_at": "2025-12-13T10:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T11:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999787542468874538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1346799420709294081",
+              "start": 3,
+              "username": "erchenlu1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CouCgmqlgZ",
+              "end": 119,
+              "expanded_url": "https://x.com/erchenlu1/status/1999619184213524855/photo/1",
+              "media_key": "3_1999619171781378049",
+              "start": 96,
+              "url": "https://t.co/CouCgmqlgZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999787542468874538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999619184213524855",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @erchenlu1: 为什么孤独的人更容易抑郁和焦虑？\n\nNature 上刊登的一个研究显示，孤独的人更容易反复沉湎于关于自己及其状态的思考，即 rumination（反刍思维）。… https://t.co/CouCgmqlgZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999619171781378049"
+          ]
+        },
+        "author_id": "1346799420709294081",
+        "conversation_id": "1999619184213524855",
+        "created_at": "2025-12-12T23:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T00:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999619184213524855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CouCgmqlgZ",
+              "end": 103,
+              "expanded_url": "https://x.com/erchenlu1/status/1999619184213524855/photo/1",
+              "media_key": "3_1999619171781378049",
+              "start": 80,
+              "url": "https://t.co/CouCgmqlgZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999619184213524855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么孤独的人更容易抑郁和焦虑？\n\nNature 上刊登的一个研究显示，孤独的人更容易反复沉湎于关于自己及其状态的思考，即 rumination（反刍思维）。\n\n反刍思维，指个体在没有实际解决方案的情况下，反复、被动、自动地思考负面事件、自我缺陷或“为什么会这样”，思考本身并不导向行动，反而加重情绪痛苦。\n\n这种思维特征涉及反复思考孤独感本身、个人价值、生活意义等内容。\n\n反刍思维是抑郁和焦虑的重要预测因素之一，而孤独与反刍思维之间也是高度相关联的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 174,
+          "impression_count": 31815,
+          "like_count": 308,
+          "quote_count": 11,
+          "reply_count": 13,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "为什么孤独的人更容易抑郁和焦虑？\n\nNature 上刊登的一个研究显示，孤独的人更容易反复沉湎于关于自己及其状态的思考，即 rumination（反刍思维）。 https://t.co/CouCgmqlgZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 2678,
+          "like_count": 42388,
+          "listed_count": 6,
+          "media_count": 307,
+          "tweet_count": 10347
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-06T12:43:41.000Z",
+        "description": "跨学科思考者｜长期主义投资人/Long-termist investor｜公众号：卢尔辰 ｜文章合集：https://t.co/XSlRlvTieY| tg https://t.co/edG3gW471Z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinyurl.com/46dvtzb6",
+                "end": 74,
+                "expanded_url": "https://tinyurl.com/46dvtzb6",
+                "start": 51,
+                "url": "https://t.co/XSlRlvTieY"
+              },
+              {
+                "display_url": "t.me/erchenlu",
+                "end": 102,
+                "expanded_url": "https://t.me/erchenlu",
+                "start": 79,
+                "url": "https://t.co/edG3gW471Z"
+              }
+            ]
+          }
+        },
+        "id": "1346799420709294081",
+        "name": "卢尔辰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983310633366892544/-7DDQZ0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43942,
+          "following_count": 2034,
+          "like_count": 4587,
+          "listed_count": 400,
+          "media_count": 1035,
+          "tweet_count": 7251
+        },
+        "username": "erchenlu1",
+        "verified": true
+      }
+    ]
+  }
+}

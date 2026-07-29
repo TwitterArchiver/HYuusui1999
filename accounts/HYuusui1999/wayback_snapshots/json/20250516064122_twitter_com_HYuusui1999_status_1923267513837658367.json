@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1923183834771730736",
+    "created_at": "2025-05-16T06:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T07:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923267513837658367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1448187795571286017",
+          "start": 0,
+          "username": "shuiyebush1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923267513837658367",
+    "in_reply_to_user_id": "1448187795571286017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923183834771730736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuiyebush1 抱抱\n发生什么了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 841,
+        "media_key": "3_1923183824726523905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrCFf8aaAAE2GpW.jpg",
+        "width": 840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1923183834771730736",
+        "created_at": "2025-05-16T06:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T07:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923267513837658367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1448187795571286017",
+              "start": 0,
+              "username": "shuiyebush1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923267513837658367",
+        "in_reply_to_user_id": "1448187795571286017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923183834771730736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuiyebush1 抱抱\n发生什么了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923183824726523905"
+          ]
+        },
+        "author_id": "1448187795571286017",
+        "conversation_id": "1923183834771730736",
+        "created_at": "2025-05-16T01:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T02:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923183834771730736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BlACKRppk5",
+              "end": 32,
+              "expanded_url": "https://x.com/shuiyebush1/status/1923183834771730736/photo/1",
+              "media_key": "3_1923183824726523905",
+              "start": 9,
+              "url": "https://t.co/BlACKRppk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923183834771730736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精神状态#新头像 https://t.co/BlACKRppk5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 958,
+          "like_count": 19162,
+          "listed_count": 6,
+          "media_count": 188,
+          "tweet_count": 4168
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T07:24:21.000Z",
+        "description": "爱人是@Spartakist_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Spartakist_"
+              }
+            ]
+          }
+        },
+        "id": "1448187795571286017",
+        "name": "清水绯纱",
+        "pinned_tweet_id": "1922213803669741679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923183775888048129/w3FgeUVP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5130,
+          "following_count": 594,
+          "like_count": 44848,
+          "listed_count": 16,
+          "media_count": 2262,
+          "tweet_count": 16217
+        },
+        "username": "shuiyebush1",
+        "verified": false
+      }
+    ]
+  }
+}

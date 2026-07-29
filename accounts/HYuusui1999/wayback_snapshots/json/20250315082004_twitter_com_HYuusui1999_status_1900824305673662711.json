@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1900588743423390163",
+    "created_at": "2025-03-15T08:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T09:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900824305673662711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766452473840173056",
+          "start": 0,
+          "username": "Zaizaikun0106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900824305673662711",
+    "in_reply_to_user_id": "1766452473840173056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900588743423390163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zaizaikun0106 我等着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1900588743423390163",
+        "created_at": "2025-03-15T08:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T09:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900824305673662711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766452473840173056",
+              "start": 0,
+              "username": "Zaizaikun0106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900824305673662711",
+        "in_reply_to_user_id": "1766452473840173056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900588743423390163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zaizaikun0106 我等着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766452473840173056",
+        "conversation_id": "1900588743423390163",
+        "created_at": "2025-03-14T16:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T17:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900588743423390163"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900588743423390163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "貌似可以说的都说尽了\n\n心里被扯开的洞里的血也貌似都流干了\n\n先这么活着吧\n\n能说出口的只剩下了“谢谢，对不起，再见”\n\n再见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 439,
+          "like_count": 9770,
+          "listed_count": 4,
+          "media_count": 87,
+          "tweet_count": 1281
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T13:14:37.000Z",
+        "description": "是一个INFP  性格阴暗的死宅一个｜成分及其复杂｜初三国际部在读｜大概率是全推特唯一一个用水月雨miad01当主力机的人｜推止于推｜sub @Kuroko100106",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "Kuroko100106"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikotossd.top",
+                "end": 23,
+                "expanded_url": "http://www.mikotossd.top",
+                "start": 0,
+                "url": "https://t.co/ONd86sCN43"
+              }
+            ]
+          }
+        },
+        "id": "1766452473840173056",
+        "location": "下北泽",
+        "name": "御坂代理服务",
+        "pinned_tweet_id": "1888584774773838056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879226218350075904/jFCN5grB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 736,
+          "like_count": 28843,
+          "listed_count": 4,
+          "media_count": 429,
+          "tweet_count": 2638
+        },
+        "url": "https://t.co/ONd86sCN43",
+        "username": "Zaizaikun0106",
+        "verified": false
+      }
+    ]
+  }
+}

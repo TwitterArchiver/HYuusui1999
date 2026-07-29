@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2024801381274775683",
+    "created_at": "2026-02-21T09:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T10:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025145399359537323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1919963459279888384",
+          "start": 0,
+          "username": "sinhrkP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025145399359537323",
+    "in_reply_to_user_id": "1919963459279888384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024801381274775683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sinhrkP 我哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024801370122104832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmKHkbaMAAqtpR.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2024801381274775683",
+        "created_at": "2026-02-21T09:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T10:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025145399359537323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1919963459279888384",
+              "start": 0,
+              "username": "sinhrkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025145399359537323",
+        "in_reply_to_user_id": "1919963459279888384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024801381274775683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sinhrkP 我哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024801370122104832"
+          ]
+        },
+        "author_id": "1919963459279888384",
+        "conversation_id": "2024801381274775683",
+        "created_at": "2026-02-20T11:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024801381274775683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zsrAEfGJM4",
+              "end": 37,
+              "expanded_url": "https://x.com/sinhrkP/status/2024801381274775683/photo/1",
+              "media_key": "3_2024801370122104832",
+              "start": 14,
+              "url": "https://t.co/zsrAEfGJM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024801381274775683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11086,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "先离开家里 在外面缓解两天 https://t.co/zsrAEfGJM4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 2991,
+          "like_count": 43615,
+          "listed_count": 6,
+          "media_count": 364,
+          "tweet_count": 10921
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-07T03:52:33.000Z",
+        "description": "燥然と輝く街の灯り 対照的な僕を見下ろす｜可以叫咱小遥｜病み垢｜hrt25.8.19｜https://t.co/inqv1Jz2ml｜#pjsk  #ADHD  #双極性障害｜最最最好的姐姐@AnSiYao520",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "pjsk"
+              },
+              {
+                "end": 79,
+                "start": 74,
+                "tag": "ADHD"
+              },
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "双極性障害"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 95,
+                "username": "AnSiYao520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/sinhrk",
+                "end": 66,
+                "expanded_url": "http://t.me/sinhrk",
+                "start": 43,
+                "url": "https://t.co/inqv1Jz2ml"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sinhrk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sinhrk",
+                "start": 0,
+                "url": "https://t.co/cPqMPK9gDg"
+              }
+            ]
+          }
+        },
+        "id": "1919963459279888384",
+        "location": "长春",
+        "name": "🎀超绝最可爱小遥酱✟ 𓏵‧₊",
+        "pinned_tweet_id": "2020052304511345093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012033444151521280/g8iXZ5WS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 2027,
+          "like_count": 5836,
+          "listed_count": 5,
+          "media_count": 75,
+          "tweet_count": 985
+        },
+        "url": "https://t.co/cPqMPK9gDg",
+        "username": "sinhrkP",
+        "verified": false
+      }
+    ]
+  }
+}

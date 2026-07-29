@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1886402458601287686",
+    "created_at": "2025-03-09T03:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T04:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898580057075101958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1797615052847198208",
+          "start": 0,
+          "username": "ppppoii_po"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898580057075101958",
+    "in_reply_to_user_id": "1797615052847198208",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886402458601287686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ppppoii_po Just do what you like to do"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1886402458601287686",
+        "created_at": "2025-03-09T03:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T04:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898580057075101958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1797615052847198208",
+              "start": 0,
+              "username": "ppppoii_po"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898580057075101958",
+        "in_reply_to_user_id": "1797615052847198208",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886402458601287686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ppppoii_po Just do what you like to do"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797615052847198208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "id": "1418291134049120259",
+              "name": "Cafe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418291134049120259",
+              "name": "Cafe"
+            }
+          }
+        ],
+        "conversation_id": "1886402458601287686",
+        "created_at": "2025-02-03T13:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T14:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886402458601287686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886402458601287686",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20066,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "地元の喫茶店を巡ったりホットケーキを焼いたり映画見たりなどのんびり忙しい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 432,
+          "like_count": 9515,
+          "listed_count": 3,
+          "media_count": 84,
+          "tweet_count": 1208
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T13:03:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ppppoii__7?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ppppoii__7?igsh=OGQ5ZDc2ODk2ZA==",
+                "start": 0,
+                "url": "https://t.co/mWu0VaNrTI"
+              }
+            ]
+          }
+        },
+        "id": "1797615052847198208",
+        "name": "華子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797616147808075776/aAREDdvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4100,
+          "following_count": 47,
+          "like_count": 2759,
+          "listed_count": 15,
+          "media_count": 11,
+          "tweet_count": 33
+        },
+        "url": "https://t.co/mWu0VaNrTI",
+        "username": "ppppoii_po",
+        "verified": false
+      }
+    ]
+  }
+}

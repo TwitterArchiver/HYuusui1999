@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1907664593515852261",
+    "created_at": "2025-04-03T05:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T06:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907664593515852261"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zero_158newsys…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/zero_158newsys/status/1907655305644933137",
+          "start": 4,
+          "url": "https://t.co/QaCW31AIwF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907664593515852261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907655305644933137",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请关注 https://t.co/QaCW31AIwF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1907664593515852261",
+        "created_at": "2025-04-03T05:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T06:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907664593515852261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zero_158newsys…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/zero_158newsys/status/1907655305644933137",
+              "start": 4,
+              "url": "https://t.co/QaCW31AIwF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907664593515852261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907655305644933137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请关注 https://t.co/QaCW31AIwF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865831426303897600",
+        "conversation_id": "1907655305644933137",
+        "created_at": "2025-04-03T04:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T05:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907655305644933137"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907655305644933137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩弄大家玩的太多了呢\n朋友都玩没了\n呵呵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1905989245266972950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 618,
+          "like_count": 13384,
+          "listed_count": 6,
+          "media_count": 116,
+          "tweet_count": 2173
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T18:51:06.000Z",
+        "description": "这里是零酱&158哦！一只INFP小猫！喵呜～\n/无证hrt2025.1.10\n/想让大家幸福喵\n/超天酱重度依赖\n/インターネット · エンジェル、ただいま降臨 ！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zero_158gjzr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zero_158gjzr",
+                "start": 0,
+                "url": "https://t.co/ZxXMCZ2ANC"
+              }
+            ]
+          }
+        },
+        "id": "1865831426303897600",
+        "location": "梦之乡",
+        "name": "Zero_158",
+        "pinned_tweet_id": "1906895138582106622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895352936487636992/HyGnw-G1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 699,
+          "like_count": 7282,
+          "listed_count": 8,
+          "media_count": 240,
+          "tweet_count": 3854
+        },
+        "url": "https://t.co/ZxXMCZ2ANC",
+        "username": "Zero_158newsys",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1994062499554243027",
+    "created_at": "2025-11-27T16:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T17:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994081907554861525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1971006655430262784",
+          "start": 0,
+          "username": "FxxkApexLegend"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/xinwendiaocha/…",
+          "end": 39,
+          "expanded_url": "https://x.com/xinwendiaocha/status/1994049219578183928?s=20",
+          "start": 16,
+          "url": "https://t.co/VFGL2nGIOA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994081907554861525",
+    "in_reply_to_user_id": "1971006655430262784",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994049219578183928",
+        "type": "quoted"
+      },
+      {
+        "id": "1994062499554243027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FxxkApexLegend https://t.co/VFGL2nGIOA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32433,
+        "height": 640,
+        "media_key": "13_1994049164850925568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994049164850925568/img/zV_Mx9At9RvHSJAM.jpg",
+        "public_metrics": {
+          "view_count": 64201
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994049164850925568/vid/avc1/320x568/y3jZg5F_W_5UihxO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994049164850925568/vid/avc1/360x640/eYwzNoU4uc3AaEKN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994049164850925568/pl/v3K4NLuTh6pcE_jn.m3u8"
+          }
+        ],
+        "width": 360
+      },
+      {
+        "height": 332,
+        "media_key": "3_1994062486220541952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xVRCcbkAAVkxv.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1994062499554243027",
+        "created_at": "2025-11-27T16:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T17:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994081907554861525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1971006655430262784",
+              "start": 0,
+              "username": "FxxkApexLegend"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xinwendiaocha/…",
+              "end": 39,
+              "expanded_url": "https://x.com/xinwendiaocha/status/1994049219578183928?s=20",
+              "start": 16,
+              "url": "https://t.co/VFGL2nGIOA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994081907554861525",
+        "in_reply_to_user_id": "1971006655430262784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994049219578183928",
+            "type": "quoted"
+          },
+          {
+            "id": "1994062499554243027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FxxkApexLegend https://t.co/VFGL2nGIOA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994049164850925568"
+          ]
+        },
+        "author_id": "1332712954047856641",
+        "conversation_id": "1994049219578183928",
+        "created_at": "2025-11-27T14:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:20:37.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994048719763955732",
+          "1994049219578183928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JRVZp2aVtX",
+              "end": 123,
+              "expanded_url": "https://x.com/xinwendiaocha/status/1994049219578183928/video/1",
+              "media_key": "13_1994049164850925568",
+              "start": 100,
+              "url": "https://t.co/JRVZp2aVtX"
+            },
+            {
+              "display_url": "x.com/xinwendiaocha/…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/xinwendiaocha/status/1993931726352162986",
+              "start": 124,
+              "url": "https://t.co/cCygabKVAl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994049219578183928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 191840,
+          "like_count": 455,
+          "quote_count": 13,
+          "reply_count": 32,
+          "retweet_count": 132
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993931726352162986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "香港大火两家涉事中国公司，一是中国山东尼龙网制造商，二是中国山东滨州商检，合伙欺骗伪造假商检报告，将易燃化纤网说成是阻燃防护网。\n这是香港大埔火灾失控的元凶，中国从上到下将原因推给竹架是在推卸责任。 https://t.co/JRVZp2aVtX https://t.co/cCygabKVAl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994062486220541952"
+          ]
+        },
+        "author_id": "1971006655430262784",
+        "conversation_id": "1994062499554243027",
+        "created_at": "2025-11-27T15:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994062499554243027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/867BBZWRk8",
+              "end": 97,
+              "expanded_url": "https://x.com/FxxkApexLegend/status/1994062499554243027/photo/1",
+              "media_key": "3_1994062486220541952",
+              "start": 74,
+              "url": "https://t.co/867BBZWRk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994062499554243027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 122,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没起火的这边竹子没问题，所以不是竹子的问题。\n烧过的这边竹子都不见了，那和竹子又有什么关系呢？\n\n所以一定不是竹棚问题啦\n\n啊啊啊啊啊啊啊啊啊啊啊 https://t.co/867BBZWRk8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 2477,
+          "like_count": 40591,
+          "listed_count": 6,
+          "media_count": 302,
+          "tweet_count": 9870
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "17岁，是翎，嗯造两年雌二醇，🇲🇴  MtX💜🖤💛🤍 蓝标是腓特烈@goldwater8964 送的😁 对象❤️@juhao0721 ☮️和平主义者 🇺🇦🇵🇸 被指责为米黑 \n 买💊雌二醇补佳乐色谱龙减肥/促智药物💊找@chosekinoraneko ，@minokakay作担保😁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "goldwater8964"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "username": "juhao0721"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "chosekinoraneko"
+              },
+              {
+                "end": 137,
+                "start": 127,
+                "username": "minokakay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEbyHV"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "location": "🇲🇴",
+        "name": "🍁🍥翎野🍥🍁",
+        "pinned_tweet_id": "1990388232681361811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988699869490655232/xNFDU44D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2433,
+          "following_count": 402,
+          "like_count": 4664,
+          "listed_count": 8,
+          "media_count": 516,
+          "tweet_count": 4444
+        },
+        "url": "https://t.co/BKhBrEbyHV",
+        "username": "FxxkApexLegend",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-28T15:48:33.000Z",
+        "description": "追踪新闻，调查真相！ 投稿、商务合作邮箱：charles811203@gmail.com 蓝天号：https://t.co/jAbho9ANSf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/xinwen…",
+                "end": 72,
+                "expanded_url": "https://bsky.app/profile/xinwendiaocha2025.bsky.social",
+                "start": 49,
+                "url": "https://t.co/jAbho9ANSf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@caijinglengya…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@caijinglengyan?si=c8_FduFeV9Xu3KnO",
+                "start": 0,
+                "url": "https://t.co/7tHKzRuGFb"
+              }
+            ]
+          }
+        },
+        "id": "1332712954047856641",
+        "name": "新闻调查",
+        "pinned_tweet_id": "1993931726352162986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347827975383760896/6aV1UyGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616514,
+          "following_count": 85,
+          "like_count": 3722,
+          "listed_count": 1583,
+          "media_count": 36087,
+          "tweet_count": 54512
+        },
+        "url": "https://t.co/7tHKzRuGFb",
+        "username": "xinwendiaocha",
+        "verified": true
+      }
+    ]
+  }
+}

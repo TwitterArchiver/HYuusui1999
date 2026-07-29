@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1889282580484325606",
+    "created_at": "2025-02-11T12:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T13:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889287035233730742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843510989964369920",
+          "start": 0,
+          "username": "mylzhichuanggao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889287035233730742",
+    "in_reply_to_user_id": "1843510989964369920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889282580484325606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mylzhichuanggao 上课怎么有手机啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1889282580484325606",
+        "created_at": "2025-02-11T12:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T13:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889287035233730742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843510989964369920",
+              "start": 0,
+              "username": "mylzhichuanggao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889287035233730742",
+        "in_reply_to_user_id": "1843510989964369920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889282580484325606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mylzhichuanggao 上课怎么有手机啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889282570673901568",
+            "3_1889282571294662656"
+          ]
+        },
+        "author_id": "1843510989964369920",
+        "conversation_id": "1889282580484325606",
+        "created_at": "2025-02-11T11:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T12:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889282580484325606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fPchT5Ef34",
+              "end": 56,
+              "expanded_url": "https://x.com/mylzhichuanggao/status/1889282580484325606/photo/1",
+              "media_key": "3_1889282570673901568",
+              "start": 33,
+              "url": "https://t.co/fPchT5Ef34"
+            },
+            {
+              "display_url": "pic.x.com/fPchT5Ef34",
+              "end": 56,
+              "expanded_url": "https://x.com/mylzhichuanggao/status/1889282580484325606/photo/1",
+              "media_key": "3_1889282571294662656",
+              "start": 33,
+              "url": "https://t.co/fPchT5Ef34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889282580484325606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那很累了😇🙏（煮啵上课偷玩手机被发现于是被罚洗了全班的抹布😇🙏🙏 https://t.co/fPchT5Ef34"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1886317348082119135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 340,
+          "like_count": 6679,
+          "listed_count": 4,
+          "media_count": 58,
+          "tweet_count": 796
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T04:37:47.000Z",
+        "description": "无证含糖mtx，hrt2025.1.11/08职校牲 在湖北新东方学西餐🤓👍/什么都发一点/酒鬼🥂/中强度赛博碎碎念/事一个一个一个绝望的文盲啊啊啊/喝醉了会乱发推耍酒疯🙏🙏/超大号互联网垃圾桶/经常会哈气🥲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaajiancaipifa1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaajiancaipifa1",
+                "start": 0,
+                "url": "https://t.co/356g9XFjWy"
+              }
+            ]
+          }
+        },
+        "id": "1843510989964369920",
+        "location": "距离你1.14514km",
+        "name": "byd劳朢天天做菜翻大车♿♿🍥",
+        "pinned_tweet_id": "1880067033725038847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854830853115068416/dQAVE-1F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 154,
+          "like_count": 5845,
+          "listed_count": 3,
+          "media_count": 358,
+          "tweet_count": 2661
+        },
+        "url": "https://t.co/356g9XFjWy",
+        "username": "mylzhichuanggao",
+        "verified": false
+      }
+    ]
+  }
+}

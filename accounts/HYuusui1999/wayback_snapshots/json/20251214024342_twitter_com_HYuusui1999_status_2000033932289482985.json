@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1999772723116167274",
+    "created_at": "2025-12-14T02:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T03:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000033932289482985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1668037836996771840",
+          "start": 0,
+          "username": "cha_li_jin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000033932289482985",
+    "in_reply_to_user_id": "1668037836996771840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999772723116167274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cha_li_jin 主播這個酷炫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999772699493908480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8CerMjbwAAL6fB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1999772723116167274",
+        "created_at": "2025-12-14T02:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T03:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000033932289482985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1668037836996771840",
+              "start": 0,
+              "username": "cha_li_jin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000033932289482985",
+        "in_reply_to_user_id": "1668037836996771840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999772723116167274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cha_li_jin 主播這個酷炫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999772699493908480"
+          ]
+        },
+        "author_id": "1668037836996771840",
+        "conversation_id": "1999772723116167274",
+        "created_at": "2025-12-13T09:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T10:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999772723116167274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eJ0FUbWcgx",
+              "end": 23,
+              "expanded_url": "https://x.com/cha_li_jin/status/1999772723116167274/photo/1",
+              "media_key": "3_1999772699493908480",
+              "start": 0,
+              "url": "https://t.co/eJ0FUbWcgx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999772723116167274",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6097,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eJ0FUbWcgx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 2699,
+          "like_count": 42599,
+          "listed_count": 6,
+          "media_count": 307,
+          "tweet_count": 10384
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T23:29:56.000Z",
+        "description": "请允许我先挺一会尸......丨瑟瑟副号 @tashigan_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "tashigan_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsaritsyn1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsaritsyn1",
+                "start": 0,
+                "url": "https://t.co/2Jeo14uWZ8"
+              }
+            ]
+          }
+        },
+        "id": "1668037836996771840",
+        "location": "广州",
+        "name": "AAA星之果实批发零售察里津",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999098942404104192/ahZ3JTsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8106,
+          "following_count": 786,
+          "like_count": 12738,
+          "listed_count": 44,
+          "media_count": 287,
+          "tweet_count": 2368
+        },
+        "url": "https://t.co/2Jeo14uWZ8",
+        "username": "cha_li_jin",
+        "verified": false
+      }
+    ]
+  }
+}

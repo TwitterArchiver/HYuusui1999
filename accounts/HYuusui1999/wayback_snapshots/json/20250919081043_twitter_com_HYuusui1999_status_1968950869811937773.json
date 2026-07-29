@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1968944837899534361",
+    "created_at": "2025-09-19T08:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T09:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968950869811937773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1617685747116675073",
+          "start": 0,
+          "username": "_mucha_000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968950869811937773",
+    "in_reply_to_user_id": "1617685747116675073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968944837899534361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_mucha_000 发生什么了吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1968944837899534361].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1968944837899534361",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1968944837899534361"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1968944837899534361",
+        "created_at": "2025-09-19T08:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T09:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968950869811937773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1617685747116675073",
+              "start": 0,
+              "username": "_mucha_000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968950869811937773",
+        "in_reply_to_user_id": "1617685747116675073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968944837899534361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_mucha_000 发生什么了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 1699,
+          "like_count": 30548,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 7906
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-24T00:49:06.000Z",
+        "description": "=牧雨║ボカロP🤍DTM💙MUG🩶Music Anim🩵Psyyyyy！🖤退役CChOer║Love Pays for Itself║妹@molmolxing /恋人@Nijika_Overdose/姐@elsa_yrt/妹@ZTYQ_0319║头像&题头by烁九",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "molmolxing"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "Nijika_Overdose"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "elsa_yrt"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "ZTYQ_0319"
+              }
+            ]
+          }
+        },
+        "id": "1617685747116675073",
+        "name": "旋宫牧雨",
+        "pinned_tweet_id": "1922329013122416730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965065011598180352/CTte4Z94_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 728,
+          "like_count": 55098,
+          "listed_count": 3,
+          "media_count": 363,
+          "tweet_count": 8140
+        },
+        "username": "_mucha_000",
+        "verified": true
+      }
+    ]
+  }
+}

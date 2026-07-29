@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1969264871020634137",
+    "created_at": "2025-09-20T09:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T10:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969326007787168169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1726969617850286080",
+          "start": 0,
+          "username": "NashiMoe233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969326007787168169",
+    "in_reply_to_user_id": "1726969617850286080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969264871020634137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NashiMoe233 想问问ta是谁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1969264871020634137",
+        "created_at": "2025-09-20T09:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T10:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969326007787168169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1726969617850286080",
+              "start": 0,
+              "username": "NashiMoe233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969326007787168169",
+        "in_reply_to_user_id": "1726969617850286080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969264871020634137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NashiMoe233 想问问ta是谁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726969617850286080",
+        "conversation_id": "1969264871020634137",
+        "created_at": "2025-09-20T04:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T05:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969264871020634137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nashimoe233/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/nashimoe233/status/1968825251875197287",
+              "start": 15,
+              "url": "https://t.co/NT3ItrAyiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969264871020634137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 422,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968825251875197287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这句话是suki跟我说的原话 https://t.co/NT3ItrAyiy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 1744,
+          "like_count": 30864,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 7962
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨不回答药物滥用相关问题",
+        "id": "1726969617850286080",
+        "location": "天目山路305号",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958667796151508995/HFxv1vlv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1761,
+          "following_count": 184,
+          "like_count": 19509,
+          "listed_count": 3,
+          "media_count": 566,
+          "tweet_count": 11205
+        },
+        "username": "NashiMoe233",
+        "verified": false
+      }
+    ]
+  }
+}

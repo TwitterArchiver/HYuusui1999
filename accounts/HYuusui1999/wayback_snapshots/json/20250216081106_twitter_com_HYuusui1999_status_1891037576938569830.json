@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1890997137858605289",
+    "created_at": "2025-02-16T08:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T09:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891037576938569830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866825572372058115",
+          "start": 0,
+          "username": "158Zero57844"
+        },
+        {
+          "end": 26,
+          "id": "1812473034915368960",
+          "start": 14,
+          "username": "fishw102030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891037576938569830",
+    "in_reply_to_user_id": "1866825572372058115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891034116319019019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@158Zero57844 @fishw102030 两个人都抱抱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1891034116319019019].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1891034116319019019",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1891034116319019019"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1890997137858605289",
+        "created_at": "2025-02-16T08:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T09:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891037576938569830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866825572372058115",
+              "start": 0,
+              "username": "158Zero57844"
+            },
+            {
+              "end": 26,
+              "id": "1812473034915368960",
+              "start": 14,
+              "username": "fishw102030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891037576938569830",
+        "in_reply_to_user_id": "1866825572372058115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891034116319019019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@158Zero57844 @fishw102030 两个人都抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1885940576446808416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 356,
+          "like_count": 7550,
+          "listed_count": 3,
+          "media_count": 70,
+          "tweet_count": 932
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-11T12:41:35.000Z",
+        "description": "在迷茫与混乱中慢慢前行的一只零\n不知道 飘零了多久\n该寻找 自己的归宿了吧",
+        "id": "1866825572372058115",
+        "location": "梦之墓",
+        "name": "Zero_158(for the negative things I have)",
+        "pinned_tweet_id": "1889625216948519377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878824225357860864/WasYtALf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 27,
+          "like_count": 65,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 223
+        },
+        "username": "158Zero57844",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T13:03:47.000Z",
+        "description": "小女孩-🍬-来到世界14年-渴望抱抱(〃'▽'〃)-喜欢的名字是林萱～爱人的名字是自己-和她比翼在都市林立的天空中自由的飞翔-看过日落下的人流往来～见证每一次温柔的发生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fishw3",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fishw3",
+                "start": 0,
+                "url": "https://t.co/4JRh4QhIFk"
+              }
+            ]
+          }
+        },
+        "id": "1812473034915368960",
+        "location": "黄昏时的十字路口",
+        "name": "茉莉白花小鱼（为逝去的美好）",
+        "pinned_tweet_id": "1883736109232128128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812474033314619392/DwYV-nb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 582,
+          "like_count": 4462,
+          "listed_count": 2,
+          "media_count": 264,
+          "tweet_count": 2160
+        },
+        "url": "https://t.co/4JRh4QhIFk",
+        "username": "fishw102030",
+        "verified": false
+      }
+    ]
+  }
+}

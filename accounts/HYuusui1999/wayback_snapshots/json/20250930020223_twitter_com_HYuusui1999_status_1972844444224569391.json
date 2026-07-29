@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1972699940976791727",
+    "created_at": "2025-09-30T02:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T03:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972844444224569391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809529788178305024",
+          "start": 0,
+          "username": "qiiiiiiike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972844444224569391",
+    "in_reply_to_user_id": "1809529788178305024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972699940976791727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiiiiiiike 说说您遇到了什么困难吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1972699940976791727",
+        "created_at": "2025-09-30T02:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T03:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972844444224569391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809529788178305024",
+              "start": 0,
+              "username": "qiiiiiiike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972844444224569391",
+        "in_reply_to_user_id": "1809529788178305024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972699940976791727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiiiiiiike 说说您遇到了什么困难吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809529788178305024",
+        "conversation_id": "1972699940976791727",
+        "created_at": "2025-09-29T16:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T17:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972699940976791727"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972699940976791727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个悲惨的人生只有我一直在痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 1963,
+          "like_count": 33734,
+          "listed_count": 6,
+          "media_count": 271,
+          "tweet_count": 8406
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T10:08:56.000Z",
+        "description": "🚪88",
+        "id": "1809529788178305024",
+        "name": "7k",
+        "pinned_tweet_id": "1893679911048466666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812096532574822401/2qj18fxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 42,
+          "like_count": 962,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 451
+        },
+        "username": "qiiiiiiike",
+        "verified": false
+      }
+    ]
+  }
+}

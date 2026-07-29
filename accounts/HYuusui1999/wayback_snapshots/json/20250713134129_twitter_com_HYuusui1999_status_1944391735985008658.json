@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1944387319181488296",
+    "created_at": "2025-07-13T13:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T14:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944391735985008658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1768682351603896320",
+          "start": 0,
+          "username": "Hatethefox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944391735985008658",
+    "in_reply_to_user_id": "1768682351603896320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944387319181488296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hatethefox 我希望不会"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1887,
+        "media_key": "3_1944387316501590016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvvZ9mnaMAAkQch.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1944387319181488296",
+        "created_at": "2025-07-13T13:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T14:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944391735985008658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1768682351603896320",
+              "start": 0,
+              "username": "Hatethefox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944391735985008658",
+        "in_reply_to_user_id": "1768682351603896320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944387319181488296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hatethefox 我希望不会"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944387316501590016"
+          ]
+        },
+        "author_id": "1768682351603896320",
+        "conversation_id": "1944387319181488296",
+        "created_at": "2025-07-13T13:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T14:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944387319181488296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FNV0LwDqxN",
+              "end": 29,
+              "expanded_url": "https://x.com/Hatethefox/status/1944387319181488296/photo/1",
+              "media_key": "3_1944387316501590016",
+              "start": 6,
+              "url": "https://t.co/FNV0LwDqxN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944387319181488296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那很接近了 https://t.co/FNV0LwDqxN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 1366,
+          "like_count": 25336,
+          "listed_count": 5,
+          "media_count": 224,
+          "tweet_count": 6291
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T16:55:16.000Z",
+        "description": "可爱狐娘在此",
+        "id": "1768682351603896320",
+        "name": "狐狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898830249280098304/rkZEztIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 103,
+          "like_count": 1080,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 346
+        },
+        "username": "Hatethefox",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1949457321391980945",
+    "created_at": "2025-07-29T09:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T10:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950126208647078332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1174535952653529088",
+          "start": 0,
+          "username": "HMCzipporah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950126208647078332",
+    "in_reply_to_user_id": "1174535952653529088",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949457321391980945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HMCzipporah RIP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949457297044131840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3dFT8b0AAVNmv.jpg",
+        "width": 1447
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1949457307219398656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3dF52aEAAE2Sb.jpg",
+        "width": 1447
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1949457291796987905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3dFAZawAEh7wX.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1949457321391980945",
+        "created_at": "2025-07-29T09:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T10:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950126208647078332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1174535952653529088",
+              "start": 0,
+              "username": "HMCzipporah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950126208647078332",
+        "in_reply_to_user_id": "1174535952653529088",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949457321391980945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HMCzipporah RIP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949457297044131840",
+            "3_1949457307219398656",
+            "3_1949457291796987905"
+          ]
+        },
+        "author_id": "1174535952653529088",
+        "conversation_id": "1949457321391980945",
+        "created_at": "2025-07-27T13:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T14:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949457321391980945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DcRt7IamII",
+              "end": 163,
+              "expanded_url": "https://x.com/HMCzipporah/status/1949457321391980945/photo/1",
+              "media_key": "3_1949457297044131840",
+              "start": 140,
+              "url": "https://t.co/DcRt7IamII"
+            },
+            {
+              "display_url": "pic.x.com/DcRt7IamII",
+              "end": 163,
+              "expanded_url": "https://x.com/HMCzipporah/status/1949457321391980945/photo/1",
+              "media_key": "3_1949457307219398656",
+              "start": 140,
+              "url": "https://t.co/DcRt7IamII"
+            },
+            {
+              "display_url": "pic.x.com/DcRt7IamII",
+              "end": 163,
+              "expanded_url": "https://x.com/HMCzipporah/status/1949457321391980945/photo/1",
+              "media_key": "3_1949457291796987905",
+              "start": 140,
+              "url": "https://t.co/DcRt7IamII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949457321391980945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 296,
+          "impression_count": 336818,
+          "like_count": 4373,
+          "quote_count": 18,
+          "reply_count": 460,
+          "retweet_count": 246
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n本账号的持有者，灰木横/齐波拉Zipporah女士，于二零二五年七月二十五日是夜不幸离世，终年二十岁。已遵其遗愿下葬。\n  灰木横/齐波拉女士生前作为画师，绘制了含游戏、文艺作品、视听媒体、原创角色等范畴的诸多作品。深受各社群爱好者的喜爱。\n即日起，本账号不再更新。\n谨讣 https://t.co/DcRt7IamII"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 1402,
+          "like_count": 26198,
+          "listed_count": 5,
+          "media_count": 231,
+          "tweet_count": 6565
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-19T04:09:29.000Z",
+        "description": "＝齐，20，♀，成分主🌙，lcb：03，🪲🍎/🌇🎠，注意🎩🎠成分有，发图人机，东乡是好朋友",
+        "id": "1174535952653529088",
+        "location": "马里亚纳海沟",
+        "name": "齐波拉🐬🔂東鄉！",
+        "pinned_tweet_id": "1934190199673880883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844299763996667904/T99CmX4v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6276,
+          "following_count": 550,
+          "like_count": 14702,
+          "listed_count": 51,
+          "media_count": 1119,
+          "tweet_count": 3239
+        },
+        "username": "HMCzipporah",
+        "verified": false
+      }
+    ]
+  }
+}

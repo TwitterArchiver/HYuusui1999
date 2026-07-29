@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1905989245266972950",
+    "created_at": "2025-03-30T00:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T01:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906144861117366643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cy79p/status/1…",
+          "end": 28,
+          "expanded_url": "https://x.com/cy79p/status/1905965814106480780?s=46",
+          "start": 5,
+          "url": "https://t.co/C0yFfgNm9d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906144861117366643",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905965814106480780",
+        "type": "quoted"
+      },
+      {
+        "id": "1905989245266972950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请关注\n\nhttps://t.co/C0yFfgNm9d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1905989245266972950",
+        "created_at": "2025-03-30T00:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T01:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906144861117366643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cy79p/status/1…",
+              "end": 28,
+              "expanded_url": "https://x.com/cy79p/status/1905965814106480780?s=46",
+              "start": 5,
+              "url": "https://t.co/C0yFfgNm9d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906144861117366643",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905965814106480780",
+            "type": "quoted"
+          },
+          {
+            "id": "1905989245266972950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请关注\n\nhttps://t.co/C0yFfgNm9d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839980597206495232",
+        "conversation_id": "1905965814106480780",
+        "created_at": "2025-03-29T12:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T13:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905965814106480780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cy79p/status/1…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/cy79p/status/1902365751421571144",
+              "start": 22,
+              "url": "https://t.co/p0GmtxrKjZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905965814106480780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902365751421571144",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发过这样图的我在春天死去的话 会显得讽刺吗 https://t.co/p0GmtxrKjZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1905989245266972950",
+        "created_at": "2025-03-29T14:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T15:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905989245266972950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905989245266972950",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "预警"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1905989245266972950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 575,
+          "like_count": 12416,
+          "listed_count": 6,
+          "media_count": 111,
+          "tweet_count": 1923
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T10:49:06.000Z",
+        "description": "不算明天明天 就赢过时间 ｜🏳️‍🌈🏳️‍⚧️｜你说我怎样我就是怎样的｜四分之一个酒蒙子｜42｜「瑪德琳娜電台」「花」@cy79p｜「存活千年」@sakura_yukihane｜「追逐月光」@tianjutangyunzi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 59,
+                "username": "cy79p"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "sakura_yukihane"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "tianjutangyunzi"
+              }
+            ]
+          }
+        },
+        "id": "1839980597206495232",
+        "name": "璟江别",
+        "pinned_tweet_id": "1904395995603181597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881749193158721536/kJLAOpOG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 215,
+          "like_count": 3323,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 615
+        },
+        "username": "cy79p",
+        "verified": false
+      }
+    ]
+  }
+}

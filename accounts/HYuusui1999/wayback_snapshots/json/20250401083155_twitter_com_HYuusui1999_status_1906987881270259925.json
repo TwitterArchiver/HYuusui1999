@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906940553427894272"
+      ],
+      "media_source_tweet_id": [
+        "1906940592820719989"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1906987881270259925",
+    "created_at": "2025-04-01T08:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T09:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906987881270259925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1773877435748270080",
+          "start": 3,
+          "username": "manakaao68"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/enadRwhbx2",
+          "end": 42,
+          "expanded_url": "https://x.com/manakaao68/status/1906940592820719989/photo/1",
+          "media_key": "3_1906940553427894272",
+          "start": 19,
+          "url": "https://t.co/enadRwhbx2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906987881270259925",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906940592820719989",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @manakaao68: 😭😭 https://t.co/enadRwhbx2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1906940553427894272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnbQVHbbQAARixj.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906940553427894272"
+          ],
+          "media_source_tweet_id": [
+            "1906940592820719989"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1906987881270259925",
+        "created_at": "2025-04-01T08:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T09:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906987881270259925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1773877435748270080",
+              "start": 3,
+              "username": "manakaao68"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/enadRwhbx2",
+              "end": 42,
+              "expanded_url": "https://x.com/manakaao68/status/1906940592820719989/photo/1",
+              "media_key": "3_1906940553427894272",
+              "start": 19,
+              "url": "https://t.co/enadRwhbx2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906987881270259925",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906940592820719989",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @manakaao68: 😭😭 https://t.co/enadRwhbx2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906940553427894272"
+          ]
+        },
+        "author_id": "1773877435748270080",
+        "conversation_id": "1906940592820719989",
+        "created_at": "2025-04-01T05:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T06:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906940592820719989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/enadRwhbx2",
+              "end": 26,
+              "expanded_url": "https://x.com/manakaao68/status/1906940592820719989/photo/1",
+              "media_key": "3_1906940553427894272",
+              "start": 3,
+              "url": "https://t.co/enadRwhbx2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906940592820719989",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 622,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "😭😭 https://t.co/enadRwhbx2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1905989245266972950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 592,
+          "like_count": 12714,
+          "listed_count": 6,
+          "media_count": 112,
+          "tweet_count": 2031
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T00:59:05.000Z",
+        "description": "真中あおです 谢绝政治 杭州公交中之人 汽車愛好者\n 情侣 @heiwawomamore 👀\n里推/ @ND5_0179 RIP面码姐姐@TianqiChen666\n/可爱宝宝 @xieshenmone8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "heiwawomamore"
+              },
+              {
+                "end": 60,
+                "start": 51,
+                "username": "ND5_0179"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "TianqiChen666"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "xieshenmone8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hzbus.com.cn",
+                "end": 23,
+                "expanded_url": "https://www.hzbus.com.cn/",
+                "start": 0,
+                "url": "https://t.co/6ccqwCfA2Q"
+              }
+            ]
+          }
+        },
+        "id": "1773877435748270080",
+        "location": "杭州公交集団",
+        "name": "小小の真中あお^_^🐳⭐️🎄🍥🍧🍟🍕🌮🍩🍡🍨",
+        "pinned_tweet_id": "1898270971775402001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895006025335369728/ab0LKTim_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2396,
+          "following_count": 4226,
+          "like_count": 24670,
+          "listed_count": 9,
+          "media_count": 1529,
+          "tweet_count": 28019
+        },
+        "url": "https://t.co/6ccqwCfA2Q",
+        "username": "manakaao68",
+        "verified": false
+      }
+    ]
+  }
+}

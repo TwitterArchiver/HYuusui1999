@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1921560446533837281",
+    "created_at": "2025-05-12T10:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T11:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921882768046264407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1732246696820940800",
+          "start": 0,
+          "username": "bongftah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921882768046264407",
+    "in_reply_to_user_id": "1732246696820940800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921560446533837281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bongftah 魔女コスモスか？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_1921558920574935040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqq_qEvaIAAG7t4.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1921560446533837281",
+        "created_at": "2025-05-12T10:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T11:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921882768046264407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1732246696820940800",
+              "start": 0,
+              "username": "bongftah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921882768046264407",
+        "in_reply_to_user_id": "1732246696820940800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921560446533837281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bongftah 魔女コスモスか？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921558920574935040"
+          ]
+        },
+        "author_id": "1732246696820940800",
+        "conversation_id": "1921560446533837281",
+        "created_at": "2025-05-11T13:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T14:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921560446533837281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQQswWQPax",
+              "end": 29,
+              "expanded_url": "https://x.com/bongftah/status/1921560446533837281/photo/1",
+              "media_key": "3_1921558920574935040",
+              "start": 6,
+              "url": "https://t.co/eQQswWQPax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921560446533837281",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6961,
+          "impression_count": 1432381,
+          "like_count": 67356,
+          "quote_count": 263,
+          "reply_count": 282,
+          "retweet_count": 10335
+        },
+        "reply_settings": "everyone",
+        "text": "🧙‍♀️🧹 https://t.co/eQQswWQPax"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921395402059764110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 918,
+          "like_count": 18316,
+          "listed_count": 6,
+          "media_count": 174,
+          "tweet_count": 3988
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T03:53:08.000Z",
+        "description": "フリーター Artist⚠️NO AI🚫. I try to post weird draws every day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/bongf",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/bongf",
+                "start": 0,
+                "url": "https://t.co/6GA2Nq2pvX"
+              }
+            ]
+          }
+        },
+        "id": "1732246696820940800",
+        "name": "Bplay🐇",
+        "pinned_tweet_id": "1921848225075441744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892210607123988480/a8KLjipe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101336,
+          "following_count": 253,
+          "like_count": 472,
+          "listed_count": 298,
+          "media_count": 73,
+          "tweet_count": 236
+        },
+        "url": "https://t.co/6GA2Nq2pvX",
+        "username": "bongftah",
+        "verified": false
+      }
+    ]
+  }
+}

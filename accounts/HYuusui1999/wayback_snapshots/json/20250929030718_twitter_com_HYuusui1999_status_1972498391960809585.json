@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1921895055087841673",
+    "created_at": "2025-09-29T03:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T04:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972498391960809585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1926574861872156672",
+          "start": 0,
+          "username": "stellarocean1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972498391960809585",
+    "in_reply_to_user_id": "1926574861872156672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972498007355728294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stellarocean1 这个风格（笑）\n我明白了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1921895055087841673",
+        "created_at": "2025-09-29T03:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T04:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972498391960809585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1926574861872156672",
+              "start": 0,
+              "username": "stellarocean1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972498391960809585",
+        "in_reply_to_user_id": "1926574861872156672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972498007355728294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stellarocean1 这个风格（笑）\n我明白了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926574861872156672",
+        "conversation_id": "1921895055087841673",
+        "created_at": "2025-09-29T03:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T04:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972498007355728294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972498007355728294",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972496673873285439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 再补充一点，我其实是你以前的朋友，不过我已经玩腻了我的旧号，于是我开了这个新号重头再来。你就当我是一个新来的推友好了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 1953,
+          "like_count": 33437,
+          "listed_count": 6,
+          "media_count": 271,
+          "tweet_count": 8323
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T09:43:53.000Z",
+        "description": "喜欢天文学",
+        "id": "1926574861872156672",
+        "name": "浩瀚星海",
+        "pinned_tweet_id": "1954421585923699151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954440383867301888/wzlftmUD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 49,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 145
+        },
+        "username": "stellarocean1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1916019520675721396",
+    "created_at": "2025-04-26T06:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T07:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916023540387610749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863821756932472832",
+          "start": 0,
+          "username": "shuo_zi27516"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916023540387610749",
+    "in_reply_to_user_id": "1863821756932472832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916019520675721396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuo_zi27516 这……魔法邮票？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916019517526077440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpcRmYTbcAAvE4c.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1916019520675721396",
+        "created_at": "2025-04-26T06:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T07:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916023540387610749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863821756932472832",
+              "start": 0,
+              "username": "shuo_zi27516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916023540387610749",
+        "in_reply_to_user_id": "1863821756932472832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916019520675721396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuo_zi27516 这……魔法邮票？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916019517526077440"
+          ]
+        },
+        "author_id": "1863821756932472832",
+        "conversation_id": "1916019520675721396",
+        "created_at": "2025-04-26T06:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T07:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916019520675721396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qexZhyQgoo",
+              "end": 30,
+              "expanded_url": "https://x.com/shuo_zi27516/status/1916019520675721396/photo/1",
+              "media_key": "3_1916019517526077440",
+              "start": 7,
+              "url": "https://t.co/qexZhyQgoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916019520675721396",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逆。。。。。 https://t.co/qexZhyQgoo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1914139301199385082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 780,
+          "like_count": 16990,
+          "listed_count": 6,
+          "media_count": 155,
+          "tweet_count": 3450
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T05:45:42.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wcenpkgoAzFkM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wcenpkgoAzFkMDQ1",
+                "start": 0,
+                "url": "https://t.co/Av9bAZd3dg"
+              }
+            ]
+          }
+        },
+        "id": "1863821756932472832",
+        "location": "虚无",
+        "name": "宫笙 🏳‍⚧️🍥",
+        "pinned_tweet_id": "1914491457005871237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909494365900488705/svO7GLQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 370,
+          "like_count": 74,
+          "listed_count": 3,
+          "media_count": 78,
+          "tweet_count": 907
+        },
+        "url": "https://t.co/Av9bAZd3dg",
+        "username": "shuo_zi27516",
+        "verified": false
+      }
+    ]
+  }
+}

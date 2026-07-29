@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1881107012018446427",
+    "created_at": "2025-01-20T05:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T06:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881213821567852831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1251444237222240258",
+          "start": 0,
+          "username": "IIInoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881213821567852831",
+    "in_reply_to_user_id": "1251444237222240258",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881107012018446427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IIInoki 加油哦。要好好生活。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1881107012018446427",
+        "created_at": "2025-01-20T05:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T06:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881213821567852831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1251444237222240258",
+              "start": 0,
+              "username": "IIInoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881213821567852831",
+        "in_reply_to_user_id": "1251444237222240258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881107012018446427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IIInoki 加油哦。要好好生活。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881107001989603328"
+          ]
+        },
+        "author_id": "1251444237222240258",
+        "conversation_id": "1881107012018446427",
+        "created_at": "2025-01-19T22:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T23:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881107012018446427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kmoYTkpDpj",
+              "end": 41,
+              "expanded_url": "https://x.com/IIInoki/status/1881107012018446427/photo/1",
+              "media_key": "3_1881107001989603328",
+              "start": 18,
+              "url": "https://t.co/kmoYTkpDpj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881107012018446427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5287,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "母亲去世父亲欠债\n祥子竟是我自己🤡 https://t.co/kmoYTkpDpj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 180,
+          "like_count": 1499,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 229
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-18T09:35:39.000Z",
+        "description": "Nobody\n“文科”博士🐶\n人间不值得 生活推\n風立ちぬ、いざ生きめやも\n🚪8.8 USD 走 GitHub sponsorship🤤\nhttps://t.co/KBMpO3fzK4\n背景图 by @IIInoki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 100,
+                "username": "IIInoki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/inokinoki",
+                "end": 92,
+                "expanded_url": "https://github.com/inokinoki",
+                "start": 69,
+                "url": "https://t.co/KBMpO3fzK4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inoki.cc",
+                "end": 23,
+                "expanded_url": "https://www.inoki.cc",
+                "start": 0,
+                "url": "https://t.co/4mBacSf4mT"
+              }
+            ]
+          }
+        },
+        "id": "1251444237222240258",
+        "location": "114514",
+        "name": "鹿 𝕟𝕠𝕜𝕚𝕟𝕠𝕜𝕚",
+        "pinned_tweet_id": "1854157543364301204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831914566684438528/Tjbm3SmJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10120,
+          "following_count": 1598,
+          "like_count": 60362,
+          "listed_count": 77,
+          "media_count": 2066,
+          "tweet_count": 28781
+        },
+        "url": "https://t.co/4mBacSf4mT",
+        "username": "IIInoki",
+        "verified": true
+      }
+    ]
+  }
+}

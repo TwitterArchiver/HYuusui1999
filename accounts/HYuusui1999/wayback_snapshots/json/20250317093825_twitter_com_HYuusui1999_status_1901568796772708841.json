@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1901371826514891095",
+    "created_at": "2025-03-17T09:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T10:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901568796772708841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1575145790892285954",
+          "start": 0,
+          "username": "AsabaYuugumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901568796772708841",
+    "in_reply_to_user_id": "1575145790892285954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901371826514891095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsabaYuugumo 好好休息(´･ω･`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1901371826514891095",
+        "created_at": "2025-03-17T09:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T10:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901568796772708841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1575145790892285954",
+              "start": 0,
+              "username": "AsabaYuugumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901568796772708841",
+        "in_reply_to_user_id": "1575145790892285954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901371826514891095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsabaYuugumo 好好休息(´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575145790892285954",
+        "conversation_id": "1901371826514891095",
+        "created_at": "2025-03-16T20:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T21:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901371826514891095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901371826514891095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想住院，每天嗜睡，也就睡觉可以心情好一点了，吃药久就生理性反胃，好恶心，好想学习但是什么都记不住"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 492,
+          "like_count": 11246,
+          "listed_count": 6,
+          "media_count": 94,
+          "tweet_count": 1561
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-28T15:30:41.000Z",
+        "description": "ENFP-T|中文English日本語|Sweden🇸🇪留学准备中|🚪88(私信先发门槛)| 推荐我自己长期使用的喵叽VPN加速器 高速 稳定 强推🔗：https://t.co/aD8tQJlVBn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 99,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=2HOOqcTB",
+                "start": 76,
+                "url": "https://t.co/aD8tQJlVBn"
+              }
+            ]
+          }
+        },
+        "id": "1575145790892285954",
+        "location": "Lund ,Skåne län ,Sweden",
+        "name": "浅羽夕雲",
+        "pinned_tweet_id": "1812150921247559705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843957339264782336/VXBz2XZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3854,
+          "following_count": 865,
+          "like_count": 536,
+          "listed_count": 10,
+          "media_count": 132,
+          "tweet_count": 1308
+        },
+        "username": "AsabaYuugumo",
+        "verified": false
+      }
+    ]
+  }
+}

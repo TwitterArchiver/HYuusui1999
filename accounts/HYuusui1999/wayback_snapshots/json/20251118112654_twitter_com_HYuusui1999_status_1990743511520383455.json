@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1989171358912376874",
+    "created_at": "2025-11-18T11:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T12:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990743511520383455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1646550974553522183",
+          "start": 0,
+          "username": "yeziyu7777"
+        },
+        {
+          "end": 26,
+          "id": "1934423287729455105",
+          "start": 12,
+          "username": "auroralia7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990743511520383455",
+    "in_reply_to_user_id": "1646550974553522183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990743312756802007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeziyu7777 @auroralia7777 希望能心结解开（"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [auroralia7777].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "auroralia7777",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "auroralia7777"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1989171358912376874",
+        "created_at": "2025-11-18T11:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T12:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990743511520383455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1646550974553522183",
+              "start": 0,
+              "username": "yeziyu7777"
+            },
+            {
+              "end": 26,
+              "id": "1934423287729455105",
+              "start": 12,
+              "username": "auroralia7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990743511520383455",
+        "in_reply_to_user_id": "1646550974553522183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990743312756802007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeziyu7777 @auroralia7777 希望能心结解开（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646550974553522183",
+        "conversation_id": "1989171358912376874",
+        "created_at": "2025-11-18T11:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T12:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990743312756802007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            },
+            {
+              "end": 27,
+              "id": "1934423287729455105",
+              "start": 13,
+              "username": "auroralia7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990743312756802007",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990720505389744596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 @auroralia7777 只是退推了喵 没有出事(&gt;﹏&lt;)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 2390,
+          "like_count": 39660,
+          "listed_count": 6,
+          "media_count": 302,
+          "tweet_count": 9603
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T16:28:58.000Z",
+        "description": "永远只是杂鱼xnn小叶，不会再有…睡着了的 | 我的爱人 我的全部♡小极光@auroralia7777\n「这辈子只有你一个♡」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 37,
+                "username": "auroralia7777"
+              }
+            ]
+          }
+        },
+        "id": "1646550974553522183",
+        "location": "永远依偎在小极光的怀里♡",
+        "name": "永远の叶_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964179698759634944/KGhtOccu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 790,
+          "like_count": 71240,
+          "listed_count": 9,
+          "media_count": 416,
+          "tweet_count": 7128
+        },
+        "username": "yeziyu7777",
+        "verified": false
+      }
+    ]
+  }
+}

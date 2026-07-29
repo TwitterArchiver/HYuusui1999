@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2004263320669618570",
+    "created_at": "2025-12-28T01:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T02:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005089961645932956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1996563547007176704",
+          "start": 0,
+          "username": "gu_niu666"
+        },
+        {
+          "end": 21,
+          "id": "1479696561302999042",
+          "start": 11,
+          "username": "quite8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005089961645932956",
+    "in_reply_to_user_id": "1996563547007176704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004438285293342858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu_niu666 @quite8964 妳記下來的話妳記得攔一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2004263320669618570",
+        "created_at": "2025-12-28T01:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T02:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005089961645932956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1996563547007176704",
+              "start": 0,
+              "username": "gu_niu666"
+            },
+            {
+              "end": 21,
+              "id": "1479696561302999042",
+              "start": 11,
+              "username": "quite8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005089961645932956",
+        "in_reply_to_user_id": "1996563547007176704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004438285293342858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu_niu666 @quite8964 妳記下來的話妳記得攔一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996563547007176704",
+        "conversation_id": "2004263320669618570",
+        "created_at": "2025-12-26T06:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T07:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004438285293342858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479696561302999042",
+              "start": 0,
+              "username": "quite8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004438285293342858",
+        "in_reply_to_user_id": "1479696561302999042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004263320669618570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quite8964 已记录📝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 2878,
+          "like_count": 43816,
+          "listed_count": 6,
+          "media_count": 333,
+          "tweet_count": 10718
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T12:53:53.000Z",
+        "description": "三退 ：退圈 退药 退跨🫡\n反lgbt/跨人乐子/重开药桶饭\n1.理想是世界没有跨\n2.拆除跨旗子和鱼板标识，屏蔽大数据跨性别人物和社区\n3.当跨也不要进圈子，这会提前结束你青春的生命，这圈子已经烂完，看圈子如喝慢性毒药4.天救自救者\n5.安卓跨人 安卓救人 安卓共情力",
+        "id": "1996563547007176704",
+        "location": "木桶星",
+        "name": "米（🏳️‍🌈🏳️‍⚧🍥心宿二和参宿四🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003866911071981569/6YDLw6Ru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 124,
+          "like_count": 1001,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 858
+        },
+        "username": "gu_niu666",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 想要得到更多的喜欢和爱 可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina 妹妹@xintonfenmeng 靠谱的药商小圆环@yuukihanashiya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 56,
+                "start": 49,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "dominnicchina"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "xintonfenmeng"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "yuukihanashiya"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "枫糖小橘🍊",
+        "pinned_tweet_id": "1980927141828268120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938519215071481856/RGyMr1ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10736,
+          "following_count": 3027,
+          "like_count": 33026,
+          "listed_count": 24,
+          "media_count": 613,
+          "tweet_count": 14396
+        },
+        "username": "quite8964",
+        "verified": false
+      }
+    ]
+  }
+}

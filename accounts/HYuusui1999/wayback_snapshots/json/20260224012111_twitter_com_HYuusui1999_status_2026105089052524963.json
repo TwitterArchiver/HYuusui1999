@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025791257621213184"
+      ],
+      "media_source_tweet_id": [
+        "2025797460988432469"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2026105089052524963",
+    "created_at": "2026-02-24T01:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T02:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026105089052524963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1558730611556175873",
+          "start": 3,
+          "username": "ChisakaKanako"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oXxTQxFPu5",
+          "end": 97,
+          "expanded_url": "https://x.com/ChisakaKanako/status/2025797460988432469/photo/1",
+          "media_key": "3_2025791257621213184",
+          "start": 74,
+          "url": "https://t.co/oXxTQxFPu5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026105089052524963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025797460988432469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ChisakaKanako: Notion 的使命已经结束了，所有的页面都已删除，我的全部内容和知识都倾注到了 aboutTrans ⬇️ https://t.co/oXxTQxFPu5"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "https://aboutrans.info/",
+        "height": 2048,
+        "media_key": "3_2025791257621213184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0OamuasAAfWiP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025791257621213184"
+          ],
+          "media_source_tweet_id": [
+            "2025797460988432469"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "2026105089052524963",
+        "created_at": "2026-02-24T01:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T02:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026105089052524963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1558730611556175873",
+              "start": 3,
+              "username": "ChisakaKanako"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oXxTQxFPu5",
+              "end": 97,
+              "expanded_url": "https://x.com/ChisakaKanako/status/2025797460988432469/photo/1",
+              "media_key": "3_2025791257621213184",
+              "start": 74,
+              "url": "https://t.co/oXxTQxFPu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026105089052524963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025797460988432469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @ChisakaKanako: Notion 的使命已经结束了，所有的页面都已删除，我的全部内容和知识都倾注到了 aboutTrans ⬇️ https://t.co/oXxTQxFPu5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025791257621213184"
+          ]
+        },
+        "author_id": "1558730611556175873",
+        "conversation_id": "2025797460988432469",
+        "created_at": "2026-02-23T04:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T05:34:09.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025791264411853145",
+          "2025797460988432469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oXxTQxFPu5",
+              "end": 78,
+              "expanded_url": "https://x.com/ChisakaKanako/status/2025797460988432469/photo/1",
+              "media_key": "3_2025791257621213184",
+              "start": 55,
+              "url": "https://t.co/oXxTQxFPu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025797460988432469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 7301,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "following",
+        "text": "Notion 的使命已经结束了，所有的页面都已删除，我的全部内容和知识都倾注到了 aboutTrans ⬇️ https://t.co/oXxTQxFPu5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 3024,
+          "like_count": 43903,
+          "listed_count": 6,
+          "media_count": 364,
+          "tweet_count": 11003
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T08:22:12.000Z",
+        "description": "🧁🏳️‍⚧️ Founder of @AB_aboutTrans",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "AB_aboutTrans"
+              }
+            ]
+          }
+        },
+        "id": "1558730611556175873",
+        "location": "大连",
+        "name": "千坂神奈子",
+        "pinned_tweet_id": "1971608331635818577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005160042845405188/7FNnSndN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6026,
+          "following_count": 1575,
+          "like_count": 43368,
+          "listed_count": 10,
+          "media_count": 83,
+          "tweet_count": 757
+        },
+        "username": "ChisakaKanako",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1938990126547509499",
+    "created_at": "2025-06-28T15:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T16:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938990126547509499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1865831426303897600",
+          "start": 3,
+          "username": "Zero_158_Kana"
+        },
+        {
+          "end": 30,
+          "id": "1850772146177576960",
+          "start": 19,
+          "username": "Chunier520"
+        },
+        {
+          "end": 43,
+          "id": "1585145286598483968",
+          "start": 31,
+          "username": "lianyiganyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938990126547509499",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938978898420867520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zero_158_Kana: @Chunier520 @lianyiganyu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [Chunier520].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Chunier520",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Chunier520"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1938990126547509499",
+        "created_at": "2025-06-28T15:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T16:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938990126547509499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1865831426303897600",
+              "start": 3,
+              "username": "Zero_158_Kana"
+            },
+            {
+              "end": 30,
+              "id": "1850772146177576960",
+              "start": 19,
+              "username": "Chunier520"
+            },
+            {
+              "end": 43,
+              "id": "1585145286598483968",
+              "start": 31,
+              "username": "lianyiganyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938990126547509499",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938978898420867520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zero_158_Kana: @Chunier520 @lianyiganyu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865831426303897600",
+        "conversation_id": "1938978898420867520",
+        "created_at": "2025-06-28T15:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T16:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938978898420867520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850772146177576960",
+              "start": 0,
+              "username": "Chunier520"
+            },
+            {
+              "end": 24,
+              "id": "1585145286598483968",
+              "start": 12,
+              "username": "lianyiganyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/LinKuoTian8964…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/LinKuoTian8964K/status/1938973156607471951",
+              "start": 25,
+              "url": "https://t.co/yMIxuMz30j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938978898420867520",
+        "in_reply_to_user_id": "1850772146177576960",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938973156607471951",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chunier520 @lianyiganyu https://t.co/yMIxuMz30j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yvjue0189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yvjue0189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 1232,
+          "like_count": 23118,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 5530
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T18:51:06.000Z",
+        "description": "你们好！目前成员有零，折洛，云梦，可奈，樱舞花，七碎，icy，Cecilia \n/无证hrt2025.1.10\n/里推：@DreamlandSysSub\n/Lover：@calsym456 @AsdQWD358224 @Caroline_9870",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "DreamlandSysSub"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "username": "calsym456"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "AsdQWD358224"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "Caroline_9870"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zero_158gjzr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zero_158gjzr",
+                "start": 0,
+                "url": "https://t.co/ZxXMCZ2ANC"
+              }
+            ]
+          }
+        },
+        "id": "1865831426303897600",
+        "location": "梦之彼岸",
+        "name": "北雁梦 - ドリームランド システム",
+        "pinned_tweet_id": "1919773070249632215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938016150950203392/zNYqGnzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 799,
+          "like_count": 9193,
+          "listed_count": 8,
+          "media_count": 293,
+          "tweet_count": 5183
+        },
+        "url": "https://t.co/ZxXMCZ2ANC",
+        "username": "Zero_158_Kana",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T05:44:48.000Z",
+        "description": "本号为多人操作账号｜自杀报警求助、救助合作、提供资源（如工作岗位、住处)，申请成为危机干预志愿者（需要相关专业或经历，若无，可先看《助人技术》等书籍），可直接私信本号，或私信小组telegram账号https://t.co/qgwRSeN56m｜小组telegram频道https://t.co/BKQPZ0tsSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lianyiganyu",
+                "end": 122,
+                "expanded_url": "http://t.me/lianyiganyu",
+                "start": 99,
+                "url": "https://t.co/qgwRSeN56m"
+              },
+              {
+                "display_url": "t.me/lianyixiaozu",
+                "end": 158,
+                "expanded_url": "https://t.me/lianyixiaozu",
+                "start": 135,
+                "url": "https://t.co/BKQPZ0tsSi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/12543045359?…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/12543045359?utm_psn=1855828674772881408",
+                "start": 0,
+                "url": "https://t.co/zkUVQf7Yqi"
+              }
+            ]
+          }
+        },
+        "id": "1585145286598483968",
+        "location": "武汉",
+        "name": "涟漪危机干预小组",
+        "pinned_tweet_id": "1883892557207470495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3394,
+          "following_count": 4,
+          "like_count": 13,
+          "listed_count": 5,
+          "media_count": 31,
+          "tweet_count": 215
+        },
+        "url": "https://t.co/zkUVQf7Yqi",
+        "username": "lianyiganyu",
+        "verified": false
+      }
+    ]
+  }
+}

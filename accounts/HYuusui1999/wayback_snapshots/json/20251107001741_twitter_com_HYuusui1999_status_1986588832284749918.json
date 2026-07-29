@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1986588832284749918",
+    "created_at": "2025-11-07T00:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T01:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986588832284749918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1568756978599735297",
+          "start": 0,
+          "username": "wwwwwnie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986588832284749918",
+    "in_reply_to_user_id": "1568756978599735297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@wwwwwnie 账号已停用"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [wwwwwnie].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "wwwwwnie",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "wwwwwnie"
+    },
+    {
+      "detail": "Could not find user with in_reply_to_user_id: [1568756978599735297].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "1568756978599735297",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1568756978599735297"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1986588832284749918",
+        "created_at": "2025-11-07T00:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T01:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986588832284749918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1568756978599735297",
+              "start": 0,
+              "username": "wwwwwnie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986588832284749918",
+        "in_reply_to_user_id": "1568756978599735297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@wwwwwnie 账号已停用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。理想乡：@t_subas_a 暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 2351,
+          "like_count": 39057,
+          "listed_count": 6,
+          "media_count": 296,
+          "tweet_count": 9351
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

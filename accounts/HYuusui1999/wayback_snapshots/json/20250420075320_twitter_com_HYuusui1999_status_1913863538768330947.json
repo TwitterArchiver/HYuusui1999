@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1890434443476602971",
+    "created_at": "2025-04-20T07:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T08:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913863538768330947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1485268522074730497",
+          "start": 0,
+          "username": "jiulin2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913863538768330947",
+    "in_reply_to_user_id": "1485268522074730497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890434443476602971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiulin2333 可以约稿吗(´･ω･`)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1890434435037949952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjwsGkuacAAbxjK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1890434435834867713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjwsGnsacAEMzZN.jpg",
+        "width": 1448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1890434437361627136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjwsGtYa8AA861x.jpg",
+        "width": 1448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1890434437525164032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjwsGt_aUAAq2KW.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1890434443476602971",
+        "created_at": "2025-04-20T07:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T08:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913863538768330947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1485268522074730497",
+              "start": 0,
+              "username": "jiulin2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913863538768330947",
+        "in_reply_to_user_id": "1485268522074730497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890434443476602971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiulin2333 可以约稿吗(´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890434435037949952",
+            "3_1890434435834867713",
+            "3_1890434437361627136",
+            "3_1890434437525164032"
+          ]
+        },
+        "author_id": "1485268522074730497",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1890434443476602971",
+        "created_at": "2025-02-14T16:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T17:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890434443476602971"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 157,
+              "start": 152,
+              "tag": "自我介绍"
+            },
+            {
+              "end": 160,
+              "start": 158,
+              "tag": "呃"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/theIHzQwAU",
+              "end": 184,
+              "expanded_url": "https://x.com/jiulin2333/status/1890434443476602971/photo/1",
+              "media_key": "3_1890434435037949952",
+              "start": 161,
+              "url": "https://t.co/theIHzQwAU"
+            },
+            {
+              "display_url": "pic.x.com/theIHzQwAU",
+              "end": 184,
+              "expanded_url": "https://x.com/jiulin2333/status/1890434443476602971/photo/1",
+              "media_key": "3_1890434435834867713",
+              "start": 161,
+              "url": "https://t.co/theIHzQwAU"
+            },
+            {
+              "display_url": "pic.x.com/theIHzQwAU",
+              "end": 184,
+              "expanded_url": "https://x.com/jiulin2333/status/1890434443476602971/photo/1",
+              "media_key": "3_1890434437361627136",
+              "start": 161,
+              "url": "https://t.co/theIHzQwAU"
+            },
+            {
+              "display_url": "pic.x.com/theIHzQwAU",
+              "end": 184,
+              "expanded_url": "https://x.com/jiulin2333/status/1890434443476602971/photo/1",
+              "media_key": "3_1890434437525164032",
+              "start": 161,
+              "url": "https://t.co/theIHzQwAU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890434443476602971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9477,
+          "like_count": 67,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "救命有人能找我约稿吗，但是我画技很烂...白菜价只要我能接受就行...基本是实验性绘画，接oc\n我在外面住暂时没找到工作所以没有几个钱了谁能救我一命😱😭\n这边是玖琳/90 \n武汉的 \nmbti是enfp/infp，爱好是画画电吉他建模\n游戏成分:arcaea phira maimai浓度低\n臭打音游的\n#自我介绍 #呃 https://t.co/theIHzQwAU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1912415808413647168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 752,
+          "like_count": 16068,
+          "listed_count": 5,
+          "media_count": 144,
+          "tweet_count": 3179
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T15:09:57.000Z",
+        "description": "喵。\n我想当画手，只是差劲画画人。/\nenfp及infp/arcaea/ocart/喜欢水推文\n将来art相关将放在  #JiuLynn_ART",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 60,
+                "tag": "JiuLynn_ART"
+              }
+            ]
+          }
+        },
+        "id": "1485268522074730497",
+        "location": "武汉。",
+        "name": "Jiu☆Lynn☆",
+        "pinned_tweet_id": "1890434443476602971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910639864951037953/BFY2j0rv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 2946,
+          "like_count": 28238,
+          "listed_count": 7,
+          "media_count": 1639,
+          "tweet_count": 21439
+        },
+        "username": "jiulin2333",
+        "verified": false
+      }
+    ]
+  }
+}

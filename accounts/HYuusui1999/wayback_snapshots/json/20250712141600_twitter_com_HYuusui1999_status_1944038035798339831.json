@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1944022366897811631",
+    "created_at": "2025-07-12T14:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T15:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944038035798339831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1373304659587211270",
+          "start": 0,
+          "username": "Francis55520619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944038035798339831",
+    "in_reply_to_user_id": "1373304659587211270",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944022366897811631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Francis55520619 您吃了多少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1944022366897811631",
+        "created_at": "2025-07-12T14:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T15:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944038035798339831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1373304659587211270",
+              "start": 0,
+              "username": "Francis55520619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944038035798339831",
+        "in_reply_to_user_id": "1373304659587211270",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944022366897811631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Francis55520619 您吃了多少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1373304659587211270",
+        "conversation_id": "1944022366897811631",
+        "created_at": "2025-07-12T13:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T14:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944022366897811631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Francis Gray’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1Yqxo…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1YqxoopXydZxv",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1944022369213067265/RkEo-v8G?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1944022369213067265/RkEo-v8G?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 或许是再见……或许是不见……？",
+              "unwound_url": "https://twitter.com/i/spaces/1YqxoopXydZxv/peek",
+              "url": "https://t.co/C74UhA8KMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944022366897811631",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 312,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/C74UhA8KMC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 1359,
+          "like_count": 25159,
+          "listed_count": 5,
+          "media_count": 221,
+          "tweet_count": 6223
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-20T16:05:36.000Z",
+        "description": "A sandwich with cheese, avocado, and hams🥪🥑🧀️\nUESTC Bachelors Major in CS | English/Chinese/Hakka/Cantonese | MAKE MY MINDS BACK! | Welcome",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "StarSeaCommunity.store",
+                "end": 23,
+                "expanded_url": "http://StarSeaCommunity.store",
+                "start": 0,
+                "url": "https://t.co/kDj1vnQouB"
+              }
+            ]
+          }
+        },
+        "id": "1373304659587211270",
+        "location": "Chengdu | Shenzhen | Hongkong",
+        "name": "Francis Gray",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937174204538916864/0HIyqLly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 1377,
+          "like_count": 3891,
+          "listed_count": 5,
+          "media_count": 305,
+          "tweet_count": 1444
+        },
+        "url": "https://t.co/kDj1vnQouB",
+        "username": "Francis55520619",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972913045598052352"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1972909135218737286",
+    "created_at": "2025-09-30T06:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T07:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972913055672778778"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JolinSarah/sta…",
+          "end": 23,
+          "expanded_url": "https://x.com/JolinSarah/status/1972906720495304841",
+          "start": 0,
+          "url": "https://t.co/hjgVdbc9qp"
+        },
+        {
+          "display_url": "pic.x.com/5noxnkDm1i",
+          "end": 47,
+          "expanded_url": "https://x.com/HYuusui1999/status/1972913055672778778/photo/1",
+          "media_key": "3_1972913045598052352",
+          "start": 24,
+          "url": "https://t.co/5noxnkDm1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972913055672778778",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972906720495304841",
+        "type": "quoted"
+      },
+      {
+        "id": "1972909135218737286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/hjgVdbc9qp https://t.co/5noxnkDm1i"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1972913055672778778].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1972913055672778778",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1972913055672778778"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1972906720495304841].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1972906720495304841",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1972906720495304841"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1972913045598052352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Ex9kebIAA-ggj.jpg",
+        "width": 661
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1972909135218737286",
+        "created_at": "2025-09-30T06:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T07:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972909135218737286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JolinSarah/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/JolinSarah/status/1972896010650472564",
+              "start": 15,
+              "url": "https://t.co/Yykvnfhouu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972909135218737286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972896010650472564",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁去帮忙打一个120，别报警 https://t.co/Yykvnfhouu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 1971,
+          "like_count": 33882,
+          "listed_count": 6,
+          "media_count": 276,
+          "tweet_count": 8449
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

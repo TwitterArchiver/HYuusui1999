@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1999830378547380412",
+    "created_at": "2025-12-14T03:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T04:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000043724303409572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1686063963111374859",
+          "start": 0,
+          "username": "mo_chen6191"
+        },
+        {
+          "end": 28,
+          "id": "1971006655430262784",
+          "start": 13,
+          "username": "FxxkApexLegend"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000043724303409572",
+    "in_reply_to_user_id": "1686063963111374859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999836665372942349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mo_chen6191 @FxxkApexLegend 我覺得紀錄片的作用可能只是單方面給學校和公檢法上點壓力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1999830378547380412",
+        "created_at": "2025-12-14T03:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T04:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000043724303409572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1686063963111374859",
+              "start": 0,
+              "username": "mo_chen6191"
+            },
+            {
+              "end": 28,
+              "id": "1971006655430262784",
+              "start": 13,
+              "username": "FxxkApexLegend"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000043724303409572",
+        "in_reply_to_user_id": "1686063963111374859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999836665372942349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mo_chen6191 @FxxkApexLegend 我覺得紀錄片的作用可能只是單方面給學校和公檢法上點壓力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686063963111374859",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "1999830378547380412",
+        "created_at": "2025-12-13T13:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T14:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999836665372942349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1971006655430262784",
+              "start": 0,
+              "username": "FxxkApexLegend"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999836665372942349",
+        "in_reply_to_user_id": "1971006655430262784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 985,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999830378547380412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FxxkApexLegend 与BBC合作无疑是饮鸠止渴。你会被封杀，自由派接过话语权，会宣称这是他们的“斗争成果”，民众会被误导，而真正导致戒网瘾学校产生的土壤，却没有受到任何的破坏。救助者和被戒网瘾学校迫害的年轻人的血都白流了\n我说的很明白，这个胜利成果是救助者和被迫害的年轻人的，我什么时候说这是往左的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 2705,
+          "like_count": 42683,
+          "listed_count": 6,
+          "media_count": 307,
+          "tweet_count": 10391
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T17:19:22.000Z",
+        "description": "路人。逃生舱@yedeng1919",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "yedeng1919"
+              }
+            ]
+          }
+        },
+        "id": "1686063963111374859",
+        "location": "Central Region, Singapore",
+        "name": "陈",
+        "pinned_tweet_id": "1916975337134821752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974141021534760967/dQhGKk6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 999,
+          "like_count": 34007,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 7902
+        },
+        "username": "mo_chen6191",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "17岁，是翎，舞萌吃，🇲🇴  MtX💜🖤💛🤍 蓝标是@goldwater8964 送的😁 对象❤️@juhao0721 ☮️ 🇺🇦 我不关心政治 我只关心活生生的人 看黄粉红五毛轮子请滚 \n 买💊雌二醇补佳乐色谱龙减肥/促智药物💊找@chosekinoraneko @minokakay作担保😁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "goldwater8964"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "juhao0721"
+              },
+              {
+                "end": 132,
+                "start": 116,
+                "username": "chosekinoraneko"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "minokakay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEbyHV"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "location": "🇲🇴",
+        "name": "🍁🍥翎🍥🍁",
+        "pinned_tweet_id": "1990388232681361811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998809777317773312/MBndSsMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3101,
+          "following_count": 409,
+          "like_count": 7120,
+          "listed_count": 10,
+          "media_count": 586,
+          "tweet_count": 5272
+        },
+        "url": "https://t.co/BKhBrEbyHV",
+        "username": "FxxkApexLegend",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1890422344662872075",
+    "created_at": "2025-02-15T08:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T09:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890683922830266437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581866233225281538",
+          "start": 0,
+          "username": "K1ta_Ikuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890683922830266437",
+    "in_reply_to_user_id": "1581866233225281538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890422344662872075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1ta_Ikuyo 我已经12周了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1890422344662872075",
+        "created_at": "2025-02-15T08:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T09:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890683922830266437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581866233225281538",
+              "start": 0,
+              "username": "K1ta_Ikuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890683922830266437",
+        "in_reply_to_user_id": "1581866233225281538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890422344662872075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1ta_Ikuyo 我已经12周了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890422336370929664"
+          ]
+        },
+        "author_id": "1581866233225281538",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1890422344662872075",
+        "created_at": "2025-02-14T15:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T16:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890422344662872075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/foz4MgyOn4",
+              "end": 29,
+              "expanded_url": "https://x.com/K1ta_Ikuyo/status/1890422344662872075/photo/1",
+              "media_key": "3_1890422336370929664",
+              "start": 6,
+              "url": "https://t.co/foz4MgyOn4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890422344662872075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1165,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经…… https://t.co/foz4MgyOn4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1885940576446808416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 346,
+          "like_count": 6917,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 848
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T04:34:43.000Z",
+        "description": "結束バンドのボーカル兼ギタリスト（もう亡くなった）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw09.chachay.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw09.chachay.top/#/register?code=IkbrKiK4",
+                "start": 0,
+                "url": "https://t.co/xkgwGL5mlF"
+              }
+            ]
+          }
+        },
+        "id": "1581866233225281538",
+        "location": "Tokyo Japan",
+        "name": "きた いくよ",
+        "pinned_tweet_id": "1814263196510802132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879903947475017728/6K_9xYFq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8928,
+          "following_count": 2014,
+          "like_count": 20617,
+          "listed_count": 12,
+          "media_count": 490,
+          "tweet_count": 7805
+        },
+        "url": "https://t.co/xkgwGL5mlF",
+        "username": "K1ta_Ikuyo",
+        "verified": false
+      }
+    ]
+  }
+}

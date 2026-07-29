@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1990069360803647887",
+    "created_at": "2025-11-16T16:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T17:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990101852818375076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1532663208393117696",
+          "start": 0,
+          "username": "Ziverk2"
+        },
+        {
+          "end": 21,
+          "id": "1852912799552602113",
+          "start": 9,
+          "username": "TakeNitrite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990101852818375076",
+    "in_reply_to_user_id": "1532663208393117696",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990073338903822657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ziverk2 @TakeNitrite may the health be with you🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1990069360803647887",
+        "created_at": "2025-11-16T16:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T17:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990101852818375076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1532663208393117696",
+              "start": 0,
+              "username": "Ziverk2"
+            },
+            {
+              "end": 21,
+              "id": "1852912799552602113",
+              "start": 9,
+              "username": "TakeNitrite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990101852818375076",
+        "in_reply_to_user_id": "1532663208393117696",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990073338903822657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ziverk2 @TakeNitrite may the health be with you🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532663208393117696",
+        "conversation_id": "1990069360803647887",
+        "created_at": "2025-11-16T15:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T16:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990073338903822657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1852912799552602113",
+              "start": 0,
+              "username": "TakeNitrite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990073338903822657",
+        "in_reply_to_user_id": "1852912799552602113",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990069360803647887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TakeNitrite I need to replace the blade of my knife next time😌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 2377,
+          "like_count": 39483,
+          "listed_count": 6,
+          "media_count": 302,
+          "tweet_count": 9546
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T09:59:29.000Z",
+        "description": "一只没有成年的成年猫猫w\n| 2008-\n|像MTF的MTX🏳️‍⚧️🍥 SINCE 2024.11\n| 音乐人\n| 极度社恐\n| 小群 1020709329\n| Office @mtitstudio\n|Debian\n| 血图移交——负面逃生仓⚠ @TakeNitrite\n| ♥️ @lm9325435076267",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "mtitstudio"
+              },
+              {
+                "end": 136,
+                "start": 124,
+                "username": "TakeNitrite"
+              },
+              {
+                "end": 158,
+                "start": 142,
+                "username": "lm9325435076267"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eina-2nd.github.io",
+                "end": 23,
+                "expanded_url": "https://eina-2nd.github.io/",
+                "start": 0,
+                "url": "https://t.co/CY9WeMigBd"
+              }
+            ]
+          }
+        },
+        "id": "1532663208393117696",
+        "name": "Einaちゃん🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909919331443695616/ZASQNok0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2750,
+          "following_count": 5289,
+          "like_count": 151920,
+          "listed_count": 11,
+          "media_count": 172,
+          "tweet_count": 13477
+        },
+        "url": "https://t.co/CY9WeMigBd",
+        "username": "Ziverk2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T03:17:41.000Z",
+        "description": "Ĉi tiu konto enhavas negativajn emociajn efikojn, bonvolu atenti singarde.Krome, ĉi tiu nombro ankaŭ povas esti uzata kiel fuĝkabano. Ĉefa konto: @Ziverk2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 146,
+                "username": "Ziverk2"
+              }
+            ]
+          }
+        },
+        "id": "1852912799552602113",
+        "location": "Antarkto",
+        "name": "AhhDianん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863893525739515905/-_Oi4XQ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 110,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 218
+        },
+        "username": "TakeNitrite",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1985660999203193020",
+    "created_at": "2025-11-04T11:00:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T12:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985663533195927940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1768682351603896320",
+          "start": 0,
+          "username": "SnowFoxSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985663533195927940",
+    "in_reply_to_user_id": "1768682351603896320",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985660999203193020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnowFoxSama 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1985660999203193020",
+        "created_at": "2025-11-04T11:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T12:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985663533195927940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1768682351603896320",
+              "start": 0,
+              "username": "SnowFoxSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985663533195927940",
+        "in_reply_to_user_id": "1768682351603896320",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985660999203193020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowFoxSama 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768682351603896320",
+        "conversation_id": "1985660999203193020",
+        "created_at": "2025-11-04T10:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T11:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985660999203193020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985660999203193020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有推荐的高效紫砂方法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。暂时退网（不定期） 偶尔看消息",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 2301,
+          "like_count": 38261,
+          "listed_count": 6,
+          "media_count": 292,
+          "tweet_count": 9238
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T16:55:16.000Z",
+        "description": "超喜欢的人 @Astdeitee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Astdeitee"
+              }
+            ]
+          }
+        },
+        "id": "1768682351603896320",
+        "name": "狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898830249280098304/rkZEztIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 169,
+          "like_count": 1403,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 569
+        },
+        "username": "SnowFoxSama",
+        "verified": false
+      }
+    ]
+  }
+}

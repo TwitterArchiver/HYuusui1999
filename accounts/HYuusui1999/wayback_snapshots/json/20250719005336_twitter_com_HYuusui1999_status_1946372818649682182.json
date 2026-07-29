@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596157251584",
+          "name": "Grocery/Convenience - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045247251",
+          "name": "Circle K"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Circle K (サークルK)",
+          "id": "1035558290854305792",
+          "name": "Circle K (サークルK)"
+        }
+      }
+    ],
+    "conversation_id": "1946372818649682182",
+    "created_at": "2025-07-19T00:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T01:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946372818649682182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1749569248371023872",
+          "start": 3,
+          "username": "Eureka222323"
+        }
+      ],
+      "urls": [
+        {
+          "description": "立即參加Circle K 雪糕對對拼抽獎遊戲",
+          "display_url": "webgame.circlek.hk/icecream2025/i…",
+          "end": 90,
+          "expanded_url": "https://webgame.circlek.hk/icecream2025/index",
+          "images": [
+            {
+              "height": 800,
+              "url": "https://pbs.twimg.com/news_img/1946212915717328896/8_UuwXmh?format=jpg&name=orig",
+              "width": 800
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1946212915717328896/8_UuwXmh?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 67,
+          "status": 200,
+          "title": "Circle K 雪糕對對拼抽獎遊戲",
+          "unwound_url": "https://webgame.circlek.hk/icecream2025/index",
+          "url": "https://t.co/q3UepSyQr5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946372818649682182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946212915394359319",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Eureka222323: 有香港手機號碼的人可以免費抽獎\n有switch2\n\n立即參加Circle K 雪糕對對拼抽獎遊戲 https://t.co/q3UepSyQr5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596157251584",
+              "name": "Grocery/Convenience - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045247251",
+              "name": "Circle K"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Circle K (サークルK)",
+              "id": "1035558290854305792",
+              "name": "Circle K (サークルK)"
+            }
+          }
+        ],
+        "conversation_id": "1946372818649682182",
+        "created_at": "2025-07-19T00:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T01:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946372818649682182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1749569248371023872",
+              "start": 3,
+              "username": "Eureka222323"
+            }
+          ],
+          "urls": [
+            {
+              "description": "立即參加Circle K 雪糕對對拼抽獎遊戲",
+              "display_url": "webgame.circlek.hk/icecream2025/i…",
+              "end": 90,
+              "expanded_url": "https://webgame.circlek.hk/icecream2025/index",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/1946212915717328896/8_UuwXmh?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1946212915717328896/8_UuwXmh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 67,
+              "status": 200,
+              "title": "Circle K 雪糕對對拼抽獎遊戲",
+              "unwound_url": "https://webgame.circlek.hk/icecream2025/index",
+              "url": "https://t.co/q3UepSyQr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946372818649682182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946212915394359319",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Eureka222323: 有香港手機號碼的人可以免費抽獎\n有switch2\n\n立即參加Circle K 雪糕對對拼抽獎遊戲 https://t.co/q3UepSyQr5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749569248371023872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596157251584",
+              "name": "Grocery/Convenience - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045247251",
+              "name": "Circle K"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Circle K (サークルK)",
+              "id": "1035558290854305792",
+              "name": "Circle K (サークルK)"
+            }
+          }
+        ],
+        "conversation_id": "1946212915394359319",
+        "created_at": "2025-07-18T14:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T15:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946212915394359319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "立即參加Circle K 雪糕對對拼抽獎遊戲",
+              "display_url": "webgame.circlek.hk/icecream2025/i…",
+              "end": 72,
+              "expanded_url": "https://webgame.circlek.hk/icecream2025/index",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/1946212915717328896/8_UuwXmh?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1946212915717328896/8_UuwXmh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 49,
+              "status": 200,
+              "title": "Circle K 雪糕對對拼抽獎遊戲",
+              "unwound_url": "https://webgame.circlek.hk/icecream2025/index",
+              "url": "https://t.co/q3UepSyQr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946212915394359319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有香港手機號碼的人可以免費抽獎\n有switch2\n\n立即參加Circle K 雪糕對對拼抽獎遊戲 https://t.co/q3UepSyQr5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 1387,
+          "like_count": 26057,
+          "listed_count": 5,
+          "media_count": 228,
+          "tweet_count": 6470
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T23:06:35.000Z",
+        "description": "HK 18｜阮玲玉｜长期孤独小女孩｜❤️@FoxRed695449｜繁简EN｜白柳玲玉 しらやなぎ レイギョク｜香港穷鬼一个| 逃生舱 @eureka2223232",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "FoxRed695449"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "eureka2223232"
+              }
+            ]
+          }
+        },
+        "id": "1749569248371023872",
+        "location": "地獄",
+        "name": "优莱卡Eureka 阮玲玉",
+        "pinned_tweet_id": "1942276875545633212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749569308483878912/IAnVW-uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 1538,
+          "like_count": 45723,
+          "listed_count": 3,
+          "media_count": 692,
+          "tweet_count": 8717
+        },
+        "username": "Eureka222323",
+        "verified": false
+      }
+    ]
+  }
+}

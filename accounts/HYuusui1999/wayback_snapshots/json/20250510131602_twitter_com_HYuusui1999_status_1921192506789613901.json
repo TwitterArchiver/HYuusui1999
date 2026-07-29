@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920492691969777664"
+      ],
+      "media_source_tweet_id": [
+        "1920492702862385429"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1921192506789613901",
+    "created_at": "2025-05-10T13:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T14:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921192506789613901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1426972704679227399",
+          "start": 3,
+          "username": "luckyboysquad"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fm0vzpRdmh",
+          "end": 42,
+          "expanded_url": "https://x.com/luckyboysquad/status/1920492702862385429/photo/1",
+          "media_key": "3_1920492691969777664",
+          "start": 19,
+          "url": "https://t.co/fm0vzpRdmh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921192506789613901",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2425
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920492702862385429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luckyboysquad: https://t.co/fm0vzpRdmh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_1920492691969777664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqb17ZqXoAAtLHi.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920492691969777664"
+          ],
+          "media_source_tweet_id": [
+            "1920492702862385429"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1921192506789613901",
+        "created_at": "2025-05-10T13:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T14:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921192506789613901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1426972704679227399",
+              "start": 3,
+              "username": "luckyboysquad"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fm0vzpRdmh",
+              "end": 42,
+              "expanded_url": "https://x.com/luckyboysquad/status/1920492702862385429/photo/1",
+              "media_key": "3_1920492691969777664",
+              "start": 19,
+              "url": "https://t.co/fm0vzpRdmh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921192506789613901",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2425
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920492702862385429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luckyboysquad: https://t.co/fm0vzpRdmh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920492691969777664"
+          ]
+        },
+        "author_id": "1426972704679227399",
+        "conversation_id": "1920492702862385429",
+        "created_at": "2025-05-08T14:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T15:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920492702862385429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fm0vzpRdmh",
+              "end": 23,
+              "expanded_url": "https://x.com/luckyboysquad/status/1920492702862385429/photo/1",
+              "media_key": "3_1920492691969777664",
+              "start": 0,
+              "url": "https://t.co/fm0vzpRdmh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920492702862385429",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4432,
+          "impression_count": 559478,
+          "like_count": 30601,
+          "quote_count": 56,
+          "reply_count": 3,
+          "retweet_count": 2425
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fm0vzpRdmh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921147082301145395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 894,
+          "like_count": 18017,
+          "listed_count": 6,
+          "media_count": 170,
+          "tweet_count": 3900
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-15T18:23:05.000Z",
+        "description": "🧖🏻‍♀️ @jjigaetube   cms @grnpct",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "jjigaetube"
+              },
+              {
+                "end": 31,
+                "start": 24,
+                "username": "grnpct"
+              }
+            ]
+          }
+        },
+        "id": "1426972704679227399",
+        "location": "wvxdeez@gmail.com",
+        "name": "greenpea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898046936902778886/qtxU1k2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26940,
+          "following_count": 63,
+          "like_count": 3829,
+          "listed_count": 135,
+          "media_count": 80,
+          "tweet_count": 107
+        },
+        "username": "luckyboysquad",
+        "verified": false
+      }
+    ]
+  }
+}

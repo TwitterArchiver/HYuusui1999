@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971129480661094400"
+      ],
+      "media_source_tweet_id": [
+        "1971129497018937696"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1976246060000653386",
+    "created_at": "2025-10-09T11:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T12:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976246060000653386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1893325795759886336",
+          "start": 3,
+          "username": "Brigitta_INE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O0KnU88fY7",
+          "end": 41,
+          "expanded_url": "https://x.com/GambDesXYSub/status/1971129497018937696/photo/1",
+          "media_key": "3_1971129480661094400",
+          "start": 18,
+          "url": "https://t.co/O0KnU88fY7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976246060000653386",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971129497018937696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Brigitta_INE: https://t.co/O0KnU88fY7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971129480661094400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1rb0bUa0AA4enS.jpg",
+        "width": 2043
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971129480661094400"
+          ],
+          "media_source_tweet_id": [
+            "1971129497018937696"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1976246060000653386",
+        "created_at": "2025-10-09T11:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T12:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976246060000653386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893325795759886336",
+              "start": 3,
+              "username": "Brigitta_INE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O0KnU88fY7",
+              "end": 41,
+              "expanded_url": "https://x.com/GambDesXYSub/status/1971129497018937696/photo/1",
+              "media_key": "3_1971129480661094400",
+              "start": 18,
+              "url": "https://t.co/O0KnU88fY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976246060000653386",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971129497018937696",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Brigitta_INE: https://t.co/O0KnU88fY7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971129480661094400"
+          ]
+        },
+        "author_id": "1893325795759886336",
+        "conversation_id": "1971129497018937696",
+        "created_at": "2025-09-25T08:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T09:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971129497018937696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O0KnU88fY7",
+              "end": 23,
+              "expanded_url": "https://x.com/GambDesXYSub/status/1971129497018937696/photo/1",
+              "media_key": "3_1971129480661094400",
+              "start": 0,
+              "url": "https://t.co/O0KnU88fY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971129497018937696",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 863,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/O0KnU88fY7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 2069,
+          "like_count": 35136,
+          "listed_count": 6,
+          "media_count": 283,
+          "tweet_count": 8748
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T15:44:23.000Z",
+        "description": "请输入文本",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/109812806",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/109812806",
+                "start": 0,
+                "url": "https://t.co/SWpURElNja"
+              }
+            ]
+          }
+        },
+        "id": "1893325795759886336",
+        "location": "🇨🇳",
+        "name": "薇尔琪塔～",
+        "pinned_tweet_id": "1972702109670973860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976079356159315969/48Yug325_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 178,
+          "like_count": 1752,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 770
+        },
+        "url": "https://t.co/SWpURElNja",
+        "username": "Brigitta_INE",
+        "verified": false
+      }
+    ]
+  }
+}

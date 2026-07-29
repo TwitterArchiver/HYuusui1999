@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1890930647922786611",
+    "created_at": "2025-02-16T01:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T02:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890930647922786611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1647815138450505730",
+          "start": 3,
+          "username": "yaming00742313"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "share.weiyun.com/VitIswPU",
+          "end": 113,
+          "expanded_url": "https://share.weiyun.com/VitIswPU",
+          "start": 90,
+          "unwound_url": "https://share.weiyun.com/VitIswPU",
+          "url": "https://t.co/Jo0vvKlbFl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890930647922786611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890704991049896137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaming00742313: 为了让全国的戒网瘾学校所在地以及分布地可视化\n我们的团队成员在最近的半年内搜集并编排了全中国1500所戒网瘾学校的名字以及公司还有学校地址\nhttps://t.co/Jo0vvKlbFl\n还有各省的戒网瘾学校分布图\n供各位参考 https…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1890930647922786611",
+        "created_at": "2025-02-16T01:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T02:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890930647922786611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1647815138450505730",
+              "start": 3,
+              "username": "yaming00742313"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "share.weiyun.com/VitIswPU",
+              "end": 113,
+              "expanded_url": "https://share.weiyun.com/VitIswPU",
+              "start": 90,
+              "unwound_url": "https://share.weiyun.com/VitIswPU",
+              "url": "https://t.co/Jo0vvKlbFl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890930647922786611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890704991049896137",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yaming00742313: 为了让全国的戒网瘾学校所在地以及分布地可视化\n我们的团队成员在最近的半年内搜集并编排了全中国1500所戒网瘾学校的名字以及公司还有学校地址\nhttps://t.co/Jo0vvKlbFl\n还有各省的戒网瘾学校分布图\n供各位参考 https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890704988290404352"
+          ]
+        },
+        "author_id": "1647815138450505730",
+        "conversation_id": "1890704991049896137",
+        "created_at": "2025-02-15T10:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T11:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890704991049896137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "share.weiyun.com/VitIswPU",
+              "end": 93,
+              "expanded_url": "https://share.weiyun.com/VitIswPU",
+              "start": 70,
+              "unwound_url": "https://share.weiyun.com/VitIswPU",
+              "url": "https://t.co/Jo0vvKlbFl"
+            },
+            {
+              "display_url": "pic.x.com/S78Na5UVqG",
+              "end": 137,
+              "expanded_url": "https://x.com/yaming00742313/status/1890704991049896137/photo/1",
+              "media_key": "3_1890704988290404352",
+              "start": 114,
+              "url": "https://t.co/S78Na5UVqG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890704991049896137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 9896,
+          "like_count": 207,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "为了让全国的戒网瘾学校所在地以及分布地可视化\n我们的团队成员在最近的半年内搜集并编排了全中国1500所戒网瘾学校的名字以及公司还有学校地址\nhttps://t.co/Jo0vvKlbFl\n还有各省的戒网瘾学校分布图\n供各位参考 https://t.co/S78Na5UVqG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1885940576446808416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 351,
+          "like_count": 7140,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 903
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。亲爱的牧鸢:@LwrDHYyuxR22499",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 37,
+                "username": "LwrDHYyuxR22499"
+              }
+            ]
+          }
+        },
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming和牧鸢（为生民立命）🙂",
+        "pinned_tweet_id": "1881784662626078745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12042,
+          "following_count": 1402,
+          "like_count": 6256,
+          "listed_count": 26,
+          "media_count": 292,
+          "tweet_count": 2291
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981264312308994048",
+        "3_1981264335897853952",
+        "3_1981264369804578816",
+        "3_1981264410871017472"
+      ],
+      "media_source_tweet_id": [
+        "1981307109167026382",
+        "1981307109167026382",
+        "1981307109167026382",
+        "1981307109167026382"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1981672003011793115",
+    "created_at": "2025-10-24T10:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T11:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981672003011793115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mPM53scW7b",
+          "end": 129,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1981307109167026382/photo/1",
+          "media_key": "3_1981264312308994048",
+          "start": 106,
+          "url": "https://t.co/mPM53scW7b"
+        },
+        {
+          "display_url": "pic.x.com/mPM53scW7b",
+          "end": 129,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1981307109167026382/photo/1",
+          "media_key": "3_1981264335897853952",
+          "start": 106,
+          "url": "https://t.co/mPM53scW7b"
+        },
+        {
+          "display_url": "pic.x.com/mPM53scW7b",
+          "end": 129,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1981307109167026382/photo/1",
+          "media_key": "3_1981264369804578816",
+          "start": 106,
+          "url": "https://t.co/mPM53scW7b"
+        },
+        {
+          "display_url": "pic.x.com/mPM53scW7b",
+          "end": 129,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1981307109167026382/photo/1",
+          "media_key": "3_1981264410871017472",
+          "start": 106,
+          "url": "https://t.co/mPM53scW7b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981672003011793115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 119
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981307109167026382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 网友投稿：10月22日，浙江省杭州市，浙大城市学院一场形策的讲座上，一位女生中途上厕所返回，却被老师误以为迟到，当着上百名听众的面骂了半天，最终导致她情绪崩溃躯体化发作。 https://t.co/mPM53scW7b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1981264312308994048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G37dZRVWEAA8UeK.jpg",
+        "width": 642
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1981264335897853952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G37dapNXgAAJsxn.jpg",
+        "width": 643
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1981264369804578816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G37dcnhXEAAtWJ3.jpg",
+        "width": 643
+      },
+      {
+        "height": 938,
+        "media_key": "3_1981264410871017472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G37dfAgXMAA7Q9u.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981264312308994048",
+            "3_1981264335897853952",
+            "3_1981264369804578816",
+            "3_1981264410871017472"
+          ],
+          "media_source_tweet_id": [
+            "1981307109167026382",
+            "1981307109167026382",
+            "1981307109167026382",
+            "1981307109167026382"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1981672003011793115",
+        "created_at": "2025-10-24T10:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T11:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981672003011793115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mPM53scW7b",
+              "end": 129,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1981307109167026382/photo/1",
+              "media_key": "3_1981264312308994048",
+              "start": 106,
+              "url": "https://t.co/mPM53scW7b"
+            },
+            {
+              "display_url": "pic.x.com/mPM53scW7b",
+              "end": 129,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1981307109167026382/photo/1",
+              "media_key": "3_1981264335897853952",
+              "start": 106,
+              "url": "https://t.co/mPM53scW7b"
+            },
+            {
+              "display_url": "pic.x.com/mPM53scW7b",
+              "end": 129,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1981307109167026382/photo/1",
+              "media_key": "3_1981264369804578816",
+              "start": 106,
+              "url": "https://t.co/mPM53scW7b"
+            },
+            {
+              "display_url": "pic.x.com/mPM53scW7b",
+              "end": 129,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1981307109167026382/photo/1",
+              "media_key": "3_1981264410871017472",
+              "start": 106,
+              "url": "https://t.co/mPM53scW7b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981672003011793115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981307109167026382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 网友投稿：10月22日，浙江省杭州市，浙大城市学院一场形策的讲座上，一位女生中途上厕所返回，却被老师误以为迟到，当着上百名听众的面骂了半天，最终导致她情绪崩溃躯体化发作。 https://t.co/mPM53scW7b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981264312308994048",
+            "3_1981264335897853952",
+            "3_1981264369804578816",
+            "3_1981264410871017472"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1981307109167026382",
+        "created_at": "2025-10-23T10:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T11:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981307109167026382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mPM53scW7b",
+              "end": 109,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1981307109167026382/photo/1",
+              "media_key": "3_1981264312308994048",
+              "start": 86,
+              "url": "https://t.co/mPM53scW7b"
+            },
+            {
+              "display_url": "pic.x.com/mPM53scW7b",
+              "end": 109,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1981307109167026382/photo/1",
+              "media_key": "3_1981264335897853952",
+              "start": 86,
+              "url": "https://t.co/mPM53scW7b"
+            },
+            {
+              "display_url": "pic.x.com/mPM53scW7b",
+              "end": 109,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1981307109167026382/photo/1",
+              "media_key": "3_1981264369804578816",
+              "start": 86,
+              "url": "https://t.co/mPM53scW7b"
+            },
+            {
+              "display_url": "pic.x.com/mPM53scW7b",
+              "end": 109,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1981307109167026382/photo/1",
+              "media_key": "3_1981264410871017472",
+              "start": 86,
+              "url": "https://t.co/mPM53scW7b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981307109167026382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 191,
+          "impression_count": 327441,
+          "like_count": 1441,
+          "quote_count": 20,
+          "reply_count": 132,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿：10月22日，浙江省杭州市，浙大城市学院一场形策的讲座上，一位女生中途上厕所返回，却被老师误以为迟到，当着上百名听众的面骂了半天，最终导致她情绪崩溃躯体化发作。 https://t.co/mPM53scW7b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n\n暂时退网（从2025年10月17日起，预计1个月）\n除留言以外的功能全部暂停运作",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 2171,
+          "like_count": 36007,
+          "listed_count": 6,
+          "media_count": 288,
+          "tweet_count": 8910
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1966463459425497352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127105,
+          "following_count": 983,
+          "like_count": 8287,
+          "listed_count": 8377,
+          "media_count": 36488,
+          "tweet_count": 43325
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

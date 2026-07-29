@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1999241384600252827",
+    "created_at": "2025-12-12T12:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T13:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999464000279707946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1588362906483101696",
+          "start": 0,
+          "username": "jkdghalf411"
+        },
+        {
+          "end": 29,
+          "id": "1695491204191014913",
+          "start": 13,
+          "username": "supercookie1877"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999464000279707946",
+    "in_reply_to_user_id": "1588362906483101696",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999241384600252827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkdghalf411 @supercookie1877 RIP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1999241384600252827",
+        "created_at": "2025-12-12T12:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T13:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999464000279707946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1588362906483101696",
+              "start": 0,
+              "username": "jkdghalf411"
+            },
+            {
+              "end": 29,
+              "id": "1695491204191014913",
+              "start": 13,
+              "username": "supercookie1877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999464000279707946",
+        "in_reply_to_user_id": "1588362906483101696",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999241384600252827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkdghalf411 @supercookie1877 RIP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588362906483101696",
+        "conversation_id": "1999241384600252827",
+        "created_at": "2025-12-11T22:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T23:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999241384600252827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 69,
+              "id": "1695491204191014913",
+              "start": 53,
+              "username": "supercookie1877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999241384600252827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2932,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经确认小A@jkdghalf411已于2025年12月11日因病离开了我们，之后她的所有账号皆由饼干（我）@supercookie1877接管，且不回复任何信息，感谢大家的理解和一直以来的陪伴，愿我们来世再见。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfXxgs"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 2665,
+          "like_count": 42293,
+          "listed_count": 6,
+          "media_count": 307,
+          "tweet_count": 10318
+        },
+        "url": "https://t.co/BjaOJfXxgs",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T02:50:08.000Z",
+        "description": "报菜名：抑郁焦虑睡眠障碍bpd cptsd 双A｜脑子有问题，会odzc（在降频率）｜🚪188仅聊天，看心情发图片｜愿神之爱保佑你",
+        "id": "1588362906483101696",
+        "location": "电子眼一直在看着你",
+        "name": "電磁波411",
+        "pinned_tweet_id": "1987665160807588339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998582409248542720/LVoYDSKa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5654,
+          "following_count": 626,
+          "like_count": 10680,
+          "listed_count": 17,
+          "media_count": 2328,
+          "tweet_count": 15095
+        },
+        "username": "jkdghalf411",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T17:39:47.000Z",
+        "description": "ISFP-T/应该是有两个人格的人/想要朋友/炫耀星人/成分复杂/容易发癫/极度缺爱",
+        "id": "1695491204191014913",
+        "location": "哥伦比亚 | 湖景谷 | 哥谭市 | 亮瀑镇 | 顿沃城",
+        "name": "宇宙無敵小餅乾",
+        "pinned_tweet_id": "1920029340068413865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695492205132292096/18TgnacU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 99,
+          "like_count": 775,
+          "listed_count": 2,
+          "media_count": 611,
+          "tweet_count": 1948
+        },
+        "username": "supercookie1877",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1907323922384609289",
+    "created_at": "2025-04-02T06:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T07:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907323922384609289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1360801104728977410",
+          "start": 3,
+          "username": "iletistak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907323922384609289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907107752805290177",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iletistak: 没啥好说的，还是准备好自杀了....我唯一对不起的就是我爱着的人.....和大家......如果没有回应了......那么就让我沉默在这个黑暗里吧.......晚安......"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1907323922384609289",
+        "created_at": "2025-04-02T06:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T07:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907323922384609289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1360801104728977410",
+              "start": 3,
+              "username": "iletistak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907323922384609289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907107752805290177",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iletistak: 没啥好说的，还是准备好自杀了....我唯一对不起的就是我爱着的人.....和大家......如果没有回应了......那么就让我沉默在这个黑暗里吧.......晚安......"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360801104728977410",
+        "conversation_id": "1907107752805290177",
+        "created_at": "2025-04-01T16:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T17:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907107752805290177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907107752805290177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 534,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "没啥好说的，还是准备好自杀了....我唯一对不起的就是我爱着的人.....和大家......如果没有回应了......那么就让我沉默在这个黑暗里吧.......晚安......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1905989245266972950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 592,
+          "like_count": 12727,
+          "listed_count": 6,
+          "media_count": 112,
+          "tweet_count": 2043
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-14T04:00:50.000Z",
+        "description": "这里只有我想说什么就说什么的账号.....因为我就是想说出来..... 如果不想看负面请关注@mengmeng1309 小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "mengmeng1309"
+              }
+            ]
+          }
+        },
+        "id": "1360801104728977410",
+        "location": "不存在的地方",
+        "name": "卡西特尔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904462418929184769/YN317TGl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 58,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 65
+        },
+        "username": "iletistak",
+        "verified": false
+      }
+    ]
+  }
+}

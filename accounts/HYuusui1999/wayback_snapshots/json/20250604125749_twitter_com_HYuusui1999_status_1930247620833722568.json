@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1929466310083387403",
+    "created_at": "2025-06-04T12:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T13:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930247620833722568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1313311119285469184",
+          "start": 0,
+          "username": "Junsan_team"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930247620833722568",
+    "in_reply_to_user_id": "1313311119285469184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929466310083387403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Junsan_team 乌冬面好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1929466310083387403",
+        "created_at": "2025-06-04T12:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T13:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930247620833722568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1313311119285469184",
+              "start": 0,
+              "username": "Junsan_team"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930247620833722568",
+        "in_reply_to_user_id": "1313311119285469184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929466310083387403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Junsan_team 乌冬面好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313311119285469184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cuisines",
+              "id": "860133563332648963",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Japanese Cuisine",
+              "id": "860141411483635712",
+              "name": "Japanese cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese Cuisine",
+              "id": "860141411483635712",
+              "name": "Japanese cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1193991001892745216",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357686092971995137",
+              "name": "Asian cuisine"
+            }
+          }
+        ],
+        "conversation_id": "1929466310083387403",
+        "created_at": "2025-06-02T09:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T10:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929466310083387403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929466310083387403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 44689,
+          "like_count": 249,
+          "quote_count": 14,
+          "reply_count": 284,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "中国朋友们，你最喜欢的日本菜是什么呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。 ～公告栏～ @jvhao0721 @tingfeng_TF好久前开始从b站盗句号视频， 视频创作者是@juhao0721，请注意 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "jvhao0721"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "tingfeng_TF"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "juhao0721"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 1097,
+          "like_count": 20918,
+          "listed_count": 6,
+          "media_count": 200,
+          "tweet_count": 4728
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T02:52:41.000Z",
+        "description": "日本人🇯🇵/HSK5/中国語検定3級/実用中国語技能検定3級/偽中国語検定準1級/微信表情包三团yyds/私信不回/头像是本人/永远的17岁",
+        "id": "1313311119285469184",
+        "name": "純工藤🌾在学中文",
+        "pinned_tweet_id": "1431847642238111745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665357531856916480/SZFefKom_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9695,
+          "following_count": 3916,
+          "like_count": 63452,
+          "listed_count": 45,
+          "media_count": 4798,
+          "tweet_count": 27313
+        },
+        "username": "Junsan_team",
+        "verified": false
+      }
+    ]
+  }
+}

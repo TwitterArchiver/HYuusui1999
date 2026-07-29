@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1917819732826394624"
+      ],
+      "media_source_tweet_id": [
+        "1917819780855390253"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1917825661764239365",
+    "created_at": "2025-05-01T06:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T07:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917825661764239365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1793636329299066880",
+          "start": 3,
+          "username": "cuichuna7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nU4GUMtL9S",
+          "end": 64,
+          "expanded_url": "https://x.com/cuichuna7/status/1917819780855390253/photo/1",
+          "media_key": "16_1917819732826394624",
+          "start": 41,
+          "url": "https://t.co/nU4GUMtL9S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917825661764239365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917819780855390253",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cuichuna7: 吞了6t阿普！也许会断片吧😭我尽量保持清醒旅行一次 https://t.co/nU4GUMtL9S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "16_1917819732826394624",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gp124s5aEAAGWgl.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gp124s5aEAAGWgl.mp4"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1917819732826394624"
+          ],
+          "media_source_tweet_id": [
+            "1917819780855390253"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1917825661764239365",
+        "created_at": "2025-05-01T06:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T07:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917825661764239365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1793636329299066880",
+              "start": 3,
+              "username": "cuichuna7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nU4GUMtL9S",
+              "end": 64,
+              "expanded_url": "https://x.com/cuichuna7/status/1917819780855390253/photo/1",
+              "media_key": "16_1917819732826394624",
+              "start": 41,
+              "url": "https://t.co/nU4GUMtL9S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917825661764239365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917819780855390253",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cuichuna7: 吞了6t阿普！也许会断片吧😭我尽量保持清醒旅行一次 https://t.co/nU4GUMtL9S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1917819732826394624"
+          ]
+        },
+        "author_id": "1793636329299066880",
+        "conversation_id": "1917819780855390253",
+        "created_at": "2025-05-01T05:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T06:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917819780855390253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nU4GUMtL9S",
+              "end": 49,
+              "expanded_url": "https://x.com/cuichuna7/status/1917819780855390253/photo/1",
+              "media_key": "16_1917819732826394624",
+              "start": 26,
+              "url": "https://t.co/nU4GUMtL9S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917819780855390253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "吞了6t阿普！也许会断片吧😭我尽量保持清醒旅行一次 https://t.co/nU4GUMtL9S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1917405127981371473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 789,
+          "like_count": 17170,
+          "listed_count": 6,
+          "media_count": 162,
+          "tweet_count": 3572
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T13:33:30.000Z",
+        "description": "🇹🇼🇺🇦/09的滴泪系小猫娘/identityV/抑郁症患者🥹/欢迎互fo，这里是time欢迎找我倾诉聊天😾最终目标是100000粉😿",
+        "id": "1793636329299066880",
+        "location": "宇宙之外",
+        "name": "grace.time☃︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844267194240335874/5S0ww2Z4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2176,
+          "following_count": 3787,
+          "like_count": 7713,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 2636
+        },
+        "username": "cuichuna7",
+        "verified": false
+      }
+    ]
+  }
+}

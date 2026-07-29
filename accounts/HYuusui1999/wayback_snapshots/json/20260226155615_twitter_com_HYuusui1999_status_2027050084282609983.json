@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2026927340769403369",
+    "created_at": "2026-02-26T15:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T16:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027050084282609983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999153024019869696",
+          "start": 0,
+          "username": "KKKaoru_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/aureliax17qwq/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/aureliax17qwq/status/2026992425546428572",
+          "start": 14,
+          "url": "https://t.co/T5tVPxIByk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027050084282609983",
+    "in_reply_to_user_id": "1999153024019869696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026992425546428572",
+        "type": "quoted"
+      },
+      {
+        "id": "2027049531289051152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKKaoru_ 这位呢 https://t.co/T5tVPxIByk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2026992419028570112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFS3ZqbkAANrG2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2026927340769403369",
+        "created_at": "2026-02-26T15:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T16:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027050084282609983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999153024019869696",
+              "start": 0,
+              "username": "KKKaoru_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/aureliax17qwq/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/aureliax17qwq/status/2026992425546428572",
+              "start": 14,
+              "url": "https://t.co/T5tVPxIByk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027050084282609983",
+        "in_reply_to_user_id": "1999153024019869696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026992425546428572",
+            "type": "quoted"
+          },
+          {
+            "id": "2027049531289051152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKKaoru_ 这位呢 https://t.co/T5tVPxIByk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026992419028570112"
+          ]
+        },
+        "author_id": "1611246341728120835",
+        "conversation_id": "2026992425546428572",
+        "created_at": "2026-02-26T12:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T13:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026992425546428572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GIU0QEqxgz",
+              "end": 65,
+              "expanded_url": "https://x.com/Aureliax17QwQ/status/2026992425546428572/photo/1",
+              "media_key": "3_2026992419028570112",
+              "start": 42,
+              "url": "https://t.co/GIU0QEqxgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026992425546428572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7568,
+          "like_count": 76,
+          "quote_count": 4,
+          "reply_count": 56,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "全部吞下去！（不过有点少…但是不想继续吞了，药片有的碎了有点苦）\n希望能死掉呜呜🥹 https://t.co/GIU0QEqxgz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999153024019869696",
+        "conversation_id": "2026927340769403369",
+        "created_at": "2026-02-26T15:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T16:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027049531289051152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027049531289051152",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026927340769403369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 看上去吃不死人。除非连用其他药物。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 3133,
+          "like_count": 44635,
+          "listed_count": 6,
+          "media_count": 364,
+          "tweet_count": 11225
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T16:25:44.000Z",
+        "description": "骚逼@lizzy_522，永远爱你@a1yssaTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "lizzy_522"
+              },
+              {
+                "end": 27,
+                "start": 17,
+                "username": "a1yssaTvT"
+              }
+            ]
+          }
+        },
+        "id": "1999153024019869696",
+        "name": "Kaoru",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020655815670337536/UaMZVWR2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 17,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 131
+        },
+        "username": "KKKaoru_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "神经病兼免费不合格心理委员，可以把我当树洞｜mtf🏳️‍⚧️｜06｜重抑｜INFP｜可以问我问题呢https://t.co/7Qm6JtEnhB |没事可以tg找我说话（或者私信哦）|tg：https://t.co/5kLEQoTlFF |会死的 |最可爱的小孩@dnshu135734",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 131,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 72,
+                "expanded_url": "http://ngl.link/aureliax17",
+                "start": 49,
+                "url": "https://t.co/7Qm6JtEnhB"
+              },
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 118,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 95,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "pinned_tweet_id": "2022144013848199528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 201,
+          "like_count": 2922,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 400
+        },
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

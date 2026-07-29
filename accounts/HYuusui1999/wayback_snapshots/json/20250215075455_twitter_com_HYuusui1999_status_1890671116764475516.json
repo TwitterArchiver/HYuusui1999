@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1890408644388233337",
+    "created_at": "2025-02-15T07:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T08:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890671116764475516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1783136956420849664",
+          "start": 0,
+          "username": "BoredFish_XY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890671116764475516",
+    "in_reply_to_user_id": "1783136956420849664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890408644388233337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BoredFish_XY 并不。\n平常心吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1890408644388233337",
+        "created_at": "2025-02-15T07:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T08:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890671116764475516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783136956420849664",
+              "start": 0,
+              "username": "BoredFish_XY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890671116764475516",
+        "in_reply_to_user_id": "1783136956420849664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890408644388233337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BoredFish_XY 并不。\n平常心吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783136956420849664",
+        "conversation_id": "1890408644388233337",
+        "created_at": "2025-02-14T14:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T15:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890408644388233337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/boredfish_xy/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/boredfish_xy/status/1890408342050254871",
+              "start": 6,
+              "url": "https://t.co/U2RieyfmJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890408644388233337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 546,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890408342050254871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们快乐嘛 https://t.co/U2RieyfmJq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1885940576446808416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 346,
+          "like_count": 6839,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 837
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T14:12:48.000Z",
+        "description": "画oc /重要的人@emiya436900",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "emiya436900"
+              }
+            ]
+          }
+        },
+        "id": "1783136956420849664",
+        "location": "西班牙",
+        "name": "懒闲鱼🐟",
+        "pinned_tweet_id": "1883236343020675220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870834097544683520/v7FSUDr7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 366,
+          "like_count": 4560,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 869
+        },
+        "username": "BoredFish_XY",
+        "verified": false
+      }
+    ]
+  }
+}

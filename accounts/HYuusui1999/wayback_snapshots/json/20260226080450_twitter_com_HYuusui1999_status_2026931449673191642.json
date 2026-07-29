@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2026884632252469736",
+    "created_at": "2026-02-26T08:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T09:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026931449673191642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693935285577670656",
+          "start": 0,
+          "username": "MinaseAyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026931449673191642",
+    "in_reply_to_user_id": "1693935285577670656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026931098018787747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinaseAyano 也是，並不是所有人都適用啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2026884632252469736",
+        "created_at": "2026-02-26T08:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026931449673191642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693935285577670656",
+              "start": 0,
+              "username": "MinaseAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026931449673191642",
+        "in_reply_to_user_id": "1693935285577670656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026931098018787747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinaseAyano 也是，並不是所有人都適用啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693935285577670656",
+        "conversation_id": "2026884632252469736",
+        "created_at": "2026-02-26T08:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026931098018787747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026931098018787747",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026930742790414484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 似乎没用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 3124,
+          "like_count": 44584,
+          "listed_count": 6,
+          "media_count": 364,
+          "tweet_count": 11198
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️| 2010.5 | 欢迎互fo! | 请看置顶推ε=ε=(ノ≧∇≦)ノ | 负能里推@Yumo_1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Yumo_1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyac.cl",
+                "end": 23,
+                "expanded_url": "http://nyac.cl",
+                "start": 0,
+                "url": "https://t.co/1HZl5YyzgB"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "中国大陆",
+        "name": "𝙰𝚢𝚊𝚗𝚘♡",
+        "pinned_tweet_id": "1974339366408630432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017252344346603520/YwbDSw_C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2527,
+          "following_count": 2450,
+          "like_count": 8742,
+          "listed_count": 6,
+          "media_count": 777,
+          "tweet_count": 8791
+        },
+        "url": "https://t.co/1HZl5YyzgB",
+        "username": "MinaseAyano",
+        "verified": false
+      }
+    ]
+  }
+}

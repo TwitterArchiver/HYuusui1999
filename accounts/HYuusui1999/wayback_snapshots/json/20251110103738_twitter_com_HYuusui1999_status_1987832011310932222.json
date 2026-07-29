@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987768442913701889"
+      ],
+      "media_source_tweet_id": [
+        "1987768446306910383"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1987832011310932222",
+    "created_at": "2025-11-10T10:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T11:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987832011310932222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1728464821501489152",
+          "start": 3,
+          "username": "theLostCypress"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uFQVMB55GA",
+          "end": 46,
+          "expanded_url": "https://x.com/theLostCypress/status/1987768446306910383/photo/1",
+          "media_key": "3_1987768442913701889",
+          "start": 23,
+          "url": "https://t.co/uFQVMB55GA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987832011310932222",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987768446306910383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @theLostCypress: 救命 https://t.co/uFQVMB55GA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1987768442913701889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5X43f-aQAEmDxl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987768442913701889"
+          ],
+          "media_source_tweet_id": [
+            "1987768446306910383"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1987832011310932222",
+        "created_at": "2025-11-10T10:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T11:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987832011310932222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1728464821501489152",
+              "start": 3,
+              "username": "theLostCypress"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFQVMB55GA",
+              "end": 46,
+              "expanded_url": "https://x.com/theLostCypress/status/1987768446306910383/photo/1",
+              "media_key": "3_1987768442913701889",
+              "start": 23,
+              "url": "https://t.co/uFQVMB55GA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987832011310932222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987768446306910383",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @theLostCypress: 救命 https://t.co/uFQVMB55GA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987768442913701889"
+          ]
+        },
+        "author_id": "1728464821501489152",
+        "conversation_id": "1987768446306910383",
+        "created_at": "2025-11-10T06:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T07:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987768446306910383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uFQVMB55GA",
+              "end": 26,
+              "expanded_url": "https://x.com/theLostCypress/status/1987768446306910383/photo/1",
+              "media_key": "3_1987768442913701889",
+              "start": 3,
+              "url": "https://t.co/uFQVMB55GA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987768446306910383",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "救命 https://t.co/uFQVMB55GA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 2367,
+          "like_count": 39243,
+          "listed_count": 6,
+          "media_count": 296,
+          "tweet_count": 9430
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T17:25:28.000Z",
+        "description": "这里充斥着红色的血和黑色的血。吸血鬼|幽灵|面具杀人狂|冷血|反社会|偏执|腹黑|记仇|伪装|嗜血|自残|贪婪|懒惰|无任何裸露内容。接自残伤口定制 请私信@Kanbenshiteyo0o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "Kanbenshiteyo0o"
+              }
+            ]
+          }
+        },
+        "id": "1728464821501489152",
+        "location": "ABYSS OF DESPAIR",
+        "name": "Albert with Lilith Tsubakiyama【#NYCTOPHILIA】",
+        "pinned_tweet_id": "1955947962506600709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802203882497671168/dnrKWNNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 192,
+          "like_count": 537,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 225
+        },
+        "username": "theLostCypress",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1968655433519804759",
+    "created_at": "2025-09-18T12:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T13:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968655433519804759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878681729407356928",
+          "start": 3,
+          "username": "HYuusui1999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/HYuusui1999/st…",
+          "end": 40,
+          "expanded_url": "https://x.com/HYuusui1999/status/1968654850343817274",
+          "start": 17,
+          "url": "https://t.co/kcnngCYVo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968655433519804759",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968655085908443626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HYuusui1999: https://t.co/kcnngCYVo1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1968655433519804759",
+        "created_at": "2025-09-18T12:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T13:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968655433519804759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1878681729407356928",
+              "start": 3,
+              "username": "HYuusui1999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HYuusui1999/st…",
+              "end": 40,
+              "expanded_url": "https://x.com/HYuusui1999/status/1968654850343817274",
+              "start": 17,
+              "url": "https://t.co/kcnngCYVo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968655433519804759",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968655085908443626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HYuusui1999: https://t.co/kcnngCYVo1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1968651916109295771",
+        "created_at": "2025-09-18T12:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T13:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968655085908443626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HYuusui1999/st…",
+              "end": 23,
+              "expanded_url": "https://x.com/HYuusui1999/status/1968654850343817274",
+              "start": 0,
+              "url": "https://t.co/kcnngCYVo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968655085908443626",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968654850343817274",
+            "type": "quoted"
+          },
+          {
+            "id": "1968651916109295771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/kcnngCYVo1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 1658,
+          "like_count": 30375,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 7861
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

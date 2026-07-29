@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1918725864075764017",
+    "created_at": "2025-05-03T23:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T00:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918805684591727040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863821756932472832",
+          "start": 0,
+          "username": "shuo_zi27516"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918805684591727040",
+    "in_reply_to_user_id": "1863821756932472832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918725864075764017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuo_zi27516 吃药了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1918725864075764017",
+        "created_at": "2025-05-03T23:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T00:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918805684591727040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863821756932472832",
+              "start": 0,
+              "username": "shuo_zi27516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918805684591727040",
+        "in_reply_to_user_id": "1863821756932472832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918725864075764017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuo_zi27516 吃药了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863821756932472832",
+        "conversation_id": "1918725864075764017",
+        "created_at": "2025-05-03T17:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T18:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918725864075764017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918725864075764017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "a 我发烧了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1917405127981371473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 795,
+          "like_count": 17257,
+          "listed_count": 6,
+          "media_count": 163,
+          "tweet_count": 3605
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T05:45:42.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wcenpkgoAzFkM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wcenpkgoAzFkMDQ1",
+                "start": 0,
+                "url": "https://t.co/Av9bAZd3dg"
+              }
+            ]
+          }
+        },
+        "id": "1863821756932472832",
+        "location": "虚无",
+        "name": "宫笙 🏳‍⚧️🍥",
+        "pinned_tweet_id": "1917663561666752739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909494365900488705/svO7GLQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 390,
+          "like_count": 79,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 1018
+        },
+        "url": "https://t.co/Av9bAZd3dg",
+        "username": "shuo_zi27516",
+        "verified": false
+      }
+    ]
+  }
+}

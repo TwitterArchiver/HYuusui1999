@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1921839780020486354",
+    "created_at": "2025-05-12T08:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T09:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921839780020486354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/damatte8964/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/damatte8964/status/1921785812120752286",
+          "start": 5,
+          "url": "https://t.co/O82utw8reO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921839780020486354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921785812120752286",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请问…… https://t.co/O82utw8reO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1094,
+        "media_key": "3_1921785806697484288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GquOAlaXUAAkwMa.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1921839780020486354",
+        "created_at": "2025-05-12T08:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T09:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921839780020486354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/damatte8964/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/damatte8964/status/1921785812120752286",
+              "start": 5,
+              "url": "https://t.co/O82utw8reO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921839780020486354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921785812120752286",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请问…… https://t.co/O82utw8reO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921785806697484288"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "conversation_id": "1921785812120752286",
+        "created_at": "2025-05-12T04:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T05:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921785812120752286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tMyPgz00lI",
+              "end": 45,
+              "expanded_url": "https://x.com/damatte8964/status/1921785812120752286/photo/1",
+              "media_key": "3_1921785806697484288",
+              "start": 22,
+              "url": "https://t.co/tMyPgz00lI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921785812120752286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1696,
+          "like_count": 39,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我猜绝对有人说广式双马尾（）\n求评论🥺🥺🥺 https://t.co/tMyPgz00lI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921395402059764110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 908,
+          "like_count": 18152,
+          "listed_count": 6,
+          "media_count": 173,
+          "tweet_count": 3956
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ* 不知名路过的小动物，热衷于在社交网络上制造垃圾低俗内容｜ボカロ大好き｜ACGN｜バンドリ",
+        "id": "1747931023277502465",
+        "location": "🚪99聊天 让我圈点",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891825641173233664/0vpWJGfT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31617,
+          "following_count": 674,
+          "like_count": 5995,
+          "listed_count": 37,
+          "media_count": 126,
+          "tweet_count": 1890
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

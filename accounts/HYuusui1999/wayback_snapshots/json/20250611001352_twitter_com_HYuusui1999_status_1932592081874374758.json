@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1932592081874374758",
+    "created_at": "2025-06-11T00:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T01:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932592081874374758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1109080684419670017",
+          "start": 3,
+          "username": "KillerBeeSweety"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932592081874374758",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931341787416932466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KillerBeeSweety: 🎶哦我是风暴那是接——近🎶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1932592081874374758",
+        "created_at": "2025-06-11T00:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T01:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932592081874374758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1109080684419670017",
+              "start": 3,
+              "username": "KillerBeeSweety"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932592081874374758",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931341787416932466",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KillerBeeSweety: 🎶哦我是风暴那是接——近🎶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1109080684419670017",
+        "conversation_id": "1931341787416932466",
+        "created_at": "2025-06-07T13:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T14:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931341787416932466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Cldeop/status/1931175025866080418",
+              "start": 14,
+              "url": "https://t.co/27Nscc1jCd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931341787416932466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 746,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931175025866080418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🎶哦我是风暴那是接——近🎶 https://t.co/27Nscc1jCd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。 ～公告栏～ @jvhao0721 @tingfeng_TF @noname87525好久前开始从b站盗句号视频， 视频创作者是@juhao0721，请注意 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "jvhao0721"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "tingfeng_TF"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "noname87525"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "juhao0721"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 1128,
+          "like_count": 21437,
+          "listed_count": 6,
+          "media_count": 205,
+          "tweet_count": 4898
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-22T13:13:35.000Z",
+        "description": "She/Her\nCN/EN/JP\n一般路過のゲーマー女子🎮\n優しいDM大歓迎！\nFFXIV DC:Meteor Valefor\n用户名日文翻译是观月。\nNGL匿名板∶https://t.co/y4SQBEYyVW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/killerbeesweety",
+                "end": 106,
+                "expanded_url": "https://ngl.link/killerbeesweety",
+                "start": 83,
+                "url": "https://t.co/y4SQBEYyVW"
+              }
+            ]
+          }
+        },
+        "id": "1109080684419670017",
+        "location": "Valefor(Meteor)",
+        "name": "ミズキ",
+        "pinned_tweet_id": "1929051226844397888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929322772117028864/zU8IX2nF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16796,
+          "following_count": 1704,
+          "like_count": 29469,
+          "listed_count": 21,
+          "media_count": 2498,
+          "tweet_count": 20472
+        },
+        "username": "KillerBeeSweety",
+        "verified": true
+      }
+    ]
+  }
+}

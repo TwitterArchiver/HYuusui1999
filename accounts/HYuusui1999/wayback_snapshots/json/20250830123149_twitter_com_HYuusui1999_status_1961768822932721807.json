@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1961768822932721807",
+    "created_at": "2025-08-30T12:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T13:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961768822932721807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1856186701280075776",
+          "start": 3,
+          "username": "baizhouzi520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961768822932721807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961742334154162290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baizhouzi520: 这是台湾的一个mtf，在最近购买了亚硝酸钠，目前的信息都在下面了，只知道QQ 号和人在台湾，其他信息未知，我们在大陆对台湾那边无能为力，希望大家帮忙转发，并进一步查询信息对其进行自杀救助，或者报警，谢谢大家了\n这不是她第一次买盐了，希望大家帮…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1961742331490840576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzmCQblbsAABFjW.jpg",
+        "width": 864
+      },
+      {
+        "height": 1454,
+        "media_key": "3_1961742331411054592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzmCQbSaQAAwSut.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1961768822932721807",
+        "created_at": "2025-08-30T12:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T13:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961768822932721807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1856186701280075776",
+              "start": 3,
+              "username": "baizhouzi520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961768822932721807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961742334154162290",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baizhouzi520: 这是台湾的一个mtf，在最近购买了亚硝酸钠，目前的信息都在下面了，只知道QQ 号和人在台湾，其他信息未知，我们在大陆对台湾那边无能为力，希望大家帮忙转发，并进一步查询信息对其进行自杀救助，或者报警，谢谢大家了\n这不是她第一次买盐了，希望大家帮…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961742331490840576",
+            "3_1961742331411054592"
+          ]
+        },
+        "author_id": "1856186701280075776",
+        "conversation_id": "1961742334154162290",
+        "created_at": "2025-08-30T10:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T11:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961742334154162290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRTj8rz2zM",
+              "end": 150,
+              "expanded_url": "https://x.com/baizhouzi520/status/1961742334154162290/photo/1",
+              "media_key": "3_1961742331490840576",
+              "start": 127,
+              "url": "https://t.co/FRTj8rz2zM"
+            },
+            {
+              "display_url": "pic.x.com/FRTj8rz2zM",
+              "end": 150,
+              "expanded_url": "https://x.com/baizhouzi520/status/1961742334154162290/photo/1",
+              "media_key": "3_1961742331411054592",
+              "start": 127,
+              "url": "https://t.co/FRTj8rz2zM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961742334154162290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 381,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "这是台湾的一个mtf，在最近购买了亚硝酸钠，目前的信息都在下面了，只知道QQ 号和人在台湾，其他信息未知，我们在大陆对台湾那边无能为力，希望大家帮忙转发，并进一步查询信息对其进行自杀救助，或者报警，谢谢大家了\n这不是她第一次买盐了，希望大家帮帮忙吧…… https://t.co/FRTj8rz2zM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 1618,
+          "like_count": 30023,
+          "listed_count": 6,
+          "media_count": 260,
+          "tweet_count": 7638
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T04:06:17.000Z",
+        "description": "喵|这里是猫猫白洲|小证停糖🍥||拿小证日期：2025.4.3|双相|重度抑郁焦虑|最好的姐姐@lqx1104|休学带专生|在用药物：氟伏沙明、喹硫平|强迫症|175cm/55kg|不时发疯，请见谅w|姐姐@2temisinin/@jjj1927551",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "lqx1104"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "2temisinin"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "jjj1927551"
+              }
+            ]
+          }
+        },
+        "id": "1856186701280075776",
+        "location": "当前区域无信号",
+        "name": "星洲亦或诗遥喵～",
+        "pinned_tweet_id": "1936007513469862244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945376061757222912/I7lvcxRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 612,
+          "like_count": 11238,
+          "listed_count": 3,
+          "media_count": 417,
+          "tweet_count": 1522
+        },
+        "username": "baizhouzi520",
+        "verified": false
+      }
+    ]
+  }
+}

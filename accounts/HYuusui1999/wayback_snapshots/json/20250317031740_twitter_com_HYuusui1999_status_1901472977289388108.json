@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1901430767890415843",
+    "created_at": "2025-03-17T03:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T04:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901472977289388108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1819042830549204992",
+          "start": 0,
+          "username": "ss3996418"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901472977289388108",
+    "in_reply_to_user_id": "1819042830549204992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901430767890415843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ss3996418 因为确实没什么朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1901430767890415843",
+        "created_at": "2025-03-17T03:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T04:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901472977289388108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1819042830549204992",
+              "start": 0,
+              "username": "ss3996418"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901472977289388108",
+        "in_reply_to_user_id": "1819042830549204992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901430767890415843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ss3996418 因为确实没什么朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819042830549204992",
+        "conversation_id": "1901430767890415843",
+        "created_at": "2025-03-17T00:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T01:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901430767890415843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901430767890415843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恶心死了\n说着自己缺爱缺关怀，现实里孤苦伶仃还一直失去朋友，所以就上网来凿墙角了？你知道你在干什么的吧\n为什么凿别人墙角的，可以委屈，难受，装可怜，去博取同情，你凭什么啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 479,
+          "like_count": 10796,
+          "listed_count": 6,
+          "media_count": 92,
+          "tweet_count": 1455
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T16:10:08.000Z",
+        "description": "偶尔说话会过脑//纯爱万岁//妄图成为顶天立地的人",
+        "id": "1819042830549204992",
+        "location": "星球博物馆–东亚区–525号废物展示厅",
+        "name": "祀萨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879823697638477824/pdA-k_Wl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 62,
+          "like_count": 2804,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 1522
+        },
+        "username": "ss3996418",
+        "verified": false
+      }
+    ]
+  }
+}

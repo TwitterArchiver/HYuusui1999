@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1950993005219029153",
+    "created_at": "2025-08-01T06:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T07:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951161267609280836"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "ヒッチコック",
+          "probability": 0.49,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1831961897899585536",
+          "start": 0,
+          "username": "Kiriyama_hitori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951161267609280836",
+    "in_reply_to_user_id": "1831961897899585536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951161135073529867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiriyama_hitori ヒッチコック（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1950993005219029153",
+        "created_at": "2025-08-01T06:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T07:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951161267609280836"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "ヒッチコック",
+              "probability": 0.49,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1831961897899585536",
+              "start": 0,
+              "username": "Kiriyama_hitori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951161267609280836",
+        "in_reply_to_user_id": "1831961897899585536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951161135073529867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiriyama_hitori ヒッチコック（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831961897899585536",
+        "conversation_id": "1950993005219029153",
+        "created_at": "2025-08-01T06:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T07:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951161135073529867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951161135073529867",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951135256653787255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 不是      \n 是好词"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 1449,
+          "like_count": 27109,
+          "listed_count": 5,
+          "media_count": 235,
+          "tweet_count": 6696
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T07:45:44.000Z",
+        "description": "射手座 ISFP- T 鱼鱼蒸 先天心脏病 天主教✝️另外一个意识体是🍊/😃👍👉本人极度劳保 ✂️⛓️🤠/幸せの文字がお金を含むのは何でなんでしょうか。",
+        "id": "1831961897899585536",
+        "location": "नमोऽवलोकितेश्वराय",
+        "name": "琳子✝️",
+        "pinned_tweet_id": "1950909334776598625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946297534508580864/iqbGFOa5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 995,
+          "like_count": 84261,
+          "listed_count": 3,
+          "media_count": 2487,
+          "tweet_count": 18971
+        },
+        "username": "Kiriyama_hitori",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1913421343980401009",
+    "created_at": "2025-04-19T02:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T03:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913421343980401009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1560977559273504768",
+          "start": 3,
+          "username": "Voelallll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913421343980401009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913418646346666305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Voelallll: 有没有适合抑郁症的工作啊……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1913421343980401009",
+        "created_at": "2025-04-19T02:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T03:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913421343980401009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560977559273504768",
+              "start": 3,
+              "username": "Voelallll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913421343980401009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913418646346666305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Voelallll: 有没有适合抑郁症的工作啊……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560977559273504768",
+        "conversation_id": "1913418157097930882",
+        "created_at": "2025-04-19T02:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T03:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913418646346666305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913418646346666305",
+        "in_reply_to_user_id": "1560977559273504768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913418157097930882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有适合抑郁症的工作啊……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1912415808413647168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 743,
+          "like_count": 15737,
+          "listed_count": 6,
+          "media_count": 137,
+          "tweet_count": 3088
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T13:10:39.000Z",
+        "description": "中/Eng/Deu\n阴暗碎碎念｜垃圾桶｜宅",
+        "id": "1560977559273504768",
+        "location": "距离你3.9km",
+        "name": "Völa",
+        "pinned_tweet_id": "1903867073220256008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776639691003174912/r_CAYKWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 730,
+          "like_count": 18674,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1195
+        },
+        "username": "Voelallll",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913460718390939648"
+      ],
+      "media_source_tweet_id": [
+        "1913460738758443316"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1914129204637253833",
+    "created_at": "2025-04-21T01:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T02:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914129204637253833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1593547850637791233",
+          "start": 3,
+          "username": "didengshengwu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uwhSb6Njxu",
+          "end": 42,
+          "expanded_url": "https://x.com/didengshengwu/status/1913460738758443316/photo/1",
+          "media_key": "3_1913460718390939648",
+          "start": 19,
+          "url": "https://t.co/uwhSb6Njxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914129204637253833",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 405
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913460738758443316",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @didengshengwu: https://t.co/uwhSb6Njxu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1913460718390939648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go36YqtbEAAcwOs.jpg",
+        "width": 1441
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913460718390939648"
+          ],
+          "media_source_tweet_id": [
+            "1913460738758443316"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1914129204637253833",
+        "created_at": "2025-04-21T01:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T02:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914129204637253833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1593547850637791233",
+              "start": 3,
+              "username": "didengshengwu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uwhSb6Njxu",
+              "end": 42,
+              "expanded_url": "https://x.com/didengshengwu/status/1913460738758443316/photo/1",
+              "media_key": "3_1913460718390939648",
+              "start": 19,
+              "url": "https://t.co/uwhSb6Njxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914129204637253833",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 405
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913460738758443316",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @didengshengwu: https://t.co/uwhSb6Njxu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913460718390939648"
+          ]
+        },
+        "author_id": "1593547850637791233",
+        "conversation_id": "1913460738758443316",
+        "created_at": "2025-04-19T05:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T06:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913460738758443316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uwhSb6Njxu",
+              "end": 23,
+              "expanded_url": "https://x.com/didengshengwu/status/1913460738758443316/photo/1",
+              "media_key": "3_1913460718390939648",
+              "start": 0,
+              "url": "https://t.co/uwhSb6Njxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913460738758443316",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 686,
+          "impression_count": 466499,
+          "like_count": 2711,
+          "quote_count": 13,
+          "reply_count": 50,
+          "retweet_count": 405
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uwhSb6Njxu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1912415808413647168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 764,
+          "like_count": 16602,
+          "listed_count": 6,
+          "media_count": 155,
+          "tweet_count": 3311
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "喜欢心理学和炒币，关注我一起刨析人性真像 ！ #OKX 是全球领先的 #Crypto 交易平台，提供 #btc #eth 等多种交易，帮您安全投资数字资产，注册链接：https://t.co/regYGr8viq",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 23,
+                "tag": "OKX"
+              },
+              {
+                "end": 42,
+                "start": 35,
+                "tag": "Crypto"
+              },
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "btc"
+              },
+              {
+                "end": 60,
+                "start": 56,
+                "tag": "eth"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/cn/join/2347246",
+                "end": 106,
+                "expanded_url": "http://www.okx.com/cn/join/2347246",
+                "start": 83,
+                "url": "https://t.co/regYGr8viq"
+              }
+            ]
+          }
+        },
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159582,
+          "following_count": 976,
+          "like_count": 2326,
+          "listed_count": 622,
+          "media_count": 2018,
+          "tweet_count": 4280
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

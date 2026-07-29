@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1910696829551075350",
+    "created_at": "2025-04-11T14:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T15:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910698192271745163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1909402154701668356",
+          "start": 0,
+          "username": "psy__doll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910698192271745163",
+    "in_reply_to_user_id": "1909402154701668356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910696829551075350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@psy__doll 就我看，尚不能证明"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1910696791936495616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoQom-TacAAYj1h.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1910696829551075350",
+        "created_at": "2025-04-11T14:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T15:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910698192271745163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1909402154701668356",
+              "start": 0,
+              "username": "psy__doll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910698192271745163",
+        "in_reply_to_user_id": "1909402154701668356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910696829551075350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psy__doll 就我看，尚不能证明"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910696791936495616"
+          ]
+        },
+        "author_id": "1909402154701668356",
+        "conversation_id": "1910696829551075350",
+        "created_at": "2025-04-11T14:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T15:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910696829551075350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9oacZVpyrF",
+              "end": 112,
+              "expanded_url": "https://x.com/psy__doll/status/1910696829551075350/photo/1",
+              "media_key": "3_1910696791936495616",
+              "start": 89,
+              "url": "https://t.co/9oacZVpyrF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910696829551075350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我家卧室的床帘都被我用夹子夹起来了。。我害怕外面的世界，害怕光，害怕窗户。我害怕我看见不该看见的东西，那名为世界的「真实」，那是祂的分身，是祂存在的迹象之一，那是「祂的杰作」。 https://t.co/9oacZVpyrF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1910694220186476904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 710,
+          "like_count": 14923,
+          "listed_count": 6,
+          "media_count": 130,
+          "tweet_count": 2790
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T00:25:31.000Z",
+        "description": "🔴⚠️Where sanity fades, the visions begin.⚠️🔴 #Drugtwt *DXM/PSY* *でんぱ系*。提供自杀干预/心理安慰。难过了请来找我聊聊吧！🚪40尽量给...谢谢",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1909402154701668356",
+        "name": "💊PsyDoll64🎆🌸",
+        "pinned_tweet_id": "1910168413886136605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909402418665881600/z1pt-rjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 90,
+          "like_count": 892,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 494
+        },
+        "username": "psy__doll",
+        "verified": true
+      }
+    ]
+  }
+}

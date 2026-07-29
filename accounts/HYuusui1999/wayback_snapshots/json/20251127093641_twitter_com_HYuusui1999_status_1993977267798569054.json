@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1993977155202499029",
+    "created_at": "2025-11-27T09:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T10:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993977267798569054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639203203890970624",
+          "start": 0,
+          "username": "SyntaxError_V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993977267798569054",
+    "in_reply_to_user_id": "1639203203890970624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993977155202499029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyntaxError_V 有幸体验过\n还是半夜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1993977155202499029",
+        "created_at": "2025-11-27T09:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993977267798569054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639203203890970624",
+              "start": 0,
+              "username": "SyntaxError_V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993977267798569054",
+        "in_reply_to_user_id": "1639203203890970624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993977155202499029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyntaxError_V 有幸体验过\n还是半夜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639203203890970624",
+        "conversation_id": "1993977155202499029",
+        "created_at": "2025-11-27T09:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993977155202499029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993977155202499029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂躺床上小腿抽筋的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 2472,
+          "like_count": 40531,
+          "listed_count": 6,
+          "media_count": 302,
+          "tweet_count": 9853
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-24T09:52:07.000Z",
+        "description": "08 | enby | Alevel student 26’| SHA ⬌ HK ⬌ KR | EEE ｜グルメ界の第一人者",
+        "id": "1639203203890970624",
+        "location": "Republic of Korea",
+        "name": "φ",
+        "pinned_tweet_id": "1985351997642650029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985376877318668289/vJGo1qfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 479,
+          "like_count": 18514,
+          "listed_count": 3,
+          "media_count": 439,
+          "tweet_count": 4843
+        },
+        "username": "SyntaxError_V",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1944770035920278009",
+    "created_at": "2025-07-14T14:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T15:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944773146222993640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1898059191899897861",
+          "start": 0,
+          "username": "Aoi000721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944773146222993640",
+    "in_reply_to_user_id": "1898059191899897861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944770035920278009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aoi000721 好哦，可爱呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1944770032975695872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv02ColXUAARp4q.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1944770035920278009",
+        "created_at": "2025-07-14T14:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T15:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944773146222993640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1898059191899897861",
+              "start": 0,
+              "username": "Aoi000721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944773146222993640",
+        "in_reply_to_user_id": "1898059191899897861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944770035920278009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aoi000721 好哦，可爱呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944770032975695872"
+          ]
+        },
+        "author_id": "1898059191899897861",
+        "conversation_id": "1944770035920278009",
+        "created_at": "2025-07-14T14:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T15:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944770035920278009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qpjUDWaYMw",
+              "end": 27,
+              "expanded_url": "https://x.com/Aoi000721/status/1944770035920278009/photo/1",
+              "media_key": "3_1944770032975695872",
+              "start": 4,
+              "url": "https://t.co/qpjUDWaYMw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944770035920278009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好看嘛 https://t.co/qpjUDWaYMw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 1369,
+          "like_count": 25437,
+          "listed_count": 5,
+          "media_count": 224,
+          "tweet_count": 6315
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T17:12:50.000Z",
+        "description": "infp/10年xyn喵/重抑重焦+双向/出柜/最好的姐姐:@QIANQIANMO_QWQ/大笨蛋姐姐:@yuhan_ko9/可爱小脑婆:@c17709381285196/超级好主人@x3802004921879/看情况互fo/🚪52 同类免费",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "QIANQIANMO_QWQ"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "yuhan_ko9"
+              },
+              {
+                "end": 85,
+                "start": 69,
+                "username": "c17709381285196"
+              },
+              {
+                "end": 106,
+                "start": 91,
+                "username": "x3802004921879"
+              }
+            ]
+          }
+        },
+        "id": "1898059191899897861",
+        "name": "Aoi🍥",
+        "pinned_tweet_id": "1922321451379560778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916065971514806272/3AEXyPW8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 869,
+          "like_count": 97,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 264
+        },
+        "username": "Aoi000721",
+        "verified": false
+      }
+    ]
+  }
+}

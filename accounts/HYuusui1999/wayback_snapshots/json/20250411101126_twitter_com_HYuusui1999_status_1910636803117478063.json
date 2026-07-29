@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1910636803117478063",
+    "created_at": "2025-04-11T10:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T11:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910636803117478063"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "武汉"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "合租"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "租房"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "跨性别"
+        },
+        {
+          "end": 76,
+          "start": 72,
+          "tag": "mtf"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1485268522074730497",
+          "start": 3,
+          "username": "jiulin2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910636803117478063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910183231049335260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiulin2333: 卧槽了武汉真的没有需要一个合租地点的。？\n这边真的急着找人收比较正常的，友跨\n#武汉 #合租 #租房 #跨性别 #mtf \n光谷东 客卧800 主卧1000"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1910636803117478063",
+        "created_at": "2025-04-11T10:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T11:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910636803117478063"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "武汉"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "合租"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "租房"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "跨性别"
+            },
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "mtf"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1485268522074730497",
+              "start": 3,
+              "username": "jiulin2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910636803117478063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910183231049335260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiulin2333: 卧槽了武汉真的没有需要一个合租地点的。？\n这边真的急着找人收比较正常的，友跨\n#武汉 #合租 #租房 #跨性别 #mtf \n光谷东 客卧800 主卧1000"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485268522074730497",
+        "conversation_id": "1910183231049335260",
+        "created_at": "2025-04-10T04:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T05:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910183231049335260"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "武汉"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "合租"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "租房"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "跨性别"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "mtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910183231049335260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2517,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽了武汉真的没有需要一个合租地点的。？\n这边真的急着找人收比较正常的，友跨\n#武汉 #合租 #租房 #跨性别 #mtf \n光谷东 客卧800 主卧1000"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1905989245266972950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 707,
+          "like_count": 14886,
+          "listed_count": 6,
+          "media_count": 129,
+          "tweet_count": 2776
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T15:09:57.000Z",
+        "description": "喵。\n我想当画手，只是差劲画画人。/\nenfp及infp/arcaea/ocart/喜欢水推文\n将来art相关将放在  #JiuLynn_ART",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 60,
+                "tag": "JiuLynn_ART"
+              }
+            ]
+          }
+        },
+        "id": "1485268522074730497",
+        "location": "武汉。",
+        "name": "Jiu☆Lynn☆",
+        "pinned_tweet_id": "1890434443476602971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803256966841561088/bPuCy6Jj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 2820,
+          "like_count": 27712,
+          "listed_count": 7,
+          "media_count": 1620,
+          "tweet_count": 21000
+        },
+        "username": "jiulin2333",
+        "verified": false
+      }
+    ]
+  }
+}

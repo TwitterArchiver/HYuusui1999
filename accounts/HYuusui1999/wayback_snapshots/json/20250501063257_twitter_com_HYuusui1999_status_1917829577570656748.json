@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1917820236927230098",
+    "created_at": "2025-05-01T06:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T07:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917829577570656748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882424383224029184",
+          "start": 0,
+          "username": "YuJian21145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917829577570656748",
+    "in_reply_to_user_id": "1882424383224029184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917820236927230098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuJian21145 似乎是这样🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1917820236927230098",
+        "created_at": "2025-05-01T06:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T07:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917829577570656748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882424383224029184",
+              "start": 0,
+              "username": "YuJian21145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917829577570656748",
+        "in_reply_to_user_id": "1882424383224029184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917820236927230098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuJian21145 似乎是这样🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882424383224029184",
+        "conversation_id": "1917820236927230098",
+        "created_at": "2025-05-01T05:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T06:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917820236927230098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917820236927230098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己如同撕裂了一样，我一个人时，一个人在网上发推时，一个人去干预他人时，在现实和别人交流时，我都是不一样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1917405127981371473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 789,
+          "like_count": 17189,
+          "listed_count": 6,
+          "media_count": 163,
+          "tweet_count": 3581
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T13:45:41.000Z",
+        "description": "看不见我，看不见我(〜￣▽￣)〜",
+        "id": "1882424383224029184",
+        "name": "yoyo🏳️‍⚧️",
+        "pinned_tweet_id": "1916084153499472144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890682663452782592/khG4x7fZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 285,
+          "like_count": 2426,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 590
+        },
+        "username": "YuJian21145",
+        "verified": false
+      }
+    ]
+  }
+}

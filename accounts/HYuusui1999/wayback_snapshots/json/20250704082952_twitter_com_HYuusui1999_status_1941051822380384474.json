@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1940884689029681626",
+    "created_at": "2025-07-04T08:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T09:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941051822380384474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693561958899892224",
+          "start": 0,
+          "username": "Sui12010426"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941051822380384474",
+    "in_reply_to_user_id": "1693561958899892224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940884689029681626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sui12010426 揉揉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1940884689029681626",
+        "created_at": "2025-07-04T08:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T09:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941051822380384474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693561958899892224",
+              "start": 0,
+              "username": "Sui12010426"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941051822380384474",
+        "in_reply_to_user_id": "1693561958899892224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940884689029681626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui12010426 揉揉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693561958899892224",
+        "conversation_id": "1940884689029681626",
+        "created_at": "2025-07-03T21:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T22:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940884689029681626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940884689029681626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 422,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操了我前任凭什么把我删了 这贱蝻的还没还我钱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 1325,
+          "like_count": 24213,
+          "listed_count": 5,
+          "media_count": 216,
+          "tweet_count": 5872
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T09:53:45.000Z",
+        "description": "生命是張懸而未决的網",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B2%81",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B2%81",
+                "start": 0,
+                "url": "https://t.co/OLxFrlOquU"
+              }
+            ]
+          }
+        },
+        "id": "1693561958899892224",
+        "location": "張懸",
+        "name": "走柳",
+        "pinned_tweet_id": "1916195291306639661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711049894151266304/n0xTSYTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 333,
+          "like_count": 1037,
+          "listed_count": 7,
+          "media_count": 133,
+          "tweet_count": 1413
+        },
+        "url": "https://t.co/OLxFrlOquU",
+        "username": "Sui12010426",
+        "verified": false
+      }
+    ]
+  }
+}

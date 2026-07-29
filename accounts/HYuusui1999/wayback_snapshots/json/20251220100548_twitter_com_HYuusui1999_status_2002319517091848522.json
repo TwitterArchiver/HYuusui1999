@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2002319517091848522",
+    "created_at": "2025-12-20T10:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T11:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002319517091848522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1753293214826848256",
+          "start": 3,
+          "username": "tatanakots"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002319517091848522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002286756943507699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatanakots: 来一点解释\n热度不是我炒的，最开始散播焦虑的是一个写科技bot的开发者\n我爬完preview之后就没有再连过华立服务器，另外不管怎么样，华立服务器再烂也不可能因为一个5并发的单点python爬取脚本死掉\n我只使用科技登录过我自己的以及朋友授权给我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2002319517091848522",
+        "created_at": "2025-12-20T10:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T11:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002319517091848522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1753293214826848256",
+              "start": 3,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002319517091848522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002286756943507699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tatanakots: 来一点解释\n热度不是我炒的，最开始散播焦虑的是一个写科技bot的开发者\n我爬完preview之后就没有再连过华立服务器，另外不管怎么样，华立服务器再烂也不可能因为一个5并发的单点python爬取脚本死掉\n我只使用科技登录过我自己的以及朋友授权给我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "conversation_id": "2002286756943507699",
+        "created_at": "2025-12-20T07:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T08:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002286756943507699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002286756943507699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1495,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "来一点解释\n热度不是我炒的，最开始散播焦虑的是一个写科技bot的开发者\n我爬完preview之后就没有再连过华立服务器，另外不管怎么样，华立服务器再烂也不可能因为一个5并发的单点python爬取脚本死掉\n我只使用科技登录过我自己的以及朋友授权给我的账号（用于帮助她迁移旧的账户数据）\n炸号的全家死光了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 2839,
+          "like_count": 43515,
+          "listed_count": 6,
+          "media_count": 312,
+          "tweet_count": 10594
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "不玩舞萌。",
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3099,
+          "following_count": 243,
+          "like_count": 23927,
+          "listed_count": 6,
+          "media_count": 1444,
+          "tweet_count": 9472
+        },
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

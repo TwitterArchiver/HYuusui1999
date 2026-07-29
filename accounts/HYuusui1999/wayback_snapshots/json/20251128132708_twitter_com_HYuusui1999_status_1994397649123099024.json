@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994397636175028226"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1994397649123099024",
+    "created_at": "2025-11-28T13:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T14:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994397649123099024"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uP7xezLPpT",
+          "end": 23,
+          "expanded_url": "https://x.com/HYuusui1999/status/1994397649123099024/photo/1",
+          "media_key": "3_1994397636175028226",
+          "start": 0,
+          "url": "https://t.co/uP7xezLPpT"
+        },
+        {
+          "display_url": "x.com/mikotossd0106/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/mikotossd0106/status/1994373074834329718",
+          "start": 24,
+          "url": "https://t.co/5fP1b3MDR2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994397649123099024",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994373074834329718",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/uP7xezLPpT https://t.co/5fP1b3MDR2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1994397649123099024].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1994397649123099024",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1994397649123099024"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 148,
+        "media_key": "3_1994397636175028226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G62GFVUXYAI_PEN.jpg",
+        "width": 408
+      },
+      {
+        "height": 148,
+        "media_key": "3_1994373072082898944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61vvg8bEAAxXNb.jpg",
+        "width": 408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994373072082898944"
+          ]
+        },
+        "author_id": "1766452473840173056",
+        "conversation_id": "1994373074834329718",
+        "created_at": "2025-11-28T11:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994373074834329718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y8NOC8Uo2w",
+              "end": 23,
+              "expanded_url": "https://x.com/mikotossd0106/status/1994373074834329718/photo/1",
+              "media_key": "3_1994373072082898944",
+              "start": 0,
+              "url": "https://t.co/y8NOC8Uo2w"
+            },
+            {
+              "display_url": "x.com/RainEngine2024…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/RainEngine2024/status/1994322208341057907",
+              "start": 24,
+              "url": "https://t.co/C17jiKlcFy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994373074834329718",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994322208341057907",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/y8NOC8Uo2w https://t.co/C17jiKlcFy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 2485,
+          "like_count": 40695,
+          "listed_count": 6,
+          "media_count": 303,
+          "tweet_count": 9886
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T13:14:37.000Z",
+        "description": "这个人很懒，没留下任何东西",
+        "id": "1766452473840173056",
+        "location": "成都",
+        "name": "御坂鱼坂",
+        "pinned_tweet_id": "1990075703115513993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949508283506786304/ipIcd8Jv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 1404,
+          "like_count": 70340,
+          "listed_count": 6,
+          "media_count": 825,
+          "tweet_count": 3787
+        },
+        "username": "mikotossd0106",
+        "verified": false
+      }
+    ]
+  }
+}

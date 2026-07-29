@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1990055449954292055",
+    "created_at": "2025-11-20T01:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T02:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991312055098314924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1650521797299953665",
+          "start": 0,
+          "username": "yulingko_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991312055098314924",
+    "in_reply_to_user_id": "1650521797299953665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990055449954292055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yulingko_ 但是一般来说不会搞错这个吧🤔"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1990055449954292055].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1990055449954292055",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1990055449954292055"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1990055449954292055",
+        "created_at": "2025-11-20T01:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T02:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991312055098314924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1650521797299953665",
+              "start": 0,
+              "username": "yulingko_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991312055098314924",
+        "in_reply_to_user_id": "1650521797299953665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990055449954292055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yulingko_ 但是一般来说不会搞错这个吧🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 2398,
+          "like_count": 39836,
+          "listed_count": 6,
+          "media_count": 302,
+          "tweet_count": 9634
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T15:27:27.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yulingko.moe",
+                "end": 23,
+                "expanded_url": "http://yulingko.moe",
+                "start": 0,
+                "url": "https://t.co/EiNqwprIf4"
+              }
+            ]
+          }
+        },
+        "id": "1650521797299953665",
+        "name": "与岭",
+        "pinned_tweet_id": "1921841960538566873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946767332623237120/jGFqoAw1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 721,
+          "like_count": 67225,
+          "listed_count": 3,
+          "media_count": 681,
+          "tweet_count": 12139
+        },
+        "url": "https://t.co/EiNqwprIf4",
+        "username": "yulingko_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2003086831399927912",
+    "created_at": "2025-12-22T13:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T14:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003089211214504268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1253165636210978817",
+          "start": 0,
+          "username": "Exusiai159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003089211214504268",
+    "in_reply_to_user_id": "1253165636210978817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003086831399927912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Exusiai159 我看你们先打住比较好（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2003086831399927912",
+        "created_at": "2025-12-22T13:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T14:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003089211214504268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1253165636210978817",
+              "start": 0,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003089211214504268",
+        "in_reply_to_user_id": "1253165636210978817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003086831399927912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exusiai159 我看你们先打住比较好（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253165636210978817",
+        "conversation_id": "2003086831399927912",
+        "created_at": "2025-12-22T12:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T13:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003086831399927912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jnrhrx174253/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/jnrhrx174253/status/2003083528607850656",
+              "start": 30,
+              "url": "https://t.co/IGbHPgYOjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003086831399927912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003083528607850656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "炒作圈钱骗感情什么的不说也罢，把对方逼到跳河是真的罪大恶极 https://t.co/IGbHPgYOjK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 2852,
+          "like_count": 43805,
+          "listed_count": 6,
+          "media_count": 324,
+          "tweet_count": 10674
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "粥批，正太控，中推鹿野灸和能天使粉丝头子｜会转发正太黄推🔞，如有介意请不要关注｜推特用来当日记本记录碎碎念｜数码产品迷，Windows平板爱好者，半个车迷｜编程一生黑｜禁极端歧视仇恨言论｜包含微量政治元素｜有大量政治内容的账号恕不回fo｜避难所@Exusiai159_2｜扩列可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Exusiai159",
+                "end": 23,
+                "expanded_url": "http://t.me/Exusiai159",
+                "start": 0,
+                "url": "https://t.co/z598x1sxus"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使（圣诞限定）",
+        "pinned_tweet_id": "1925197266241077292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997128623422427139/WEFi81VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4959,
+          "following_count": 6250,
+          "like_count": 154842,
+          "listed_count": 12,
+          "media_count": 4689,
+          "tweet_count": 46332
+        },
+        "url": "https://t.co/z598x1sxus",
+        "username": "Exusiai159",
+        "verified": false
+      }
+    ]
+  }
+}

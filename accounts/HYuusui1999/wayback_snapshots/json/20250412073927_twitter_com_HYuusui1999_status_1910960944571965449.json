@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1910960944571965449",
+    "created_at": "2025-04-12T07:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T08:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910960944571965449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1830250971450236928",
+          "start": 3,
+          "username": "YuPingHagia_mtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910960944571965449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910954606848287030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuPingHagia_mtf: 这里是毓萍，一只17岁xyn，由于无良老板拖欠工资被迫下海，励志攒钱手术变回女孩子\n常住上海，江浙沪方便去，全国可飞\n178cm/61kg\n线下先过门槛120\n过门直接口令或者赞赏码\n打招呼/问价格通通不理\n！！！记得备注微信或者QQ！…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1910960944571965449].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1910960944571965449",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1910960944571965449"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1910954581799915520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoUTEUYW0AAtGjZ.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2196,
+        "media_key": "3_1910954579740487680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoUTEMtWcAAHy0z.jpg",
+        "width": 1647
+      },
+      {
+        "height": 2005,
+        "media_key": "3_1910954583905406976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoUTEcOWEAAID7i.jpg",
+        "width": 1424
+      },
+      {
+        "height": 1475,
+        "media_key": "3_1910954579107205122",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoUTEKWXUAIyTAd.jpg",
+        "width": 1475
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910954581799915520",
+            "3_1910954579740487680",
+            "3_1910954583905406976",
+            "3_1910954579107205122"
+          ]
+        },
+        "author_id": "1830250971450236928",
+        "conversation_id": "1910954606848287030",
+        "created_at": "2025-04-12T07:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T08:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910954606848287030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tnN0wtN1Ea",
+              "end": 144,
+              "expanded_url": "https://x.com/YuPingHagia_mtf/status/1910954606848287030/photo/1",
+              "media_key": "3_1910954581799915520",
+              "start": 121,
+              "url": "https://t.co/tnN0wtN1Ea"
+            },
+            {
+              "display_url": "pic.x.com/tnN0wtN1Ea",
+              "end": 144,
+              "expanded_url": "https://x.com/YuPingHagia_mtf/status/1910954606848287030/photo/1",
+              "media_key": "3_1910954579740487680",
+              "start": 121,
+              "url": "https://t.co/tnN0wtN1Ea"
+            },
+            {
+              "display_url": "pic.x.com/tnN0wtN1Ea",
+              "end": 144,
+              "expanded_url": "https://x.com/YuPingHagia_mtf/status/1910954606848287030/photo/1",
+              "media_key": "3_1910954583905406976",
+              "start": 121,
+              "url": "https://t.co/tnN0wtN1Ea"
+            },
+            {
+              "display_url": "pic.x.com/tnN0wtN1Ea",
+              "end": 144,
+              "expanded_url": "https://x.com/YuPingHagia_mtf/status/1910954606848287030/photo/1",
+              "media_key": "3_1910954579107205122",
+              "start": 121,
+              "url": "https://t.co/tnN0wtN1Ea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910954606848287030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 225,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这里是毓萍，一只17岁xyn，由于无良老板拖欠工资被迫下海，励志攒钱手术变回女孩子\n常住上海，江浙沪方便去，全国可飞\n178cm/61kg\n线下先过门槛120\n过门直接口令或者赞赏码\n打招呼/问价格通通不理\n！！！记得备注微信或者QQ！！！ https://t.co/tnN0wtN1Ea"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1910694220186476904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 715,
+          "like_count": 14954,
+          "listed_count": 6,
+          "media_count": 131,
+          "tweet_count": 2844
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T14:27:20.000Z",
+        "description": "一只高中休学xyn，天残党，已炸柜离家出走，23年九月含糖，攒钱手术中178cm61kg，门槛99（线下月先过门）口令&赞赏码，十分感谢，过门可随时陪聊或者色色/https://t.co/KscgwSHJbF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Hmtf8964",
+                "end": 104,
+                "expanded_url": "https://t.me/Hmtf8964",
+                "start": 81,
+                "url": "https://t.co/KscgwSHJbF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hmtf8964",
+                "end": 23,
+                "expanded_url": "https://t.me/Hmtf8964",
+                "start": 0,
+                "url": "https://t.co/KscgwSHJbF"
+              }
+            ]
+          }
+        },
+        "id": "1830250971450236928",
+        "location": "上海市",
+        "name": "毓萍.Hagia🍥（妓女版）🐲",
+        "pinned_tweet_id": "1910954606848287030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843167990113820672/xq2_RDtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3955,
+          "following_count": 538,
+          "like_count": 9841,
+          "listed_count": 15,
+          "media_count": 66,
+          "tweet_count": 476
+        },
+        "url": "https://t.co/KscgwSHJbF",
+        "username": "YuPingHagia_mtf",
+        "verified": false
+      }
+    ]
+  }
+}

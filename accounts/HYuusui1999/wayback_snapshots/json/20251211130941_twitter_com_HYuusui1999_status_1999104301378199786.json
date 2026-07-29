@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1999027748350865670",
+    "created_at": "2025-12-11T13:09:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T14:09:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999104301378199786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600208165269741570",
+          "start": 0,
+          "username": "MeowCatherina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999104301378199786",
+    "in_reply_to_user_id": "1600208165269741570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999027748350865670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowCatherina 主因或是斯克凍結了大量簡中用戶\n這邊的follower減少約5位"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1999027748350865670",
+        "created_at": "2025-12-11T13:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T14:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999104301378199786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "MeowCatherina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999104301378199786",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999027748350865670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowCatherina 主因或是斯克凍結了大量簡中用戶\n這邊的follower減少約5位"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "1999027748350865670",
+        "created_at": "2025-12-11T08:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T09:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999027748350865670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MeowCatherina/…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/MeowCatherina/status/1998803844336332871",
+              "start": 138,
+              "url": "https://t.co/ufvy2jl5hR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999027748350865670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2984,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998803844336332871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "14个小时掉了20个fo \n\n比我预期好 我预期是掉200fo来着（） \n\n掉fo是好的 省的以后意见不合还有冲突 \n\n其实这话我去年就想说，但是去年的我还是自我价值感太低了，被骂了会emo的。\n\n今年无所谓，互联网不再是我唯一的自我价值感来源了，我可以随意表达自己的观点了 https://t.co/ufvy2jl5hR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfXxgs"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 2633,
+          "like_count": 41998,
+          "listed_count": 6,
+          "media_count": 305,
+          "tweet_count": 10318
+        },
+        "url": "https://t.co/BjaOJfXxgs",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21INTP｜⚠️不会说话和社交的AuDHD｜🏫Monash｜🐈/🏹/🚴/💻｜某司高管(逃)｜意面神教牧师｜BA4R**｜GPG: C1D9 84F0 BBA1 B3B9｜持证嗓音训练师｜做教育学科研还能画图的经济学生是好的计科人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "service.cntt.uk",
+                "end": 23,
+                "expanded_url": "https://service.cntt.uk",
+                "start": 0,
+                "url": "https://t.co/8NIDYwDlph"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "凯瑟琳奈（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998254411685195777/4fVQC6uA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6674,
+          "following_count": 1085,
+          "like_count": 77208,
+          "listed_count": 19,
+          "media_count": 2010,
+          "tweet_count": 23849
+        },
+        "url": "https://t.co/8NIDYwDlph",
+        "username": "MeowCatherina",
+        "verified": true
+      }
+    ]
+  }
+}

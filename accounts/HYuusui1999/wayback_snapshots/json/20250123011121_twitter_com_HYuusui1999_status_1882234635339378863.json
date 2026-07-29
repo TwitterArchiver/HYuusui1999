@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1882234635339378863",
+    "created_at": "2025-01-23T01:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T02:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882234635339378863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1812404792507105280",
+          "start": 3,
+          "username": "BD3QCK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882234635339378863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881601644234002588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BD3QCK: 无论中推圈发生什么纷争，我们只希望大家记住两件事。\n1.薯饼很好吃\n2.麦当劳汉堡贼鸡巴大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1882234635339378863",
+        "created_at": "2025-01-23T01:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T02:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882234635339378863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1812404792507105280",
+              "start": 3,
+              "username": "BD3QCK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882234635339378863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881601644234002588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BD3QCK: 无论中推圈发生什么纷争，我们只希望大家记住两件事。\n1.薯饼很好吃\n2.麦当劳汉堡贼鸡巴大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812404792507105280",
+        "conversation_id": "1881601644234002588",
+        "created_at": "2025-01-21T07:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T08:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881601644234002588"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881601644234002588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 193006,
+          "like_count": 1851,
+          "quote_count": 26,
+          "reply_count": 232,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "无论中推圈发生什么纷争，我们只希望大家记住两件事。\n1.薯饼很好吃\n2.麦当劳汉堡贼鸡巴大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 213,
+          "like_count": 2184,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 281
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T08:32:47.000Z",
+        "description": "用银联，纳百福。死肥宅，T0坦，会做游戏视频，27高考自学。女儿和baka @LUBANQIU ，当年说要出BA Cosplay的@DrSunan2022422",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "LUBANQIU"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "DrSunan2022422"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chatongxue.top",
+                "end": 23,
+                "expanded_url": "https://chatongxue.top",
+                "start": 0,
+                "url": "https://t.co/gpPyNUkyYv"
+              }
+            ]
+          }
+        },
+        "id": "1812404792507105280",
+        "location": "张江高科 换侬西特",
+        "name": "ChaTongXue",
+        "pinned_tweet_id": "1878041097131499710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867631126627725317/CzkpJpBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 709,
+          "like_count": 13161,
+          "listed_count": 0,
+          "media_count": 579,
+          "tweet_count": 2241
+        },
+        "url": "https://t.co/gpPyNUkyYv",
+        "username": "BD3QCK",
+        "verified": false
+      }
+    ]
+  }
+}

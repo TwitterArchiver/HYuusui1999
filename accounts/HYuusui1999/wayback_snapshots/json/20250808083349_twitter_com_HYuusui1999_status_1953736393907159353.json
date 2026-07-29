@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1953736393907159353",
+    "created_at": "2025-08-08T08:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T09:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953736393907159353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1731704955721932800",
+          "start": 3,
+          "username": "ling1639040"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953736393907159353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953729381928751167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ling1639040: 除了我的谷歌，推特这些账号外，其他的全没了\n哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1953736393907159353",
+        "created_at": "2025-08-08T08:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T09:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953736393907159353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1731704955721932800",
+              "start": 3,
+              "username": "ling1639040"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953736393907159353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953729381928751167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ling1639040: 除了我的谷歌，推特这些账号外，其他的全没了\n哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731704955721932800",
+        "conversation_id": "1953729381928751167",
+        "created_at": "2025-08-08T08:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T09:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953729381928751167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ling1639040/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ling1639040/status/1953685864627995063",
+              "start": 24,
+              "url": "https://t.co/jwb5CQJzB3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953729381928751167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953685864627995063",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "除了我的谷歌，推特这些账号外，其他的全没了\n哈 https://t.co/jwb5CQJzB3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 1536,
+          "like_count": 28478,
+          "listed_count": 5,
+          "media_count": 243,
+          "tweet_count": 7121
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T16:00:20.000Z",
+        "description": "07//\nling会带来不幸，不要太靠近我\n                            ❤ 老婆@LCG_Akiball/🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "LCG_Akiball"
+              }
+            ]
+          }
+        },
+        "id": "1731704955721932800",
+        "location": "sorry……",
+        "name": "ling🏳️‍⚧️/🕯",
+        "pinned_tweet_id": "1938940959611592945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731705525950156801/r5bzouhj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 925,
+          "like_count": 7351,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 405
+        },
+        "username": "ling1639040",
+        "verified": false
+      }
+    ]
+  }
+}

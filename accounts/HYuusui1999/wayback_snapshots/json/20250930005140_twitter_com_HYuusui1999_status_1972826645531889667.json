@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1972672480935559242",
+    "created_at": "2025-09-30T00:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T01:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972826645531889667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "897749985361444866",
+          "start": 0,
+          "username": "woaishuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972826645531889667",
+    "in_reply_to_user_id": "897749985361444866",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972672480935559242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaishuji 布考斯基是好的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1224,
+        "media_key": "3_1972672478733647872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2BXKvEbwAA6576.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1972672480935559242",
+        "created_at": "2025-09-30T00:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T01:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972826645531889667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "897749985361444866",
+              "start": 0,
+              "username": "woaishuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972826645531889667",
+        "in_reply_to_user_id": "897749985361444866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972672480935559242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaishuji 布考斯基是好的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972672478733647872"
+          ]
+        },
+        "author_id": "897749985361444866",
+        "conversation_id": "1972672480935559242",
+        "created_at": "2025-09-29T14:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T15:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972672480935559242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZPMoJkOLsV",
+              "end": 67,
+              "expanded_url": "https://x.com/woaishuji/status/1972672480935559242/photo/1",
+              "media_key": "3_1972672478733647872",
+              "start": 44,
+              "url": "https://t.co/ZPMoJkOLsV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972672480935559242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当周围人努力学习并且试图拉上我时——\n自己：我一个文盲为什么要参与这场不属于我的游戏😇 https://t.co/ZPMoJkOLsV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 1959,
+          "like_count": 33682,
+          "listed_count": 6,
+          "media_count": 271,
+          "tweet_count": 8397
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-16T09:20:50.000Z",
+        "description": "",
+        "id": "897749985361444866",
+        "name": "文学少女安德烈",
+        "pinned_tweet_id": "1862810120075583938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872624201796059137/lL6g5Rby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 1678,
+          "like_count": 388635,
+          "listed_count": 11,
+          "media_count": 2349,
+          "tweet_count": 14702
+        },
+        "username": "woaishuji",
+        "verified": false
+      }
+    ]
+  }
+}

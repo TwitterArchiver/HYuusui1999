@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1941372671247384911",
+    "created_at": "2025-07-05T06:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T07:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941385319322210783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1560129932524544000",
+          "start": 0,
+          "username": "xijiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941385319322210783",
+    "in_reply_to_user_id": "1560129932524544000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941372671247384911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijiu_ 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1941372671247384911",
+        "created_at": "2025-07-05T06:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T07:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941385319322210783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1560129932524544000",
+              "start": 0,
+              "username": "xijiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941385319322210783",
+        "in_reply_to_user_id": "1560129932524544000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941372671247384911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijiu_ 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560129932524544000",
+        "conversation_id": "1941372671247384911",
+        "created_at": "2025-07-05T05:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T06:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941372671247384911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xijiu_/status/…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/xijiu_/status/1941367393672102155",
+              "start": 115,
+              "url": "https://t.co/Z4flUYaq00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941372671247384911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941367393672102155",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和我爸争辩，然后他急了出去抽烟去了，然后回来发现我被熏得难受，跑出去刷牙起了😇\n我现在真的就是太软弱，但是我真的争不过他，除了妥协又完全没什么办法……为了我不亏分去瞎报，我要是真去个不喜欢的学校的计算机专业的我真的后半辈子能疯了 https://t.co/Z4flUYaq00"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 1342,
+          "like_count": 24490,
+          "listed_count": 5,
+          "media_count": 216,
+          "tweet_count": 5987
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "🏳️‍⚧️|有爱人|生命久如暗室，不妨碍我明写春诗",
+        "id": "1560129932524544000",
+        "location": "中国 山东省",
+        "name": "希玖.",
+        "pinned_tweet_id": "1858024741422117307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3349,
+          "following_count": 836,
+          "like_count": 164588,
+          "listed_count": 2,
+          "media_count": 529,
+          "tweet_count": 8340
+        },
+        "username": "xijiu_",
+        "verified": false
+      }
+    ]
+  }
+}

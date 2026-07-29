@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1928124971370283215",
+    "created_at": "2025-05-30T13:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T14:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928444096185499900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1866825572372058115",
+          "start": 0,
+          "username": "DreamlandSysSub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928444096185499900",
+    "in_reply_to_user_id": "1866825572372058115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928124971370283215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DreamlandSysSub 不要强撑着，互相搀扶吧(´･ω･`)"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1928124971370283215].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1928124971370283215",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1928124971370283215"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1928124971370283215",
+        "created_at": "2025-05-30T13:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T14:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928444096185499900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1866825572372058115",
+              "start": 0,
+              "username": "DreamlandSysSub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928444096185499900",
+        "in_reply_to_user_id": "1866825572372058115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928124971370283215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DreamlandSysSub 不要强撑着，互相搀扶吧(´･ω･`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n\n～公告栏～\n@TencentRM好久前开始从b站盗句号视频，\n视频创作者是@juhao0721，请注意\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "TencentRM"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "juhao0721"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 1046,
+          "like_count": 20347,
+          "listed_count": 6,
+          "media_count": 194,
+          "tweet_count": 4512
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-11T12:41:35.000Z",
+        "description": "这是北雁梦系统的里推，主号 @Zero_158_Kana",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1866825572372058115",
+        "location": "梦之乡",
+        "name": "Dreamland System Sub Account",
+        "pinned_tweet_id": "1928113157832093697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896719196190646273/cbLuXX5q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 73,
+          "like_count": 753,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 526
+        },
+        "username": "DreamlandSysSub",
+        "verified": false
+      }
+    ]
+  }
+}

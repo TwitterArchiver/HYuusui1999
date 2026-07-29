@@ -1,0 +1,551 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Aerospace",
+          "id": "872801340224806912",
+          "name": "Aerospace"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "NASA",
+          "id": "872802352448667648",
+          "name": "NASA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "NASA",
+          "id": "872802352448667648",
+          "name": "NASA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1352681651516567553",
+          "name": "Space agencies & companies"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2041458143889440789",
+    "created_at": "2026-04-07T10:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T11:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041458143889440789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1069599820912910337",
+          "start": 3,
+          "username": "mubeitech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041458143889440789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 167
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040427005942923559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mubeitech: 你的身体证据，六个月后自动销毁。\n除非你每半年填一次表申请保留。\n无休止地填下去。\n\n这是22岁的哈佛女生 Amanda Nguyen 遇到的一道选择题。\n她在大学最后一学期遭到强奸。\n按流程做完所有法医鉴定。\n为了不影响未来进NASA的安全审查，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1227,
+        "media_key": "3_2040426992609198080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFENigSXAAA6jta.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Aerospace",
+              "id": "872801340224806912",
+              "name": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352681651516567553",
+              "name": "Space agencies & companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2041458143889440789",
+        "created_at": "2026-04-07T10:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041458143889440789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1069599820912910337",
+              "start": 3,
+              "username": "mubeitech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041458143889440789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040427005942923559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mubeitech: 你的身体证据，六个月后自动销毁。\n除非你每半年填一次表申请保留。\n无休止地填下去。\n\n这是22岁的哈佛女生 Amanda Nguyen 遇到的一道选择题。\n她在大学最后一学期遭到强奸。\n按流程做完所有法医鉴定。\n为了不影响未来进NASA的安全审查，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040426992609198080"
+          ]
+        },
+        "author_id": "1069599820912910337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Aerospace",
+              "id": "872801340224806912",
+              "name": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352681651516567553",
+              "name": "Space agencies & companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2040427005942923559",
+        "created_at": "2026-04-04T13:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T14:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040427005942923559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0iKWBs4pxB",
+              "end": 156,
+              "expanded_url": "https://x.com/mubeitech/status/2040427005942923559/photo/1",
+              "media_key": "3_2040426992609198080",
+              "start": 133,
+              "url": "https://t.co/0iKWBs4pxB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040427005942923559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你的身体证据，六个月后自动销毁。\n除非你每半年填一次表申请保留。\n无休止地填下去。\n\n这是22岁的哈佛女生 Amanda Nguyen 遇到的一道选择题。\n她在大学最后一学期遭到强奸。\n按流程做完所有法医鉴定。\n为了不影响未来进NASA的安全审查，她选择匿名报案。\n结果发现所在州的匿名取证套件保存期只有六个月。\n没有任何延期指导，到期直接扔。\n\n她查遍了全美50个州。\n有些州30天就销毁证据。\n有些州还要受害者自己掏钱支付取证费。\n\n22岁的她决定掀桌子。\n不填表了，直接去改联邦法。\n她创立非营利组织 Rise，全员志愿，靠众筹运作。\n一家家敲开华盛顿议员的门。\n她直视他们的眼睛：“我就坐在你面前。”\n\n法案诉求极简：取证必须免费，销毁前必须提前60天通知。\n结果呢？\n参议院全票通过。\n众议院全票通过。\n零票反对。\n法案签字生效那天，她刚满24岁。\n\n这帮纯草根志愿者一个州一个州死磕，最终改写了33项法律。\n一张巨大的保护网盖在了全美 8400 万幸存者身上。\n\n以前不是做不到，是不想做。\n\n对了，那个怕报案影响航天梦的女孩，梦想也没丢。\n2024年，她搭乘蓝色起源飞船升空，成了首位进入太空的越南裔女性。\n她没等系统来拯救自己，她亲手把系统拆了重装。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 244,
+          "impression_count": 266045,
+          "like_count": 2412,
+          "quote_count": 6,
+          "reply_count": 27,
+          "retweet_count": 167
+        },
+        "reply_settings": "everyone",
+        "text": "你的身体证据，六个月后自动销毁。\n除非你每半年填一次表申请保留。\n无休止地填下去。\n\n这是22岁的哈佛女生 Amanda Nguyen 遇到的一道选择题。\n她在大学最后一学期遭到强奸。\n按流程做完所有法医鉴定。\n为了不影响未来进NASA的安全审查，她选择匿名报案。 https://t.co/0iKWBs4pxB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 3186,
+          "like_count": 44873,
+          "listed_count": 5,
+          "media_count": 369,
+          "tweet_count": 11530
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-03T14:30:44.000Z",
+        "description": "人类的金色通道：Crypto → AI → Space！美国政治、AI科技、国际博弈--用人话讲给你听。",
+        "id": "1069599820912910337",
+        "name": "墓碑科技",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936440283094265856/FEwHZFDT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58547,
+          "following_count": 4122,
+          "like_count": 10977,
+          "listed_count": 301,
+          "media_count": 9991,
+          "tweet_count": 74006
+        },
+        "username": "mubeitech",
+        "verified": true
+      }
+    ]
+  }
+}

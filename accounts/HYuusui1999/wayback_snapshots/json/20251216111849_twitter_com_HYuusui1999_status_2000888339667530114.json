@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2000825131464282589",
+    "created_at": "2025-12-16T11:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T12:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000888339667530114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3387569464",
+          "start": 0,
+          "username": "UFP_YujunL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000888339667530114",
+    "in_reply_to_user_id": "3387569464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000825131464282589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UFP_YujunL 口水味的煙麼（"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8178,
+        "height": 720,
+        "media_key": "13_2000825076346683393",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000825076346683393/img/_akS5IoQEHxmnRGT.jpg",
+        "public_metrics": {
+          "view_count": 148
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000825076346683393/vid/avc1/480x270/K4hzYUrUwn4kEpKF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000825076346683393/vid/avc1/640x360/8HyLRSfgnWwh-5Qb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000825076346683393/vid/avc1/1280x720/R6_Y4gHa96XL9nHq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000825076346683393/pl/vUU0Y6exr5R9pjpy.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2000825131464282589",
+        "created_at": "2025-12-16T11:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T12:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000888339667530114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3387569464",
+              "start": 0,
+              "username": "UFP_YujunL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000888339667530114",
+        "in_reply_to_user_id": "3387569464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000825131464282589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UFP_YujunL 口水味的煙麼（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000825076346683393"
+          ]
+        },
+        "author_id": "3387569464",
+        "conversation_id": "2000825131464282589",
+        "created_at": "2025-12-16T07:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T08:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000825131464282589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iIHwIc3Rw2",
+              "end": 28,
+              "expanded_url": "https://x.com/UFP_YujunL/status/2000825131464282589/video/1",
+              "media_key": "13_2000825076346683393",
+              "start": 5,
+              "url": "https://t.co/iIHwIc3Rw2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000825131464282589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 386,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "教坏小孩 https://t.co/iIHwIc3Rw2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 2747,
+          "like_count": 43009,
+          "listed_count": 6,
+          "media_count": 308,
+          "tweet_count": 10462
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-22T15:56:17.000Z",
+        "description": "如果我牺牲了,请用我的骨灰在火星乌托邦平原种下一棵胡杨树(建制左派)|家用车驾驶王| 前𝗧𝗢𝗬𝗢𝗧𝗔 𝗖𝗔𝗠𝗥𝗬 𝗫𝗦𝗘 𝗔𝗪𝗗(不)省油车主|上汽𝗜𝗠 𝗟𝟲 𝗨𝗹𝘁𝗿𝗮准车主 | 一种#le",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yujunl.com.cn",
+                "end": 23,
+                "expanded_url": "http://yujunl.com.cn",
+                "start": 0,
+                "url": "https://t.co/ImIAme7rXe"
+              }
+            ]
+          }
+        },
+        "id": "3387569464",
+        "location": "星际联邦地球多伦多不明生物研究所",
+        "name": "彧君姨姨(一种宠物🐑)",
+        "pinned_tweet_id": "1745632726252650789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981033913788071938/Ao3StKvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13235,
+          "following_count": 857,
+          "like_count": 148309,
+          "listed_count": 48,
+          "media_count": 3879,
+          "tweet_count": 51057
+        },
+        "url": "https://t.co/ImIAme7rXe",
+        "username": "UFP_YujunL",
+        "verified": false
+      }
+    ]
+  }
+}

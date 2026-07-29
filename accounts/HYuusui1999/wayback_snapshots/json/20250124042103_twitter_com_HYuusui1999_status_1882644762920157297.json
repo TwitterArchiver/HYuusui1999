@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1882390408111730747",
+    "created_at": "2025-01-24T04:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T05:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882644762920157297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1157634166176931840",
+          "start": 0,
+          "username": "YKanoh65"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882644762920157297",
+    "in_reply_to_user_id": "1157634166176931840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882390408111730747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YKanoh65 Yes.僕中國人, can 解。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1882390408111730747",
+        "created_at": "2025-01-24T04:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T05:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882644762920157297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1157634166176931840",
+              "start": 0,
+              "username": "YKanoh65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882644762920157297",
+        "in_reply_to_user_id": "1157634166176931840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882390408111730747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YKanoh65 Yes.僕中國人, can 解。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1157634166176931840",
+        "conversation_id": "1882390408111730747",
+        "created_at": "2025-01-23T11:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T12:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882390408111730747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oedosoldier/st…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/oedosoldier/status/1882346198096621839",
+              "start": 49,
+              "url": "https://t.co/HoWS9jwhYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882390408111730747",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1714,
+          "impression_count": 1246803,
+          "like_count": 11052,
+          "quote_count": 329,
+          "reply_count": 58,
+          "retweet_count": 2863
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882346198096621839",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 want to a 質問.\n中文民 can 読解 this 文？\n日本人 can read. https://t.co/HoWS9jwhYq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 234,
+          "like_count": 2693,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 336
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-03T12:47:47.000Z",
+        "description": "Webエンジニア。 PHPカンファレンス関西2024（#phpkansai）実行委員長。PHP/Docker/Vue.jsあたりをついばんでる。 ダイビングが趣味。誰でも気軽にフォローしていただければ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 27,
+                "tag": "phpkansai"
+              }
+            ]
+          }
+        },
+        "id": "1157634166176931840",
+        "location": "かんさい in Japan",
+        "name": "Y-Kanoh(かのう)",
+        "pinned_tweet_id": "1871152643701412071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872063732714799104/d-gtzwWz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 623,
+          "like_count": 22871,
+          "listed_count": 17,
+          "media_count": 1621,
+          "tweet_count": 8998
+        },
+        "username": "YKanoh65",
+        "verified": false
+      }
+    ]
+  }
+}

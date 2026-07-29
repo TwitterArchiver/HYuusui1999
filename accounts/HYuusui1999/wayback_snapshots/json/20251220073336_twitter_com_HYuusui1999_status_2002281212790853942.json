@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002281176673742848"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2002046196890968302",
+    "created_at": "2025-12-20T07:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T08:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002281212790853942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1863430568559640577",
+          "start": 0,
+          "username": "Xianingfdu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HNuYe6nSkm",
+          "end": 35,
+          "expanded_url": "https://x.com/HYuusui1999/status/2002281212790853942/photo/1",
+          "media_key": "3_2002281176673742848",
+          "start": 12,
+          "url": "https://t.co/HNuYe6nSkm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002281212790853942",
+    "in_reply_to_user_id": "1863430568559640577",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002046196890968302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xianingfdu https://t.co/HNuYe6nSkm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2002281212790853942].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2002281212790853942",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2002281212790853942"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2002281176673742848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8mIHyQW8AA_0v-.jpg",
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863430568559640577",
+        "conversation_id": "2002046196890968302",
+        "created_at": "2025-12-19T15:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T16:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002046196890968302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002046196890968302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 525,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不理解，明明华立已经够烂的了，一些人为什么还要这么热衷于继续给华立插刀子？如果熊谷凌爱发票是督促华立（实际上也能督促），那ttnk公开玩家数据又是为了什么呢？我觉得还是不要试图理解神人逻辑，我只是一个普通舞萌玩家而已，我实在不理解为什么这群科技哥这么热衷于往全服投毒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 2831,
+          "like_count": 43422,
+          "listed_count": 6,
+          "media_count": 312,
+          "tweet_count": 10582
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T03:51:01.000Z",
+        "description": "",
+        "id": "1863430568559640577",
+        "location": "上海",
+        "name": "樱井夏柠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863430647244795904/UqNGDOZ6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 64,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "Xianingfdu",
+        "verified": false
+      }
+    ]
+  }
+}

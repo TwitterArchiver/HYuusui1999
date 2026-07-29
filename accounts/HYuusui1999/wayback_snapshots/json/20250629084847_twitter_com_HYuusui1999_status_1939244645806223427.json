@@ -1,0 +1,625 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899619193749511",
+          "name": "Sandbox games"
+        }
+      }
+    ],
+    "conversation_id": "1939244645806223427",
+    "created_at": "2025-06-29T08:48:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T09:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939244645806223427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1617523246144053251",
+          "start": 3,
+          "username": "s1nyvu"
+        }
+      ],
+      "urls": [
+        {
+          "description": "123云盘为您提供【雌二醇星球】E2planet Club.zip最新版正式版官方版绿色版下载,【雌二醇星球】E2planet Club.zip安卓版手机版apk免费下载安装到手机,支持电脑端一键快捷安装",
+          "display_url": "123912.com/s/fOmyjv-9CfNv",
+          "end": 93,
+          "expanded_url": "https://www.123912.com/s/fOmyjv-9CfNv",
+          "start": 70,
+          "status": 200,
+          "title": "【雌二醇星球】E2planet Club.zip官方版下载丨最新版下载丨绿色版下载丨APP下载-123云盘",
+          "unwound_url": "https://www.123912.com/s/fOmyjv-9CfNv",
+          "url": "https://t.co/AY3Y0cJ3Pz"
+        },
+        {
+          "display_url": "1drv.ms/u/c/fe4c63822d…",
+          "end": 121,
+          "expanded_url": "https://1drv.ms/u/c/fe4c63822de5a0dc/EY4HNfFNFitIj4kpRTqYcxEBPIVM70Eg6SfIx1fBJHdL6Q?e=sOc6K4",
+          "start": 98,
+          "status": 403,
+          "unwound_url": "https://onedrive.live.com/redir?cid=fe4c63822de5a0dc&resid=FE4C63822DE5A0DC!sf135078e164d482b8f8929453a987311&e=sOc6K4&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9mZTRjNjM4MjJkZTVhMGRjL0VZNEhOZkZORml0SWo0a3BSVHFZY3hFQlBJVk03MEVnNlNmSXgxZkJKSGRMNlE_ZT1zT2M2SzQ",
+          "url": "https://t.co/3yEEK9aerP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939244645806223427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937446033388347821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @s1nyvu: 用某台天玑8100的神机搭建了个minecraft服务器😂，24h在线，欢迎同类来玩喵🤓🤓\n客户端下载：\n123盘：https://t.co/AY3Y0cJ3Pz\n微软云：https://t.co/3yEEK9aerP\n用了俩隧道frp，一个广州一个杭州…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937446019404591104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuMw474a8AAh766.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1937446019555557383",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuMw48cagAcXoZo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1983,
+        "media_key": "3_1937446019429732352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuMw47-akAAfvM7.jpg",
+        "width": 1115
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "1939244645806223427",
+        "created_at": "2025-06-29T08:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T09:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939244645806223427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1617523246144053251",
+              "start": 3,
+              "username": "s1nyvu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "123云盘为您提供【雌二醇星球】E2planet Club.zip最新版正式版官方版绿色版下载,【雌二醇星球】E2planet Club.zip安卓版手机版apk免费下载安装到手机,支持电脑端一键快捷安装",
+              "display_url": "123912.com/s/fOmyjv-9CfNv",
+              "end": 93,
+              "expanded_url": "https://www.123912.com/s/fOmyjv-9CfNv",
+              "start": 70,
+              "status": 200,
+              "title": "【雌二醇星球】E2planet Club.zip官方版下载丨最新版下载丨绿色版下载丨APP下载-123云盘",
+              "unwound_url": "https://www.123912.com/s/fOmyjv-9CfNv",
+              "url": "https://t.co/AY3Y0cJ3Pz"
+            },
+            {
+              "display_url": "1drv.ms/u/c/fe4c63822d…",
+              "end": 121,
+              "expanded_url": "https://1drv.ms/u/c/fe4c63822de5a0dc/EY4HNfFNFitIj4kpRTqYcxEBPIVM70Eg6SfIx1fBJHdL6Q?e=sOc6K4",
+              "start": 98,
+              "status": 403,
+              "unwound_url": "https://onedrive.live.com/redir?cid=fe4c63822de5a0dc&resid=FE4C63822DE5A0DC!sf135078e164d482b8f8929453a987311&e=sOc6K4&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9mZTRjNjM4MjJkZTVhMGRjL0VZNEhOZkZORml0SWo0a3BSVHFZY3hFQlBJVk03MEVnNlNmSXgxZkJKSGRMNlE_ZT1zT2M2SzQ",
+              "url": "https://t.co/3yEEK9aerP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939244645806223427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937446033388347821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @s1nyvu: 用某台天玑8100的神机搭建了个minecraft服务器😂，24h在线，欢迎同类来玩喵🤓🤓\n客户端下载：\n123盘：https://t.co/AY3Y0cJ3Pz\n微软云：https://t.co/3yEEK9aerP\n用了俩隧道frp，一个广州一个杭州…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937446019404591104",
+            "3_1937446019555557383",
+            "3_1937446019429732352"
+          ]
+        },
+        "author_id": "1617523246144053251",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "1937446033388347821",
+        "created_at": "2025-06-24T09:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T10:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937446033388347821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "123云盘为您提供【雌二醇星球】E2planet Club.zip最新版正式版官方版绿色版下载,【雌二醇星球】E2planet Club.zip安卓版手机版apk免费下载安装到手机,支持电脑端一键快捷安装",
+              "display_url": "123912.com/s/fOmyjv-9CfNv",
+              "end": 81,
+              "expanded_url": "https://www.123912.com/s/fOmyjv-9CfNv",
+              "start": 58,
+              "status": 200,
+              "title": "【雌二醇星球】E2planet Club.zip官方版下载丨最新版下载丨绿色版下载丨APP下载-123云盘",
+              "unwound_url": "https://www.123912.com/s/fOmyjv-9CfNv",
+              "url": "https://t.co/AY3Y0cJ3Pz"
+            },
+            {
+              "display_url": "1drv.ms/u/c/fe4c63822d…",
+              "end": 109,
+              "expanded_url": "https://1drv.ms/u/c/fe4c63822de5a0dc/EY4HNfFNFitIj4kpRTqYcxEBPIVM70Eg6SfIx1fBJHdL6Q?e=sOc6K4",
+              "start": 86,
+              "status": 403,
+              "unwound_url": "https://onedrive.live.com/redir?cid=fe4c63822de5a0dc&resid=FE4C63822DE5A0DC!sf135078e164d482b8f8929453a987311&e=sOc6K4&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvYy9mZTRjNjM4MjJkZTVhMGRjL0VZNEhOZkZORml0SWo0a3BSVHFZY3hFQlBJVk03MEVnNlNmSXgxZkJKSGRMNlE_ZT1zT2M2SzQ",
+              "url": "https://t.co/3yEEK9aerP"
+            },
+            {
+              "display_url": "pic.x.com/kOvzvMbRuu",
+              "end": 190,
+              "expanded_url": "https://x.com/s1nyvu/status/1937446033388347821/photo/1",
+              "media_key": "3_1937446019404591104",
+              "start": 167,
+              "url": "https://t.co/kOvzvMbRuu"
+            },
+            {
+              "display_url": "pic.x.com/kOvzvMbRuu",
+              "end": 190,
+              "expanded_url": "https://x.com/s1nyvu/status/1937446033388347821/photo/1",
+              "media_key": "3_1937446019555557383",
+              "start": 167,
+              "url": "https://t.co/kOvzvMbRuu"
+            },
+            {
+              "display_url": "pic.x.com/kOvzvMbRuu",
+              "end": 190,
+              "expanded_url": "https://x.com/s1nyvu/status/1937446033388347821/photo/1",
+              "media_key": "3_1937446019429732352",
+              "start": 167,
+              "url": "https://t.co/kOvzvMbRuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937446033388347821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1232,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用某台天玑8100的神机搭建了个minecraft服务器😂，24h在线，欢迎同类来玩喵🤓🤓\n客户端下载：\n123盘：https://t.co/AY3Y0cJ3Pz\n微软云：https://t.co/3yEEK9aerP\n用了俩隧道frp，一个广州一个杭州，选延迟低的进就行🥺\n还有QQ群可以来吹水😊\nts语音服务器也在光速搭建ing https://t.co/kOvzvMbRuu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yvjue0189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yvjue0189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 1232,
+          "like_count": 23183,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 5561
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-23T14:02:59.000Z",
+        "description": "潜在性跨🏳️‍⚧️（？）没吃过🍥|07老年人|辍学-离家出走-无工作收入-经济窘困|ENFJ+表演型人格+双相（？）|永不设门🚪赞赏自愿|同类可互fo扩列喵|（祝我好似喵）",
+        "id": "1617523246144053251",
+        "location": "Goose Town",
+        "name": "❄️雪梦歆屿🦖",
+        "pinned_tweet_id": "1928345532537114825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939286425934921728/nchzB8iB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 35,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 864
+        },
+        "username": "s1nyvu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1923344081692024832"
+      ],
+      "media_source_tweet_id": [
+        "1923344374559043646"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1923688704326918572",
+    "created_at": "2025-05-17T10:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T11:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923688704326918572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1429405137198452736",
+          "start": 3,
+          "username": "EffieLindraDom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hnAxKxNdyY",
+          "end": 49,
+          "expanded_url": "https://x.com/EffieLindraDom/status/1923344374559043646/video/1",
+          "media_key": "13_1923344081692024832",
+          "start": 26,
+          "url": "https://t.co/hnAxKxNdyY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923688704326918572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923344374559043646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EffieLindraDom: 曾经... https://t.co/hnAxKxNdyY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25766,
+        "height": 1080,
+        "media_key": "13_1923344081692024832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1923344081692024832/img/zrWKKgpDWW8vwLjq.jpg",
+        "public_metrics": {
+          "view_count": 70
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923344081692024832/vid/avc1/600x360/gj3OOhNn0ZNLp4hm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923344081692024832/vid/avc1/1202x720/henHjPttmqXfjN71.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923344081692024832/vid/avc1/1804x1080/Q_U6yp7eK3HyX9UD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1923344081692024832/pl/N5kv7wLIg1kzLBPL.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923344081692024832/vid/avc1/450x270/MNrVNnNlp3lM_FIO.mp4"
+          }
+        ],
+        "width": 1804
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1923344081692024832"
+          ],
+          "media_source_tweet_id": [
+            "1923344374559043646"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1923688704326918572",
+        "created_at": "2025-05-17T10:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T11:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923688704326918572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1429405137198452736",
+              "start": 3,
+              "username": "EffieLindraDom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hnAxKxNdyY",
+              "end": 49,
+              "expanded_url": "https://x.com/EffieLindraDom/status/1923344374559043646/video/1",
+              "media_key": "13_1923344081692024832",
+              "start": 26,
+              "url": "https://t.co/hnAxKxNdyY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923688704326918572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923344374559043646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EffieLindraDom: 曾经... https://t.co/hnAxKxNdyY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1923344081692024832"
+          ]
+        },
+        "author_id": "1429405137198452736",
+        "conversation_id": "1923344374559043646",
+        "created_at": "2025-05-16T11:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T12:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923344374559043646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hnAxKxNdyY",
+              "end": 29,
+              "expanded_url": "https://x.com/EffieLindraDom/status/1923344374559043646/video/1",
+              "media_key": "13_1923344081692024832",
+              "start": 6,
+              "url": "https://t.co/hnAxKxNdyY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923344374559043646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 303,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "曾经... https://t.co/hnAxKxNdyY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 983,
+          "like_count": 19578,
+          "listed_count": 6,
+          "media_count": 190,
+          "tweet_count": 4261
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T11:28:44.000Z",
+        "description": "I can drink nitric acid cause, it won't hurt me./Biohacker💉/Computer-Aided Drug Design…/Psychonaut/Cryptoanarchist/Konstruante potencon kun simboloj/Oder/🧬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "systemspaces.top",
+                "end": 23,
+                "expanded_url": "http://systemspaces.top",
+                "start": 0,
+                "url": "https://t.co/Rnqnch2leD"
+              }
+            ]
+          }
+        },
+        "id": "1429405137198452736",
+        "location": "OtokonokoNeko Pharma (ØNPH)",
+        "name": "Effie Lingley Dorme🧬🔬",
+        "pinned_tweet_id": "1923684421351375300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909109028254621696/ozLT6GKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9035,
+          "following_count": 899,
+          "like_count": 123825,
+          "listed_count": 35,
+          "media_count": 3373,
+          "tweet_count": 19724
+        },
+        "url": "https://t.co/Rnqnch2leD",
+        "username": "EffieLindraDom",
+        "verified": true
+      }
+    ]
+  }
+}

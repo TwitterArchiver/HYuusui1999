@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1999383099856064521",
+    "created_at": "2025-12-12T07:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T08:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999383099856064521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1849043039496617984",
+          "start": 3,
+          "username": "Rinko_zero8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999383099856064521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999347277396345336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rinko_zero8964: 他妈的凭什么，爱礼那么好一个人为什么连让她安宁点都做不到……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1999383099856064521",
+        "created_at": "2025-12-12T07:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T08:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999383099856064521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1849043039496617984",
+              "start": 3,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999383099856064521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999347277396345336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rinko_zero8964: 他妈的凭什么，爱礼那么好一个人为什么连让她安宁点都做不到……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1999347277396345336",
+        "created_at": "2025-12-12T05:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999347277396345336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pbpp10521715/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/pbpp10521715/status/1999172463331324253",
+              "start": 31,
+              "url": "https://t.co/zghJZ3SZk7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999347277396345336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999172463331324253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他妈的凭什么，爱礼那么好一个人为什么连让她安宁点都做不到…… https://t.co/zghJZ3SZk7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfXxgs"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 2656,
+          "like_count": 42194,
+          "listed_count": 6,
+          "media_count": 307,
+          "tweet_count": 10297
+        },
+        "url": "https://t.co/BjaOJfXxgs",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！｜我不吸毒！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNOXH"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 372,
+          "like_count": 5778,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5088
+        },
+        "url": "https://t.co/rCvc9RNOXH",
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

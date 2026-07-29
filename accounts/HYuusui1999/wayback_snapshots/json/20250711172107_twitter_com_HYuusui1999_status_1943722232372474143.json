@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324127674575450113",
+          "name": "School festivals"
+        }
+      }
+    ],
+    "conversation_id": "1943365433752719644",
+    "created_at": "2025-07-11T17:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T18:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943722232372474143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/scrap_trpg/sta…",
+          "end": 32,
+          "expanded_url": "https://x.com/scrap_trpg/status/1940958102637191453",
+          "start": 9,
+          "url": "https://t.co/hliJcJLR7s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943722232372474143",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940958102637191453",
+        "type": "quoted"
+      },
+      {
+        "id": "1943365433752719644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 https://t.co/hliJcJLR7s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1262,
+        "media_key": "3_1943365424168734722",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvg4jpBakAIxytE.jpg",
+        "width": 1172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324127674575450113",
+              "name": "School festivals"
+            }
+          }
+        ],
+        "conversation_id": "1943365433752719644",
+        "created_at": "2025-07-11T17:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T18:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943722232372474143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/scrap_trpg/sta…",
+              "end": 32,
+              "expanded_url": "https://x.com/scrap_trpg/status/1940958102637191453",
+              "start": 9,
+              "url": "https://t.co/hliJcJLR7s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943722232372474143",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940958102637191453",
+            "type": "quoted"
+          },
+          {
+            "id": "1943365433752719644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 https://t.co/hliJcJLR7s"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "739109668660744194",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324127674575450113",
+              "name": "School festivals"
+            }
+          }
+        ],
+        "conversation_id": "1940958102637191453",
+        "created_at": "2025-07-04T02:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T03:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940958102637191453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940958102637191453",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15136,
+          "impression_count": 7185172,
+          "like_count": 122163,
+          "quote_count": 1577,
+          "reply_count": 4,
+          "retweet_count": 12099
+        },
+        "reply_settings": "following",
+        "text": "大昔、文化祭のノリで女装した後輩のことを褒めまくった2ヶ月後くらいに、俺だけ誰もいない部室に呼び出されて、奥まった所でこっそり女装を見せられたことがあった。\n\n何を着ていたかの記憶は曖昧なのに、後輩が俺に褒められることを期待して発した「どうですか」を今でも覚えてる。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943365424168734722"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1943365433752719644",
+        "created_at": "2025-07-10T17:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T18:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943365433752719644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZFpnRcOvV",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1943365433752719644/photo/1",
+              "media_key": "3_1943365424168734722",
+              "start": 0,
+              "url": "https://t.co/qZFpnRcOvV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943365433752719644",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 111279,
+          "like_count": 1826,
+          "quote_count": 5,
+          "reply_count": 58,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qZFpnRcOvV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 1358,
+          "like_count": 25080,
+          "listed_count": 5,
+          "media_count": 218,
+          "tweet_count": 6179
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1938548630870458380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83763,
+          "following_count": 971,
+          "like_count": 41867,
+          "listed_count": 189,
+          "media_count": 13377,
+          "tweet_count": 20046
+        },
+        "username": "hsn8086",
+        "verified": true
+      },
+      {
+        "created_at": "2016-06-04T15:00:52.000Z",
+        "description": "平日朝7時から朝活配信と夜不定期で配信をしてる📢 ストグラで「涼眩此方(元:ヘラシギ)」をしていたよ。 他CoC、マーダーミステリー、商業BL、チンチラを好む。 TRPGシナリオ「御曹司オペラ」「ループ橋で何かが自分を待っているんです。」 の作者。 ファンアートタグ→ #スクラッピクチャ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 144,
+                "start": 135,
+                "tag": "スクラッピクチャ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/3RHG31LVF4IXK?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/4mxfKYF3ym"
+              }
+            ]
+          }
+        },
+        "id": "739109668660744194",
+        "location": "アイコン→犬居/ヘッダー→こげ",
+        "name": "スクラップ",
+        "pinned_tweet_id": "1934189145326334457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927455832121147392/RmoCrgS2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28488,
+          "following_count": 1296,
+          "like_count": 36302,
+          "listed_count": 288,
+          "media_count": 4611,
+          "tweet_count": 52367
+        },
+        "url": "https://t.co/4mxfKYF3ym",
+        "username": "scrap_trpg",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1955535568202567812",
+    "created_at": "2025-10-11T14:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T15:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977020001321386435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "937675426717159424",
+          "start": 0,
+          "username": "MaoZedong1893__"
+        },
+        {
+          "end": 26,
+          "id": "1934194191719882752",
+          "start": 17,
+          "username": "von69596"
+        },
+        {
+          "end": 38,
+          "id": "1668037836996771840",
+          "start": 27,
+          "username": "cha_li_jin"
+        },
+        {
+          "end": 48,
+          "id": "1934194191719882752",
+          "start": 39,
+          "username": "von69596"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977020001321386435",
+    "in_reply_to_user_id": "937675426717159424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955989791427977388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaoZedong1893__ @von69596 @cha_li_jin @von69596 号没了"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [von69596].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "von69596",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "von69596"
+    },
+    {
+      "detail": "User has been suspended: [von69596].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "von69596",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "von69596"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1955989607176417280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyUSLzgbMAAD76Y.jpg",
+        "width": 1146
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1955535568202567812",
+        "created_at": "2025-10-11T14:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T15:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977020001321386435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "937675426717159424",
+              "start": 0,
+              "username": "MaoZedong1893__"
+            },
+            {
+              "end": 26,
+              "id": "1934194191719882752",
+              "start": 17,
+              "username": "von69596"
+            },
+            {
+              "end": 38,
+              "id": "1668037836996771840",
+              "start": 27,
+              "username": "cha_li_jin"
+            },
+            {
+              "end": 48,
+              "id": "1934194191719882752",
+              "start": 39,
+              "username": "von69596"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977020001321386435",
+        "in_reply_to_user_id": "937675426717159424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955989791427977388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaoZedong1893__ @von69596 @cha_li_jin @von69596 号没了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955989607176417280"
+          ]
+        },
+        "author_id": "937675426717159424",
+        "conversation_id": "1955535568202567812",
+        "created_at": "2025-08-14T13:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T14:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955989791427977388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1934194191719882752",
+              "start": 0,
+              "username": "von69596"
+            },
+            {
+              "end": 21,
+              "id": "1668037836996771840",
+              "start": 10,
+              "username": "cha_li_jin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XEoZuRQbst",
+              "end": 75,
+              "expanded_url": "https://x.com/MaoZedong1893__/status/1955989791427977388/photo/1",
+              "media_key": "3_1955989607176417280",
+              "start": 52,
+              "url": "https://t.co/XEoZuRQbst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955989791427977388",
+        "in_reply_to_user_id": "1934194191719882752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955937099678441885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@von69596 @cha_li_jin 兄弟评价一下这个人，我是实在想象不出来怎么会有人长成这b样 https://t.co/XEoZuRQbst"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 2082,
+          "like_count": 35278,
+          "listed_count": 6,
+          "media_count": 284,
+          "tweet_count": 8765
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-04T13:30:17.000Z",
+        "description": "毛泽东（1893年12月26日—1976年9月9日），字润之（原作咏芝，后改润芝），笔名子任，湖南湘潭人，伟大的马克思主义者，伟大的无产阶级革命家、战略家、理论家，中国共产党、中国人民解放军和中华人民共和国的主要缔造者和领导人。",
+        "id": "937675426717159424",
+        "name": "毛泽东",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923359512293203968/AFltvkOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 1033,
+          "like_count": 5794,
+          "listed_count": 13,
+          "media_count": 321,
+          "tweet_count": 3891
+        },
+        "username": "MaoZedong1893__",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T23:29:56.000Z",
+        "description": "阴湿阳光回避性压抑理工舞萌安卓型含糖长发男，低能量人群，一切与敏感色图相关的会逐步移植到 @tashigan_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "tashigan_"
+              }
+            ]
+          }
+        },
+        "id": "1668037836996771840",
+        "location": "0x7d9cd745",
+        "name": "天才少女察里津",
+        "pinned_tweet_id": "1940983556492435942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972464380152573952/DrbfLE7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5519,
+          "following_count": 806,
+          "like_count": 9878,
+          "listed_count": 18,
+          "media_count": 241,
+          "tweet_count": 1890
+        },
+        "username": "cha_li_jin",
+        "verified": false
+      }
+    ]
+  }
+}

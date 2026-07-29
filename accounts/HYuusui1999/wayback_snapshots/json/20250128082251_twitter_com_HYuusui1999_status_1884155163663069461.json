@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1883265202600501553",
+    "created_at": "2025-01-28T08:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T09:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884155163663069461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1537339345987809280",
+          "start": 0,
+          "username": "Azazel4711"
+        },
+        {
+          "end": 25,
+          "id": "1782932905419046912",
+          "start": 12,
+          "username": "ratshelprats"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884155163663069461",
+    "in_reply_to_user_id": "1537339345987809280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883274354131386656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Azazel4711 @ratshelprats 最俳句"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1883265202600501553",
+        "created_at": "2025-01-28T08:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T09:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884155163663069461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1537339345987809280",
+              "start": 0,
+              "username": "Azazel4711"
+            },
+            {
+              "end": 25,
+              "id": "1782932905419046912",
+              "start": 12,
+              "username": "ratshelprats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884155163663069461",
+        "in_reply_to_user_id": "1537339345987809280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883274354131386656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Azazel4711 @ratshelprats 最俳句"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883274351954513920"
+          ]
+        },
+        "author_id": "1537339345987809280",
+        "conversation_id": "1883265202600501553",
+        "created_at": "2025-01-25T22:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T23:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883274354131386656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782932905419046912",
+              "start": 0,
+              "username": "ratshelprats"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CogB8bVvAq",
+              "end": 60,
+              "expanded_url": "https://x.com/Azazel4711/status/1883274354131386656/photo/1",
+              "media_key": "3_1883274351954513920",
+              "start": 37,
+              "url": "https://t.co/CogB8bVvAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883274354131386656",
+        "in_reply_to_user_id": "1782932905419046912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883265202600501553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ratshelprats 睡不着逛推，\n发现今天要上班，\n气得肚子疼。 https://t.co/CogB8bVvAq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "希望大家都好好生活",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 270,
+          "like_count": 3984,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 506
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-16T07:40:53.000Z",
+        "description": "",
+        "id": "1537339345987809280",
+        "name": "Macblack.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883274574454030336/xOEuObtf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 200,
+          "like_count": 135,
+          "listed_count": 9,
+          "media_count": 12,
+          "tweet_count": 45
+        },
+        "username": "Azazel4711",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "1862271802019590557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61714,
+          "following_count": 468,
+          "like_count": 36833,
+          "listed_count": 83,
+          "media_count": 441,
+          "tweet_count": 966
+        },
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

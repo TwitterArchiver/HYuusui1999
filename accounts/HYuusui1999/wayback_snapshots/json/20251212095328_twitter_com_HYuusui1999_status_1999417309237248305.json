@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1999330415015002561",
+    "created_at": "2025-12-12T09:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T10:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999417309237248305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581866233225281538",
+          "start": 0,
+          "username": "K1ta_Ikuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999417309237248305",
+    "in_reply_to_user_id": "1581866233225281538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999330415015002561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1ta_Ikuyo 沒這麼好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1763,
+        "media_key": "3_1999330405116444674",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78MaRmagAI0QqL.jpg",
+        "width": 1300
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999330405108051968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78MaRkacAAZ38q.jpg",
+        "width": 1672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1999330415015002561",
+        "created_at": "2025-12-12T09:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T10:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999417309237248305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581866233225281538",
+              "start": 0,
+              "username": "K1ta_Ikuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999417309237248305",
+        "in_reply_to_user_id": "1581866233225281538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999330415015002561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1ta_Ikuyo 沒這麼好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999330405116444674",
+            "3_1999330405108051968"
+          ]
+        },
+        "author_id": "1581866233225281538",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1999330415015002561",
+        "created_at": "2025-12-12T04:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T05:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999330415015002561"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "中国",
+              "probability": 0.6816,
+              "start": 29,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ys0TGEUtzi",
+              "end": 61,
+              "expanded_url": "https://x.com/K1ta_Ikuyo/status/1999330415015002561/photo/1",
+              "media_key": "3_1999330405116444674",
+              "start": 38,
+              "url": "https://t.co/Ys0TGEUtzi"
+            },
+            {
+              "display_url": "pic.x.com/Ys0TGEUtzi",
+              "end": 61,
+              "expanded_url": "https://x.com/K1ta_Ikuyo/status/1999330415015002561/photo/1",
+              "media_key": "3_1999330405108051968",
+              "start": 38,
+              "url": "https://t.co/Ys0TGEUtzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999330415015002561",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 910,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Kessoku band members 交換留学生として中国の高校に来た https://t.co/Ys0TGEUtzi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfXxgs"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 2662,
+          "like_count": 42262,
+          "listed_count": 6,
+          "media_count": 307,
+          "tweet_count": 10309
+        },
+        "url": "https://t.co/BjaOJfXxgs",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T04:34:43.000Z",
+        "description": "結束バンドのボーカル兼ギタリスト（もう亡くなった）",
+        "id": "1581866233225281538",
+        "location": "Tokyo Japan",
+        "name": "きた いくよ",
+        "pinned_tweet_id": "1937031572701729195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998567279454474240/j1BZseWh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10767,
+          "following_count": 2582,
+          "like_count": 32787,
+          "listed_count": 21,
+          "media_count": 886,
+          "tweet_count": 13507
+        },
+        "username": "K1ta_Ikuyo",
+        "verified": false
+      }
+    ]
+  }
+}

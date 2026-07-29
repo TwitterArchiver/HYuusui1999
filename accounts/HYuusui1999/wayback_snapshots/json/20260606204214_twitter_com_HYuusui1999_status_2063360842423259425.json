@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063331990859128832"
+      ],
+      "media_source_tweet_id": [
+        "2063332696408117589"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2063360842423259425",
+    "created_at": "2026-06-06T20:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T21:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063360842423259425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1814303146921050112",
+          "start": 3,
+          "username": "LiangPengYu9936"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WaHihSitTC",
+          "end": 71,
+          "expanded_url": "https://x.com/LiangPengYu9936/status/2063332696408117589/photo/1",
+          "media_key": "3_2063331990859128832",
+          "start": 48,
+          "url": "https://t.co/WaHihSitTC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063360842423259425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063332696408117589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LiangPengYu9936: 12356是心理咨询热线电话\n请记住，他们能帮你一切 https://t.co/WaHihSitTC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063360842423259425].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063360842423259425",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063360842423259425"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2063331990859128832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJtg4DboAAq_Xy.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063331990859128832"
+          ]
+        },
+        "author_id": "1814303146921050112",
+        "conversation_id": "2063332696408117589",
+        "created_at": "2026-06-06T18:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T19:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063332696408117589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WaHihSitTC",
+              "end": 50,
+              "expanded_url": "https://x.com/LiangPengYu9936/status/2063332696408117589/photo/1",
+              "media_key": "3_2063331990859128832",
+              "start": 27,
+              "url": "https://t.co/WaHihSitTC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063332696408117589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "12356是心理咨询热线电话\n请记住，他们能帮你一切 https://t.co/WaHihSitTC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 3516,
+          "like_count": 45795,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 11860
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T14:16:21.000Z",
+        "description": "BiliBili来的🇨🇳目前暂不制作编曲，抱歉😭\n                 外名人格：梁の游鱼021、小鱼悠127、梁幸望526、望希早梁梦721丨喜欢类型：音游曲&日核电音TANO*C kskk：Srav3R&DJNoriken&Noizenecio丨永远保持开心！来吧！3，2，1，GO！丨\n😋耶✌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/abstv7k",
+                "end": 23,
+                "expanded_url": "https://b23.tv/abstv7k",
+                "start": 0,
+                "url": "https://t.co/8C1RFVw45z"
+              }
+            ]
+          }
+        },
+        "id": "1814303146921050112",
+        "location": "虚拟世界(和平新世域)（告诉我为什么要保护虚拟世界？）",
+        "name": "自相残杀/Sa0nbilism_724💽👍",
+        "pinned_tweet_id": "2060916471262556546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021858016208072705/Ir8a-cVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 527,
+          "like_count": 3364,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 653
+        },
+        "url": "https://t.co/8C1RFVw45z",
+        "username": "LiangPengYu9936",
+        "verified": false
+      }
+    ]
+  }
+}

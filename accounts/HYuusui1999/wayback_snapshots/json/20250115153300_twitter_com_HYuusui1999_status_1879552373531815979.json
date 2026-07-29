@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1879551717357780992",
+        "3_1879551717362053121"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1879549104981938608",
+    "created_at": "2025-01-15T15:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T16:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879552373531815979"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1q1YSbS25j",
+          "end": 47,
+          "expanded_url": "https://x.com/HYuusui1999/status/1879552373531815979/photo/1",
+          "media_key": "3_1879551717357780992",
+          "start": 24,
+          "url": "https://t.co/1q1YSbS25j"
+        },
+        {
+          "display_url": "pic.x.com/1q1YSbS25j",
+          "end": 47,
+          "expanded_url": "https://x.com/HYuusui1999/status/1879552373531815979/photo/1",
+          "media_key": "3_1879551717362053121",
+          "start": 24,
+          "url": "https://t.co/1q1YSbS25j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879552373531815979",
+    "in_reply_to_user_id": "1878681729407356928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879549104981938608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "由于太赶而把拖鞋塞进书包、还没吃早饭的狼狈的我 https://t.co/1q1YSbS25j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1879551717357780992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhWCVCIWAAApYFc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1879551717362053121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhWCVCJXMAEHhYA.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879551717357780992",
+            "3_1879551717362053121"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1879549104981938608",
+        "created_at": "2025-01-15T15:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T16:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879552373531815979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1q1YSbS25j",
+              "end": 47,
+              "expanded_url": "https://x.com/HYuusui1999/status/1879552373531815979/photo/1",
+              "media_key": "3_1879551717357780992",
+              "start": 24,
+              "url": "https://t.co/1q1YSbS25j"
+            },
+            {
+              "display_url": "pic.x.com/1q1YSbS25j",
+              "end": 47,
+              "expanded_url": "https://x.com/HYuusui1999/status/1879552373531815979/photo/1",
+              "media_key": "3_1879551717362053121",
+              "start": 24,
+              "url": "https://t.co/1q1YSbS25j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879552373531815979",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879549104981938608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "由于太赶而把拖鞋塞进书包、还没吃早饭的狼狈的我 https://t.co/1q1YSbS25j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1879549104981938608",
+        "created_at": "2025-01-15T15:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T16:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879549104981938608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879549104981938608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚上不睡导致睡过了早上的集合时间……被老师批评了哈哈哈。8:00=&gt;8:28，大家又多了一个讨厌我的理由。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "",
+        "id": "1878681729407356928",
+        "name": "祐穂・H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 67,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 61
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

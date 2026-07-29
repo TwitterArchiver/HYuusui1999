@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1981646790165422420",
+    "created_at": "2025-10-24T11:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T12:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981681610786484248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362960365055668225",
+          "start": 0,
+          "username": "POI74103174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981681610786484248",
+    "in_reply_to_user_id": "1362960365055668225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981646790165422420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@POI74103174 wow和街霸联动\n今天刚好在打"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1981646771894861825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4A5PWUXwAE8N6f.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1981646790165422420",
+        "created_at": "2025-10-24T11:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T12:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981681610786484248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362960365055668225",
+              "start": 0,
+              "username": "POI74103174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981681610786484248",
+        "in_reply_to_user_id": "1362960365055668225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981646790165422420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@POI74103174 wow和街霸联动\n今天刚好在打"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981646771894861825"
+          ]
+        },
+        "author_id": "1362960365055668225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1981646790165422420",
+        "created_at": "2025-10-24T08:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T09:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981646790165422420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ux93kio46L",
+              "end": 34,
+              "expanded_url": "https://x.com/POI74103174/status/1981646790165422420/photo/1",
+              "media_key": "3_1981646771894861825",
+              "start": 11,
+              "url": "https://t.co/Ux93kio46L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981646790165422420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 243,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麦的新品，都好一般（ https://t.co/Ux93kio46L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n\n暂时退网（从2025年10月17日起，预计1个月）\n除留言以外的功能全部暂停运作",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 2176,
+          "like_count": 36044,
+          "listed_count": 6,
+          "media_count": 288,
+          "tweet_count": 8915
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-20T03:00:58.000Z",
+        "description": "叫Poi就好啦。永远最喜欢的哥哥@kinpeimoment615；藝術系留学生／小市民；甘いものと冬と北海道が好き。(经常打错字，互动得多的话可能会回fo哦。🍡@Poi74103175",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "kinpeimoment615"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "Poi74103175"
+              }
+            ]
+          }
+        },
+        "id": "1362960365055668225",
+        "location": "Motorway South",
+        "name": "鸛鳥踟躕",
+        "pinned_tweet_id": "1786390162064433658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939208765053575168/rkOBGkcd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3025,
+          "following_count": 340,
+          "like_count": 64917,
+          "listed_count": 10,
+          "media_count": 2536,
+          "tweet_count": 22631
+        },
+        "username": "POI74103174",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1994689562451263743",
+    "created_at": "2025-12-08T11:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T12:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997992397872001323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1617168733956616196",
+          "start": 0,
+          "username": "jiwibih1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997992397872001323",
+    "in_reply_to_user_id": "1617168733956616196",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997990914397229530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiwibih1 保重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1994689562451263743",
+        "created_at": "2025-12-08T11:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T12:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997992397872001323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1617168733956616196",
+              "start": 0,
+              "username": "jiwibih1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997992397872001323",
+        "in_reply_to_user_id": "1617168733956616196",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997990914397229530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiwibih1 保重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617168733956616196",
+        "conversation_id": "1994689562451263743",
+        "created_at": "2025-12-08T11:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T12:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997990914397229530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997990914397229530",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994689562451263743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 我連我原本的手機都不知道跑去哪裡了，不過我還有一台備用機，雖然是八年前的手機了，但還勉強堪用，至少目前還能用來用推"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 2583,
+          "like_count": 41500,
+          "listed_count": 6,
+          "media_count": 303,
+          "tweet_count": 10135
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T14:34:18.000Z",
+        "description": "心理辅导小组成员，提供免费咨商/INFP/HSP/\nBD/GAD/GD(MTF)/疑PTSD/疑BPD/\nOverdose/kill myself/Self-harm",
+        "id": "1617168733956616196",
+        "name": "茜崎夢羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950925948184072192/ac5a6GUq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 641,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 112
+        },
+        "username": "jiwibih1",
+        "verified": false
+      }
+    ]
+  }
+}

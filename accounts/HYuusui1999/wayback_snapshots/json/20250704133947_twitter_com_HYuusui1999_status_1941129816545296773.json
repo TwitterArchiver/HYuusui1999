@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1941125470080086522",
+    "created_at": "2025-07-04T13:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T14:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941129816545296773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1819042830549204992",
+          "start": 0,
+          "username": "ss3996418"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941129816545296773",
+    "in_reply_to_user_id": "1819042830549204992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941129615705264503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ss3996418 呃呃\n确实啊……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1941125470080086522",
+        "created_at": "2025-07-04T13:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T14:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941129816545296773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1819042830549204992",
+              "start": 0,
+              "username": "ss3996418"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941129816545296773",
+        "in_reply_to_user_id": "1819042830549204992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941129615705264503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ss3996418 呃呃\n确实啊……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819042830549204992",
+        "conversation_id": "1941125470080086522",
+        "created_at": "2025-07-04T13:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T14:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941129615705264503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941129615705264503",
+        "in_reply_to_user_id": "1878681729407356928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941125470080086522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 额，但是，陌生人实在没有什么信用度呢，你倒是有一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 1337,
+          "like_count": 24402,
+          "listed_count": 5,
+          "media_count": 216,
+          "tweet_count": 5942
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T16:10:08.000Z",
+        "description": "最好的朋友@gxdnkj//成为顶天立地的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "gxdnkj"
+              }
+            ]
+          }
+        },
+        "id": "1819042830549204992",
+        "location": "星球博物馆–东亚区–525号废物展示厅",
+        "name": "祀萨",
+        "pinned_tweet_id": "1911072778977198333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908363979711537152/IlK6RIW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 67,
+          "like_count": 3642,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 1719
+        },
+        "username": "ss3996418",
+        "verified": false
+      }
+    ]
+  }
+}

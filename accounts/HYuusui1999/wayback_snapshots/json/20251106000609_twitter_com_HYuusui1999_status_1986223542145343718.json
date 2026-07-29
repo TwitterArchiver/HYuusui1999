@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986124386009817093",
+        "3_1986124385485529090",
+        "3_1986124386039177217",
+        "3_1986124385472946182"
+      ],
+      "media_source_tweet_id": [
+        "1986124562522906801",
+        "1986124562522906801",
+        "1986124562522906801",
+        "1986124562522906801"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1986223542145343718",
+    "created_at": "2025-11-06T00:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T01:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986223542145343718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1827053984521318400",
+          "start": 3,
+          "username": "C_baba_66ccff"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VrrcCCdvPl",
+          "end": 132,
+          "expanded_url": "https://x.com/C_baba_66ccff/status/1986124562522906801/photo/1",
+          "media_key": "3_1986124386009817093",
+          "start": 109,
+          "url": "https://t.co/VrrcCCdvPl"
+        },
+        {
+          "display_url": "pic.x.com/VrrcCCdvPl",
+          "end": 132,
+          "expanded_url": "https://x.com/C_baba_66ccff/status/1986124562522906801/photo/1",
+          "media_key": "3_1986124385485529090",
+          "start": 109,
+          "url": "https://t.co/VrrcCCdvPl"
+        },
+        {
+          "display_url": "pic.x.com/VrrcCCdvPl",
+          "end": 132,
+          "expanded_url": "https://x.com/C_baba_66ccff/status/1986124562522906801/photo/1",
+          "media_key": "3_1986124386039177217",
+          "start": 109,
+          "url": "https://t.co/VrrcCCdvPl"
+        },
+        {
+          "display_url": "pic.x.com/VrrcCCdvPl",
+          "end": 132,
+          "expanded_url": "https://x.com/C_baba_66ccff/status/1986124562522906801/photo/1",
+          "media_key": "3_1986124385472946182",
+          "start": 109,
+          "url": "https://t.co/VrrcCCdvPl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986223542145343718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986124562522906801",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C_baba_66ccff: 一点碎碎念\n前段时间总有不祥的预感，果然在上周五晚上我的泰补盒子被我妈发现了……她大概是知道那是什么的……\n也算是半炸柜了吧………\n难道……要被迫出柜了吗……\n要如何和她讲述呢？ https://t.co/VrrcCCdvPl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1948,
+        "media_key": "3_1986124386009817093",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5AhmyvbIAUc-z-.png",
+        "width": 1079
+      },
+      {
+        "height": 1450,
+        "media_key": "3_1986124385485529090",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5AhmwybIAI6LF0.png",
+        "width": 1079
+      },
+      {
+        "height": 1712,
+        "media_key": "3_1986124386039177217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Ahmy2bIAEw74b.png",
+        "width": 1079
+      },
+      {
+        "height": 1944,
+        "media_key": "3_1986124385472946182",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5AhmwvbIAYQw0X.png",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986124386009817093",
+            "3_1986124385485529090",
+            "3_1986124386039177217",
+            "3_1986124385472946182"
+          ],
+          "media_source_tweet_id": [
+            "1986124562522906801",
+            "1986124562522906801",
+            "1986124562522906801",
+            "1986124562522906801"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1986223542145343718",
+        "created_at": "2025-11-06T00:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T01:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986223542145343718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1827053984521318400",
+              "start": 3,
+              "username": "C_baba_66ccff"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VrrcCCdvPl",
+              "end": 132,
+              "expanded_url": "https://x.com/C_baba_66ccff/status/1986124562522906801/photo/1",
+              "media_key": "3_1986124386009817093",
+              "start": 109,
+              "url": "https://t.co/VrrcCCdvPl"
+            },
+            {
+              "display_url": "pic.x.com/VrrcCCdvPl",
+              "end": 132,
+              "expanded_url": "https://x.com/C_baba_66ccff/status/1986124562522906801/photo/1",
+              "media_key": "3_1986124385485529090",
+              "start": 109,
+              "url": "https://t.co/VrrcCCdvPl"
+            },
+            {
+              "display_url": "pic.x.com/VrrcCCdvPl",
+              "end": 132,
+              "expanded_url": "https://x.com/C_baba_66ccff/status/1986124562522906801/photo/1",
+              "media_key": "3_1986124386039177217",
+              "start": 109,
+              "url": "https://t.co/VrrcCCdvPl"
+            },
+            {
+              "display_url": "pic.x.com/VrrcCCdvPl",
+              "end": 132,
+              "expanded_url": "https://x.com/C_baba_66ccff/status/1986124562522906801/photo/1",
+              "media_key": "3_1986124385472946182",
+              "start": 109,
+              "url": "https://t.co/VrrcCCdvPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986223542145343718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986124562522906801",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @C_baba_66ccff: 一点碎碎念\n前段时间总有不祥的预感，果然在上周五晚上我的泰补盒子被我妈发现了……她大概是知道那是什么的……\n也算是半炸柜了吧………\n难道……要被迫出柜了吗……\n要如何和她讲述呢？ https://t.co/VrrcCCdvPl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986124386009817093",
+            "3_1986124385485529090",
+            "3_1986124386039177217",
+            "3_1986124385472946182"
+          ]
+        },
+        "author_id": "1827053984521318400",
+        "conversation_id": "1986124562522906801",
+        "created_at": "2025-11-05T17:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T18:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986124562522906801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VrrcCCdvPl",
+              "end": 113,
+              "expanded_url": "https://x.com/C_baba_66ccff/status/1986124562522906801/photo/1",
+              "media_key": "3_1986124386009817093",
+              "start": 90,
+              "url": "https://t.co/VrrcCCdvPl"
+            },
+            {
+              "display_url": "pic.x.com/VrrcCCdvPl",
+              "end": 113,
+              "expanded_url": "https://x.com/C_baba_66ccff/status/1986124562522906801/photo/1",
+              "media_key": "3_1986124385485529090",
+              "start": 90,
+              "url": "https://t.co/VrrcCCdvPl"
+            },
+            {
+              "display_url": "pic.x.com/VrrcCCdvPl",
+              "end": 113,
+              "expanded_url": "https://x.com/C_baba_66ccff/status/1986124562522906801/photo/1",
+              "media_key": "3_1986124386039177217",
+              "start": 90,
+              "url": "https://t.co/VrrcCCdvPl"
+            },
+            {
+              "display_url": "pic.x.com/VrrcCCdvPl",
+              "end": 113,
+              "expanded_url": "https://x.com/C_baba_66ccff/status/1986124562522906801/photo/1",
+              "media_key": "3_1986124385472946182",
+              "start": 90,
+              "url": "https://t.co/VrrcCCdvPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986124562522906801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 281,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一点碎碎念\n前段时间总有不祥的预感，果然在上周五晚上我的泰补盒子被我妈发现了……她大概是知道那是什么的……\n也算是半炸柜了吧………\n难道……要被迫出柜了吗……\n要如何和她讲述呢？ https://t.co/VrrcCCdvPl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。理想乡：@t_subas_a 暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 2348,
+          "like_count": 38862,
+          "listed_count": 6,
+          "media_count": 295,
+          "tweet_count": 9317
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T18:43:22.000Z",
+        "description": "INTP｜无证含糖｜hrt 2025.8.30🍥｜深柜｜小猫｜mtf 🏳️‍⚧️｜wota藝新手打师｜锦依卫｜华风夏韵，洛水天依｜听歌ing｜精神状态异常｜因为只要忍耐就会被施舍吗？挖出了心脏还能拼起吗？结痂的疤会自己落下吗？｜求施舍https://t.co/zTxTDPVvpq｜小号@C_baba_tianyi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 143,
+                "username": "C_baba_tianyi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "afdian.com/a/Cbabatrans",
+                "end": 140,
+                "expanded_url": "http://afdian.com/a/Cbabatrans",
+                "start": 117,
+                "url": "https://t.co/zTxTDPVvpq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/c_baba1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/c_baba1",
+                "start": 0,
+                "url": "https://t.co/2HjL95QE56"
+              }
+            ]
+          }
+        },
+        "id": "1827053984521318400",
+        "location": "距你2km",
+        "name": "C_baba🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1975281572581650565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969297833712107520/OHx4nDqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 519,
+          "like_count": 11287,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 118
+        },
+        "url": "https://t.co/2HjL95QE56",
+        "username": "C_baba_66ccff",
+        "verified": false
+      }
+    ]
+  }
+}

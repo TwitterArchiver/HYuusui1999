@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1968466772266467464",
+    "created_at": "2025-09-22T12:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T13:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970101299937939578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746050438666002432",
+          "start": 0,
+          "username": "mitsuki072527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970101299937939578",
+    "in_reply_to_user_id": "1746050438666002432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968466772266467464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mitsuki072527 想了想，我有机会带一个看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1968466772266467464",
+        "created_at": "2025-09-22T12:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T13:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970101299937939578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746050438666002432",
+              "start": 0,
+              "username": "mitsuki072527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970101299937939578",
+        "in_reply_to_user_id": "1746050438666002432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968466772266467464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mitsuki072527 想了想，我有机会带一个看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746050438666002432",
+        "conversation_id": "1968466772266467464",
+        "created_at": "2025-09-18T00:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T01:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968466772266467464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shu_1aquarium/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/shu_1aquarium/status/1967954700361404708",
+              "start": 14,
+              "url": "https://t.co/vWsf151E3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968466772266467464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 497,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967954700361404708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好肥美。好想要 我豹压抑了 https://t.co/vWsf151E3A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 1767,
+          "like_count": 31149,
+          "listed_count": 6,
+          "media_count": 264,
+          "tweet_count": 8024
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T06:04:14.000Z",
+        "description": "病み垢 shtwt  https://t.co/y1n2cS5Voz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsumugi0227",
+                "end": 34,
+                "expanded_url": "https://ngl.link/tsumugi0227",
+                "start": 11,
+                "url": "https://t.co/y1n2cS5Voz"
+              }
+            ]
+          }
+        },
+        "id": "1746050438666002432",
+        "location": "天国",
+        "name": "死ぬまで",
+        "pinned_tweet_id": "1959241107759370518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935589769829888000/PfWseuMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 128,
+          "like_count": 2295,
+          "listed_count": 2,
+          "media_count": 348,
+          "tweet_count": 4087
+        },
+        "username": "mitsuki072527",
+        "verified": false
+      }
+    ]
+  }
+}

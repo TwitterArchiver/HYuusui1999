@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993347102907547652",
+        "3_1993347107168862208"
+      ],
+      "media_source_tweet_id": [
+        "1993347110276895043",
+        "1993347110276895043"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1993623574805184552",
+    "created_at": "2025-11-26T10:11:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T11:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993623574805184552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1928288716340273152",
+          "start": 3,
+          "username": "xiaoxunxyn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GEbjVXqLT3",
+          "end": 51,
+          "expanded_url": "https://x.com/xiaoxunxyn/status/1993347110276895043/photo/1",
+          "media_key": "3_1993347102907547652",
+          "start": 28,
+          "url": "https://t.co/GEbjVXqLT3"
+        },
+        {
+          "display_url": "pic.x.com/GEbjVXqLT3",
+          "end": 51,
+          "expanded_url": "https://x.com/xiaoxunxyn/status/1993347110276895043/photo/1",
+          "media_key": "3_1993347107168862208",
+          "start": 28,
+          "url": "https://t.co/GEbjVXqLT3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993623574805184552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993347110276895043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoxunxyn: 你已经离开这么久了吗… https://t.co/GEbjVXqLT3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 931,
+        "media_key": "3_1993347102907547652",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6nKoP7bwAQb-cd.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993347107168862208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6nKofzaQAAl7Xn.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993347102907547652",
+            "3_1993347107168862208"
+          ],
+          "media_source_tweet_id": [
+            "1993347110276895043",
+            "1993347110276895043"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993623574805184552",
+        "created_at": "2025-11-26T10:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T11:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993623574805184552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1928288716340273152",
+              "start": 3,
+              "username": "xiaoxunxyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GEbjVXqLT3",
+              "end": 51,
+              "expanded_url": "https://x.com/xiaoxunxyn/status/1993347110276895043/photo/1",
+              "media_key": "3_1993347102907547652",
+              "start": 28,
+              "url": "https://t.co/GEbjVXqLT3"
+            },
+            {
+              "display_url": "pic.x.com/GEbjVXqLT3",
+              "end": 51,
+              "expanded_url": "https://x.com/xiaoxunxyn/status/1993347110276895043/photo/1",
+              "media_key": "3_1993347107168862208",
+              "start": 28,
+              "url": "https://t.co/GEbjVXqLT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993623574805184552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993347110276895043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaoxunxyn: 你已经离开这么久了吗… https://t.co/GEbjVXqLT3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993347102907547652",
+            "3_1993347107168862208"
+          ]
+        },
+        "author_id": "1928288716340273152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993347110276895043",
+        "created_at": "2025-11-25T15:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993347110276895043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GEbjVXqLT3",
+              "end": 35,
+              "expanded_url": "https://x.com/xiaoxunxyn/status/1993347110276895043/photo/1",
+              "media_key": "3_1993347102907547652",
+              "start": 12,
+              "url": "https://t.co/GEbjVXqLT3"
+            },
+            {
+              "display_url": "pic.x.com/GEbjVXqLT3",
+              "end": 35,
+              "expanded_url": "https://x.com/xiaoxunxyn/status/1993347110276895043/photo/1",
+              "media_key": "3_1993347107168862208",
+              "start": 12,
+              "url": "https://t.co/GEbjVXqLT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993347110276895043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8994,
+          "like_count": 77,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "你已经离开这么久了吗… https://t.co/GEbjVXqLT3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 2452,
+          "like_count": 40414,
+          "listed_count": 5,
+          "media_count": 302,
+          "tweet_count": 9819
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T03:14:14.000Z",
+        "description": "废了两个2500fo的推号 已经不怎么想玩推了",
+        "id": "1928288716340273152",
+        "name": "小寻酱🍥",
+        "pinned_tweet_id": "1977354106491510796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987183580477595652/Ju64mh2H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 25,
+          "like_count": 42,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 56
+        },
+        "username": "xiaoxunxyn",
+        "verified": false
+      }
+    ]
+  }
+}

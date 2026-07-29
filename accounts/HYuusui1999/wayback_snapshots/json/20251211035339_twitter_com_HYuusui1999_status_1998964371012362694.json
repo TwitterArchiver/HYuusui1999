@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1998960467834978439",
+    "created_at": "2025-12-11T03:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T04:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998964371012362694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1862861397304225792",
+          "start": 0,
+          "username": "502_ErR0r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998964371012362694",
+    "in_reply_to_user_id": "1862861397304225792",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998960467834978439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@502_ErR0r RIP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1998960467834978439",
+        "created_at": "2025-12-11T03:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T04:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998964371012362694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1862861397304225792",
+              "start": 0,
+              "username": "502_ErR0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998964371012362694",
+        "in_reply_to_user_id": "1862861397304225792",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998960467834978439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@502_ErR0r RIP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862861397304225792",
+        "conversation_id": "1998960467834978439",
+        "created_at": "2025-12-11T03:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T04:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998960467834978439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998960467834978439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们好\n我是zero的前女友三人之一（另一个人我已经和他联系了他也很难过）\nzero在今日凌晨肝衰竭过世，我不会说什么珍惜生命的屁话，只希望大家忘了吧，忘记曾经还有一个希望希望大家都能笑，希望世界和平，希望成为美丽女性姐姐的他\n本账号不会有后续更新\nRIP🙏🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n暂时退网（不定期） 偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H 「暂退网」",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 2602,
+          "like_count": 41616,
+          "listed_count": 6,
+          "media_count": 303,
+          "tweet_count": 10211
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T14:14:09.000Z",
+        "description": "地雷女除此之外什麼都不是",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuzuk1mo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuzuk1mo",
+                "start": 0,
+                "url": "https://t.co/7ERvfrc84X"
+              }
+            ]
+          }
+        },
+        "id": "1862861397304225792",
+        "location": "Middle of nowhere",
+        "name": "Z3r0",
+        "pinned_tweet_id": "1915741545405517889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997894814155833345/KpMYaxMl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 149,
+          "like_count": 13170,
+          "listed_count": 1,
+          "media_count": 410,
+          "tweet_count": 3831
+        },
+        "url": "https://t.co/7ERvfrc84X",
+        "username": "502_ErR0r",
+        "verified": false
+      }
+    ]
+  }
+}

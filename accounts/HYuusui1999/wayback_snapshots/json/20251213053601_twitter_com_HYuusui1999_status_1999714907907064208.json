@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999371405566103553",
+        "3_1999371406073532417",
+        "3_1999371409294753798",
+        "3_1999371412495036416"
+      ],
+      "media_source_tweet_id": [
+        "1999371414390841634",
+        "1999371414390841634",
+        "1999371414390841634",
+        "1999371414390841634"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1999714907907064208",
+    "created_at": "2025-12-13T05:36:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T06:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999714907907064208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1937086999548035072",
+          "start": 3,
+          "username": "Jaime_Rimi"
+        },
+        {
+          "end": 59,
+          "id": "1012920230803169280",
+          "start": 44,
+          "username": "Quebec_MonPays"
+        },
+        {
+          "end": 79,
+          "id": "1933225223416864768",
+          "start": 63,
+          "username": "Araya_Touka_222"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aQ5lDQHukf",
+          "end": 124,
+          "expanded_url": "https://x.com/Jaime_Rimi/status/1999371414390841634/photo/1",
+          "media_key": "3_1999371405566103553",
+          "start": 101,
+          "url": "https://t.co/aQ5lDQHukf"
+        },
+        {
+          "display_url": "pic.x.com/aQ5lDQHukf",
+          "end": 124,
+          "expanded_url": "https://x.com/Jaime_Rimi/status/1999371414390841634/photo/1",
+          "media_key": "3_1999371406073532417",
+          "start": 101,
+          "url": "https://t.co/aQ5lDQHukf"
+        },
+        {
+          "display_url": "pic.x.com/aQ5lDQHukf",
+          "end": 124,
+          "expanded_url": "https://x.com/Jaime_Rimi/status/1999371414390841634/photo/1",
+          "media_key": "3_1999371409294753798",
+          "start": 101,
+          "url": "https://t.co/aQ5lDQHukf"
+        },
+        {
+          "display_url": "pic.x.com/aQ5lDQHukf",
+          "end": 124,
+          "expanded_url": "https://x.com/Jaime_Rimi/status/1999371414390841634/photo/1",
+          "media_key": "3_1999371412495036416",
+          "start": 101,
+          "url": "https://t.co/aQ5lDQHukf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999714907907064208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999371414390841634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jaime_Rimi: 重新发下置顶推🔝\n这里是Léo (曾用名：灯華)\n一代 @Quebec_MonPays\n二代 @Araya_Touka_222\n找回推友中\n请眼熟的给推主点点转发关注🫡 https://t.co/aQ5lDQHukf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1999714907907064208].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1999714907907064208",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1999714907907064208"
+    },
+    {
+      "detail": "User has been suspended: [Quebec_MonPays].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Quebec_MonPays",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Quebec_MonPays"
+    },
+    {
+      "detail": "User has been suspended: [Araya_Touka_222].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Araya_Touka_222",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Araya_Touka_222"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999371405566103553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78xs0LXUAET3dq.jpg",
+        "width": 1002
+      },
+      {
+        "height": 1636,
+        "media_key": "3_1999371406073532417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78xs2EWEAEom8f.jpg",
+        "width": 1499
+      },
+      {
+        "height": 628,
+        "media_key": "3_1999371409294753798",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78xtCEWAAYIvw0.jpg",
+        "width": 406
+      },
+      {
+        "height": 1167,
+        "media_key": "3_1999371412495036416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78xtN_WcAAE7wi.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999371405566103553",
+            "3_1999371406073532417",
+            "3_1999371409294753798",
+            "3_1999371412495036416"
+          ]
+        },
+        "author_id": "1937086999548035072",
+        "conversation_id": "1999371414390841634",
+        "created_at": "2025-12-12T06:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T07:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999371414390841634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 43,
+              "id": "1012920230803169280",
+              "start": 28,
+              "username": "Quebec_MonPays"
+            },
+            {
+              "end": 63,
+              "id": "1933225223416864768",
+              "start": 47,
+              "username": "Araya_Touka_222"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aQ5lDQHukf",
+              "end": 108,
+              "expanded_url": "https://x.com/Jaime_Rimi/status/1999371414390841634/photo/1",
+              "media_key": "3_1999371405566103553",
+              "start": 85,
+              "url": "https://t.co/aQ5lDQHukf"
+            },
+            {
+              "display_url": "pic.x.com/aQ5lDQHukf",
+              "end": 108,
+              "expanded_url": "https://x.com/Jaime_Rimi/status/1999371414390841634/photo/1",
+              "media_key": "3_1999371406073532417",
+              "start": 85,
+              "url": "https://t.co/aQ5lDQHukf"
+            },
+            {
+              "display_url": "pic.x.com/aQ5lDQHukf",
+              "end": 108,
+              "expanded_url": "https://x.com/Jaime_Rimi/status/1999371414390841634/photo/1",
+              "media_key": "3_1999371409294753798",
+              "start": 85,
+              "url": "https://t.co/aQ5lDQHukf"
+            },
+            {
+              "display_url": "pic.x.com/aQ5lDQHukf",
+              "end": 108,
+              "expanded_url": "https://x.com/Jaime_Rimi/status/1999371414390841634/photo/1",
+              "media_key": "3_1999371412495036416",
+              "start": 85,
+              "url": "https://t.co/aQ5lDQHukf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999371414390841634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 918,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "重新发下置顶推🔝\n这里是Léo (曾用名：灯華)\n一代 @Quebec_MonPays\n二代 @Araya_Touka_222\n找回推友中\n请眼熟的给推主点点转发关注🫡 https://t.co/aQ5lDQHukf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 2676,
+          "like_count": 42348,
+          "listed_count": 6,
+          "media_count": 307,
+          "tweet_count": 10340
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:55:18.000Z",
+        "description": "@Araya_Touka_222 の Alterego",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "Araya_Touka_222"
+              }
+            ]
+          }
+        },
+        "id": "1937086999548035072",
+        "location": "QC",
+        "name": "Léo",
+        "pinned_tweet_id": "1999371414390841634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937087218704625664/U7kY1Ply_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 152,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 60
+        },
+        "username": "Jaime_Rimi",
+        "verified": false
+      }
+    ]
+  }
+}

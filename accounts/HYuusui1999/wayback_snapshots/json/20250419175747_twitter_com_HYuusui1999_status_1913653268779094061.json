@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1913444366779392098",
+    "created_at": "2025-04-19T17:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T18:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913653268779094061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1827741617651957760",
+          "start": 0,
+          "username": "Guicai198965"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913653268779094061",
+    "in_reply_to_user_id": "1827741617651957760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913444366779392098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guicai198965 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1913444366779392098",
+        "created_at": "2025-04-19T17:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T18:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913653268779094061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1827741617651957760",
+              "start": 0,
+              "username": "Guicai198965"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913653268779094061",
+        "in_reply_to_user_id": "1827741617651957760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913444366779392098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guicai198965 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827741617651957760",
+        "conversation_id": "1913444366779392098",
+        "created_at": "2025-04-19T04:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T05:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913444366779392098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913444366779392098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互相喜欢的女孩子喜欢上别人了。\n伤心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1912415808413647168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 750,
+          "like_count": 15998,
+          "listed_count": 6,
+          "media_count": 143,
+          "tweet_count": 3160
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T16:15:46.000Z",
+        "description": "商心慈，伤心辞......哈！大家无论是任何方面有困难都可以找我哦，可以发小额度红包，小额度无利贷，可以陪聊，可以讲解学习方面问题，可以在天津面基！男性/星际争霸2/网文书虫/炉石传说/mc/围棋/养蚁/狼人杀/偶尔爱喝点小酒/政治倾向左派/目前单身/我认识的推友都可以来加我qqwx进群玩",
+        "id": "1827741617651957760",
+        "location": "中国 天津",
+        "name": "鬼才",
+        "pinned_tweet_id": "1888601514219868210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882259890158120960/2q2_b0wv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 306,
+          "like_count": 4689,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 2061
+        },
+        "username": "Guicai198965",
+        "verified": false
+      }
+    ]
+  }
+}

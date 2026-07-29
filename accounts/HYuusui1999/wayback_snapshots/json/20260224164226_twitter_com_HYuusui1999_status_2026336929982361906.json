@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2026323949173555480",
+    "created_at": "2026-02-24T16:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T17:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026336929982361906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1901471587477442560",
+          "start": 0,
+          "username": "Another_and_Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026336929982361906",
+    "in_reply_to_user_id": "1901471587477442560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026336820150300966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Another_and_Me 来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2026323949173555480",
+        "created_at": "2026-02-24T16:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026336929982361906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1901471587477442560",
+              "start": 0,
+              "username": "Another_and_Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026336929982361906",
+        "in_reply_to_user_id": "1901471587477442560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026336820150300966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Another_and_Me 来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901471587477442560",
+        "conversation_id": "2026323949173555480",
+        "created_at": "2026-02-24T16:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026336820150300966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878681729407356928",
+              "start": 0,
+              "username": "HYuusui1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026336820150300966",
+        "in_reply_to_user_id": "1901471587477442560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026335506104188969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HYuusui1999 哦忘说了，我私信有问题收不到信息，能接受在评论区直接聊吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 3081,
+          "like_count": 44265,
+          "listed_count": 6,
+          "media_count": 364,
+          "tweet_count": 11105
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T03:12:24.000Z",
+        "description": "我爱这世间，如同我恨它一般。\n\n圈子：八宝粥/phigros/月计/「不/存在的你，和我」/明日方舟（已退游）/哲学/心理学/文学\n人格：具备自我修正系统的人机。共情力已剧烈衰退，懒散且自私。如果您不喜欢我的某些言行请指出，我会吸收您的建议并考虑改变。",
+        "id": "1901471587477442560",
+        "location": "坠落中的半空",
+        "name": "迷",
+        "pinned_tweet_id": "2018507944284078222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919218508115951616/uKmDCsFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 112,
+          "like_count": 2019,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 1161
+        },
+        "username": "Another_and_Me",
+        "verified": false
+      }
+    ]
+  }
+}

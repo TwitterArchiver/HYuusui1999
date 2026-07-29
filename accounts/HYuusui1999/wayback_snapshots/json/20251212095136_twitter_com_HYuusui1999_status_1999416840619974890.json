@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1444045501112799235",
+          "name": "Tenjiku Nezumi"
+        }
+      },
+      {
+        "domain": {
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+          "id": "58",
+          "name": "Entertainment Personality"
+        },
+        "entity": {
+          "id": "1444045501112799235",
+          "name": "Tenjiku Nezumi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1444045501112799235",
+          "name": "Tenjiku Nezumi"
+        }
+      }
+    ],
+    "conversation_id": "1999382742161916317",
+    "created_at": "2025-12-12T09:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T10:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999416840619974890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1749569248371023872",
+          "start": 0,
+          "username": "Eureka222323"
+        },
+        {
+          "end": 28,
+          "id": "1510953121903611909",
+          "start": 14,
+          "username": "Anacciluno_Ch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999416840619974890",
+    "in_reply_to_user_id": "1749569248371023872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999406209829605737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eureka222323 @Anacciluno_Ch 天竺鼠車車（什"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1444045501112799235",
+              "name": "Tenjiku Nezumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "id": "1444045501112799235",
+              "name": "Tenjiku Nezumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1444045501112799235",
+              "name": "Tenjiku Nezumi"
+            }
+          }
+        ],
+        "conversation_id": "1999382742161916317",
+        "created_at": "2025-12-12T09:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T10:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999416840619974890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1749569248371023872",
+              "start": 0,
+              "username": "Eureka222323"
+            },
+            {
+              "end": 28,
+              "id": "1510953121903611909",
+              "start": 14,
+              "username": "Anacciluno_Ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999416840619974890",
+        "in_reply_to_user_id": "1749569248371023872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999406209829605737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eureka222323 @Anacciluno_Ch 天竺鼠車車（什"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749569248371023872",
+        "conversation_id": "1999382742161916317",
+        "created_at": "2025-12-12T09:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T10:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999406209829605737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1510953121903611909",
+              "start": 0,
+              "username": "Anacciluno_Ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999406209829605737",
+        "in_reply_to_user_id": "1510953121903611909",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999406111963906080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anacciluno_Ch 鼠車"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。\n理想乡：@t_subas_a\n偶尔看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfXxgs"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 2662,
+          "like_count": 42260,
+          "listed_count": 6,
+          "media_count": 307,
+          "tweet_count": 10308
+        },
+        "url": "https://t.co/BjaOJfXxgs",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T23:06:35.000Z",
+        "description": "HK 小女孩｜倒數中｜瘋狂精神病患｜跨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/eureka.eurekai…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/eureka.eurekaisnotaboy.qwq1",
+                "start": 0,
+                "url": "https://t.co/6aNFte8g01"
+              }
+            ]
+          }
+        },
+        "id": "1749569248371023872",
+        "location": "忘川河",
+        "name": "Eureka 优莱卡 阮玲玉",
+        "pinned_tweet_id": "1996488107483705487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998261690287480832/n95GfSV6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 2053,
+          "like_count": 62379,
+          "listed_count": 3,
+          "media_count": 880,
+          "tweet_count": 11907
+        },
+        "url": "https://t.co/6aNFte8g01",
+        "username": "Eureka222323",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-04T12:11:21.000Z",
+        "description": "是男生，宅，严重社恐，喜欢打游戏，是一只阴暗的小老鼠🐭，想交朋友",
+        "id": "1510953121903611909",
+        "location": "家",
+        "name": "海王星的秋刀鱼",
+        "pinned_tweet_id": "1993897735842574442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993898046518906887/wjda2iC4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 105,
+          "like_count": 998,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 657
+        },
+        "username": "Anacciluno_Ch",
+        "verified": false
+      }
+    ]
+  }
+}

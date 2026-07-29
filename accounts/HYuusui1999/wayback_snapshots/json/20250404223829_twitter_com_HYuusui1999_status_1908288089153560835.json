@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1908280258547294293",
+    "created_at": "2025-04-04T22:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T23:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908288089153560835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1823898821673541633",
+          "start": 0,
+          "username": "BengBengChuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908288089153560835",
+    "in_reply_to_user_id": "1823898821673541633",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908280258547294293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BengBengChuang 抱抱你(´･ω･`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1908280258547294293",
+        "created_at": "2025-04-04T22:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T23:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908288089153560835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1823898821673541633",
+              "start": 0,
+              "username": "BengBengChuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908288089153560835",
+        "in_reply_to_user_id": "1823898821673541633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908280258547294293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BengBengChuang 抱抱你(´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823898821673541633",
+        "conversation_id": "1908280258547294293",
+        "created_at": "2025-04-04T22:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T23:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908280258547294293"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908280258547294293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈又漏了……受不了了啊啊啊早上起来想上个厕所，发现姨妈漏了……要死，糊的到处都是，还不知道床上糊哪里去了，待会还要擦床换被子，在下面垫了个垫子但不知道垫着没，我受不了了对不起我不该侧着睡的我以为没事，但这两天量太大了，好崩溃………都是红的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1905989245266972950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 679,
+          "like_count": 14304,
+          "listed_count": 6,
+          "media_count": 122,
+          "tweet_count": 2493
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T01:45:46.000Z",
+        "description": "infp-t碎碎念/发牢骚/抽象/记录/学日语/想和人类互动/不搞黄欢迎聊天/骚扰拉黑\n我要散发负面情绪啊啊啊\n我要发很多很多的牢骚",
+        "id": "1823898821673541633",
+        "location": "地球",
+        "name": "蹦蹦床",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823933164466921474/W7eJZZGH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 106,
+          "like_count": 213,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 498
+        },
+        "username": "BengBengChuang",
+        "verified": false
+      }
+    ]
+  }
+}

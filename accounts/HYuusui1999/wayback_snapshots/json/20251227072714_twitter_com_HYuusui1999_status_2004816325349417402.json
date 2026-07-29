@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004816290691596288"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2004816325349417402",
+    "created_at": "2025-12-27T07:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T08:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004816325349417402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1882819991357308928",
+          "start": 0,
+          "username": "OZAKIsama123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BGTkfnjE8c",
+          "end": 54,
+          "expanded_url": "https://x.com/HYuusui1999/status/2004816325349417402/photo/1",
+          "media_key": "3_2004816290691596288",
+          "start": 31,
+          "url": "https://t.co/BGTkfnjE8c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004816325349417402",
+    "in_reply_to_user_id": "1882819991357308928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@OZAKIsama123 还以为我会成为你的骄傲帳號已停用 https://t.co/BGTkfnjE8c"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004816325349417402].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004816325349417402",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004816325349417402"
+    },
+    {
+      "detail": "User has been suspended: [OZAKIsama123].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "OZAKIsama123",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "OZAKIsama123"
+    },
+    {
+      "detail": "User has been suspended: [1882819991357308928].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "1882819991357308928",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1882819991357308928"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 730,
+        "media_key": "3_2004816290691596288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9KJy16WwAAKeG5.jpg",
+        "width": 2034
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n理想鄉：@t_subas_a\n偶爾看消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 26,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 2852,
+          "like_count": 43705,
+          "listed_count": 6,
+          "media_count": 329,
+          "tweet_count": 10685
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      }
+    ]
+  }
+}

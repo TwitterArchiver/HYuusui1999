@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1922957847257600195",
+    "created_at": "2025-05-16T06:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T07:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923269046448865655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1657288224451203073",
+          "start": 0,
+          "username": "Cialloi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923269046448865655",
+    "in_reply_to_user_id": "1657288224451203073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922957847257600195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cialloi 干嘛去了......(´･ω･`)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1922957820699475969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq-38xzaAAEjtoS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1922957847257600195",
+        "created_at": "2025-05-16T06:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T07:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923269046448865655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1657288224451203073",
+              "start": 0,
+              "username": "Cialloi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923269046448865655",
+        "in_reply_to_user_id": "1657288224451203073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922957847257600195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cialloi 干嘛去了......(´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922957820699475969"
+          ]
+        },
+        "author_id": "1657288224451203073",
+        "conversation_id": "1922957847257600195",
+        "created_at": "2025-05-15T10:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T11:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922957847257600195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXWCQUw8RM",
+              "end": 40,
+              "expanded_url": "https://x.com/Cialloi/status/1922957847257600195/photo/1",
+              "media_key": "3_1922957820699475969",
+              "start": 17,
+              "url": "https://t.co/OXWCQUw8RM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922957847257600195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4340,
+          "like_count": 115,
+          "quote_count": 1,
+          "reply_count": 40,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好消息，还活着喵\n坏消息，还活着 https://t.co/OXWCQUw8RM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 959,
+          "like_count": 19163,
+          "listed_count": 6,
+          "media_count": 188,
+          "tweet_count": 4171
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T07:34:48.000Z",
+        "description": "小号喵@Ciallo003（负能）互私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "Ciallo003"
+              }
+            ]
+          }
+        },
+        "id": "1657288224451203073",
+        "name": "耶",
+        "pinned_tweet_id": "1904008072143479278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911713586650476544/ZJv4PVD8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 544,
+          "like_count": 44451,
+          "listed_count": 4,
+          "media_count": 221,
+          "tweet_count": 10568
+        },
+        "username": "Cialloi",
+        "verified": false
+      }
+    ]
+  }
+}

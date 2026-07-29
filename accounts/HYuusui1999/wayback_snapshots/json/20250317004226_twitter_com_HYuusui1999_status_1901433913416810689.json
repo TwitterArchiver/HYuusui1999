@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1901266516454285330",
+    "created_at": "2025-03-17T00:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T01:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901433913416810689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1893688350076542976",
+          "start": 0,
+          "username": "drug_artist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901433913416810689",
+    "in_reply_to_user_id": "1893688350076542976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901266516454285330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drug_artist 祝好运"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1901266516454285330",
+        "created_at": "2025-03-17T00:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T01:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901433913416810689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1893688350076542976",
+              "start": 0,
+              "username": "drug_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901433913416810689",
+        "in_reply_to_user_id": "1893688350076542976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901266516454285330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist 祝好运"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893688350076542976",
+        "conversation_id": "1901266516454285330",
+        "created_at": "2025-03-16T13:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T14:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901266516454285330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901266516454285330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7406,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "紧急通知\n\n本站wiki主和旧wiki主疑似被晶哥追捕，有可能被抓住两年强戒，网站已续费两年，如我们俩都落网，网站交由编辑组成员共同维护"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1881847547356188816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 475,
+          "like_count": 10635,
+          "listed_count": 5,
+          "media_count": 91,
+          "tweet_count": 1427
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T15:44:29.000Z",
+        "description": "overdose百科wiki主\n愿每一位药物滥用的人都能脱离深渊\n提供 od 咨询",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/hLxQwrcSWN"
+              }
+            ]
+          }
+        },
+        "id": "1893688350076542976",
+        "name": "💕🎀沐雨ソース💞✝️",
+        "pinned_tweet_id": "1901290151500005462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893688536513040384/B_JIysQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 99,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 229
+        },
+        "url": "https://t.co/hLxQwrcSWN",
+        "username": "drug_artist",
+        "verified": false
+      }
+    ]
+  }
+}

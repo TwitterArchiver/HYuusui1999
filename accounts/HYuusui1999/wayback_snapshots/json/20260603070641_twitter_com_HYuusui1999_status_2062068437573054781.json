@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2062068437573054781",
+    "created_at": "2026-06-03T07:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T08:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062068437573054781"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hejia520na/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/hejia520na/status/2061718788236783724",
+          "start": 15,
+          "url": "https://t.co/bBplN9BInV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062068437573054781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061718788236783724",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对不起，有的人还是更有人性的 https://t.co/bBplN9BInV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2062068437573054781",
+        "created_at": "2026-06-03T07:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062068437573054781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hejia520na/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/hejia520na/status/2061718788236783724",
+              "start": 15,
+              "url": "https://t.co/bBplN9BInV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062068437573054781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061718788236783724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起，有的人还是更有人性的 https://t.co/bBplN9BInV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052091506698117123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Reuters",
+              "id": "10047963346",
+              "name": "Reuters"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Reuters",
+              "id": "10047963346",
+              "name": "Reuters"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2061555907394253254",
+        "created_at": "2026-06-02T07:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061718788236783724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "899528658527727616",
+              "start": 0,
+              "username": "Omerta555"
+            },
+            {
+              "end": 19,
+              "id": "1652541",
+              "start": 11,
+              "username": "Reuters"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061718788236783724",
+        "in_reply_to_user_id": "899528658527727616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061708454532911467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Omerta555 @Reuters 随便你怎么加强，说个时间吧，我们中日最后一次对决。直接打一场种族灭绝战争，怎么样？我们中国人屠杀你们日本人可以毫无心理负担的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 3322,
+          "like_count": 45037,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 11749
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T18:22:34.000Z",
+        "description": "",
+        "id": "2052091506698117123",
+        "name": "何佳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052091670502559746/5_Yh1omB_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 61,
+          "like_count": 863,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1029
+        },
+        "username": "hejia520na",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938727332191072256"
+      ],
+      "media_source_tweet_id": [
+        "1938727345986380194"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1938839098036260905",
+    "created_at": "2025-06-28T05:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T06:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938839098036260905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818678630824001538",
+          "start": 3,
+          "username": "Misako_25ji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h8pvx0UKsV",
+          "end": 100,
+          "expanded_url": "https://x.com/Misako_25ji/status/1938727345986380194/photo/1",
+          "media_key": "3_1938727332191072256",
+          "start": 77,
+          "url": "https://t.co/h8pvx0UKsV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938839098036260905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938727345986380194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Misako_25ji: 最后几天了..\n总不可能连续未遂吧…\n下一次的死法是化学物质/跳楼之间二选一。\n我真的累了，怎么死都这么困难啊哈哈哈哈 https://t.co/h8pvx0UKsV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1938727332191072256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gue-PJ-W8AAZQqS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938727332191072256"
+          ],
+          "media_source_tweet_id": [
+            "1938727345986380194"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1938839098036260905",
+        "created_at": "2025-06-28T05:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T06:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938839098036260905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818678630824001538",
+              "start": 3,
+              "username": "Misako_25ji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h8pvx0UKsV",
+              "end": 100,
+              "expanded_url": "https://x.com/Misako_25ji/status/1938727345986380194/photo/1",
+              "media_key": "3_1938727332191072256",
+              "start": 77,
+              "url": "https://t.co/h8pvx0UKsV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938839098036260905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938727345986380194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Misako_25ji: 最后几天了..\n总不可能连续未遂吧…\n下一次的死法是化学物质/跳楼之间二选一。\n我真的累了，怎么死都这么困难啊哈哈哈哈 https://t.co/h8pvx0UKsV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938727332191072256"
+          ]
+        },
+        "author_id": "1818678630824001538",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1938727345986380194",
+        "created_at": "2025-06-27T22:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T23:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938727345986380194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h8pvx0UKsV",
+              "end": 83,
+              "expanded_url": "https://x.com/Misako_25ji/status/1938727345986380194/photo/1",
+              "media_key": "3_1938727332191072256",
+              "start": 60,
+              "url": "https://t.co/h8pvx0UKsV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938727345986380194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1877,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "最后几天了..\n总不可能连续未遂吧…\n下一次的死法是化学物质/跳楼之间二选一。\n我真的累了，怎么死都这么困难啊哈哈哈哈 https://t.co/h8pvx0UKsV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。\n天堂或许也在人间的某处呢。\n希望大家都好好生活。\n请注意；眼下@ESY_yvjue0189试图套皮@ESY_yujue0189\n【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "ESY_yvjue0189"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 1227,
+          "like_count": 23116,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 5449
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T16:02:39.000Z",
+        "description": "翻车顺男.avi｜小狗：@Silicium_28 好き@Cano_3118 @zqtlovekris99｜常驻杭州｜全国可飞｜链接可以投喂哦!｜美沙的流浪生活｜🚪50 （可加微信/QQ） 推特私信免费～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Silicium_28"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "Cano_3118"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buy.stripe.com/6oE3fLdpFdqm2q…",
+                "end": 23,
+                "expanded_url": "https://buy.stripe.com/6oE3fLdpFdqm2qs9AD",
+                "start": 0,
+                "url": "https://t.co/YlSr2fYWzY"
+              }
+            ]
+          }
+        },
+        "id": "1818678630824001538",
+        "location": "Inkar-usi.",
+        "name": "Misako～美沙子喵🏳️‍⚧️",
+        "pinned_tweet_id": "1911389216899989608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900767621165051904/vDuXtCBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 947,
+          "like_count": 1140,
+          "listed_count": 4,
+          "media_count": 140,
+          "tweet_count": 721
+        },
+        "url": "https://t.co/YlSr2fYWzY",
+        "username": "Misako_25ji",
+        "verified": true
+      }
+    ]
+  }
+}

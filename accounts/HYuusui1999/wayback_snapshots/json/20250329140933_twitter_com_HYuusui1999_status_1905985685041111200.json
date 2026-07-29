@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1905977734138134845",
+    "created_at": "2025-03-29T14:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T15:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905985685041111200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1846255536687534086",
+          "start": 0,
+          "username": "snmqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905985685041111200",
+    "in_reply_to_user_id": "1846255536687534086",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905977734138134845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snmqwq 注销"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1905977734138134845].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1905977734138134845",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1905977734138134845"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1905977734138134845",
+        "created_at": "2025-03-29T14:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T15:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905985685041111200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1846255536687534086",
+              "start": 0,
+              "username": "snmqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905985685041111200",
+        "in_reply_to_user_id": "1846255536687534086",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905977734138134845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snmqwq 注销"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1903418336572305499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 547,
+          "like_count": 12209,
+          "listed_count": 6,
+          "media_count": 111,
+          "tweet_count": 1861
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T18:24:36.000Z",
+        "description": "08跨/重读高一/无证含糖/hrt-2025.2.1/抖s+m？/AFO/嵌入式/pcb layout/ALL in boom/轻度玉玉+中度焦虑/喜欢找同类贴贴/坐标重庆/求互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "snmqwq.online",
+                "end": 23,
+                "expanded_url": "https://snmqwq.online",
+                "start": 0,
+                "url": "https://t.co/mNl6h2IMDj"
+              }
+            ]
+          }
+        },
+        "id": "1846255536687534086",
+        "location": "重庆",
+        "name": "尚凝梦qwq8964",
+        "pinned_tweet_id": "1905774180584591476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901910621677084672/2_69LYBg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 308,
+          "like_count": 299,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 872
+        },
+        "url": "https://t.co/mNl6h2IMDj",
+        "username": "snmqwq",
+        "verified": false
+      }
+    ]
+  }
+}

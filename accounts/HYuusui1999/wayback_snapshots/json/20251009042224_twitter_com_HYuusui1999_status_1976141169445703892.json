@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975852578408992768"
+      ],
+      "media_source_tweet_id": [
+        "1975852592799621396"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1976141169445703892",
+    "created_at": "2025-10-09T04:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T05:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976141169445703892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1518881927851233280",
+          "start": 3,
+          "username": "frog_yaa0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0zHUF2Tzpg",
+          "end": 42,
+          "expanded_url": "https://x.com/frog_yaa0/status/1975852592799621396/photo/1",
+          "media_key": "3_1975852578408992768",
+          "start": 19,
+          "url": "https://t.co/0zHUF2Tzpg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976141169445703892",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1323
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975852592799621396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @frog_yaa0: 熱異常 https://t.co/0zHUF2Tzpg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2206,
+        "media_key": "3_1975852578408992768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ujc5ibkAAytVu.jpg",
+        "width": 1662
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975852578408992768"
+          ],
+          "media_source_tweet_id": [
+            "1975852592799621396"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "1976141169445703892",
+        "created_at": "2025-10-09T04:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T05:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976141169445703892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1518881927851233280",
+              "start": 3,
+              "username": "frog_yaa0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0zHUF2Tzpg",
+              "end": 42,
+              "expanded_url": "https://x.com/frog_yaa0/status/1975852592799621396/photo/1",
+              "media_key": "3_1975852578408992768",
+              "start": 19,
+              "url": "https://t.co/0zHUF2Tzpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976141169445703892",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1323
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975852592799621396",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @frog_yaa0: 熱異常 https://t.co/0zHUF2Tzpg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975852578408992768"
+          ]
+        },
+        "author_id": "1518881927851233280",
+        "conversation_id": "1975852592799621396",
+        "created_at": "2025-10-08T09:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T10:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975852592799621396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0zHUF2Tzpg",
+              "end": 27,
+              "expanded_url": "https://x.com/frog_yaa0/status/1975852592799621396/photo/1",
+              "media_key": "3_1975852578408992768",
+              "start": 4,
+              "url": "https://t.co/0zHUF2Tzpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975852592799621396",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 635,
+          "impression_count": 117527,
+          "like_count": 11285,
+          "quote_count": 29,
+          "reply_count": 7,
+          "retweet_count": 1323
+        },
+        "reply_settings": "everyone",
+        "text": "熱異常 https://t.co/0zHUF2Tzpg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 2062,
+          "like_count": 34964,
+          "listed_count": 6,
+          "media_count": 280,
+          "tweet_count": 8724
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-26T09:17:35.000Z",
+        "description": "✉️ frogyaa0@gmail.com",
+        "id": "1518881927851233280",
+        "name": "ヤ",
+        "pinned_tweet_id": "1847218476202725656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739482220811931648/UuK1CE2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7535,
+          "following_count": 222,
+          "like_count": 28563,
+          "listed_count": 39,
+          "media_count": 27,
+          "tweet_count": 2100
+        },
+        "username": "frog_yaa0",
+        "verified": false
+      }
+    ]
+  }
+}

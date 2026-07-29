@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950096988932100096"
+      ],
+      "media_source_tweet_id": [
+        "1950096998977184023"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "1950124998544244948",
+    "created_at": "2025-07-29T09:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T10:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950124998544244948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807107145756008448",
+          "start": 3,
+          "username": "KagurazakaAzure"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JBfq9ebDuv",
+          "end": 53,
+          "expanded_url": "https://x.com/KagurazakaAzure/status/1950096998977184023/photo/1",
+          "media_key": "3_1950096988932100096",
+          "start": 30,
+          "url": "https://t.co/JBfq9ebDuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950124998544244948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950096998977184023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KagurazakaAzure: 我草你妈这是什么 https://t.co/JBfq9ebDuv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1950124998544244948].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1950124998544244948",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1950124998544244948"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_1950096988932100096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxAi4R7bUAAXKiS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950096988932100096"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "1950096998977184023",
+        "created_at": "2025-07-29T07:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T08:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950096998977184023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JBfq9ebDuv",
+              "end": 32,
+              "expanded_url": "https://x.com/KagurazakaAzure/status/1950096998977184023/photo/1",
+              "media_key": "3_1950096988932100096",
+              "start": 9,
+              "url": "https://t.co/JBfq9ebDuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950096998977184023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 378,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我草你妈这是什么 https://t.co/JBfq9ebDuv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。 请注意；眼下@ESY_yujueO189试图套皮@ESY_yujue0189 【如果需要私信，请在推文下评论】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ESY_yujueO189"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "ESY_yujue0189"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 1402,
+          "like_count": 26184,
+          "listed_count": 5,
+          "media_count": 231,
+          "tweet_count": 6562
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "⛩️🌊🪼“洞烛の摩耶” | 是薛定谔态的男娘｜避雷概率掉落R18｜墙外弱智吧管理&梗图bot｜líng ｜MtX｜hrt24.4.20｜持证ADHD&ASD｜179cm55kg｜08｜川渝｜Arcaea&maimaiでらっくす&Phigros｜推荐雌二醇药商@minokakay｜对象@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "minokakay"
+              },
+              {
+                "end": 152,
+                "start": 142,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "爱我的人的怀里",
+        "name": "🪼かめりあ⛩️「翎」-RESURRECTION-",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941707843977261056/0OzLQ_0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7942,
+          "following_count": 1230,
+          "like_count": 40420,
+          "listed_count": 10,
+          "media_count": 2866,
+          "tweet_count": 23167
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

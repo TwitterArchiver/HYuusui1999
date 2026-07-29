@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2031683058123047165",
+    "created_at": "2026-03-11T13:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T14:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031727810981593409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745799972576968705",
+          "start": 0,
+          "username": "bubblepipe42"
+        }
+      ],
+      "urls": [
+        {
+          "description": "今日はちょっとシンプル？な感じの制服風にしてみたよっ♪結構可愛いかなぁって思うんだけどどうかな～？ いひ❄️剣🗡️好評で良かった！ 銃🔫も好きだからいつか手に入れるー💫　髪の毛の事をお話したよ💠今日もたくさん癒やされてね♪　耳ふー、耳かき、綿棒、梵天、お耳トントン♪　バイノーラルマイク（耳マイク）で収録！...",
+          "display_url": "youtu.be/XYzn-DwehLc?si…",
+          "end": 45,
+          "expanded_url": "https://youtu.be/XYzn-DwehLc?si=pTr8TD28_Ezt2x9T",
+          "start": 22,
+          "status": 200,
+          "title": "男の娘が可愛い制服風?で耳かき♪ 髪の毛の事とかお話したよ❄️/EarCleaning/whisper/EarBlowing/Tapping/Japanese",
+          "unwound_url": "https://www.youtube.com/watch?si=pTr8TD28_Ezt2x9T&v=XYzn-DwehLc&feature=youtu.be",
+          "url": "https://t.co/SYOU5tvq2Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031727810981593409",
+    "in_reply_to_user_id": "1745799972576968705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031683058123047165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bubblepipe42 来听点ASMR\nhttps://t.co/SYOU5tvq2Q"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2031727810981593409].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2031727810981593409",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2031727810981593409"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745799972576968705",
+        "conversation_id": "2031683058123047165",
+        "created_at": "2026-03-11T10:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T11:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031683058123047165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ted_yeet/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ted_yeet/status/2031576588907647470",
+              "start": 5,
+              "url": "https://t.co/vBN0NW4YCS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031683058123047165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031576588907647470",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不活了 https://t.co/vBN0NW4YCS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 3153,
+          "like_count": 44720,
+          "listed_count": 6,
+          "media_count": 367,
+          "tweet_count": 11319
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T13:29:34.000Z",
+        "description": "活的像个家养猫。",
+        "id": "1745799972576968705",
+        "name": "代糖空泡",
+        "pinned_tweet_id": "2020023264811315232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997240850732961792/1_d8Kddi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 883,
+          "like_count": 7497,
+          "listed_count": 5,
+          "media_count": 313,
+          "tweet_count": 1774
+        },
+        "username": "bubblepipe42",
+        "verified": false
+      }
+    ]
+  }
+}

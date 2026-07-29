@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1972920846865096841",
+    "created_at": "2025-09-30T07:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T08:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972920846865096841"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Meer19002/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Meer19002/status/1921461040102912392",
+          "start": 11,
+          "url": "https://t.co/HG2oSZV8fz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972920846865096841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921461040102912392",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你耐活你怎么死了啊😭 https://t.co/HG2oSZV8fz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1972920846865096841",
+        "created_at": "2025-09-30T07:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T08:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972920846865096841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Meer19002/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Meer19002/status/1921461040102912392",
+              "start": 11,
+              "url": "https://t.co/HG2oSZV8fz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972920846865096841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921461040102912392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你耐活你怎么死了啊😭 https://t.co/HG2oSZV8fz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574668085314965504",
+        "conversation_id": "1921405939892043877",
+        "created_at": "2025-05-11T07:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T08:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921461040102912392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753348784573001728",
+              "start": 0,
+              "username": "Cheshire_kwine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921461040102912392",
+        "in_reply_to_user_id": "1753348784573001728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921458526334939477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheshire_kwine 我打算五六十岁的时候再开始学习画画，因为那个时候开始画画也不晚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待并心怀希望吧。」 希望大家都好好生活。",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 1971,
+          "like_count": 33894,
+          "listed_count": 6,
+          "media_count": 276,
+          "tweet_count": 8451
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T07:51:55.000Z",
+        "description": "好想死☠️",
+        "id": "1574668085314965504",
+        "name": "Hazel Valentine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838764299734650880/DF7plmmj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 797,
+          "like_count": 11704,
+          "listed_count": 13,
+          "media_count": 1403,
+          "tweet_count": 11440
+        },
+        "username": "Meer19002",
+        "verified": false
+      }
+    ]
+  }
+}

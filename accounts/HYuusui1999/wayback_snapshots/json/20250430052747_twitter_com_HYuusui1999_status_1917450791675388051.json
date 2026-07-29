@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1917288726339936267",
+    "created_at": "2025-04-30T05:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T06:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917450791675388051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1248637653001494529",
+          "start": 0,
+          "username": "Fomalhautawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917450791675388051",
+    "in_reply_to_user_id": "1248637653001494529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917288726339936267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fomalhautawa 辛苦了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917288722774777860",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpuT72TaYAQc9xe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1917288726339936267",
+        "created_at": "2025-04-30T05:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T06:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917450791675388051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1248637653001494529",
+              "start": 0,
+              "username": "Fomalhautawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917450791675388051",
+        "in_reply_to_user_id": "1248637653001494529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917288726339936267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fomalhautawa 辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917288722774777860"
+          ]
+        },
+        "author_id": "1248637653001494529",
+        "conversation_id": "1917288726339936267",
+        "created_at": "2025-04-29T18:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T19:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917288726339936267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qvkGwCIwWO",
+              "end": 31,
+              "expanded_url": "https://x.com/Fomalhautawa/status/1917288726339936267/photo/1",
+              "media_key": "3_1917288722774777860",
+              "start": 8,
+              "url": "https://t.co/qvkGwCIwWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917288726339936267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 657,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "薄荷汽水硬糖。 https://t.co/qvkGwCIwWO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "所谓的地狱，我觉得可能是人间的边缘之类的地方吧。天堂或许也在人间的某处呢。希望大家都好好生活。\n【如果需要私信，请在推文下评论】",
+        "id": "1878681729407356928",
+        "location": "人间边缘",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1917405127981371473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 784,
+          "like_count": 17096,
+          "listed_count": 6,
+          "media_count": 159,
+          "tweet_count": 3515
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-10T15:43:19.000Z",
+        "description": "願您平安喜樂。",
+        "id": "1248637653001494529",
+        "location": "青萱",
+        "name": "師醬.",
+        "pinned_tweet_id": "1906040752888832458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916893090172043264/CA-TtHG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1938,
+          "following_count": 277,
+          "like_count": 145490,
+          "listed_count": 27,
+          "media_count": 23,
+          "tweet_count": 32684
+        },
+        "username": "Fomalhautawa",
+        "verified": false
+      }
+    ]
+  }
+}
