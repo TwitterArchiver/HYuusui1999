@@ -1,0 +1,749 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062349247320936448"
+      ],
+      "media_source_tweet_id": [
+        "2062349265159225433"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597226729473",
+          "name": "Non-profit - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2062570480037716385",
+    "created_at": "2026-06-04T16:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062570480037716385"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 78,
+          "start": 73,
+          "tag": "扭转机构"
+        },
+        {
+          "end": 84,
+          "start": 79,
+          "tag": "人权迫害"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1365955107473383426",
+          "start": 3,
+          "username": "Takina_Jimato"
+        },
+        {
+          "end": 38,
+          "id": "14159148",
+          "start": 35,
+          "username": "UN"
+        },
+        {
+          "end": 53,
+          "id": "69231187",
+          "start": 39,
+          "username": "UNHumanRights"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fB3iZjpoYJ",
+          "end": 108,
+          "expanded_url": "https://x.com/Takina_Jimato/status/2062349265159225433/photo/1",
+          "media_key": "3_2062349247320936448",
+          "start": 85,
+          "url": "https://t.co/fB3iZjpoYJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062570480037716385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062349265159225433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Takina_Jimato: 转自牧鸢，知道晚上该打给谁了吧\n@UN @UNHumanRights \n热线+86 17725103252\n#扭转机构 #人权迫害 https://t.co/fB3iZjpoYJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062349247320936448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7vtrFb0AAOhE8.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062349247320936448"
+          ],
+          "media_source_tweet_id": [
+            "2062349265159225433"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2062570480037716385",
+        "created_at": "2026-06-04T16:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062570480037716385"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "扭转机构"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "人权迫害"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1365955107473383426",
+              "start": 3,
+              "username": "Takina_Jimato"
+            },
+            {
+              "end": 38,
+              "id": "14159148",
+              "start": 35,
+              "username": "UN"
+            },
+            {
+              "end": 53,
+              "id": "69231187",
+              "start": 39,
+              "username": "UNHumanRights"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fB3iZjpoYJ",
+              "end": 108,
+              "expanded_url": "https://x.com/Takina_Jimato/status/2062349265159225433/photo/1",
+              "media_key": "3_2062349247320936448",
+              "start": 85,
+              "url": "https://t.co/fB3iZjpoYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062570480037716385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062349265159225433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Takina_Jimato: 转自牧鸢，知道晚上该打给谁了吧\n@UN @UNHumanRights \n热线+86 17725103252\n#扭转机构 #人权迫害 https://t.co/fB3iZjpoYJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062349247320936448"
+          ]
+        },
+        "author_id": "1365955107473383426",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2062349265159225433",
+        "created_at": "2026-06-04T01:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062349265159225433"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 54,
+              "tag": "扭转机构"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "人权迫害"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "14159148",
+              "start": 16,
+              "username": "UN"
+            },
+            {
+              "end": 34,
+              "id": "69231187",
+              "start": 20,
+              "username": "UNHumanRights"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fB3iZjpoYJ",
+              "end": 89,
+              "expanded_url": "https://x.com/Takina_Jimato/status/2062349265159225433/photo/1",
+              "media_key": "3_2062349247320936448",
+              "start": 66,
+              "url": "https://t.co/fB3iZjpoYJ"
+            },
+            {
+              "display_url": "x.com/lwrdhyyuxr2249…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/lwrdhyyuxr22499/status/2062050203453251607",
+              "start": 90,
+              "url": "https://t.co/q2hGKtCc1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062349265159225433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3120,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062050203453251607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "转自牧鸢，知道晚上该打给谁了吧\n@UN @UNHumanRights \n热线+86 17725103252\n#扭转机构 #人权迫害 https://t.co/fB3iZjpoYJ https://t.co/q2hGKtCc1F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 3355,
+          "like_count": 45182,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 11780
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-28T09:21:03.000Z",
+        "description": "Takina+Jimato=Takijima｜CN&EN｜生产日期7/28/07｜无证含糖大只家里蹲ホルモン娘｜she/her/hers｜183/60｜HRT: 24.9.4-11.30 重启: 25.3.27｜里推: @Takina_7ove｜抱枕：@qikieye｜诡秘：@Xiaoyan_Qisan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Takina_7ove"
+              },
+              {
+                "end": 134,
+                "start": 126,
+                "username": "qikieye"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "Xiaoyan_Qisan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chosun.com",
+                "end": 23,
+                "expanded_url": "http://chosun.com",
+                "start": 0,
+                "url": "https://t.co/K07jblQJE5"
+              }
+            ]
+          }
+        },
+        "id": "1365955107473383426",
+        "location": "Pyongyang, DPR Korea",
+        "name": "Takina.JPN🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045703188012241270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045049994869403648/stG7Zsjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5324,
+          "following_count": 477,
+          "like_count": 630,
+          "listed_count": 10,
+          "media_count": 243,
+          "tweet_count": 1465
+        },
+        "url": "https://t.co/K07jblQJE5",
+        "username": "Takina_Jimato",
+        "verified": false
+      },
+      {
+        "created_at": "2008-03-16T20:15:36.000Z",
+        "description": "Official account of the United Nations. \nFor peace, dignity & equality on a healthy planet.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "un.org",
+                "end": 23,
+                "expanded_url": "http://www.un.org",
+                "start": 0,
+                "url": "https://t.co/kgJqUNDMpy"
+              }
+            ]
+          }
+        },
+        "id": "14159148",
+        "location": "New York, NY",
+        "name": "United Nations",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1323749922005524485/LjJsuyU4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16118104,
+          "following_count": 1077,
+          "like_count": 2187,
+          "listed_count": 44695,
+          "media_count": 29967,
+          "tweet_count": 103688
+        },
+        "url": "https://t.co/kgJqUNDMpy",
+        "username": "UN",
+        "verified": true
+      },
+      {
+        "created_at": "2009-08-27T07:34:10.000Z",
+        "description": "The United Nations #HumanRights office is led by High Commissioner @volker_turk. Follow us on FB, IG & TikTok at unitednationshumanrights.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 19,
+                "tag": "HumanRights"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 67,
+                "username": "volker_turk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ohchr.org/social",
+                "end": 23,
+                "expanded_url": "http://www.ohchr.org/social",
+                "start": 0,
+                "url": "https://t.co/tiztUkyowp"
+              }
+            ]
+          }
+        },
+        "id": "69231187",
+        "location": "Geneva, Switzerland",
+        "name": "UN Human Rights",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1352627231420461057/qgDQ2BN4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4779658,
+          "following_count": 1592,
+          "like_count": 1211,
+          "listed_count": 12299,
+          "media_count": 6124,
+          "tweet_count": 24361
+        },
+        "url": "https://t.co/tiztUkyowp",
+        "username": "UNHumanRights",
+        "verified": true
+      }
+    ]
+  }
+}

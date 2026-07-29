@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "1876614784797544592",
+    "created_at": "2025-01-14T05:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T06:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879044325629432108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1834150380797919234",
+          "start": 0,
+          "username": "AmnesiacAC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879044325629432108",
+    "in_reply_to_user_id": "1834150380797919234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876618287674806414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmnesiacAC @xiotn3520326018 原来是月丑吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "1876614784797544592",
+        "created_at": "2025-01-14T05:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T06:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879044325629432108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1834150380797919234",
+              "start": 0,
+              "username": "AmnesiacAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879044325629432108",
+        "in_reply_to_user_id": "1834150380797919234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876618287674806414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmnesiacAC @xiotn3520326018 原来是月丑吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834150380797919234",
+        "conversation_id": "1876614784797544592",
+        "created_at": "2025-01-07T13:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T14:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876618287674806414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1808859690451021829",
+              "start": 0,
+              "username": "xiotn3520326018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876618287674806414",
+        "in_reply_to_user_id": "1808859690451021829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876616051016032360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiotn3520326018 不穿内裤是好文明"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "",
+        "id": "1878681729407356928",
+        "name": "祐穂・H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 26,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T08:41:55.000Z",
+        "description": "一定要照顾好那个天使。",
+        "id": "1834150380797919234",
+        "name": "Kafka",
+        "pinned_tweet_id": "1878525088674570684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849744876562415619/7a0GSRYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2945,
+          "following_count": 121,
+          "like_count": 9974,
+          "listed_count": 5,
+          "media_count": 24,
+          "tweet_count": 1187
+        },
+        "username": "AmnesiacAC",
+        "verified": true
+      }
+    ]
+  }
+}
