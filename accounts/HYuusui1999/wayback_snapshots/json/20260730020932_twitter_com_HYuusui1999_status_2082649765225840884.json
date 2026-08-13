@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2082649765225840884",
+    "created_at": "2026-07-30T02:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T03:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082649765225840884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1440268407249649668",
+          "start": 3,
+          "username": "sjshb57"
+        }
+      ],
+      "urls": [
+        {
+          "description": "基于 Wayback Machine 的推特账号存档 Android 客户端. Contribute to sjshb57/TwitterArchiverApp development by creating an account on GitHub.",
+          "display_url": "github.com/sjshb57/Twitte…",
+          "end": 134,
+          "expanded_url": "http://github.com/sjshb57/TwitterArchiverApp/releases/",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2080249629401288704/bZ8z-0wx?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2080249629401288704/bZ8z-0wx?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 111,
+          "status": 200,
+          "title": "Releases · sjshb57/TwitterArchiverApp",
+          "unwound_url": "https://github.com/sjshb57/TwitterArchiverApp/releases/",
+          "url": "https://t.co/ZQiFzN51n0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082649765225840884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080253118928056811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sjshb57: [TwitterArchiver] 已完成安卓应用开发！！\n\n当前项目生态已完成一体化！\n抓取快照 &gt; 网页阅读器 - 桌面阅读器 - 安卓移动端\n\n重写了推文进行了原生实现，非常美丽！！\nhttps://t.co/ZQiFzN51n0\n大家可以点击以…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 847,
+        "media_key": "3_2080253109939646464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6LLozasAA2uML.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2082649765225840884",
+        "created_at": "2026-07-30T02:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082649765225840884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1440268407249649668",
+              "start": 3,
+              "username": "sjshb57"
+            }
+          ],
+          "urls": [
+            {
+              "description": "基于 Wayback Machine 的推特账号存档 Android 客户端. Contribute to sjshb57/TwitterArchiverApp development by creating an account on GitHub.",
+              "display_url": "github.com/sjshb57/Twitte…",
+              "end": 134,
+              "expanded_url": "http://github.com/sjshb57/TwitterArchiverApp/releases/",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2080249629401288704/bZ8z-0wx?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080249629401288704/bZ8z-0wx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 111,
+              "status": 200,
+              "title": "Releases · sjshb57/TwitterArchiverApp",
+              "unwound_url": "https://github.com/sjshb57/TwitterArchiverApp/releases/",
+              "url": "https://t.co/ZQiFzN51n0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082649765225840884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080253118928056811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sjshb57: [TwitterArchiver] 已完成安卓应用开发！！\n\n当前项目生态已完成一体化！\n抓取快照 &gt; 网页阅读器 - 桌面阅读器 - 安卓移动端\n\n重写了推文进行了原生实现，非常美丽！！\nhttps://t.co/ZQiFzN51n0\n大家可以点击以…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080253109939646464"
+          ]
+        },
+        "author_id": "1440268407249649668",
+        "conversation_id": "2080253118928056811",
+        "created_at": "2026-07-23T11:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080253118928056811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "基于 Wayback Machine 的推特账号存档 Android 客户端. Contribute to sjshb57/TwitterArchiverApp development by creating an account on GitHub.",
+              "display_url": "github.com/sjshb57/Twitte…",
+              "end": 121,
+              "expanded_url": "http://github.com/sjshb57/TwitterArchiverApp/releases/",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2080249629401288704/bZ8z-0wx?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080249629401288704/bZ8z-0wx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 98,
+              "status": 200,
+              "title": "Releases · sjshb57/TwitterArchiverApp",
+              "unwound_url": "https://github.com/sjshb57/TwitterArchiverApp/releases/",
+              "url": "https://t.co/ZQiFzN51n0"
+            },
+            {
+              "display_url": "pic.x.com/uy9gAh9por",
+              "end": 182,
+              "expanded_url": "https://x.com/sjshb57/status/2080253118928056811/photo/1",
+              "media_key": "3_2080253109939646464",
+              "start": 159,
+              "url": "https://t.co/uy9gAh9por"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080253118928056811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3680,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "[TwitterArchiver] 已完成安卓应用开发！！\n\n当前项目生态已完成一体化！\n抓取快照 &gt; 网页阅读器 - 桌面阅读器 - 安卓移动端\n\n重写了推文进行了原生实现，非常美丽！！\nhttps://t.co/ZQiFzN51n0\n大家可以点击以上链接前往下载，以下是应用使用的截图，部分内容模糊化处理。 https://t.co/uy9gAh9por"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 3588,
+          "like_count": 45766,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 11930
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-21T10:55:42.000Z",
+        "description": "被困在玻璃罐中的千纸鹤，真的可能自由吗？|  07 | INTP-T | ASD | BPD | 另一个我 @她 | @loveksyi | - 「全员永生计划」进行中 |  \n组织：https://t.co/zQUuHV5jgl | 互联网时光机 | 第三世界线 @ |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "loveksyi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/TwitterArchiver",
+                "end": 115,
+                "expanded_url": "http://github.com/TwitterArchiver",
+                "start": 92,
+                "url": "https://t.co/zQUuHV5jgl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sjshb57",
+                "end": 23,
+                "expanded_url": "https://github.com/sjshb57",
+                "start": 0,
+                "url": "https://t.co/exd5BvIRMs"
+              }
+            ]
+          }
+        },
+        "id": "1440268407249649668",
+        "location": "🌏🌐",
+        "name": "拜託",
+        "pinned_tweet_id": "2080253118928056811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 631,
+          "like_count": 2155,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 289
+        },
+        "url": "https://t.co/exd5BvIRMs",
+        "username": "sjshb57",
+        "verified": false
+      }
+    ]
+  }
+}

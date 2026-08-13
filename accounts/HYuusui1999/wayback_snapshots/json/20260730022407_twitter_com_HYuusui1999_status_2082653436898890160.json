@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082317226678353920",
+        "3_2082317226707709953",
+        "3_2082317226686717953"
+      ],
+      "media_source_tweet_id": [
+        "2082317241672990777",
+        "2082317241672990777",
+        "2082317241672990777"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2082653436898890160",
+    "created_at": "2026-07-30T02:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T03:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082653436898890160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1926574861872156672",
+          "start": 3,
+          "username": "stellarocean1"
+        },
+        {
+          "end": 34,
+          "id": "1901471587477442560",
+          "start": 19,
+          "username": "Another_and_Me"
+        },
+        {
+          "end": 47,
+          "id": "1878681729407356928",
+          "start": 35,
+          "username": "HYuusui1999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NmoXZmhwXY",
+          "end": 76,
+          "expanded_url": "https://x.com/stellarocean1/status/2082317241672990777/photo/1",
+          "media_key": "3_2082317226678353920",
+          "start": 53,
+          "url": "https://t.co/NmoXZmhwXY"
+        },
+        {
+          "display_url": "pic.x.com/NmoXZmhwXY",
+          "end": 76,
+          "expanded_url": "https://x.com/stellarocean1/status/2082317241672990777/photo/1",
+          "media_key": "3_2082317226707709953",
+          "start": 53,
+          "url": "https://t.co/NmoXZmhwXY"
+        },
+        {
+          "display_url": "pic.x.com/NmoXZmhwXY",
+          "end": 76,
+          "expanded_url": "https://x.com/stellarocean1/status/2082317241672990777/photo/1",
+          "media_key": "3_2082317226686717953",
+          "start": 53,
+          "url": "https://t.co/NmoXZmhwXY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082653436898890160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082317241672990777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stellarocean1: @Another_and_Me @HYuusui1999 看看我的 https://t.co/NmoXZmhwXY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082317226678353920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXgfC3XAAAMwv0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082317226707709953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXgfC-W8AECAes.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082317226686717953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXgfC5WoAE7Y_q.jpg",
+        "width": 1466
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082317226678353920",
+            "3_2082317226707709953",
+            "3_2082317226686717953"
+          ]
+        },
+        "author_id": "1926574861872156672",
+        "conversation_id": "2033048823720014149",
+        "created_at": "2026-07-29T04:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082317241672990777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1901471587477442560",
+              "start": 0,
+              "username": "Another_and_Me"
+            },
+            {
+              "end": 28,
+              "id": "1878681729407356928",
+              "start": 16,
+              "username": "HYuusui1999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NmoXZmhwXY",
+              "end": 57,
+              "expanded_url": "https://x.com/stellarocean1/status/2082317241672990777/photo/1",
+              "media_key": "3_2082317226678353920",
+              "start": 34,
+              "url": "https://t.co/NmoXZmhwXY"
+            },
+            {
+              "display_url": "pic.x.com/NmoXZmhwXY",
+              "end": 57,
+              "expanded_url": "https://x.com/stellarocean1/status/2082317241672990777/photo/1",
+              "media_key": "3_2082317226707709953",
+              "start": 34,
+              "url": "https://t.co/NmoXZmhwXY"
+            },
+            {
+              "display_url": "pic.x.com/NmoXZmhwXY",
+              "end": 57,
+              "expanded_url": "https://x.com/stellarocean1/status/2082317241672990777/photo/1",
+              "media_key": "3_2082317226686717953",
+              "start": 34,
+              "url": "https://t.co/NmoXZmhwXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082317241672990777",
+        "in_reply_to_user_id": "1901471587477442560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033048823720014149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Another_and_Me @HYuusui1999 看看我的 https://t.co/NmoXZmhwXY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082317226678353920",
+            "3_2082317226707709953",
+            "3_2082317226686717953"
+          ],
+          "media_source_tweet_id": [
+            "2082317241672990777",
+            "2082317241672990777",
+            "2082317241672990777"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "2082653436898890160",
+        "created_at": "2026-07-30T02:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082653436898890160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1926574861872156672",
+              "start": 3,
+              "username": "stellarocean1"
+            },
+            {
+              "end": 34,
+              "id": "1901471587477442560",
+              "start": 19,
+              "username": "Another_and_Me"
+            },
+            {
+              "end": 47,
+              "id": "1878681729407356928",
+              "start": 35,
+              "username": "HYuusui1999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NmoXZmhwXY",
+              "end": 76,
+              "expanded_url": "https://x.com/stellarocean1/status/2082317241672990777/photo/1",
+              "media_key": "3_2082317226678353920",
+              "start": 53,
+              "url": "https://t.co/NmoXZmhwXY"
+            },
+            {
+              "display_url": "pic.x.com/NmoXZmhwXY",
+              "end": 76,
+              "expanded_url": "https://x.com/stellarocean1/status/2082317241672990777/photo/1",
+              "media_key": "3_2082317226707709953",
+              "start": 53,
+              "url": "https://t.co/NmoXZmhwXY"
+            },
+            {
+              "display_url": "pic.x.com/NmoXZmhwXY",
+              "end": 76,
+              "expanded_url": "https://x.com/stellarocean1/status/2082317241672990777/photo/1",
+              "media_key": "3_2082317226686717953",
+              "start": 53,
+              "url": "https://t.co/NmoXZmhwXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082653436898890160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082317241672990777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stellarocean1: @Another_and_Me @HYuusui1999 看看我的 https://t.co/NmoXZmhwXY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "location": "人間邊緣",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 3588,
+          "like_count": 45766,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 11931
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T09:43:53.000Z",
+        "description": "喜欢天文学以及绘画还有建模 求求那些跟我互fo的人别一时头疼脑热拉黑我，毕竟我一不骂人，二不键政，三不发令人不适的内容，我上推就是单纯的想交朋友。想要我的小红书账号的话可以找我私聊",
+        "id": "1926574861872156672",
+        "location": "宇宙",
+        "name": "浩瀚星海",
+        "pinned_tweet_id": "2066415068779299218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044232683690033152/S0cyWUNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 131,
+          "like_count": 768,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 723
+        },
+        "url": "",
+        "username": "stellarocean1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T03:12:24.000Z",
+        "description": "我爱这世间，如同我恨它一般。\n\n圈子：绘画/八宝粥/phigros/月计/「不/存在的你，和我」/明日方舟（已退游）/哲学/心理学/文学\n人格：具备自我修正系统的人机。共情力已剧烈衰退，懒散且自私。如果您不喜欢我的某些言行请指出，我会吸收您的建议并考虑改变。\n状态：淡推学生党",
+        "id": "1901471587477442560",
+        "location": "坠落中的半空",
+        "name": "迷",
+        "pinned_tweet_id": "2018507944284078222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919218508115951616/uKmDCsFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 110,
+          "like_count": 1946,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 1217
+        },
+        "url": "",
+        "username": "Another_and_Me",
+        "verified": false
+      }
+    ]
+  }
+}
