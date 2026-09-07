@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2090724449658229198",
+    "created_at": "2026-08-21T10:45:49.000Z",
+    "display_text_range": [
+      45,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T11:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090752224624599158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1245557801545420801",
+          "start": 0,
+          "username": "RE5PhMl7SCGfX9f"
+        },
+        {
+          "end": 27,
+          "id": "1487414829438881794",
+          "start": 17,
+          "username": "543_River"
+        },
+        {
+          "end": 44,
+          "id": "983451542165442561",
+          "start": 28,
+          "username": "HunterBellwoody"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090752224624599158",
+    "in_reply_to_user_id": "1245557801545420801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090747176238637515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RE5PhMl7SCGfX9f @543_River @HunterBellwoody 同感，然而大多數人還是在嘲笑呢(´-ω-`)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_2090747168588218368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPTePrawAAIMab.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2090724449658229198",
+        "created_at": "2026-08-21T10:45:49.000Z",
+        "display_text_range": [
+          45,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090752224624599158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1245557801545420801",
+              "start": 0,
+              "username": "RE5PhMl7SCGfX9f"
+            },
+            {
+              "end": 27,
+              "id": "1487414829438881794",
+              "start": 17,
+              "username": "543_River"
+            },
+            {
+              "end": 44,
+              "id": "983451542165442561",
+              "start": 28,
+              "username": "HunterBellwoody"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090752224624599158",
+        "in_reply_to_user_id": "1245557801545420801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090747176238637515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RE5PhMl7SCGfX9f @543_River @HunterBellwoody 同感，然而大多數人還是在嘲笑呢(´-ω-`)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090747168588218368"
+          ]
+        },
+        "author_id": "1245557801545420801",
+        "conversation_id": "2090724449658229198",
+        "created_at": "2026-08-21T10:25:45.000Z",
+        "display_text_range": [
+          28,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090747176238637515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1487414829438881794",
+              "start": 0,
+              "username": "543_River"
+            },
+            {
+              "end": 27,
+              "id": "983451542165442561",
+              "start": 11,
+              "username": "HunterBellwoody"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKOfY0BzUC",
+              "end": 139,
+              "expanded_url": "https://x.com/RE5PhMl7SCGfX9f/status/2090747176238637515/photo/1",
+              "media_key": "3_2090747168588218368",
+              "start": 116,
+              "url": "https://t.co/sKOfY0BzUC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090747176238637515",
+        "in_reply_to_user_id": "1487414829438881794",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090747168588218368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 221,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090724449658229198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@543_River @HunterBellwoody 作品講述的就社會底層的廢物\n\n看起來搞笑噁爛\n\n但其實是很卑微的活著的故事\n\n連路人經過都能瞧不起 欺負踐踏一下\n\n就像看漫畫 動畫的宅宅就是好欺負\n\n每個人都可以過來丟石頭 https://t.co/sKOfY0BzUC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "is_identity_verified": false,
+        "location": "人間邊緣",
+        "most_recent_tweet_id": "2090752224624599158",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1878681729407356928/1736909213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 3573,
+          "like_count": 45669,
+          "listed_count": 5,
+          "media_count": 372,
+          "tweet_count": 11982
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-02T03:45:14.000Z",
+        "description": "FFIXV 光之戰士見習",
+        "id": "1245557801545420801",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2090752203745304894",
+        "name": "川和靜靜",
+        "pinned_tweet_id": "1721075110914977801",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1245557801545420801/1700659933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052584462274412544/Jiy9yCTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 1911,
+          "like_count": 113597,
+          "listed_count": 11,
+          "media_count": 6307,
+          "tweet_count": 68788
+        },
+        "url": "",
+        "username": "RE5PhMl7SCGfX9f",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-29T13:19:17.000Z",
+        "description": "從上個世紀末開始，就以職業漫畫家的身份開始創作漫畫，從1999年開始陸續連載River’s 543、奇摩高校、OL蔡桃桂、我的社長大人、難道長得不帥就只能當個好人嗎？等作品，2020年集合了所有的漫畫角色開始連載River’s 543+\n(連載募資進行中)\nhttps://t.co/0nbCQ8aZf3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/mGzbrW",
+                "end": 152,
+                "expanded_url": "https://reurl.cc/mGzbrW",
+                "start": 129,
+                "url": "https://t.co/0nbCQ8aZf3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ruten.com.tw/store/rcs_rcs/",
+                "end": 23,
+                "expanded_url": "https://www.ruten.com.tw/store/rcs_rcs/",
+                "start": 0,
+                "url": "https://t.co/DtWIooZ6sX"
+              }
+            ]
+          }
+        },
+        "id": "1487414829438881794",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2090724449658229198",
+        "name": "River漫畫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1487414829438881794/1645370141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1495416868244692995/RYxsMm2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8823,
+          "following_count": 113,
+          "like_count": 322,
+          "listed_count": 53,
+          "media_count": 795,
+          "tweet_count": 867
+        },
+        "url": "https://t.co/DtWIooZ6sX",
+        "username": "543_River",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-09T21:08:14.000Z",
+        "description": "A.哭泣不會為任何人帶來自由, 只有戰士才能掙得和平.\nB.別跟豬打架, 否則你會沾的一身泥, 而豬還很快樂.\nC.被我封鎖,別見怪,我想躲開\"身上沾滿屎的豬衝過來\".\nD.私立科大學渣仔,廣設大學的直接受益者.\nE.不愛開麥克風說話.\nF.要我使用中港澳軟體,視為有詐騙意圖.",
+        "id": "983451542165442561",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2090739853743018126",
+        "name": "Bellwoody",
+        "pinned_tweet_id": "2084027541606875290",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/983451542165442561/1672596212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629211993801633792/zMpmYbav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 1415,
+          "like_count": 276715,
+          "listed_count": 10,
+          "media_count": 1800,
+          "tweet_count": 68994
+        },
+        "url": "",
+        "username": "HunterBellwoody",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

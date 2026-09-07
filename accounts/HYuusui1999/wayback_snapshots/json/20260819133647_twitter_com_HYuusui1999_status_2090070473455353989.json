@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089964330116866048",
+        "3_2089964338618814464"
+      ],
+      "media_source_tweet_id": [
+        "2089964346977997170",
+        "2089964346977997170"
+      ]
+    },
+    "author_id": "1878681729407356928",
+    "conversation_id": "2090070473455353989",
+    "created_at": "2026-08-19T13:36:47.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T14:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090070473455353989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047879211168493568",
+          "start": 3,
+          "username": "aberyoheiabe"
+        },
+        {
+          "end": 38,
+          "id": "2087070635503882241",
+          "start": 27,
+          "username": "orangetquh"
+        },
+        {
+          "end": 64,
+          "id": "1804875241367433216",
+          "start": 51,
+          "username": "aberyoheiskm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4Hb0rkBGqU",
+          "end": 100,
+          "expanded_url": "https://x.com/aberyoheiabe/status/2089964346977997170/photo/1",
+          "media_key": "3_2089964330116866048",
+          "start": 77,
+          "url": "https://t.co/4Hb0rkBGqU"
+        },
+        {
+          "display_url": "pic.x.com/4Hb0rkBGqU",
+          "end": 100,
+          "expanded_url": "https://x.com/aberyoheiabe/status/2089964346977997170/photo/1",
+          "media_key": "3_2089964338618814464",
+          "start": 77,
+          "url": "https://t.co/4Hb0rkBGqU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090070473455353989",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2089964330116866048"
+      },
+      {
+        "media_key": "3_2089964338618814464"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089964346977997170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aberyoheiabe: 大家好\n橘子的新号@orangetquh orange\n和我的大号@aberyoheiskm すずめ🩵\n均已被冻结😇 https://t.co/4Hb0rkBGqU"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [orangetquh].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "orangetquh",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "orangetquh"
+    },
+    {
+      "detail": "User has been suspended: [aberyoheiskm].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "aberyoheiskm",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "aberyoheiskm"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2089964330116866048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQELfDHaYAAAVnC.jpg",
+        "width": 872
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2089964338618814464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQELfiyb0AAvPn8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089964330116866048",
+            "3_2089964338618814464"
+          ],
+          "media_source_tweet_id": [
+            "2089964346977997170",
+            "2089964346977997170"
+          ]
+        },
+        "author_id": "1878681729407356928",
+        "conversation_id": "2090070473455353989",
+        "created_at": "2026-08-19T13:36:47.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090070473455353989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047879211168493568",
+              "start": 3,
+              "username": "aberyoheiabe"
+            },
+            {
+              "end": 38,
+              "id": "2087070635503882241",
+              "start": 27,
+              "username": "orangetquh"
+            },
+            {
+              "end": 64,
+              "id": "1804875241367433216",
+              "start": 51,
+              "username": "aberyoheiskm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Hb0rkBGqU",
+              "end": 100,
+              "expanded_url": "https://x.com/aberyoheiabe/status/2089964346977997170/photo/1",
+              "media_key": "3_2089964330116866048",
+              "start": 77,
+              "url": "https://t.co/4Hb0rkBGqU"
+            },
+            {
+              "display_url": "pic.x.com/4Hb0rkBGqU",
+              "end": 100,
+              "expanded_url": "https://x.com/aberyoheiabe/status/2089964346977997170/photo/1",
+              "media_key": "3_2089964338618814464",
+              "start": 77,
+              "url": "https://t.co/4Hb0rkBGqU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090070473455353989",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089964330116866048"
+          },
+          {
+            "media_key": "3_2089964338618814464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089964346977997170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aberyoheiabe: 大家好\n橘子的新号@orangetquh orange\n和我的大号@aberyoheiskm すずめ🩵\n均已被冻结😇 https://t.co/4Hb0rkBGqU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089964330116866048",
+            "3_2089964338618814464"
+          ]
+        },
+        "author_id": "2047879211168493568",
+        "conversation_id": "2089964346977997170",
+        "created_at": "2026-08-19T06:35:04.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089964346977997170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "2087070635503882241",
+              "start": 9,
+              "username": "orangetquh"
+            },
+            {
+              "end": 46,
+              "id": "1804875241367433216",
+              "start": 33,
+              "username": "aberyoheiskm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Hb0rkBGqU",
+              "end": 82,
+              "expanded_url": "https://x.com/aberyoheiabe/status/2089964346977997170/photo/1",
+              "media_key": "3_2089964330116866048",
+              "start": 59,
+              "url": "https://t.co/4Hb0rkBGqU"
+            },
+            {
+              "display_url": "pic.x.com/4Hb0rkBGqU",
+              "end": 82,
+              "expanded_url": "https://x.com/aberyoheiabe/status/2089964346977997170/photo/1",
+              "media_key": "3_2089964338618814464",
+              "start": 59,
+              "url": "https://t.co/4Hb0rkBGqU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089964346977997170",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089964330116866048"
+          },
+          {
+            "media_key": "3_2089964338618814464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1123,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "大家好\n橘子的新号@orangetquh orange\n和我的大号@aberyoheiskm すずめ🩵\n均已被冻结😇 https://t.co/4Hb0rkBGqU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "is_identity_verified": false,
+        "location": "人間邊緣",
+        "most_recent_tweet_id": "2090070473455353989",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1878681729407356928/1736909213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 3543,
+          "like_count": 45582,
+          "listed_count": 5,
+          "media_count": 371,
+          "tweet_count": 11946
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T03:24:13.000Z",
+        "description": "这里是@aberyoheiskmの小号（爆哭）（←成分看这个号\n以备不时之需而备用中\nmsk别搞我谢谢\n寻回互fo、拜托了！૮⸝⸝o̴̶̷᷄ ·̭ o̴̶̷̥᷅⸝⸝ა\n↓🦋的联系方式！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "aberyoheiskm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/aberyo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/aberyoheiskm.bsky.social",
+                "start": 0,
+                "url": "https://t.co/8Sfw0dOLQB"
+              }
+            ]
+          }
+        },
+        "id": "2047879211168493568",
+        "is_identity_verified": false,
+        "location": "地獄の監禁室",
+        "most_recent_tweet_id": "2090032881649549551",
+        "name": "⊹ SUZUME ⊹🩵（寻回互fo）",
+        "pinned_tweet_id": "2085446161243201959",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047879211168493568/1777087553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047885258499162112/U69oegBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 165,
+          "like_count": 170,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 120
+        },
+        "url": "https://t.co/8Sfw0dOLQB",
+        "username": "aberyoheiabe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

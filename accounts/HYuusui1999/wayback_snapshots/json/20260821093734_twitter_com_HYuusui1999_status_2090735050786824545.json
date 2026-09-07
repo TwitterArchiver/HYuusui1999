@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2090704673879797970",
+    "created_at": "2026-08-21T09:37:34.000Z",
+    "display_text_range": [
+      16,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T10:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090735050786824545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1439904333361913856",
+          "start": 0,
+          "username": "shennaichuan22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090735050786824545",
+    "in_reply_to_user_id": "1439904333361913856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090704673879797970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shennaichuan22 想听听您对amber行为的理解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2090704673879797970",
+        "created_at": "2026-08-21T09:37:34.000Z",
+        "display_text_range": [
+          16,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090735050786824545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1439904333361913856",
+              "start": 0,
+              "username": "shennaichuan22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090735050786824545",
+        "in_reply_to_user_id": "1439904333361913856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090704673879797970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan22 想听听您对amber行为的理解"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439904333361913856",
+        "conversation_id": "2090704673879797970",
+        "created_at": "2026-08-21T07:36:52.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090704673879797970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kousakamikotoo…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/kousakamikotoo/status/2090657051076948233",
+              "start": 55,
+              "url": "https://t.co/7mIYRLvVec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090704673879797970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1218,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090657051076948233",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不了解罗琳，为啥网上这么多骂她的啊？她不就写个哈利波特吗？\n怎么都能和我作恶多端的amber大佐相提并论了🥶 https://t.co/7mIYRLvVec"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "is_identity_verified": false,
+        "location": "人間邊緣",
+        "most_recent_tweet_id": "2090735050786824545",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1878681729407356928/1736909213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 3571,
+          "like_count": 45639,
+          "listed_count": 5,
+          "media_count": 371,
+          "tweet_count": 11970
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-20T10:49:17.000Z",
+        "description": "还有男德吗wcnm😭",
+        "id": "1439904333361913856",
+        "is_identity_verified": false,
+        "location": "驻马店",
+        "most_recent_tweet_id": "2090730473366622702",
+        "name": "阿良良木鼠",
+        "pinned_tweet_id": "2090381025981718802",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1439904333361913856/1712921213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863562676708016128/szTEpgbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924,
+          "following_count": 1239,
+          "like_count": 258867,
+          "listed_count": 6,
+          "media_count": 348,
+          "tweet_count": 19916
+        },
+        "url": "",
+        "username": "shennaichuan22",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

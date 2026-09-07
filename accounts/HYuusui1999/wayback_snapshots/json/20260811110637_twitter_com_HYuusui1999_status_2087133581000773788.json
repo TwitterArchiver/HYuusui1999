@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878681729407356928",
+    "conversation_id": "2087096876860629342",
+    "created_at": "2026-08-11T11:06:37.000Z",
+    "display_text_range": [
+      9,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T12:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087133581000773788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1953688493160542208",
+          "start": 0,
+          "username": "SYFSASN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087133581000773788",
+    "in_reply_to_user_id": "1953688493160542208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087096876860629342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@SYFSASN 试问，您认为人生失去意义的理由是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878681729407356928",
+        "conversation_id": "2087096876860629342",
+        "created_at": "2026-08-11T11:06:37.000Z",
+        "display_text_range": [
+          9,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087133581000773788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1953688493160542208",
+              "start": 0,
+              "username": "SYFSASN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087133581000773788",
+        "in_reply_to_user_id": "1953688493160542208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087096876860629342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@SYFSASN 试问，您认为人生失去意义的理由是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953688493160542208",
+        "conversation_id": "2087096876860629342",
+        "created_at": "2026-08-11T08:40:46.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087096876860629342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087096876860629342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1359,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "晚安星星，晚安，我要来找你了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-01-13T05:53:31.000Z",
+        "description": "「等待並心懷希望吧。」希望大家都好好生活。\n\n理想鄉：@t_subas_a\n\n拜託各位看到任何通知的幫忙轉貼謝啦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "t_subas_a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1oW411…",
+                "end": 23,
+                "expanded_url": "https://www.bilibili.com/video/BV1oW411b7hx/",
+                "start": 0,
+                "url": "https://t.co/BjaOJfWZqU"
+              }
+            ]
+          }
+        },
+        "id": "1878681729407356928",
+        "is_identity_verified": false,
+        "location": "人間邊緣",
+        "most_recent_tweet_id": "2087133581000773788",
+        "name": "祐穂・H",
+        "pinned_tweet_id": "1921895055087841673",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1878681729407356928/1736909213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878962553587433472/IIEZXezB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 3562,
+          "like_count": 45651,
+          "listed_count": 5,
+          "media_count": 371,
+          "tweet_count": 11935
+        },
+        "url": "https://t.co/BjaOJfWZqU",
+        "username": "HYuusui1999",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-08T05:23:44.000Z",
+        "description": "09年3月出厂/视成分fo/友跨🏳️‍⚧️/明日方舟/星穹铁道/大部分pc游戏/不聊政治/有事情请私信/厌世人格上线",
+        "id": "1953688493160542208",
+        "is_identity_verified": false,
+        "location": "二相乐园",
+        "most_recent_tweet_id": "2087098270099345886",
+        "name": "SYFSASN🍥",
+        "pinned_tweet_id": "2085969335932346581",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953688493160542208/1755148670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084611675806949376/9E9BJKam_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 1528,
+          "like_count": 19379,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 835
+        },
+        "url": "",
+        "username": "SYFSASN",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
